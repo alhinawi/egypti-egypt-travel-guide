@@ -827,5 +827,533 @@
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "changes": "Resized and converted to WebP; layout crop"
+  },
+  "governorate-cairo": {
+    "file": "governorate-cairo",
+    "alt": {
+      "en": "The historic antiquities museum on Tahrir Square.",
+      "ar": "متحف الآثار المصرية التاريخي في ميدان التحرير."
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:1897_bis_1902_wurde_das_%C3%84gyptische_Museum_in_Kairo_gebaut._04.jpg",
+    "author": "Holger Uwe Schmitt",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "governorate-giza": {
+    "file": "governorate-giza",
+    "alt": {
+      "en": "The pyramid and Sphinx landscape of the ancient Memphite necropolis.",
+      "ar": "منطقة الأهرامات وأبو الهول، وجزء من جبانات منف القديمة."
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Pyramids_of_the_Giza_Necropolis.jpg",
+    "author": "KennyOMG",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "governorate-alexandria": {
+    "file": "governorate-alexandria",
+    "alt": {
+      "en": "A fifteenth-century fortress overlooking Alexandria's Eastern Harbour.",
+      "ar": "قلعة من القرن الخامس عشر بتطل على المينا الشرقي في إسكندرية."
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:%D9%82%D9%84%D8%B9%D8%A9_%D9%82%D8%A7%D9%8A%D8%AA%D8%A8%D8%A7%D9%8A_%D9%85%D9%86_%D8%A7%D9%84%D8%AC%D9%88.jpg",
+    "author": "Hmkree",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "governorate-luxor": {
+    "file": "governorate-luxor",
+    "alt": {
+      "en": "A vast temple complex associated with Amun and the religious life of ancient Thebes.",
+      "ar": "مجمع معابد ضخم ارتبط بعبادة آمون والحياة الدينية في طيبة القديمة."
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Temple_de_Louxor_68.jpg",
+    "author": "René Hourdry",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "governorate-aswan": {
+    "file": "governorate-aswan",
+    "alt": {
+      "en": "The relocated island temple complex closely associated with the goddess Isis.",
+      "ar": "مجمع معابد جزيرة فيلة، المرتبط بإيزيس واللي اتنقل لموقعه الحالي لحمايته من المياه."
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:1977_bis_1980_wurde_die_Tempel_auf_der_Insel_Philae_auf_die_h%C3%B6her_gelegene_Insel_Agilka_versetzt._01.jpg",
+    "author": "Holger Uwe Schmitt",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "governorate-red-sea": {
+    "file": "governorate-red-sea",
+    "alt": {
+      "en": "The capital of Red Sea Governorate and a major coastal resort city.",
+      "ar": "عاصمة محافظة البحر الأحمر، ومدينة سياحية كبيرة على الساحل."
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Hurghada_Hotels_R03.jpg",
+    "author": "Marc Ryckaert",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "governorate-south-sinai": {
+    "file": "governorate-south-sinai",
+    "alt": {
+      "en": "A protected coastal and marine landscape at the southern end of Sinai.",
+      "ar": "محمية بحرية وساحلية عند الطرف الجنوبي من سينا."
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:%D8%A8%D9%88%D8%A7%D8%A8%D8%A7%D8%AA_%D9%85%D8%AD%D9%85%D9%8A%D9%87_%D8%B1%D8%A7%D8%B3_%D9%85%D8%AD%D9%85%D8%AF.png",
+    "author": "Mahmoud E. Abd El Aziz",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "governorate-qalyubia": {
+    "file": "governorate-qalyubia",
+    "alt": {
+      "en": "A street in Banha",
+      "ar": "شارع في بنها"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Banha-st.jpg",
+    "author": "Faris knight",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "governorate-damietta": {
+    "file": "governorate-damietta",
+    "alt": {
+      "en": "Nile-side urban landscape in Damietta",
+      "ar": "العمران على النيل في دمياط"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:%D8%B7%D8%B1%D9%8A%D9%82_%D8%A5%D9%84%D9%89_%D9%85%D8%A8%D9%86%D9%89_%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A9_%D8%AF%D9%85%D9%8A%D8%A7%D8%B7.JPG",
+    "author": "Mohamed Eissa",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "governorate-dakahlia": {
+    "file": "governorate-dakahlia",
+    "alt": {
+      "en": "A small boat at Mansoura",
+      "ar": "مركب صغير في المنصورة"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Mansoura,_Mansoura_Qism_2,_Mansoura,_Dakahlia_Governorate,_Egypt_-_panoramio_(1).jpg",
+    "author": "youssef_alam",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "governorate-sharqia": {
+    "file": "governorate-sharqia",
+    "alt": {
+      "en": "A waterway in Zagazig",
+      "ar": "مجرى مائي في الزقازيق"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Zagazig,_El-Hariry,_Qesm_Awal_AZ_Zagazig,_Ash_Sharqia_Governorate,_Egypt_-_panoramio_(1).jpg",
+    "author": "Ameer Attia",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "governorate-gharbia": {
+    "file": "governorate-gharbia",
+    "alt": {
+      "en": "Al Bahr Street in Tanta",
+      "ar": "شارع البحر في طنطا"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Tanta-1.jpg",
+    "author": "Faris knight",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "governorate-monufia": {
+    "file": "governorate-monufia",
+    "alt": {
+      "en": "Omar Afandi Bridge in Shibin El Kom",
+      "ar": "كوبري عمر أفندي في شبين الكوم"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:%D9%83%D9%88%D8%A8%D8%B1%D9%8A_%D8%B9%D9%85%D8%B1_%D8%A7%D9%81%D9%86%D8%AF%D9%8A.jpg",
+    "author": "himoz: https://www.panoramio.com/user/1547621?with_photo_id=8875725",
+    "license": "FAL",
+    "licenseUrl": "http://artlibre.org/licence/lal/en",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "governorate-kafr-el-sheikh": {
+    "file": "governorate-kafr-el-sheikh",
+    "alt": {
+      "en": "Mud-brick remains at Buto near Desouk",
+      "ar": "بقايا مبانٍ بالطوب اللبن في تل الفراعين قرب دسوق"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Ruins_of_mudbrick_buildings_on_the_northern_mound_of_Buto-Desouk.jpg",
+    "author": "Faris knight",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "governorate-beheira": {
+    "file": "governorate-beheira",
+    "alt": {
+      "en": "A view over Rosetta and the museum garden",
+      "ar": "منظر لرشيد وجنينة المتحف"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:RashidNorth.jpg",
+    "author": "Roland Unger",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "governorate-port-said": {
+    "file": "governorate-port-said",
+    "alt": {
+      "en": "Port Said Lighthouse",
+      "ar": "فنار بورسعيد"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Egypt-IMG_0960.jpg",
+    "author": "Michael Tyler",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "governorate-suez": {
+    "file": "governorate-suez",
+    "alt": {
+      "en": "A view of Suez from the water",
+      "ar": "منظر لمدينة السويس من الميه"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:EG-suez-20-bg-suez.jpg",
+    "author": "Balou46",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "governorate-ismailia": {
+    "file": "governorate-ismailia",
+    "alt": {
+      "en": "A canal-side view of Ismailia",
+      "ar": "منظر للإسماعيلية من ناحية القناة"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:EG-suez-13-bg-ismailia.jpg",
+    "author": "Balou46",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "governorate-north-sinai": {
+    "file": "governorate-north-sinai",
+    "alt": {
+      "en": "Palm trees beside the Mediterranean at El Arish",
+      "ar": "نخيل جنب المتوسط في العريش"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:%D9%86%D8%AE%D9%8A%D9%84_%D8%A7%D9%84%D8%B9%D8%B1%D9%8A%D8%B4.jpg",
+    "author": "Hesham Farouk Ragab",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "governorate-fayoum": {
+    "file": "governorate-fayoum",
+    "alt": {
+      "en": "Whale fossils in Wadi El Hitan",
+      "ar": "حفريات حيتان في وادي الحيتان"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:The_whales_fossils_at_Wadi_El-Hitan,_Egypt_2017.jpg",
+    "author": "AhmedMosaad",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "governorate-beni-suef": {
+    "file": "governorate-beni-suef",
+    "alt": {
+      "en": "The pyramid at Meidum",
+      "ar": "هرم ميدوم"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Meidoum03.jpg",
+    "author": "Kurohito",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "governorate-minya": {
+    "file": "governorate-minya",
+    "alt": {
+      "en": "Rock-cut tombs at Beni Hasan",
+      "ar": "مقابر بني حسن الصخرية"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Exterior_view_of_tombs_of_Khety_and_Barquet_III.JPG",
+    "author": "Markh at English Wikipedia",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "governorate-assiut": {
+    "file": "governorate-assiut",
+    "alt": {
+      "en": "Taggart Library at El Salam College in Assiut",
+      "ar": "مكتبة تاجارت في كلية السلام بأسيوط"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:AsyutSalamTaggatLibrary.jpg",
+    "author": "Roland Unger",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "governorate-sohag": {
+    "file": "governorate-sohag",
+    "alt": {
+      "en": "The facade of Seti I's temple at Abydos",
+      "ar": "واجهة معبد سيتي الأول في أبيدوس"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:AbydosFacade.jpg",
+    "author": "Roland Unger",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "governorate-qena": {
+    "file": "governorate-qena",
+    "alt": {
+      "en": "Hathor's temple at Dendera",
+      "ar": "معبد حتحور في دندرة"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Dendera_7_977.PNG",
+    "author": "Ijanderson977",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "governorate-new-valley": {
+    "file": "governorate-new-valley",
+    "alt": {
+      "en": "The Temple of Hibis in Kharga Oasis",
+      "ar": "معبد هيبس في واحة الخارجة"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Temple_of_Hibis.jpg",
+    "author": "ASartan",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "governorate-matrouh": {
+    "file": "governorate-matrouh",
+    "alt": {
+      "en": "Sunrise from Gebel Dakrour in Siwa",
+      "ar": "شروق من جبل الدكرور في سيوة"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:%D9%8A%D9%88%D9%85_%D8%AC%D8%AF%D9%8A%D8%AF.jpg",
+    "author": "Adelbayoumi",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "governorate-fayoum-detail-1": {
+    "file": "governorate-fayoum-detail-1",
+    "alt": {
+      "en": "Pottery inside Eveline's school in Tunis village",
+      "ar": "فخار داخل مدرسة إيفلين بقرية تونس"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Eveline_Pottery_School_-_Fayoum_(2).JPG",
+    "author": "Mohamed Ahmed Hassan",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "governorate-fayoum-detail-2": {
+    "file": "governorate-fayoum-detail-2",
+    "alt": {
+      "en": "A pottery maker at work in Tunis village",
+      "ar": "صناعة الفخار في قرية تونس"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Pottery_Hands_in_mud.jpg",
+    "author": "Ahmed  Kassem",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "governorate-matrouh-detail-1": {
+    "file": "governorate-matrouh-detail-1",
+    "alt": {
+      "en": "A tower among the remains of Shali Fortress in Siwa",
+      "ar": "برج ضمن بقايا قلعة شالي في سيوة"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Shali_Fortress02.jpg",
+    "author": "ولاء",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Shali_Fortress02.jpg",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "governorate-matrouh-detail-2": {
+    "file": "governorate-matrouh-detail-2",
+    "alt": {
+      "en": "Mud-brick remains of Shali Fortress in Siwa",
+      "ar": "بقايا مبانٍ طينية في قلعة شالي بسيوة"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Shali_Fortress11.jpg",
+    "author": "ولاء",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Shali_Fortress11.jpg",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "governorate-kafr-el-sheikh-detail-1": {
+    "file": "governorate-kafr-el-sheikh-detail-1",
+    "alt": {
+      "en": "Reed beds at Lake Burullus",
+      "ar": "بوص وأراضي رطبة عند بحيرة البرلس"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Burullus_Lake-Nature002.jpg",
+    "author": "Ibrahimmaz",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "governorate-kafr-el-sheikh-detail-2": {
+    "file": "governorate-kafr-el-sheikh-detail-2",
+    "alt": {
+      "en": "Fishing beside a small island in Lake Burullus",
+      "ar": "صيد جنب جزيرة صغيرة في بحيرة البرلس"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Fishers_and_small_island_in_Lake_Burullus_-_Egypt.jpg",
+    "author": "Myousry6666",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "governorate-alexandria-detail-1": {
+    "file": "governorate-alexandria-detail-1",
+    "alt": {
+      "en": "A detail of the Bibliotheca Alexandrina complex and planetarium",
+      "ar": "تفصيلة من مجمع مكتبة الإسكندرية والقبة السماوية"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Bibliotheca_Alexandrina_GLAM_EGY_02.jpg",
+    "author": "Hassan Hamdy wahidy",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Bibliotheca_Alexandrina_GLAM_EGY_02.jpg",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "governorate-alexandria-detail-2": {
+    "file": "governorate-alexandria-detail-2",
+    "alt": {
+      "en": "A sculpture in the exterior space of the Bibliotheca Alexandrina complex",
+      "ar": "تمثال في المساحة الخارجية لمجمع مكتبة الإسكندرية"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Bibliotheca_Alexandrina_GLAM_EGY_04.jpg",
+    "author": "Hassan Hamdy wahidy",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Bibliotheca_Alexandrina_GLAM_EGY_04.jpg",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "governorate-aswan-detail-1": {
+    "file": "governorate-aswan-detail-1",
+    "alt": {
+      "en": "Felucca with Elephantine Island behind it, photographed in 2004",
+      "ar": "فلوكة وخلفها جزيرة إلفنتين، صورة سنة 2004"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Aswan,_Elephantine,_felucca,_Egypt,_Oct_2004.jpg",
+    "author": "Przemyslaw \" Blueshade \" Idzkiewicz.",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "governorate-aswan-detail-2": {
+    "file": "governorate-aswan-detail-2",
+    "alt": {
+      "en": "A house on Elephantine Island",
+      "ar": "بيت على جزيرة إلفنتين"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Aswan_Elephantine_Island_R02.jpg",
+    "author": "Marc Ryckaert",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "governorate-ismailia-detail-1": {
+    "file": "governorate-ismailia-detail-1",
+    "alt": {
+      "en": "Fishermen in Ismailia, as identified by the photographer",
+      "ar": "صيادين في الإسماعيلية، بحسب تعريف مصوّر الصورة"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Fishermen_cooperate_ismailia_1.jpg",
+    "author": "Mahmoud Hamed ismailia",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "governorate-ismailia-detail-2": {
+    "file": "governorate-ismailia-detail-2",
+    "alt": {
+      "en": "Black-and-white photograph of fishermen in Ismailia",
+      "ar": "صورة أبيض وأسود لصيادين في الإسماعيلية"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Fishermen_ismailia_B%26W.jpg",
+    "author": "Mahmoud Hamed ismailia",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "governorate-port-said-detail-1": {
+    "file": "governorate-port-said-detail-1",
+    "alt": {
+      "en": "Buildings and street life in Port Said",
+      "ar": "مباني وحياة الشارع في بورسعيد"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Port_Said,_Egypt.jpg",
+    "author": "Vyacheslav Argenberg",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "governorate-qalyubia-detail-1": {
+    "file": "governorate-qalyubia-detail-1",
+    "alt": {
+      "en": "An elevated view of Banha",
+      "ar": "منظر لبنها من مكان مرتفع"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Banha_city_from_up.jpg",
+    "author": "Ahmdoor1",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "governorate-beni-suef-detail-1": {
+    "file": "governorate-beni-suef-detail-1",
+    "alt": {
+      "en": "Mineral formations inside Sannur Cave",
+      "ar": "تكوينات معدنية داخل كهف سنور"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Sannur_Valley_cave.jpg",
+    "author": "Ayman Fouad Khamis",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "governorate-beni-suef-detail-2": {
+    "file": "governorate-beni-suef-detail-2",
+    "alt": {
+      "en": "Looking upward from the Sannur Cave entrance area",
+      "ar": "منظر لفوق من منطقة مدخل كهف سنور"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Wadi_sannur.jpg",
+    "author": "Ahmed mostafa Ali",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "governorate-qena-detail-1": {
+    "file": "governorate-qena-detail-1",
+    "alt": {
+      "en": "The entrance of Wikalat Oda in Qus",
+      "ar": "مدخل وكالة عودة في قوص"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:QusWikalatOda.jpg",
+    "author": "Roland Unger",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Resized and converted to WebP; layout crop"
   }
 }
