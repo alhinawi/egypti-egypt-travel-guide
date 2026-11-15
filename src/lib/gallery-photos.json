@@ -672,5 +672,160 @@
     "license": "CC BY-SA 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
     "changes": "resized, WebP; gallery crop"
+  },
+  "khan-photo-2": {
+    "file": "khan-photo-2",
+    "alt": {
+      "en": "Lanterns and shops around a decorated gateway",
+      "ar": "فوانيس ومحلات حوالين بوابة مزخرفة"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Khan_el_khalili,egypt.jpg",
+    "author": "Karim Essm",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "resized, converted to WebP; layout crop",
+    "captured": "2020-02-20"
+  },
+  "khan-photo-3": {
+    "file": "khan-photo-3",
+    "alt": {
+      "en": "Lantern and lighting display, photographed in 2019",
+      "ar": "عرض فوانيس ووحدات إضاءة، متصور سنة ٢٠١٩"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Khan_el-Khalili_2019.jpg",
+    "author": "Mohammed Moussa",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "resized, converted to WebP; layout crop",
+    "captured": "2019-02-11 15:20:53"
+  },
+  "khan-photo-4": {
+    "file": "khan-photo-4",
+    "alt": {
+      "en": "Vaulted gateway lined with souvenir shops",
+      "ar": "بوابة بقبو عالي وحواليها محلات هدايا"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Khan_el-Khalili_2019_1.jpg",
+    "author": "Mohammed Ali Moussa",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "resized, converted to WebP; layout crop",
+    "captured": "2019-02-11 15:20:04"
+  },
+  "khan-photo-5": {
+    "file": "khan-photo-5",
+    "alt": {
+      "en": "Spice stalls, photographed in 1994",
+      "ar": "محلات توابل، صورة من سنة ١٩٩٤"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Cairo_-_Khan_al-Khalili_spice_market_1994.jpg",
+    "author": "Jon Gudorf Photography",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "changes": "resized, converted to WebP; layout crop",
+    "captured": "1994-07-14 14:07:56"
+  },
+  "khan-photo-6": {
+    "file": "khan-photo-6",
+    "alt": {
+      "en": "Textiles and metalware in a market passage",
+      "ar": "منسوجات ومشغولات معدنية في ممر بالسوق"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Mercado_de_Khan_el-Khalili,_El_Cairo,_Egipto2.jpg",
+    "author": "Diego Delso",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "changes": "resized, converted to WebP; layout crop",
+    "captured": "2011-09-26"
+  },
+  "khan-photo-7": {
+    "file": "khan-photo-7",
+    "alt": {
+      "en": "Building façades and bunting above the bazaar",
+      "ar": "واجهات المباني وزينة فوق حواري السوق"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Khan_el-Khalili,_Old_Cairo,_al-Q%C4%81hirah,_CG,_EGY_(40944963223).jpg",
+    "author": "Warren LeMay from Cincinnati, OH, United States",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "changes": "resized, converted to WebP; layout crop",
+    "captured": "2019-05-12 17:01"
+  },
+  "khan-photo-8": {
+    "file": "khan-photo-8",
+    "alt": {
+      "en": "Upper floors of Rab al-Badistan beside Bab al-Ghuri",
+      "ar": "الأدوار اللي فوق في ربع البادستان جنب باب الغوري"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Khan_el-Khalili,_Old_Cairo,_al-Q%C4%81hirah,_CG,_EGY_(46995553775).jpg",
+    "author": "Warren LeMay from Cincinnati, OH, United States",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "changes": "resized, converted to WebP; layout crop",
+    "captured": "2019-05-12 17:11"
+  },
+  "khan-nearby-1": {
+    "file": "khan-nearby-1",
+    "alt": {
+      "en": "Architecture along Al-Muizz Street",
+      "ar": "عمارة شارع المعز"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Al-Moez_interface.jpg",
+    "author": "Yasser.mahmoud",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "resized, converted to WebP; layout crop",
+    "captured": "2022-09-30"
+  },
+  "khan-nearby-2": {
+    "file": "khan-nearby-2",
+    "alt": {
+      "en": "Al-Azhar Mosque domes and minarets",
+      "ar": "قباب ومآذن الجامع الأزهر"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Cairo_-_Islamic_district_-_Al_Azhar_Mosque_and_University.JPG",
+    "author": "Daniel Mayer",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "resized, converted to WebP; layout crop",
+    "captured": "2008-07"
+  },
+  "khan-nearby-3": {
+    "file": "khan-nearby-3",
+    "alt": {
+      "en": "Al-Khayyamiyya street sign, not a wide street view",
+      "ar": "يافطة شارع الخيامية، مش منظر عام للسوق"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Elkhiyamia_street_in_2017,_photo_by_Hatem_Moushir.jpg",
+    "author": "Hatem Moushir",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "resized, converted to WebP; layout crop",
+    "captured": "2017-10-05 15:27:40"
+  },
+  "khan-nearby-4": {
+    "file": "khan-nearby-4",
+    "alt": {
+      "en": "Al-Hussein Mosque exterior",
+      "ar": "جامع الحسين من برّه"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Kairo_Al_Hussein_Mosque_BW_1.jpg",
+    "author": "Berthold Werner",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "changes": "resized, converted to WebP; layout crop",
+    "captured": "2010-11-04"
+  },
+  "cairo-food-koshary": {
+    "file": "cairo-food-koshary",
+    "alt": {
+      "en": "Illustrative Egyptian koshary; not an on-site restaurant photo",
+      "ar": "صورة توضيحية لكشري مصري، مش متصورة في مطعم بالمكان"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Egyptian_food_Koshary.jpg",
+    "author": "Dina Said",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Resized and converted to WebP; layout crop"
   }
 }

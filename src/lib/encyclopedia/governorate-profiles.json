@@ -1,0 +1,1515 @@
+{
+  "cairo": {
+    "id": "cairo",
+    "name": {
+      "en": "Cairo",
+      "ar": "القاهرة"
+    },
+    "capital": {
+      "en": "Cairo",
+      "ar": "القاهرة",
+      "sources": [
+        "https://www.citypopulation.de/en/egypt/cities/"
+      ]
+    },
+    "overview": {
+      "en": "Cairo layers medieval streets, major museums and busy Nile-side neighborhoods into an intense city break. Explore its monuments on foot, leave time for the markets, and experience a city whose cafes and social life carry on well into the evening.",
+      "ar": "القاهرة فيها أكتر من حكاية في نفس المشوار: شوارع قديمة ومتاحف كبيرة وقعدات على النيل وأسواق لسه عايشة بطريقتها. خصصلها وقت للمشي والاستكشاف، وسيب مساحة لقعدة قهوة أو لفة بالليل بعيد عن جدول المزارات.",
+      "sources": [
+        "https://www.experienceegypt.eg/en/city/1/cairo-giza",
+        "https://en.wikipedia.org/wiki/Cairo_Governorate"
+      ]
+    },
+    "history": {
+      "en": "The Fatimid city of al-Qahira was founded in 969. Its Islamic and Coptic landmarks, medieval commercial streets and later Downtown buildings reveal several different periods of the city's history.",
+      "ar": "القاهرة الفاطمية اتأسست سنة 969، لكن حكاية المنطقة أقدم من كده. آثار مصر القديمة والعمارة الإسلامية وشوارع وسط البلد بيخلّوك تشوف مراحل مختلفة من تاريخ المدينة في زيارة واحدة.",
+      "sources": [
+        "https://www.experienceegypt.eg/en/city/1/cairo-giza",
+        "https://en.wikipedia.org/wiki/Cairo_Governorate"
+      ]
+    },
+    "geography": {
+      "en": "The governorate contains Cairo on the Nile and eastern satellite cities. Greater Cairo is a metropolitan region extending beyond this governorate, so Giza attractions must not be assigned to Cairo Governorate.",
+      "ar": "المحافظة فيها القاهرة على النيل وامتدادات ومدن ناحية الشرق. القاهرة الكبرى أوسع من حدود محافظة القاهرة؛ عشان كده الأهرامات ومزارات الجيزة ليها صفحة محافظة تانية.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Cairo_Governorate",
+        "https://www.experienceegypt.eg/en/city/1/cairo-giza"
+      ]
+    },
+    "population": {
+      "value": 10248385,
+      "as_of": "2023-07-01",
+      "type": "estimate",
+      "source_url": "https://www.citypopulation.de/en/egypt/cities/",
+      "attribution": "City Population, citing CAPMAS; historical estimate, not current population."
+    },
+    "area": {
+      "km2": 3085,
+      "source_url": "https://www.citypopulation.de/en/egypt/cities/",
+      "note": "Area reported by City Population; administrative-area figures differ between sources. Not independently boundary-audited."
+    },
+    "best_time": {
+      "months": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4
+      ],
+      "en": "For long walks and monuments, favor the cooler months. Summer afternoons are hot; winter evenings need a layer.",
+      "ar": "لو الزيارة فيها مشي كتير وآثار، اختار الشهور الأبرد. الضهر في الصيف حر، وبالليل في الشتا هتحتاج جاكيت خفيف.",
+      "basis": "Editorial recommendation from station normals; not a weather forecast.",
+      "sources": [
+        "https://www.nodc.noaa.gov/archive/arc0216/0253808/2.2/data/0-data/Region-1-WMO-Normals-9120/Egypt/CSV/CairoAP_62366.csv",
+        "https://www.experienceegypt.eg/en/usefulinfo"
+      ]
+    },
+    "climate_by_month": {
+      "station_file": "CairoAP_62366.csv",
+      "normal_period": "1991-2020",
+      "coverage_note": {
+        "en": "For long walks and monuments, favor the cooler months. Summer afternoons are hot; winter evenings need a layer.",
+        "ar": "لو الزيارة فيها مشي كتير وآثار، اختار الشهور الأبرد. الضهر في الصيف حر، وبالليل في الشتا هتحتاج جاكيت خفيف."
+      },
+      "source_url": "https://www.nodc.noaa.gov/archive/arc0216/0253808/2.2/data/0-data/Region-1-WMO-Normals-9120/Egypt/CSV/CairoAP_62366.csv",
+      "months": [
+        {
+          "month": 1,
+          "precipitation_mm": 4.77,
+          "high_c": 18.93,
+          "low_c": 10.08,
+          "mean_c": 14.36
+        },
+        {
+          "month": 2,
+          "precipitation_mm": 3.75,
+          "high_c": 20.53,
+          "low_c": 10.99,
+          "mean_c": 15.61
+        },
+        {
+          "month": 3,
+          "precipitation_mm": 6.28,
+          "high_c": 23.81,
+          "low_c": 13.16,
+          "mean_c": 18.28
+        },
+        {
+          "month": 4,
+          "precipitation_mm": 1.34,
+          "high_c": 28.11,
+          "low_c": 15.92,
+          "mean_c": 21.82
+        },
+        {
+          "month": 5,
+          "precipitation_mm": 0.21,
+          "high_c": 32.19,
+          "low_c": 19.31,
+          "mean_c": 25.57
+        },
+        {
+          "month": 6,
+          "precipitation_mm": 0.0,
+          "high_c": 34.62,
+          "low_c": 22.2,
+          "mean_c": 28.19
+        },
+        {
+          "month": 7,
+          "precipitation_mm": 0.0,
+          "high_c": 35.0,
+          "low_c": 23.79,
+          "mean_c": 29.09
+        },
+        {
+          "month": 8,
+          "precipitation_mm": 0.0,
+          "high_c": 34.93,
+          "low_c": 24.27,
+          "mean_c": 29.21
+        },
+        {
+          "month": 9,
+          "precipitation_mm": 0.0,
+          "high_c": 33.36,
+          "low_c": 22.72,
+          "mean_c": 27.63
+        },
+        {
+          "month": 10,
+          "precipitation_mm": 0.73,
+          "high_c": 29.98,
+          "low_c": 19.95,
+          "mean_c": 24.62
+        },
+        {
+          "month": 11,
+          "precipitation_mm": 4.29,
+          "high_c": 24.93,
+          "low_c": 15.6,
+          "mean_c": 20.01
+        },
+        {
+          "month": 12,
+          "precipitation_mm": 3.4,
+          "high_c": 20.52,
+          "low_c": 11.7,
+          "mean_c": 15.89
+        }
+      ]
+    },
+    "food_specialties": [
+      {
+        "name": {
+          "en": "Koshary",
+          "ar": "كشري"
+        },
+        "scope_note": "National Egyptian staple, not exclusive to Cairo.",
+        "sources": [
+          "https://www.experienceegypt.eg/en/home/culture",
+          "https://www.experienceegypt.eg/en/city/1/cairo-giza"
+        ]
+      },
+      {
+        "name": {
+          "en": "Ful and taameya",
+          "ar": "فول وطعمية"
+        },
+        "scope_note": "National breakfast staples, widely associated with everyday Egyptian food.",
+        "sources": [
+          "https://www.experienceegypt.eg/en/home/culture",
+          "https://www.experienceegypt.eg/en/city/1/cairo-giza"
+        ]
+      }
+    ],
+    "crafts": [
+      {
+        "name": {
+          "en": "Khayamiya applique textiles",
+          "ar": "شغل الخيامية"
+        },
+        "note": "The official tourism page identifies the Tentmakers' Market in Old Cairo.",
+        "sources": [
+          "https://www.experienceegypt.eg/en/city/1/cairo-giza"
+        ]
+      }
+    ],
+    "festivals": [],
+    "national_cultural_calendar": {
+      "en": "Ramadan, the Eids, Coptic Christmas and Sham al-Nessim are part of Egypt's national cultural calendar. This is not a verified local event schedule.",
+      "ar": "رمضان والعيدين وعيد الميلاد وشم النسيم جزء من المناسبات العامة في مصر. دي مش أجندة مهرجانات محلية مؤكدة.",
+      "sources": [
+        "https://www.experienceegypt.eg/en/home/culture"
+      ]
+    },
+    "transport": {
+      "en": "Cairo International Airport, rail connections, taxis and ride-hailing are established gateways and ways around. This profile does not supply fares, current routes or timetables.",
+      "ar": "تقدر توصل من مطار القاهرة أو بالسكة الحديد، وجوه المدينة فيه تاكسي وتطبيقات نقل. مواعيد الرحلات والأسعار والمسارات الحالية محتاجة تتراجع وقت السفر.",
+      "sources": [
+        "https://www.experienceegypt.eg/en/usefulinfo",
+        "https://www.experienceegypt.eg/en/city/1/cairo-giza"
+      ]
+    },
+    "cultural_character": {
+      "en": "Street markets, coffeehouse conversation, contemporary arts and layers of religious architecture shape the visitor experience.",
+      "ar": "روح القاهرة في السوق والقهوة والكلام مع الناس، جنب الفن والعمارة الدينية اللي بتظهر في شوارع كتير.",
+      "sources": [
+        "https://www.experienceegypt.eg/en/city/1/cairo-giza",
+        "https://www.experienceegypt.eg/en/home/culture"
+      ]
+    },
+    "vibes": [
+      "historic",
+      "nightlife/foodie",
+      "shopping",
+      "family",
+      "budget"
+    ],
+    "unknowns": [
+      "No verified local festival calendar in this batch.",
+      "Crafts and unique local dishes are omitted where no governorate-specific source was read.",
+      "Opening times, entry prices, live access rules and current transport schedules are not supplied."
+    ]
+  },
+  "giza": {
+    "id": "giza",
+    "name": {
+      "en": "Giza",
+      "ar": "الجيزة"
+    },
+    "capital": {
+      "en": "Giza",
+      "ar": "الجيزة",
+      "sources": [
+        "https://www.citypopulation.de/en/egypt/cities/"
+      ]
+    },
+    "overview": {
+      "en": "Giza is much more than the pyramids beside Cairo. Its archaeological landscape runs south through Saqqara and Dahshur, while the governorate also extends into the Western Desert to Bahariya Oasis.",
+      "ar": "الجيزة مش بس الأهرامات اللي جنب القاهرة. عندك سقارة ودهشور ناحية الجنوب، وكمان امتداد كبير في الصحراء الغربية بيوصل للواحات البحرية؛ يعني آثار وريف وصحرا في محافظة واحدة.",
+      "sources": [
+        "https://www.experienceegypt.eg/en/city/1/cairo-giza",
+        "https://en.wikipedia.org/wiki/Giza_Governorate"
+      ]
+    },
+    "history": {
+      "en": "The pyramid fields form part of the ancient Memphite necropolis, a landscape that records the development of royal tombs. Bahariya adds a separate oasis chapter to the governorate's history.",
+      "ar": "جبانات منف القديمة بتضم مناطق الأهرامات اللي بتحكي تطور المقابر الملكية. والواحات البحرية ليها فصل مختلف من تاريخ الواحات والحياة في الصحرا.",
+      "sources": [
+        "https://www.experienceegypt.eg/en/city/1/cairo-giza",
+        "https://en.wikipedia.org/wiki/Giza_Governorate"
+      ]
+    },
+    "geography": {
+      "en": "Giza lies mainly west of the Nile opposite Cairo, with additional territory along the valley and deep into the Western Desert. Bahariya belongs to Giza; the White Desert is in New Valley, not Giza.",
+      "ar": "معظم الجيزة غرب النيل قدام القاهرة، وحدودها بتمتد لوادي النيل والصحراء الغربية. الواحات البحرية تبع الجيزة، لكن الصحراء البيضاء تبع الوادي الجديد، مش الجيزة.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Giza_Governorate",
+        "https://www.experienceegypt.eg/en/city/1/cairo-giza"
+      ]
+    },
+    "population": {
+      "value": 9514540,
+      "as_of": "2023-07-01",
+      "type": "estimate",
+      "source_url": "https://www.citypopulation.de/en/egypt/cities/",
+      "attribution": "City Population, citing CAPMAS; historical estimate, not current population."
+    },
+    "area": {
+      "km2": 13184,
+      "source_url": "https://www.citypopulation.de/en/egypt/cities/",
+      "note": "Area reported by City Population; administrative-area figures differ between sources. Not independently boundary-audited."
+    },
+    "best_time": {
+      "months": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4
+      ],
+      "en": "Cooler months suit exposed archaeological sites. Cairo Airport normals are a nearby urban proxy, not climate data for remote Bahariya.",
+      "ar": "الشهور الأبرد أنسب للمناطق الأثرية المكشوفة. بيانات مطار القاهرة تقريب للجزء القريب من المدينة، ومش وصف لجو الواحات البحرية.",
+      "basis": "Editorial recommendation from station normals; not a weather forecast.",
+      "sources": [
+        "https://www.nodc.noaa.gov/archive/arc0216/0253808/2.2/data/0-data/Region-1-WMO-Normals-9120/Egypt/CSV/CairoAP_62366.csv",
+        "https://www.experienceegypt.eg/en/usefulinfo"
+      ]
+    },
+    "climate_by_month": {
+      "station_file": "CairoAP_62366.csv",
+      "normal_period": "1991-2020",
+      "coverage_note": {
+        "en": "Cooler months suit exposed archaeological sites. Cairo Airport normals are a nearby urban proxy, not climate data for remote Bahariya.",
+        "ar": "الشهور الأبرد أنسب للمناطق الأثرية المكشوفة. بيانات مطار القاهرة تقريب للجزء القريب من المدينة، ومش وصف لجو الواحات البحرية."
+      },
+      "source_url": "https://www.nodc.noaa.gov/archive/arc0216/0253808/2.2/data/0-data/Region-1-WMO-Normals-9120/Egypt/CSV/CairoAP_62366.csv",
+      "months": [
+        {
+          "month": 1,
+          "precipitation_mm": 4.77,
+          "high_c": 18.93,
+          "low_c": 10.08,
+          "mean_c": 14.36
+        },
+        {
+          "month": 2,
+          "precipitation_mm": 3.75,
+          "high_c": 20.53,
+          "low_c": 10.99,
+          "mean_c": 15.61
+        },
+        {
+          "month": 3,
+          "precipitation_mm": 6.28,
+          "high_c": 23.81,
+          "low_c": 13.16,
+          "mean_c": 18.28
+        },
+        {
+          "month": 4,
+          "precipitation_mm": 1.34,
+          "high_c": 28.11,
+          "low_c": 15.92,
+          "mean_c": 21.82
+        },
+        {
+          "month": 5,
+          "precipitation_mm": 0.21,
+          "high_c": 32.19,
+          "low_c": 19.31,
+          "mean_c": 25.57
+        },
+        {
+          "month": 6,
+          "precipitation_mm": 0.0,
+          "high_c": 34.62,
+          "low_c": 22.2,
+          "mean_c": 28.19
+        },
+        {
+          "month": 7,
+          "precipitation_mm": 0.0,
+          "high_c": 35.0,
+          "low_c": 23.79,
+          "mean_c": 29.09
+        },
+        {
+          "month": 8,
+          "precipitation_mm": 0.0,
+          "high_c": 34.93,
+          "low_c": 24.27,
+          "mean_c": 29.21
+        },
+        {
+          "month": 9,
+          "precipitation_mm": 0.0,
+          "high_c": 33.36,
+          "low_c": 22.72,
+          "mean_c": 27.63
+        },
+        {
+          "month": 10,
+          "precipitation_mm": 0.73,
+          "high_c": 29.98,
+          "low_c": 19.95,
+          "mean_c": 24.62
+        },
+        {
+          "month": 11,
+          "precipitation_mm": 4.29,
+          "high_c": 24.93,
+          "low_c": 15.6,
+          "mean_c": 20.01
+        },
+        {
+          "month": 12,
+          "precipitation_mm": 3.4,
+          "high_c": 20.52,
+          "low_c": 11.7,
+          "mean_c": 15.89
+        }
+      ]
+    },
+    "food_specialties": [
+      {
+        "name": {
+          "en": "Feteer meshaltet",
+          "ar": "فطير مشلتت"
+        },
+        "scope_note": "Egyptian countryside food, not verified as a unique Giza specialty.",
+        "sources": [
+          "https://www.experienceegypt.eg/en/home/culture",
+          "https://www.experienceegypt.eg/en/city/1/cairo-giza"
+        ]
+      }
+    ],
+    "crafts": [],
+    "festivals": [],
+    "national_cultural_calendar": {
+      "en": "Ramadan, the Eids, Coptic Christmas and Sham al-Nessim are part of Egypt's national cultural calendar. This is not a verified local event schedule.",
+      "ar": "رمضان والعيدين وعيد الميلاد وشم النسيم جزء من المناسبات العامة في مصر. دي مش أجندة مهرجانات محلية مؤكدة.",
+      "sources": [
+        "https://www.experienceegypt.eg/en/home/culture"
+      ]
+    },
+    "transport": {
+      "en": "Sphinx International Airport and Greater Cairo transport provide access; roads connect the pyramid fields and Bahariya. Desert travel needs an authorized local operator and an access check.",
+      "ar": "الوصول ممكن عن طريق مطار سفنكس ومواصلات القاهرة الكبرى، والتنقل بين مناطق الأهرامات والواحات بيكون بري. رحلات الصحرا محتاجة تنسيق مع جهة مرخصة والتأكد إن المكان مفتوح للزيارة.",
+      "sources": [
+        "https://www.experienceegypt.eg/en/usefulinfo",
+        "https://www.experienceegypt.eg/en/city/1/cairo-giza"
+      ]
+    },
+    "cultural_character": {
+      "en": "A mix of metropolitan life, Nile-valley countryside and oasis communities, rather than one uniform pyramid-resort identity.",
+      "ar": "هنا هتلاقي حياة مدينة كبيرة وريف على النيل ومجتمعات واحات؛ الجيزة أوسع بكتير من صورة الأهرامات لوحدها.",
+      "sources": [
+        "https://www.experienceegypt.eg/en/city/1/cairo-giza",
+        "https://www.experienceegypt.eg/en/home/culture"
+      ]
+    },
+    "vibes": [
+      "historic",
+      "adventurous",
+      "nature/desert",
+      "family"
+    ],
+    "unknowns": [
+      "No verified local festival calendar in this batch.",
+      "Crafts and unique local dishes are omitted where no governorate-specific source was read.",
+      "Opening times, entry prices, live access rules and current transport schedules are not supplied."
+    ]
+  },
+  "alexandria": {
+    "id": "alexandria",
+    "name": {
+      "en": "Alexandria",
+      "ar": "الإسكندرية"
+    },
+    "capital": {
+      "en": "Alexandria",
+      "ar": "الإسكندرية",
+      "sources": [
+        "https://www.citypopulation.de/en/egypt/cities/"
+      ]
+    },
+    "overview": {
+      "en": "Alexandria combines a Mediterranean waterfront with Greek, Roman and later Egyptian heritage. Its library, gardens, old neighborhoods and seafood restaurants make a different kind of city break from Cairo.",
+      "ar": "إسكندرية ليها إيقاع تاني: بحر ومشي وأكل سمك، ومعاهم تاريخ يوناني وروماني وأحياء كل واحدة بطابعها. بين المكتبة والحدايق والآثار، تقدر تعمل زيارة ثقافية وتسيب وقت للبحر من غير استعجال.",
+      "sources": [
+        "https://www.experienceegypt.eg/en/city/27/alexandria",
+        "https://en.wikipedia.org/wiki/Alexandria_Governorate"
+      ]
+    },
+    "history": {
+      "en": "Alexander the Great founded Alexandria in 331 BC. It became a major center of learning and culture in the ancient Mediterranean, a legacy recalled by today's Bibliotheca Alexandrina.",
+      "ar": "الإسكندر الأكبر أسس المدينة سنة 331 قبل الميلاد، وبعدها بقت مركز مهم للعلم والثقافة في العالم القديم. مكتبة الإسكندرية الحالية بتستحضر الحكاية دي بشكل معاصر.",
+      "sources": [
+        "https://www.experienceegypt.eg/en/city/27/alexandria",
+        "https://en.wikipedia.org/wiki/Alexandria_Governorate"
+      ]
+    },
+    "geography": {
+      "en": "The governorate sits on Egypt's Mediterranean coast west of the Nile Delta. Coastal weather is wetter in winter than the Nile Valley's southern cities.",
+      "ar": "المحافظة على ساحل البحر المتوسط غرب الدلتا. الشتا على الساحل فيه مطر أكتر من مدن الصعيد، فخلي خطة اليوم مرنة لو نازل في الموسم ده.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Alexandria_Governorate",
+        "https://www.experienceegypt.eg/en/city/27/alexandria"
+      ]
+    },
+    "population": {
+      "value": 5546663,
+      "as_of": "2023-07-01",
+      "type": "estimate",
+      "source_url": "https://www.citypopulation.de/en/egypt/cities/",
+      "attribution": "City Population, citing CAPMAS; historical estimate, not current population."
+    },
+    "area": {
+      "km2": 2300,
+      "source_url": "https://www.citypopulation.de/en/egypt/cities/",
+      "note": "Area reported by City Population; administrative-area figures differ between sources. Not independently boundary-audited."
+    },
+    "best_time": {
+      "months": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "en": "Spring and early autumn balance outdoor sightseeing with milder temperatures. Summer suits a beach-focused visit; winter brings appreciable rain.",
+      "ar": "الربيع وأول الخريف مناسبين للمشي والفسح. الصيف أنسب لو البحر هو هدفك، والشتا لازم تحسب فيه حساب المطر.",
+      "basis": "Editorial recommendation from station normals; not a weather forecast.",
+      "sources": [
+        "https://www.nodc.noaa.gov/archive/arc0216/0253808/2.2/data/0-data/Region-1-WMO-Normals-9120/Egypt/CSV/AlexandriaNouzha_62318.csv",
+        "https://www.experienceegypt.eg/en/usefulinfo"
+      ]
+    },
+    "climate_by_month": {
+      "station_file": "AlexandriaNouzha_62318.csv",
+      "normal_period": "1991-2020",
+      "coverage_note": {
+        "en": "Spring and early autumn balance outdoor sightseeing with milder temperatures. Summer suits a beach-focused visit; winter brings appreciable rain.",
+        "ar": "الربيع وأول الخريف مناسبين للمشي والفسح. الصيف أنسب لو البحر هو هدفك، والشتا لازم تحسب فيه حساب المطر."
+      },
+      "source_url": "https://www.nodc.noaa.gov/archive/arc0216/0253808/2.2/data/0-data/Region-1-WMO-Normals-9120/Egypt/CSV/AlexandriaNouzha_62318.csv",
+      "months": [
+        {
+          "month": 1,
+          "precipitation_mm": 61.39,
+          "high_c": 18.36,
+          "low_c": 9.47,
+          "mean_c": 13.95
+        },
+        {
+          "month": 2,
+          "precipitation_mm": 35.22,
+          "high_c": 19.01,
+          "low_c": 9.72,
+          "mean_c": 14.43
+        },
+        {
+          "month": 3,
+          "precipitation_mm": 12.78,
+          "high_c": 21.09,
+          "low_c": 11.76,
+          "mean_c": 16.37
+        },
+        {
+          "month": 4,
+          "precipitation_mm": 2.61,
+          "high_c": 24.14,
+          "low_c": 14.29,
+          "mean_c": 18.99
+        },
+        {
+          "month": 5,
+          "precipitation_mm": 0.99,
+          "high_c": 26.87,
+          "low_c": 17.75,
+          "mean_c": 22.15
+        },
+        {
+          "month": 6,
+          "precipitation_mm": 0.01,
+          "high_c": 29.13,
+          "low_c": 21.64,
+          "mean_c": 25.23
+        },
+        {
+          "month": 7,
+          "precipitation_mm": 0.0,
+          "high_c": 30.45,
+          "low_c": 23.94,
+          "mean_c": 27.12
+        },
+        {
+          "month": 8,
+          "precipitation_mm": 0.0,
+          "high_c": 31.03,
+          "low_c": 24.44,
+          "mean_c": 27.75
+        },
+        {
+          "month": 9,
+          "precipitation_mm": 0.78,
+          "high_c": 30.2,
+          "low_c": 22.54,
+          "mean_c": 26.36
+        },
+        {
+          "month": 10,
+          "precipitation_mm": 8.33,
+          "high_c": 27.8,
+          "low_c": 19.26,
+          "mean_c": 23.63
+        },
+        {
+          "month": 11,
+          "precipitation_mm": 36.81,
+          "high_c": 23.99,
+          "low_c": 15.08,
+          "mean_c": 19.6
+        },
+        {
+          "month": 12,
+          "precipitation_mm": 52.66,
+          "high_c": 20.12,
+          "low_c": 11.1,
+          "mean_c": 15.56
+        }
+      ]
+    },
+    "food_specialties": [
+      {
+        "name": {
+          "en": "Alexandrian liver sandwiches",
+          "ar": "كبدة إسكندراني"
+        },
+        "scope_note": "Named specifically in the official national food guide.",
+        "sources": [
+          "https://www.experienceegypt.eg/en/home/culture",
+          "https://www.experienceegypt.eg/en/city/27/alexandria"
+        ]
+      },
+      {
+        "name": {
+          "en": "Seafood",
+          "ar": "سمك ومأكولات بحرية"
+        },
+        "scope_note": "The official Alexandria tourism page recommends the city's seafood restaurants.",
+        "sources": [
+          "https://www.experienceegypt.eg/en/home/culture",
+          "https://www.experienceegypt.eg/en/city/27/alexandria"
+        ]
+      }
+    ],
+    "crafts": [],
+    "festivals": [],
+    "national_cultural_calendar": {
+      "en": "Ramadan, the Eids, Coptic Christmas and Sham al-Nessim are part of Egypt's national cultural calendar. This is not a verified local event schedule.",
+      "ar": "رمضان والعيدين وعيد الميلاد وشم النسيم جزء من المناسبات العامة في مصر. دي مش أجندة مهرجانات محلية مؤكدة.",
+      "sources": [
+        "https://www.experienceegypt.eg/en/home/culture"
+      ]
+    },
+    "transport": {
+      "en": "Borg El Arab Airport, intercity trains and buses connect Alexandria; taxis and ride-hailing serve the city. Check current services rather than treating this as a timetable.",
+      "ar": "تقدر توصل من مطار برج العرب أو بالقطر والأتوبيس، وجوه المدينة فيه تاكسي وتطبيقات نقل. راجع الخدمة والمواعيد وقت ما تحدد السفر.",
+      "sources": [
+        "https://www.experienceegypt.eg/en/usefulinfo",
+        "https://www.experienceegypt.eg/en/city/27/alexandria"
+      ]
+    },
+    "cultural_character": {
+      "en": "Mediterranean port life and a cosmopolitan religious and literary history are central to the city's identity.",
+      "ar": "هوية إسكندرية جاية من البحر والمينا وتاريخها المتنوع في الأدب والديانات والثقافات اللي عاشت فيها.",
+      "sources": [
+        "https://www.experienceegypt.eg/en/city/27/alexandria",
+        "https://www.experienceegypt.eg/en/home/culture"
+      ]
+    },
+    "vibes": [
+      "historic",
+      "relaxing/beach",
+      "nightlife/foodie",
+      "family",
+      "romantic"
+    ],
+    "unknowns": [
+      "No verified local festival calendar in this batch.",
+      "Crafts and unique local dishes are omitted where no governorate-specific source was read.",
+      "Opening times, entry prices, live access rules and current transport schedules are not supplied."
+    ]
+  },
+  "luxor": {
+    "id": "luxor",
+    "name": {
+      "en": "Luxor",
+      "ar": "الأقصر"
+    },
+    "capital": {
+      "en": "Luxor",
+      "ar": "الأقصر",
+      "sources": [
+        "https://www.citypopulation.de/en/egypt/cities/"
+      ]
+    },
+    "overview": {
+      "en": "Luxor brings the monumental landscape of ancient Thebes into everyday view. The Nile divides major east-bank temples from the west-bank royal tombs and funerary temples, making the river itself part of the visit.",
+      "ar": "في الأقصر الآثار مش محطة صغيرة في اليوم؛ هي جزء من شكل المدينة وحياتها. النيل بيفصل معابد البر الشرقي عن مقابر ومعابد البر الغربي، فعبور النهر نفسه بيبقى جزء حلو من الرحلة.",
+      "sources": [
+        "https://www.experienceegypt.eg/en/city/22/luxor",
+        "https://en.wikipedia.org/wiki/Luxor_Governorate"
+      ]
+    },
+    "history": {
+      "en": "Ancient Thebes was a major religious and royal center. Today's Luxor Governorate was established separately from Qena in 2009 and also includes Esna and Armant.",
+      "ar": "طيبة القديمة كانت مركز مهم للحكم والعبادة. ومحافظة الأقصر بشكلها الإداري اتفصلت عن قنا سنة 2009، وبتضم كمان إسنا وأرمنت.",
+      "sources": [
+        "https://www.experienceegypt.eg/en/city/22/luxor",
+        "https://en.wikipedia.org/wiki/Luxor_Governorate"
+      ]
+    },
+    "geography": {
+      "en": "A Nile Valley governorate in Upper Egypt, with settlements and farmland beside the river and desert archaeological landscapes beyond.",
+      "ar": "محافظة في وادي النيل بالصعيد؛ الزرع والعمران حوالين النهر، ووراهم مناطق أثرية وصحراوية واسعة.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Luxor_Governorate",
+        "https://www.experienceegypt.eg/en/city/22/luxor"
+      ]
+    },
+    "population": {
+      "value": 1400640,
+      "as_of": "2023-07-01",
+      "type": "estimate",
+      "source_url": "https://www.citypopulation.de/en/egypt/cities/",
+      "attribution": "City Population, citing CAPMAS; historical estimate, not current population."
+    },
+    "area": {
+      "km2": 2960,
+      "source_url": "https://www.citypopulation.de/en/egypt/cities/",
+      "note": "Area reported by City Population; administrative-area figures differ between sources. Not independently boundary-audited."
+    },
+    "best_time": {
+      "months": [
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "en": "Winter is best for sustained sightseeing. Summer daytime heat is severe; start exposed visits early and avoid long midday walks.",
+      "ar": "الشتا أحسن وقت للفات طويلة بين الآثار. حر الصيف شديد، فابدأ بدري وابعد عن المشي الطويل وقت الضهر.",
+      "basis": "Editorial recommendation from station normals; not a weather forecast.",
+      "sources": [
+        "https://www.nodc.noaa.gov/archive/arc0216/0253808/2.2/data/0-data/Region-1-WMO-Normals-9120/Egypt/CSV/Luxor_62405.csv",
+        "https://www.experienceegypt.eg/en/usefulinfo"
+      ]
+    },
+    "climate_by_month": {
+      "station_file": "Luxor_62405.csv",
+      "normal_period": "1991-2020",
+      "coverage_note": {
+        "en": "Winter is best for sustained sightseeing. Summer daytime heat is severe; start exposed visits early and avoid long midday walks.",
+        "ar": "الشتا أحسن وقت للفات طويلة بين الآثار. حر الصيف شديد، فابدأ بدري وابعد عن المشي الطويل وقت الضهر."
+      },
+      "source_url": "https://www.nodc.noaa.gov/archive/arc0216/0253808/2.2/data/0-data/Region-1-WMO-Normals-9120/Egypt/CSV/Luxor_62405.csv",
+      "months": [
+        {
+          "month": 1,
+          "precipitation_mm": 2.78,
+          "high_c": 22.77,
+          "low_c": 7.13,
+          "mean_c": 14.74
+        },
+        {
+          "month": 2,
+          "precipitation_mm": 0.44,
+          "high_c": 25.3,
+          "low_c": 8.93,
+          "mean_c": 17.06
+        },
+        {
+          "month": 3,
+          "precipitation_mm": 1.74,
+          "high_c": 29.67,
+          "low_c": 12.8,
+          "mean_c": 21.32
+        },
+        {
+          "month": 4,
+          "precipitation_mm": 0.3,
+          "high_c": 34.99,
+          "low_c": 17.53,
+          "mean_c": 26.49
+        },
+        {
+          "month": 5,
+          "precipitation_mm": 0.75,
+          "high_c": 39.08,
+          "low_c": 22.14,
+          "mean_c": 30.99
+        },
+        {
+          "month": 6,
+          "precipitation_mm": 0.04,
+          "high_c": 41.22,
+          "low_c": 24.59,
+          "mean_c": 33.28
+        },
+        {
+          "month": 7,
+          "precipitation_mm": 0.0,
+          "high_c": 41.43,
+          "low_c": 25.72,
+          "mean_c": 33.85
+        },
+        {
+          "month": 8,
+          "precipitation_mm": 0.07,
+          "high_c": 41.22,
+          "low_c": 25.59,
+          "mean_c": 33.55
+        },
+        {
+          "month": 9,
+          "precipitation_mm": 0.45,
+          "high_c": 39.34,
+          "low_c": 23.26,
+          "mean_c": 31.27
+        },
+        {
+          "month": 10,
+          "precipitation_mm": 1.14,
+          "high_c": 35.46,
+          "low_c": 19.55,
+          "mean_c": 27.38
+        },
+        {
+          "month": 11,
+          "precipitation_mm": 0.54,
+          "high_c": 29.06,
+          "low_c": 13.43,
+          "mean_c": 21.04
+        },
+        {
+          "month": 12,
+          "precipitation_mm": 0.0,
+          "high_c": 24.18,
+          "low_c": 8.57,
+          "mean_c": 16.08
+        }
+      ]
+    },
+    "food_specialties": [
+      {
+        "name": {
+          "en": "Roasted peanuts",
+          "ar": "فول سوداني محمص"
+        },
+        "scope_note": "The official Luxor page specifically recommends this market snack.",
+        "sources": [
+          "https://www.experienceegypt.eg/en/home/culture",
+          "https://www.experienceegypt.eg/en/city/22/luxor"
+        ]
+      }
+    ],
+    "crafts": [],
+    "festivals": [],
+    "national_cultural_calendar": {
+      "en": "Ramadan, the Eids, Coptic Christmas and Sham al-Nessim are part of Egypt's national cultural calendar. This is not a verified local event schedule.",
+      "ar": "رمضان والعيدين وعيد الميلاد وشم النسيم جزء من المناسبات العامة في مصر. دي مش أجندة مهرجانات محلية مؤكدة.",
+      "sources": [
+        "https://www.experienceegypt.eg/en/home/culture"
+      ]
+    },
+    "transport": {
+      "en": "Luxor International Airport, Nile Valley trains and intercity buses provide access. Ferries, taxis, boats and licensed tours link the two banks and sites; river cruises commonly connect Luxor and Aswan.",
+      "ar": "الوصول من مطار الأقصر أو قطر الصعيد أو الأتوبيس. بين البرين فيه معديات ومراكب، وللمزارات تاكسي أو رحلات مرخصة، وكمان فيه كروزات بين الأقصر وأسوان.",
+      "sources": [
+        "https://www.experienceegypt.eg/en/usefulinfo",
+        "https://www.experienceegypt.eg/en/city/22/luxor"
+      ]
+    },
+    "cultural_character": {
+      "en": "A living Upper Egyptian city alongside some of Egypt's most concentrated temple and royal-tomb landscapes.",
+      "ar": "مدينة صعيدية عايشة بطبيعتها جنب تجمع ضخم من المعابد والمقابر الملكية؛ خلي الزيارة فيها وقت للمدينة نفسها مش الآثار بس.",
+      "sources": [
+        "https://www.experienceegypt.eg/en/city/22/luxor",
+        "https://www.experienceegypt.eg/en/home/culture"
+      ]
+    },
+    "vibes": [
+      "historic",
+      "spiritual",
+      "adventurous",
+      "romantic"
+    ],
+    "unknowns": [
+      "No verified local festival calendar in this batch.",
+      "Crafts and unique local dishes are omitted where no governorate-specific source was read.",
+      "Opening times, entry prices, live access rules and current transport schedules are not supplied."
+    ]
+  },
+  "aswan": {
+    "id": "aswan",
+    "name": {
+      "en": "Aswan",
+      "ar": "أسوان"
+    },
+    "capital": {
+      "en": "Aswan",
+      "ar": "أسوان",
+      "sources": [
+        "https://www.citypopulation.de/en/egypt/cities/"
+      ]
+    },
+    "overview": {
+      "en": "Aswan pairs Nile islands and Nubian cultural life with temples extending south to Abu Simbel. Make time for boats, village visits and quiet river views rather than treating it only as a cruise departure point.",
+      "ar": "أسوان فيها جزر النيل والثقافة النوبية ومعابد بتوصل لحد أبو سمبل. ادّي نفسك فرصة لركوبة مركب وزيارة قرية وقعدة على النيل، مش مجرد محطة تركب منها كروز وتمشي.",
+      "sources": [
+        "https://www.experienceegypt.eg/en/city/9/aswan-abu-simbel",
+        "https://en.wikipedia.org/wiki/Aswan_Governorate"
+      ]
+    },
+    "history": {
+      "en": "The governorate's heritage links ancient Egyptian and Nubian histories. The UNESCO-listed Nubian monuments from Abu Simbel to Philae preserve temple landscapes rescued during the international campaign associated with the Aswan High Dam.",
+      "ar": "تاريخ المنطقة بيجمع حضارات مصر القديمة والنوبة. معابد النوبة من أبو سمبل لفيلة ضمن تراث اليونسكو، وإنقاذها ارتبط بالحملة الدولية وقت إنشاء السد العالي.",
+      "sources": [
+        "https://www.experienceegypt.eg/en/city/9/aswan-abu-simbel",
+        "https://en.wikipedia.org/wiki/Aswan_Governorate"
+      ]
+    },
+    "geography": {
+      "en": "Egypt's southern Nile Valley governorate extends across desert landscapes and much of Lake Nasser to the Sudanese border.",
+      "ar": "أسوان في جنوب وادي النيل، وحدودها فيها مناطق صحراوية وجزء كبير من بحيرة ناصر لحد الحدود مع السودان.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Aswan_Governorate",
+        "https://www.experienceegypt.eg/en/city/9/aswan-abu-simbel"
+      ]
+    },
+    "population": {
+      "value": 1656218,
+      "as_of": "2023-07-01",
+      "type": "estimate",
+      "source_url": "https://www.citypopulation.de/en/egypt/cities/",
+      "attribution": "City Population, citing CAPMAS; historical estimate, not current population."
+    },
+    "area": {
+      "km2": 62726,
+      "source_url": "https://www.citypopulation.de/en/egypt/cities/",
+      "note": "Area reported by City Population; administrative-area figures differ between sources. Not independently boundary-audited."
+    },
+    "best_time": {
+      "months": [
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "en": "Choose the cooler months for temples and village visits. The Aswan station describes the city area; Abu Simbel has its own separate station in this dataset.",
+      "ar": "اختار الشهور الأبرد للمعابد والقرى. بيانات محطة أسوان للمنطقة حوالين المدينة؛ أبو سمبل ليها محطة مستقلة في البيانات المرفقة.",
+      "basis": "Editorial recommendation from station normals; not a weather forecast.",
+      "sources": [
+        "https://www.nodc.noaa.gov/archive/arc0216/0253808/2.2/data/0-data/Region-1-WMO-Normals-9120/Egypt/CSV/Asswan_62414.csv",
+        "https://www.experienceegypt.eg/en/usefulinfo"
+      ]
+    },
+    "climate_by_month": {
+      "station_file": "Asswan_62414.csv",
+      "normal_period": "1991-2020",
+      "coverage_note": {
+        "en": "Choose the cooler months for temples and village visits. The Aswan station describes the city area; Abu Simbel has its own separate station in this dataset.",
+        "ar": "اختار الشهور الأبرد للمعابد والقرى. بيانات محطة أسوان للمنطقة حوالين المدينة؛ أبو سمبل ليها محطة مستقلة في البيانات المرفقة."
+      },
+      "source_url": "https://www.nodc.noaa.gov/archive/arc0216/0253808/2.2/data/0-data/Region-1-WMO-Normals-9120/Egypt/CSV/Asswan_62414.csv",
+      "months": [
+        {
+          "month": 1,
+          "precipitation_mm": 0.1,
+          "high_c": 23.24,
+          "low_c": 9.98,
+          "mean_c": 16.32
+        },
+        {
+          "month": 2,
+          "precipitation_mm": 0.02,
+          "high_c": 25.86,
+          "low_c": 11.7,
+          "mean_c": 18.61
+        },
+        {
+          "month": 3,
+          "precipitation_mm": 0.59,
+          "high_c": 30.26,
+          "low_c": 15.47,
+          "mean_c": 22.87
+        },
+        {
+          "month": 4,
+          "precipitation_mm": 0.32,
+          "high_c": 35.49,
+          "low_c": 20.09,
+          "mean_c": 27.95
+        },
+        {
+          "month": 5,
+          "precipitation_mm": 0.1,
+          "high_c": 39.46,
+          "low_c": 24.57,
+          "mean_c": 32.24
+        },
+        {
+          "month": 6,
+          "precipitation_mm": 0.0,
+          "high_c": 41.61,
+          "low_c": 26.73,
+          "mean_c": 34.39
+        },
+        {
+          "month": 7,
+          "precipitation_mm": 0.0,
+          "high_c": 41.91,
+          "low_c": 27.76,
+          "mean_c": 35.07
+        },
+        {
+          "month": 8,
+          "precipitation_mm": 0.0,
+          "high_c": 41.92,
+          "low_c": 27.93,
+          "mean_c": 34.98
+        },
+        {
+          "month": 9,
+          "precipitation_mm": 0.13,
+          "high_c": 39.97,
+          "low_c": 25.49,
+          "mean_c": 32.69
+        },
+        {
+          "month": 10,
+          "precipitation_mm": 0.72,
+          "high_c": 36.39,
+          "low_c": 22.31,
+          "mean_c": 29.16
+        },
+        {
+          "month": 11,
+          "precipitation_mm": 0.0,
+          "high_c": 29.77,
+          "low_c": 16.2,
+          "mean_c": 22.7
+        },
+        {
+          "month": 12,
+          "precipitation_mm": 0.05,
+          "high_c": 24.47,
+          "low_c": 11.35,
+          "mean_c": 17.55
+        }
+      ]
+    },
+    "food_specialties": [
+      {
+        "name": {
+          "en": "Hibiscus tea",
+          "ar": "كركديه"
+        },
+        "scope_note": "The official Aswan page identifies hibiscus tea as a Nubian drink to try; it is not unique to Aswan.",
+        "sources": [
+          "https://www.experienceegypt.eg/en/home/culture",
+          "https://www.experienceegypt.eg/en/city/9/aswan-abu-simbel"
+        ]
+      }
+    ],
+    "crafts": [],
+    "festivals": [],
+    "national_cultural_calendar": {
+      "en": "Ramadan, the Eids, Coptic Christmas and Sham al-Nessim are part of Egypt's national cultural calendar. This is not a verified local event schedule.",
+      "ar": "رمضان والعيدين وعيد الميلاد وشم النسيم جزء من المناسبات العامة في مصر. دي مش أجندة مهرجانات محلية مؤكدة.",
+      "sources": [
+        "https://www.experienceegypt.eg/en/home/culture"
+      ]
+    },
+    "transport": {
+      "en": "Aswan International Airport and Nile Valley rail are major gateways; Abu Simbel has a separate airport. Local boats and ferries are integral to visiting the islands, with road or organized connections for Abu Simbel.",
+      "ar": "مطار أسوان وقطر الصعيد من طرق الوصول الأساسية، وأبو سمبل ليها مطار منفصل. المراكب والمعديات مهمة لزيارة الجزر، ومشوار أبو سمبل محتاج ترتيب مستقل بري أو جوي حسب الخدمة المتاحة.",
+      "sources": [
+        "https://www.experienceegypt.eg/en/usefulinfo",
+        "https://www.experienceegypt.eg/en/city/9/aswan-abu-simbel"
+      ]
+    },
+    "cultural_character": {
+      "en": "Nubian village architecture and traditions are part of a living culture, not just a sightseeing backdrop.",
+      "ar": "عمارة القرى النوبية وتقاليدها جزء من ثقافة حية وأهلها، مش مجرد خلفية للصور.",
+      "sources": [
+        "https://www.experienceegypt.eg/en/city/9/aswan-abu-simbel",
+        "https://www.experienceegypt.eg/en/home/culture"
+      ]
+    },
+    "vibes": [
+      "historic",
+      "relaxing/beach",
+      "romantic",
+      "spiritual",
+      "nature/desert"
+    ],
+    "unknowns": [
+      "No verified local festival calendar in this batch.",
+      "Crafts and unique local dishes are omitted where no governorate-specific source was read.",
+      "Opening times, entry prices, live access rules and current transport schedules are not supplied."
+    ]
+  },
+  "red-sea": {
+    "id": "red-sea",
+    "name": {
+      "en": "Red Sea",
+      "ar": "البحر الأحمر"
+    },
+    "capital": {
+      "en": "Hurghada",
+      "ar": "الغردقة",
+      "sources": [
+        "https://www.citypopulation.de/en/egypt/cities/"
+      ]
+    },
+    "overview": {
+      "en": "The Red Sea Governorate combines coral-fringed coast, resort towns and the Eastern Desert. Hurghada and El Gouna offer established visitor infrastructure, while Marsa Alam and Wadi El Gemal open up a different coastal and desert landscape farther south.",
+      "ar": "محافظة البحر الأحمر بتجمع البحر والشعاب والمنتجعات مع الصحراء الشرقية. الغردقة والجونة فيهم خدمات سياحية كتير، وكل ما تنزل ناحية مرسى علم ووادي الجمال هتشوف شكل تاني للساحل والطبيعة.",
+      "sources": [
+        "https://www.experienceegypt.eg/en/region/13/the-red-sea",
+        "https://en.wikipedia.org/wiki/Red_Sea_Governorate"
+      ]
+    },
+    "history": {
+      "en": "Hurghada grew from a fishing settlement into an international tourism center. The governorate's identity is not limited to modern resorts: its coastal ports and desert routes connect it to a much longer regional history.",
+      "ar": "الغردقة اتحولت من تجمع صيد لمدينة سياحية معروفة عالميًا. لكن تاريخ المحافظة مش مقتصر على المنتجعات الحديثة؛ المواني وطرق الصحرا جزء أقدم من حكايتها.",
+      "sources": [
+        "https://www.experienceegypt.eg/en/region/13/the-red-sea",
+        "https://en.wikipedia.org/wiki/Red_Sea_Governorate"
+      ]
+    },
+    "geography": {
+      "en": "This mainland governorate lies between the Nile Valley and the Red Sea. Do not confuse it with the wider tourism region: Sharm el-Sheikh and Dahab are in South Sinai, and Ain Sokhna is in Suez.",
+      "ar": "المحافظة على البر الرئيسي بين وادي النيل والبحر الأحمر. خلي بالك: شرم ودهب تبع جنوب سيناء، والعين السخنة تبع السويس، حتى لو كلهم بيتسوقوا سياحيًا تحت اسم البحر الأحمر.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Red_Sea_Governorate",
+        "https://www.experienceegypt.eg/en/region/13/the-red-sea"
+      ]
+    },
+    "population": {
+      "value": 403077,
+      "as_of": "2023-07-01",
+      "type": "estimate",
+      "source_url": "https://www.citypopulation.de/en/egypt/cities/",
+      "attribution": "City Population, citing CAPMAS; historical estimate, not current population."
+    },
+    "area": {
+      "km2": 120000,
+      "source_url": "https://www.citypopulation.de/en/egypt/cities/",
+      "note": "Area reported by City Population; administrative-area figures differ between sources. Not independently boundary-audited."
+    },
+    "best_time": {
+      "months": [
+        3,
+        4,
+        5,
+        10,
+        11
+      ],
+      "en": "Spring and autumn avoid the most intense summer heat. Coastal water and wind conditions matter separately; these air-temperature normals do not establish diving conditions.",
+      "ar": "الربيع والخريف بيبعدوك عن أشد حر الصيف. حرارة الميه والرياح ليهم حساب تاني؛ بيانات حرارة الجو دي مش تقييم لظروف الغطس.",
+      "basis": "Editorial recommendation from station normals; not a weather forecast.",
+      "sources": [
+        "https://www.nodc.noaa.gov/archive/arc0216/0253808/2.2/data/0-data/Region-1-WMO-Normals-9120/Egypt/CSV/HurghadaAP_62463.csv",
+        "https://www.experienceegypt.eg/en/usefulinfo"
+      ]
+    },
+    "climate_by_month": {
+      "station_file": "HurghadaAP_62463.csv",
+      "normal_period": "1991-2020",
+      "coverage_note": {
+        "en": "Spring and autumn avoid the most intense summer heat. Coastal water and wind conditions matter separately; these air-temperature normals do not establish diving conditions.",
+        "ar": "الربيع والخريف بيبعدوك عن أشد حر الصيف. حرارة الميه والرياح ليهم حساب تاني؛ بيانات حرارة الجو دي مش تقييم لظروف الغطس."
+      },
+      "source_url": "https://www.nodc.noaa.gov/archive/arc0216/0253808/2.2/data/0-data/Region-1-WMO-Normals-9120/Egypt/CSV/HurghadaAP_62463.csv",
+      "months": [
+        {
+          "month": 1,
+          "precipitation_mm": 0.72,
+          "high_c": 22.17,
+          "low_c": 11.56,
+          "mean_c": 16.56
+        },
+        {
+          "month": 2,
+          "precipitation_mm": 0.54,
+          "high_c": 23.45,
+          "low_c": 12.4,
+          "mean_c": 17.8
+        },
+        {
+          "month": 3,
+          "precipitation_mm": 1.14,
+          "high_c": 26.16,
+          "low_c": 15.09,
+          "mean_c": 20.65
+        },
+        {
+          "month": 4,
+          "precipitation_mm": 0.01,
+          "high_c": 29.86,
+          "low_c": 18.71,
+          "mean_c": 24.35
+        },
+        {
+          "month": 5,
+          "precipitation_mm": 0.38,
+          "high_c": 33.71,
+          "low_c": 23.06,
+          "mean_c": 28.5
+        },
+        {
+          "month": 6,
+          "precipitation_mm": 0.0,
+          "high_c": 36.25,
+          "low_c": 26.13,
+          "mean_c": 31.43
+        },
+        {
+          "month": 7,
+          "precipitation_mm": 0.0,
+          "high_c": 37.37,
+          "low_c": 27.84,
+          "mean_c": 32.71
+        },
+        {
+          "month": 8,
+          "precipitation_mm": 0.0,
+          "high_c": 37.48,
+          "low_c": 27.96,
+          "mean_c": 32.84
+        },
+        {
+          "month": 9,
+          "precipitation_mm": 0.01,
+          "high_c": 35.27,
+          "low_c": 25.64,
+          "mean_c": 30.55
+        },
+        {
+          "month": 10,
+          "precipitation_mm": 2.33,
+          "high_c": 32.07,
+          "low_c": 22.22,
+          "mean_c": 27.01
+        },
+        {
+          "month": 11,
+          "precipitation_mm": 2.22,
+          "high_c": 27.76,
+          "low_c": 17.65,
+          "mean_c": 22.36
+        },
+        {
+          "month": 12,
+          "precipitation_mm": 0.55,
+          "high_c": 23.81,
+          "low_c": 13.44,
+          "mean_c": 18.21
+        }
+      ]
+    },
+    "food_specialties": [
+      {
+        "name": {
+          "en": "Red Sea seafood",
+          "ar": "سمك ومأكولات بحرية"
+        },
+        "scope_note": "The official national food guide identifies the Red Sea coast as a seafood region.",
+        "sources": [
+          "https://www.experienceegypt.eg/en/home/culture",
+          "https://www.experienceegypt.eg/en/region/13/the-red-sea"
+        ]
+      }
+    ],
+    "crafts": [],
+    "festivals": [],
+    "national_cultural_calendar": {
+      "en": "Ramadan, the Eids, Coptic Christmas and Sham al-Nessim are part of Egypt's national cultural calendar. This is not a verified local event schedule.",
+      "ar": "رمضان والعيدين وعيد الميلاد وشم النسيم جزء من المناسبات العامة في مصر. دي مش أجندة مهرجانات محلية مؤكدة.",
+      "sources": [
+        "https://www.experienceegypt.eg/en/home/culture"
+      ]
+    },
+    "transport": {
+      "en": "Hurghada and Marsa Alam international airports are the main flight gateways. Intercity buses and road transfers connect the coastal towns; remote desert areas require current access checks with authorized operators.",
+      "ar": "مطار الغردقة ومطار مرسى علم أهم بوابتين جويتين. بين المدن فيه انتقالات برية وأتوبيسات، وأي منطقة صحراوية بعيدة لازم تتأكد من إمكانية زيارتها مع جهة مرخصة.",
+      "sources": [
+        "https://www.experienceegypt.eg/en/usefulinfo",
+        "https://www.experienceegypt.eg/en/region/13/the-red-sea"
+      ]
+    },
+    "cultural_character": {
+      "en": "Fishing and port communities, desert traditions and international resort life coexist along a very long coast.",
+      "ar": "على الساحل الطويل ده هتلاقي مجتمعات صيد ومواني وتقاليد صحراوية جنب حياة المنتجعات والسياحة الدولية.",
+      "sources": [
+        "https://www.experienceegypt.eg/en/region/13/the-red-sea",
+        "https://www.experienceegypt.eg/en/home/culture"
+      ]
+    },
+    "vibes": [
+      "relaxing/beach",
+      "adventurous",
+      "family",
+      "romantic",
+      "nature/desert"
+    ],
+    "unknowns": [
+      "No verified local festival calendar in this batch.",
+      "Crafts and unique local dishes are omitted where no governorate-specific source was read.",
+      "Opening times, entry prices, live access rules and current transport schedules are not supplied."
+    ]
+  },
+  "south-sinai": {
+    "id": "south-sinai",
+    "name": {
+      "en": "South Sinai",
+      "ar": "جنوب سيناء"
+    },
+    "capital": {
+      "en": "El Tor",
+      "ar": "الطور",
+      "sources": [
+        "https://www.citypopulation.de/en/egypt/cities/"
+      ]
+    },
+    "overview": {
+      "en": "South Sinai combines coral reefs, Bedouin communities and high granite mountains. Sharm el-Sheikh, laid-back Dahab and the religious landscape around Saint Catherine offer very different experiences within one governorate.",
+      "ar": "جنوب سيناء فيها شعاب وبحر ومجتمعات بدوية وجبال عالية. شرم غير دهب، والاتنين غير أجواء سانت كاترين؛ اختار على حسب نفسك في بحر وخدمات ولا هدوء ولا مشي وجبال.",
+      "sources": [
+        "https://www.experienceegypt.eg/en/city/16/sharm-al-sheikh",
+        "https://en.wikipedia.org/wiki/South_Sinai_Governorate"
+      ]
+    },
+    "history": {
+      "en": "Saint Catherine's Monastery preserves a major Christian monastic tradition. Sharm el-Sheikh's modern growth as an international resort began with diving tourism, while Bedouin communities remain central to Sinai's living heritage.",
+      "ar": "دير سانت كاترين شاهد مهم على تاريخ الرهبنة المسيحية. وشرم كبرت سياحيًا مع الغطس، بينما المجتمعات البدوية جزء أساسي من تراث سينا الحي لحد النهارده.",
+      "sources": [
+        "https://www.experienceegypt.eg/en/city/16/sharm-al-sheikh",
+        "https://en.wikipedia.org/wiki/South_Sinai_Governorate"
+      ]
+    },
+    "geography": {
+      "en": "The governorate occupies the southern Sinai Peninsula, between the gulfs of Suez and Aqaba and the Red Sea. High mountain conditions differ sharply from the warm coast.",
+      "ar": "المحافظة في جنوب شبه جزيرة سينا بين خليجي السويس والعقبة والبحر الأحمر. جو الجبال العالية مختلف جدًا عن الساحل، خصوصًا بالليل وفي الشتا.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/South_Sinai_Governorate",
+        "https://www.experienceegypt.eg/en/city/16/sharm-al-sheikh"
+      ]
+    },
+    "population": {
+      "value": 116479,
+      "as_of": "2023-07-01",
+      "type": "estimate",
+      "source_url": "https://www.citypopulation.de/en/egypt/cities/",
+      "attribution": "City Population, citing CAPMAS; historical estimate, not current population."
+    },
+    "area": {
+      "km2": 31272,
+      "source_url": "https://www.citypopulation.de/en/egypt/cities/",
+      "note": "Area reported by City Population; administrative-area figures differ between sources. Not independently boundary-audited."
+    },
+    "best_time": {
+      "months": [
+        3,
+        4,
+        5,
+        10,
+        11
+      ],
+      "en": "Spring and autumn are practical coastal defaults. Sharm airport normals must not be used for Saint Catherine's high mountains, where winter can be much colder.",
+      "ar": "الربيع والخريف اختيار مريح للساحل. بيانات مطار شرم مينفعش تتطبق على جبال سانت كاترين؛ برد الشتا هناك مختلف تمامًا.",
+      "basis": "Editorial recommendation from station normals; not a weather forecast.",
+      "sources": [
+        "https://www.nodc.noaa.gov/archive/arc0216/0253808/2.2/data/0-data/Region-1-WMO-Normals-9120/Egypt/CSV/SharmElSheikhAP_62460.csv",
+        "https://www.experienceegypt.eg/en/usefulinfo"
+      ]
+    },
+    "climate_by_month": {
+      "station_file": "SharmElSheikhAP_62460.csv",
+      "normal_period": "1991-2020",
+      "coverage_note": {
+        "en": "Spring and autumn are practical coastal defaults. Sharm airport normals must not be used for Saint Catherine's high mountains, where winter can be much colder.",
+        "ar": "الربيع والخريف اختيار مريح للساحل. بيانات مطار شرم مينفعش تتطبق على جبال سانت كاترين؛ برد الشتا هناك مختلف تمامًا."
+      },
+      "source_url": "https://www.nodc.noaa.gov/archive/arc0216/0253808/2.2/data/0-data/Region-1-WMO-Normals-9120/Egypt/CSV/SharmElSheikhAP_62460.csv",
+      "months": [
+        {
+          "month": 1,
+          "precipitation_mm": 2.81,
+          "high_c": 22.23,
+          "low_c": 13.76,
+          "mean_c": 17.75
+        },
+        {
+          "month": 2,
+          "precipitation_mm": 0.09,
+          "high_c": 23.57,
+          "low_c": 14.6,
+          "mean_c": 19.06
+        },
+        {
+          "month": 3,
+          "precipitation_mm": 1.59,
+          "high_c": 26.4,
+          "low_c": 17.26,
+          "mean_c": 21.76
+        },
+        {
+          "month": 4,
+          "precipitation_mm": 0.18,
+          "high_c": 30.42,
+          "low_c": 20.6,
+          "mean_c": 25.34
+        },
+        {
+          "month": 5,
+          "precipitation_mm": 0.5,
+          "high_c": 34.69,
+          "low_c": 24.31,
+          "mean_c": 29.37
+        },
+        {
+          "month": 6,
+          "precipitation_mm": 0.0,
+          "high_c": 37.53,
+          "low_c": 26.95,
+          "mean_c": 32.15
+        },
+        {
+          "month": 7,
+          "precipitation_mm": 0.0,
+          "high_c": 38.29,
+          "low_c": 28.29,
+          "mean_c": 33.12
+        },
+        {
+          "month": 8,
+          "precipitation_mm": 0.0,
+          "high_c": 38.23,
+          "low_c": 28.76,
+          "mean_c": 33.29
+        },
+        {
+          "month": 9,
+          "precipitation_mm": 0.03,
+          "high_c": 36.05,
+          "low_c": 26.98,
+          "mean_c": 31.31
+        },
+        {
+          "month": 10,
+          "precipitation_mm": 1.56,
+          "high_c": 32.5,
+          "low_c": 24.09,
+          "mean_c": 28.04
+        },
+        {
+          "month": 11,
+          "precipitation_mm": 2.21,
+          "high_c": 27.83,
+          "low_c": 19.62,
+          "mean_c": 23.52
+        },
+        {
+          "month": 12,
+          "precipitation_mm": 1.08,
+          "high_c": 23.94,
+          "low_c": 15.6,
+          "mean_c": 19.61
+        }
+      ]
+    },
+    "food_specialties": [
+      {
+        "name": {
+          "en": "Seafood",
+          "ar": "سمك ومأكولات بحرية"
+        },
+        "scope_note": "A regional coastal option, not a verified uniquely Sinaitic specialty.",
+        "sources": [
+          "https://www.experienceegypt.eg/en/home/culture",
+          "https://www.experienceegypt.eg/en/city/16/sharm-al-sheikh"
+        ]
+      }
+    ],
+    "crafts": [],
+    "festivals": [],
+    "national_cultural_calendar": {
+      "en": "Ramadan, the Eids, Coptic Christmas and Sham al-Nessim are part of Egypt's national cultural calendar. This is not a verified local event schedule.",
+      "ar": "رمضان والعيدين وعيد الميلاد وشم النسيم جزء من المناسبات العامة في مصر. دي مش أجندة مهرجانات محلية مؤكدة.",
+      "sources": [
+        "https://www.experienceegypt.eg/en/home/culture"
+      ]
+    },
+    "transport": {
+      "en": "Sharm el-Sheikh and Taba airports, intercity buses and road transfers provide access. Mountain and remote-desert trips require licensed local arrangements and an access check.",
+      "ar": "الوصول ممكن من مطار شرم أو طابا حسب الرحلات، أو بأتوبيس وانتقالات برية. مشاوير الجبال والصحرا البعيدة محتاجة ترتيب محلي مرخص والتأكد من السماح بالزيارة.",
+      "sources": [
+        "https://www.experienceegypt.eg/en/usefulinfo",
+        "https://www.experienceegypt.eg/en/city/16/sharm-al-sheikh"
+      ]
+    },
+    "cultural_character": {
+      "en": "Bedouin hospitality and community life sit alongside resort tourism and a major Christian pilgrimage landscape. Engage local guides and respect community and religious spaces.",
+      "ar": "الضيافة والحياة البدوية موجودين جنب السياحة والزيارات الدينية. استعِن بدليل محلي واحترم خصوصية المجتمعات وأماكن العبادة.",
+      "sources": [
+        "https://www.experienceegypt.eg/en/city/16/sharm-al-sheikh",
+        "https://www.experienceegypt.eg/en/home/culture"
+      ]
+    },
+    "vibes": [
+      "relaxing/beach",
+      "adventurous",
+      "spiritual",
+      "nature/desert",
+      "family",
+      "romantic"
+    ],
+    "unknowns": [
+      "No verified local festival calendar in this batch.",
+      "Crafts and unique local dishes are omitted where no governorate-specific source was read.",
+      "Opening times, entry prices, live access rules and current transport schedules are not supplied."
+    ]
+  }
+}

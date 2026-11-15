@@ -94,5 +94,62 @@
   "hurghada-museum": {
     "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hurghada+Museum&query_place_id=ChIJz6O44zOBUhQRC5OlEmjXFvA",
     "mapName": "Hurghada Museum"
+  },
+  "khan-el-khalili": {
+    "mapName": "Khan el-Khalili",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Khan+el-Khalili&query_place_id=ChIJD1gOLOtAWBQREX0CYeTgYRc",
+    "placeId": "ChIJD1gOLOtAWBQREX0CYeTgYRc"
+  },
+  "cairo-citadel": {
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Saladin+Citadel&query_place_id=ChIJY-3CkKxAWBQRby736eSW2y8",
+    "mapName": "Saladin Citadel"
+  },
+  "mosque-of-ibn-tulun": {
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mosque+of+Ibn+Tulun&query_place_id=ChIJp0luK01HWBQRUtnkQJOsgkA",
+    "mapName": "Mosque of Ibn Tulun"
+  },
+  "bahariya-oasis": {
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bahariya+Oasis&query_place_id=ChIJRVUIv01MXRQR3I_tC-H-KVU",
+    "mapName": "Bahariya Oasis"
+  },
+  "catacombs-of-kom-el-shoqafa": {
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Catacombs+of+Kom+el+Shoqafa&query_place_id=ChIJl6MZKprD9RQRkXHrajGfwGw",
+    "mapName": "Catacombs of Kom el Shoqafa"
+  },
+  "kom-ombo-temple": {
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kom+Ombo+Temple&query_place_id=ChIJpdcaWLEPNhQR_CT0Asrvvzw",
+    "mapName": "Kom Ombo Temple"
+  },
+  "hurghada": {
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hurghada&query_place_id=ChIJs7s9zbKHUhQRYMPTi_kHuC0",
+    "mapName": "Hurghada"
+  },
+  "el-gouna": {
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=El+Gouna&query_place_id=ChIJaTUkdntmUhQRowG-3jpVKc0",
+    "mapName": "El Gouna"
+  },
+  "marsa-alam": {
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Marsa+Alam&query_place_id=ChIJHbgDXCTqtBURMqx5fBaOrVE",
+    "mapName": "Marsa Alam"
+  },
+  "wadi-el-gemal-national-park": {
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Wadi+el+Gemal+Reserve&query_place_id=ChIJUQTyvWFqtRURthNPlkEuVEY",
+    "mapName": "Wadi el Gemal Reserve"
+  },
+  "ras-muhammad-national-park": {
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ras+Mohamed+Nature+Reserve&query_place_id=ChIJjaZakvEjUxQRRZNUw4HthtI",
+    "mapName": "Ras Mohamed Nature Reserve"
+  },
+  "dahab": {
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dahab&query_place_id=ChIJX1itvylLqxURvxkzeY0jZaw",
+    "mapName": "Dahab"
+  },
+  "saint-catherine-s-monastery": {
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Saint+Catherine%27s+Monastery&query_place_id=ChIJiadP7x2QVBQR39rGBUZ1H8k",
+    "mapName": "Saint Catherine's Monastery"
+  },
+  "mount-sinai": {
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jabal+Mousa&query_place_id=ChIJz8HfMlWFVBQR9-tmpwfR9gg",
+    "mapName": "Jabal Mousa"
   }
 }

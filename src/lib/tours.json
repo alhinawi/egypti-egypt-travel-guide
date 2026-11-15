@@ -77,5 +77,21 @@
     "source": "https://www.ees.ac.uk/resource/the-tomb-of-menna--tt69---luxor.html",
     "embedUrl": "https://my.matterport.com/show/?m=vLYoS66CWpk&play=1",
     "interiorVerified": true
+  },
+  {
+    "placeId": "khan-el-khalili",
+    "provider": "Rawi Publishing Egypt",
+    "kind": "video",
+    "title": {
+      "en": "Spices and Snacks: A walk through Cairo’s medieval Khan al-Khalili bazaar",
+      "ar": "توابل وأكلات خفيفة: لفة في خان الخليلي"
+    },
+    "scope": {
+      "ar": "فيديو مسجّل قصير من RAWI سنة ٢٠٢١. لفة في السوق، مش جولة ٣٦٠ أو دخول تفاعلي لجوه كل المحلات.",
+      "en": "A short recorded RAWI walkthrough from 2021. Not a 360 visit or an interactive tour inside every shop."
+    },
+    "url": "https://www.youtube.com/watch?v=xW75h9XP934",
+    "embedUrl": "https://www.youtube.com/embed/xW75h9XP934",
+    "source": "https://artsandculture.google.com/asset/a-walk-through-cairo-s-khan-al-khalili-bazaar/kwGMyJb-ccBRwQ?hl=en"
   }
 ]
