@@ -350,5 +350,149 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
     "changes": "resized, WebP; card crop",
     "captured": "Date 29 September 2014, 16:21:40"
+  },
+  "abu-simbel-gallery-1": {
+    "file": "abu-simbel-gallery-1",
+    "alt": {
+      "ar": "قدس الأقداس داخل المعبد الكبير بأبو سمبل",
+      "en": "Sanctuary inside the Great Temple at Abu Simbel"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Templo_de_Rams%C3%A9s_II,_Abu_Simbel,_Egipto,_2022-04-02,_DD_26-28_HDR.jpg",
+    "author": "Diego Delso, delso.photo",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "changes": "resized, WebP; gallery crop"
+  },
+  "abu-simbel-gallery-2": {
+    "file": "abu-simbel-gallery-2",
+    "alt": {
+      "ar": "نقوش حائطية داخل معبد رمسيس الثاني بأبو سمبل",
+      "en": "Wall reliefs inside the Temple of Ramses II at Abu Simbel"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Templo_de_Rams%C3%A9s_II,_Abu_Simbel,_Egipto,_2022-04-02,_DD_74-76_HDR.jpg",
+    "author": "Diego Delso, delso.photo",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "changes": "resized, WebP; gallery crop"
+  },
+  "giza-pyramids-gallery-1": {
+    "file": "giza-pyramids-gallery-1",
+    "alt": {
+      "ar": "أهرامات الجيزة من الهضبة",
+      "en": "Giza pyramids viewed from the plateau"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:All_Gizah_Pyramids.jpg",
+    "author": "Ricardo Liberato",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "changes": "resized, WebP; gallery crop"
+  },
+  "giza-pyramids-gallery-2": {
+    "file": "giza-pyramids-gallery-2",
+    "alt": {
+      "ar": "عمل فني مؤقت أمام الأهرامات في معرض فوريفر إز ناو، صورة أرشيفية",
+      "en": "Temporary artwork at the Forever Is Now exhibition by the pyramids, archival photo"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Giza_Pyramids_during_%22Forever_is_Now%22_exhibition.jpg",
+    "author": "Mona Hassan Abo-Abda",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "changes": "resized, WebP; gallery crop"
+  },
+  "karnak-gallery-1": {
+    "file": "karnak-gallery-1",
+    "alt": {
+      "ar": "مدخل وأفنية في مجمع معابد الكرنك",
+      "en": "Entrance and courts of the Karnak temple complex"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Karnak_temple_complex_12.jpg",
+    "author": "Hamerani",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "changes": "resized, WebP; gallery crop"
+  },
+  "karnak-gallery-2": {
+    "file": "karnak-gallery-2",
+    "alt": {
+      "ar": "تماثيل الكباش في معبد الكرنك",
+      "en": "Ram-headed sphinxes at Karnak Temple"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Templo_de_Karnak,_Luxor,_Egipto,_2022-04-03,_DD_144.jpg",
+    "author": "Diego Delso, delso.photo",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "changes": "resized, WebP; gallery crop"
+  },
+  "qaitbay-gallery-1": {
+    "file": "qaitbay-gallery-1",
+    "alt": {
+      "ar": "برج قلعة قايتباي",
+      "en": "Main tower of the Citadel of Qaitbay"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Citadel_of_Qaitbay_014.JPG",
+    "author": "لا روسا",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "changes": "resized, WebP; gallery crop"
+  },
+  "qaitbay-gallery-2": {
+    "file": "qaitbay-gallery-2",
+    "alt": {
+      "ar": "الفناء الأمامي لقلعة قايتباي",
+      "en": "Forecourt of the Citadel of Qaitbay"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Forecourt_of_the_Citadel_of_Qaitbay_02.jpg",
+    "author": "Slyronit",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "changes": "resized, WebP; gallery crop"
+  },
+  "philae-gallery-1": {
+    "file": "philae-gallery-1",
+    "alt": {
+      "ar": "جدران وفناء معابد فيلة",
+      "en": "Walls and court at Philae temples"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Philae_Temple_R05.jpg",
+    "author": "Marc Ryckaert",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "changes": "resized, WebP; gallery crop"
+  },
+  "philae-gallery-2": {
+    "file": "philae-gallery-2",
+    "alt": {
+      "ar": "صرح معبد إيزيس في فيلة",
+      "en": "Pylon of the Temple of Isis at Philae"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Philae_Temple_R03.jpg",
+    "author": "Marc Ryckaert",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "changes": "resized, WebP; gallery crop"
+  },
+  "menna-tt69-detail-0": {
+    "file": "menna-tt69-detail-0",
+    "alt": {
+      "ar": "مناظر زراعية على جدران مقبرة مننا",
+      "en": "Agricultural scenes on the walls of the Tomb of Menna"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:By_ovedc_-_Tomb_of_Menna_-_07.jpg",
+    "author": "Ovedc",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "changes": "resized, WebP; gallery crop"
+  },
+  "menna-tt69-detail-1": {
+    "file": "menna-tt69-detail-1",
+    "alt": {
+      "ar": "رسوم ملونة داخل مقبرة مننا TT69",
+      "en": "Painted walls inside the Tomb of Menna TT69"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:By_ovedc_-_Tomb_of_Menna_-_10.jpg",
+    "author": "Ovedc",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "changes": "resized, WebP; gallery crop"
   }
 }
