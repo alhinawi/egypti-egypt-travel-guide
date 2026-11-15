@@ -2,12 +2,12 @@
   "khan-el-khalili": {
     "history": {
       "en": "The market takes its name from Amir Jaharkas al-Khalili, who established a khan, or merchants’ lodging and trading complex, here in the late 14th century under the Mamluks. The Egyptian government’s Hekayet Sharee history dates it to 1382. Do not mistake today’s bazaar for an intact 14th-century building. The original khan no longer survives; Sultan al-Ghuri replaced it in 1511 with shops, warehouses, lodgings and trading buildings. Decorated gateways remain part of the historic streetscape.",
-      "ar": "السوق واخد اسمه من الأمير جهاركس الخليلي، اللي بنى هنا خان لإقامة التجار والتجارة في أواخر القرن الـ١٤ وقت المماليك. مشروع «حكاية شارع» الحكومي بيؤرّخ بناءه بسنة ١٣٨٢. السوق اللي بنشوفه النهارده مش مبنى الخان الأصلي زي ما هو. الخان القديم ما بقاش موجود؛ السلطان الغوري هدمه سنة ١٥١١ وعمل مكانه حوانيت ومخازن وربوع ووكالات، ولسه البوابات المزخرفة جزء من شكل المنطقة التاريخي.",
+      "ar": "السوق واخد اسمه من الأمير جهاركس الخليلي، اللي بنى هنا خان لإقامة التجار والتجارة في أواخر القرن الـ14 وقت المماليك. مشروع «حكاية شارع» الحكومي بيؤرّخ بناءه بسنة 1382. السوق اللي بنشوفه النهارده مش مبنى الخان الأصلي زي ما هو. الخان القديم ما بقاش موجود؛ السلطان الغوري هدمه سنة 1511 وعمل مكانه حوانيت ومخازن وربوع ووكالات، ولسه البوابات المزخرفة جزء من شكل المنطقة التاريخي.",
       "items": [
         {
           "text": {
             "en": "The market takes its name from Amir Jaharkas al-Khalili, who established a khan, or merchants’ lodging and trading complex, here in the late 14th century under the Mamluks. The Egyptian government’s Hekayet Sharee history dates it to 1382.",
-            "ar": "السوق واخد اسمه من الأمير جهاركس الخليلي، اللي بنى هنا خان لإقامة التجار والتجارة في أواخر القرن الـ١٤ وقت المماليك. مشروع «حكاية شارع» الحكومي بيؤرّخ بناءه بسنة ١٣٨٢."
+            "ar": "السوق واخد اسمه من الأمير جهاركس الخليلي، اللي بنى هنا خان لإقامة التجار والتجارة في أواخر القرن الـ14 وقت المماليك. مشروع «حكاية شارع» الحكومي بيؤرّخ بناءه بسنة 1382."
           },
           "source_ids": [
             "history",
@@ -21,7 +21,7 @@
         {
           "text": {
             "en": "Do not mistake today’s bazaar for an intact 14th-century building. The original khan no longer survives; Sultan al-Ghuri replaced it in 1511 with shops, warehouses, lodgings and trading buildings. Decorated gateways remain part of the historic streetscape.",
-            "ar": "السوق اللي بنشوفه النهارده مش مبنى الخان الأصلي زي ما هو. الخان القديم ما بقاش موجود؛ السلطان الغوري هدمه سنة ١٥١١ وعمل مكانه حوانيت ومخازن وربوع ووكالات، ولسه البوابات المزخرفة جزء من شكل المنطقة التاريخي."
+            "ar": "السوق اللي بنشوفه النهارده مش مبنى الخان الأصلي زي ما هو. الخان القديم ما بقاش موجود؛ السلطان الغوري هدمه سنة 1511 وعمل مكانه حوانيت ومخازن وربوع ووكالات، ولسه البوابات المزخرفة جزء من شكل المنطقة التاريخي."
           },
           "source_ids": [
             "history",
@@ -331,7 +331,7 @@
         },
         "venue": {
           "en": "Naguib Mahfouz Café, 5 El Badistan Lane",
-          "ar": "قهوة ومطعم نجيب محفوظ، ٥ حارة البادستان"
+          "ar": "قهوة ومطعم نجيب محفوظ، 5 حارة البادستان"
         },
         "source_ids": [
           "food_review",
@@ -559,7 +559,7 @@
       "opening_hours": {
         "text": {
           "en": "There is no single opening or closing time for the whole bazaar. Lonely Planet gives roughly 09:00 until after sunset for many shops, with Friday-morning and Sunday exceptions; souvenir stalls may stay open while customers remain. Treat this as a guide, not a guaranteed schedule, and check individual businesses.",
-          "ar": "مفيش معاد فتح أو قفل واحد لكل السوق. لونلي بلانت بتذكر إن محلات كتير بتفتح تقريبًا من ٩ الصبح لِبعد المغرب، مع اختلافات صباح الجمعة ويوم الأحد؛ ومحلات الهدايا ممكن تفضل فاتحة طول ما فيه زباين. دي مواعيد استرشادية مش جدول مضمون، فاتأكد من المحل اللي رايحه."
+          "ar": "مفيش معاد فتح أو قفل واحد لكل السوق. لونلي بلانت بتذكر إن محلات كتير بتفتح تقريبًا من 9 الصبح لِبعد المغرب، مع اختلافات صباح الجمعة ويوم الأحد؛ ومحلات الهدايا ممكن تفضل فاتحة طول ما فيه زباين. دي مواعيد استرشادية مش جدول مضمون، فاتأكد من المحل اللي رايحه."
         },
         "source_ids": [
           "lp_market"
@@ -676,7 +676,7 @@
         "file": "khan-photo-3",
         "alt": {
           "en": "Lantern and lighting display, photographed in 2019",
-          "ar": "عرض فوانيس ووحدات إضاءة، متصور سنة ٢٠١٩"
+          "ar": "عرض فوانيس ووحدات إضاءة، متصور سنة 2019"
         },
         "source": "https://commons.wikimedia.org/wiki/File:Khan_el-Khalili_2019.jpg",
         "author": "Mohammed Moussa",
@@ -702,7 +702,7 @@
         "file": "khan-photo-5",
         "alt": {
           "en": "Spice stalls, photographed in 1994",
-          "ar": "محلات توابل، صورة من سنة ١٩٩٤"
+          "ar": "محلات توابل، صورة من سنة 1994"
         },
         "source": "https://commons.wikimedia.org/wiki/File:Cairo_-_Khan_al-Khalili_spice_market_1994.jpg",
         "author": "Jon Gudorf Photography",
@@ -1080,7 +1080,7 @@
     "buy": [],
     "history": {
       "en": "Opened in 1902, the Egyptian Museum on Tahrir Square is itself a historic landmark as well as an antiquities museum. Its building was designed by Marcel Dourgnon after an international architectural competition.",
-      "ar": "المتحف المصري في التحرير اتفتح سنة ١٩٠٢، وهو معلم تاريخي في حد ذاته بجانب كونه متحف آثار. صمّم مبناه مارسيل دورنيون بعد مسابقة معمارية دولية.",
+      "ar": "المتحف المصري في التحرير اتفتح سنة 1902، وهو معلم تاريخي في حد ذاته بجانب كونه متحف آثار. صمّم مبناه مارسيل دورنيون بعد مسابقة معمارية دولية.",
       "items": [
         {
           "text": {
@@ -5347,7 +5347,7 @@
     "visiting": {
       "details": {
         "text": {
-          "ar": "الأسئلة الشائعة الحالية بتقول احجز أونلاين مسبقًا بمعاد دخول. القاعات من ٩ الصبح لـ٦ المغرب، ولـ٩ بالليل السبت والأربعاء. مجمع المتحف ليه مواعيد مختلفة.",
+          "ar": "الأسئلة الشائعة الحالية بتقول احجز أونلاين مسبقًا بمعاد دخول. القاعات من 9 الصبح لـ6 المغرب، ولـ9 بالليل السبت والأربعاء. مجمع المتحف ليه مواعيد مختلفة.",
           "en": "The current official FAQ says book online in advance with an entry time. Galleries: 09:00-18:00, extended to 21:00 on Saturdays and Wednesdays. The complex has different hours."
         },
         "source_urls": [
@@ -6046,7 +6046,7 @@
         {
           "text": {
             "en": "Sources differ on the exact construction year: the ministry gives 1503 while other architectural accounts use 1504-1505. Use early 16th century unless explaining the difference.",
-            "ar": "المصادر بتختلف في سنة الإنشاء الدقيقة: الوزارة بتذكر ١٥٠٣، وحسابات معمارية تانية بتستخدم ١٥٠٤-١٥٠٥. الأفضل نقول أوائل القرن السادس عشر إلا لو هنشرح الاختلاف."
+            "ar": "المصادر بتختلف في سنة الإنشاء الدقيقة: الوزارة بتذكر 1503، وحسابات معمارية تانية بتستخدم 1504-1505. الأفضل نقول أوائل القرن السادس عشر إلا لو هنشرح الاختلاف."
           },
           "source_urls": [
             "https://mota.gov.eg/ar/%D8%A7%D9%84%D8%A2%D8%AB%D8%A7%D8%B1-%D9%88%D8%A7%D9%84%D9%85%D8%AA%D8%A7%D8%AD%D9%81/%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%A3%D8%B9%D9%84%D9%89-%D9%84%D9%84%D8%A2%D8%AB%D8%A7%D8%B1/%D8%AF%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D8%A7%D9%84%D8%A3%D8%AB%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D9%81%D8%AA%D9%88%D8%AD%D8%A9-%D9%84%D9%84%D8%B2%D9%8A%D8%A7%D8%B1%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF/%D9%88%D9%83%D8%A7%D9%84%D8%A9-%D8%A7%D9%84%D8%BA%D9%88%D8%B1%D9%8A/",
@@ -6217,7 +6217,7 @@
     "visiting": {
       "details": {
         "text": {
-          "ar": "صفحة الوزارة بتذكر الزيارة النهارية من ٩ الصبح لـ٥، وفي رمضان لـ٤. دي مش مواعيد عروض بالليل.",
+          "ar": "صفحة الوزارة بتذكر الزيارة النهارية من 9 الصبح لـ5، وفي رمضان لـ4. دي مش مواعيد عروض بالليل.",
           "en": "The ministry page lists daytime visits 09:00-17:00 and Ramadan 09:00-16:00. This is not an evening performance timetable."
         },
         "source_urls": [
@@ -8574,7 +8574,7 @@
         "file": "khan-photo-3",
         "alt": {
           "en": "Lantern and lighting display, photographed in 2019",
-          "ar": "عرض فوانيس ووحدات إضاءة، متصور سنة ٢٠١٩"
+          "ar": "عرض فوانيس ووحدات إضاءة، متصور سنة 2019"
         },
         "source": "https://commons.wikimedia.org/wiki/File:Khan_el-Khalili_2019.jpg",
         "author": "Mohammed Moussa",
@@ -8587,7 +8587,7 @@
         "file": "khan-photo-5",
         "alt": {
           "en": "Spice stalls, photographed in 1994",
-          "ar": "محلات توابل، صورة من سنة ١٩٩٤"
+          "ar": "محلات توابل، صورة من سنة 1994"
         },
         "source": "https://commons.wikimedia.org/wiki/File:Cairo_-_Khan_al-Khalili_spice_market_1994.jpg",
         "author": "Jon Gudorf Photography",
@@ -8768,7 +8768,7 @@
   "qalawun-complex": {
     "history": {
       "en": "Sultan al-Mansur Qalawun commissioned this complex in 1284-1285 at Bayn al-Qasrayn. It combined religious teaching, commemoration and medical charity through its madrasa, mausoleum and bimaristan.",
-      "ar": "السلطان المنصور قلاوون أنشأ المجموعة دي في بين القصرين سنة ١٢٨٤-١٢٨٥. جمعت التعليم الديني والتخليد والعمل الخيري الطبي من خلال المدرسة والضريح والبيمارستان.",
+      "ar": "السلطان المنصور قلاوون أنشأ المجموعة دي في بين القصرين سنة 1284-1285. جمعت التعليم الديني والتخليد والعمل الخيري الطبي من خلال المدرسة والضريح والبيمارستان.",
       "items": [],
       "source_urls": [
         "https://en.wikipedia.org/wiki/Qalawun_complex"
@@ -9045,7 +9045,7 @@
         "file": "khan-photo-3",
         "alt": {
           "en": "Lantern and lighting display, photographed in 2019",
-          "ar": "عرض فوانيس ووحدات إضاءة، متصور سنة ٢٠١٩"
+          "ar": "عرض فوانيس ووحدات إضاءة، متصور سنة 2019"
         },
         "source": "https://commons.wikimedia.org/wiki/File:Khan_el-Khalili_2019.jpg",
         "author": "Mohammed Moussa",
@@ -9058,7 +9058,7 @@
         "file": "khan-photo-5",
         "alt": {
           "en": "Spice stalls, photographed in 1994",
-          "ar": "محلات توابل، صورة من سنة ١٩٩٤"
+          "ar": "محلات توابل، صورة من سنة 1994"
         },
         "source": "https://commons.wikimedia.org/wiki/File:Cairo_-_Khan_al-Khalili_spice_market_1994.jpg",
         "author": "Jon Gudorf Photography",
@@ -9239,7 +9239,7 @@
   "sultan-barquq-complex": {
     "history": {
       "en": "Built for Sultan al-Zahir Barquq in 1384-1386, the complex combined a madrasa for the four Sunni legal schools, a mosque, a Sufi khanqah and a mausoleum for members of his family.",
-      "ar": "المجموعة اتبنت للسلطان الظاهر برقوق سنة ١٣٨٤-١٣٨٦، وجمعت مدرسة للمذاهب السنية الأربعة وجامع وخانقاه صوفية وضريح لأفراد من أسرته.",
+      "ar": "المجموعة اتبنت للسلطان الظاهر برقوق سنة 1384-1386، وجمعت مدرسة للمذاهب السنية الأربعة وجامع وخانقاه صوفية وضريح لأفراد من أسرته.",
       "items": [],
       "source_urls": [
         "https://egymonuments.gov.eg/en/monuments/madrasa-and-khanaqah-of-sultan-al-zahir-barquq"
@@ -9516,7 +9516,7 @@
         "file": "khan-photo-3",
         "alt": {
           "en": "Lantern and lighting display, photographed in 2019",
-          "ar": "عرض فوانيس ووحدات إضاءة، متصور سنة ٢٠١٩"
+          "ar": "عرض فوانيس ووحدات إضاءة، متصور سنة 2019"
         },
         "source": "https://commons.wikimedia.org/wiki/File:Khan_el-Khalili_2019.jpg",
         "author": "Mohammed Moussa",
@@ -9529,7 +9529,7 @@
         "file": "khan-photo-5",
         "alt": {
           "en": "Spice stalls, photographed in 1994",
-          "ar": "محلات توابل، صورة من سنة ١٩٩٤"
+          "ar": "محلات توابل، صورة من سنة 1994"
         },
         "source": "https://commons.wikimedia.org/wiki/File:Cairo_-_Khan_al-Khalili_spice_market_1994.jpg",
         "author": "Jon Gudorf Photography",
@@ -9710,7 +9710,7 @@
   "al-aqmar-mosque": {
     "history": {
       "en": "The Fatimid al-Aqmar Mosque was commissioned in 1125 under Caliph al-Amir. Its street-aligned façade and the prayer orientation inside respond to different directions, a distinctive feature of its design. Later Mamluk restoration is recorded in the building.",
-      "ar": "جامع الأقمر الفاطمي أُنشئ سنة ١١٢٥ في عهد الخليفة الآمر. الواجهة ماشية مع اتجاه الشارع بينما اتجاه الصلاة جوّه مختلف، ودي سمة مميزة في تصميمه. المبنى كمان بيسجّل تجديدات مملوكية لاحقة.",
+      "ar": "جامع الأقمر الفاطمي أُنشئ سنة 1125 في عهد الخليفة الآمر. الواجهة ماشية مع اتجاه الشارع بينما اتجاه الصلاة جوّه مختلف، ودي سمة مميزة في تصميمه. المبنى كمان بيسجّل تجديدات مملوكية لاحقة.",
       "items": [],
       "source_urls": [
         "https://egymonuments.gov.eg/en/monuments/al-aqmar-mosque"
@@ -9986,7 +9986,7 @@
         "file": "khan-photo-3",
         "alt": {
           "en": "Lantern and lighting display, photographed in 2019",
-          "ar": "عرض فوانيس ووحدات إضاءة، متصور سنة ٢٠١٩"
+          "ar": "عرض فوانيس ووحدات إضاءة، متصور سنة 2019"
         },
         "source": "https://commons.wikimedia.org/wiki/File:Khan_el-Khalili_2019.jpg",
         "author": "Mohammed Moussa",
@@ -9999,7 +9999,7 @@
         "file": "khan-photo-5",
         "alt": {
           "en": "Spice stalls, photographed in 1994",
-          "ar": "محلات توابل، صورة من سنة ١٩٩٤"
+          "ar": "محلات توابل، صورة من سنة 1994"
         },
         "source": "https://commons.wikimedia.org/wiki/File:Cairo_-_Khan_al-Khalili_spice_market_1994.jpg",
         "author": "Jon Gudorf Photography",
@@ -10180,7 +10180,7 @@
   "bayt-al-suhaymi": {
     "history": {
       "en": "The house in Darb al-Asfar joins an earlier section founded in 1648 with a later addition from 1796. It takes its name from its last resident, Shaykh Muhammad Amin al-Suhaymi, an al-Azhar scholar.",
-      "ar": "البيت في الدرب الأصفر بيجمع جزء أقدم اتبنى سنة ١٦٤٨ مع إضافة من سنة ١٧٩٦. واخد اسمه من آخر ساكن ليه، الشيخ محمد أمين السحيمي، أحد علماء الأزهر.",
+      "ar": "البيت في الدرب الأصفر بيجمع جزء أقدم اتبنى سنة 1648 مع إضافة من سنة 1796. واخد اسمه من آخر ساكن ليه، الشيخ محمد أمين السحيمي، أحد علماء الأزهر.",
       "items": [],
       "source_urls": [
         "https://egymonuments.gov.eg/en/monuments/bayt-al-suhaymi-house-of-suhaymi"
@@ -10457,7 +10457,7 @@
         "file": "khan-photo-3",
         "alt": {
           "en": "Lantern and lighting display, photographed in 2019",
-          "ar": "عرض فوانيس ووحدات إضاءة، متصور سنة ٢٠١٩"
+          "ar": "عرض فوانيس ووحدات إضاءة، متصور سنة 2019"
         },
         "source": "https://commons.wikimedia.org/wiki/File:Khan_el-Khalili_2019.jpg",
         "author": "Mohammed Moussa",
@@ -10470,7 +10470,7 @@
         "file": "khan-photo-5",
         "alt": {
           "en": "Spice stalls, photographed in 1994",
-          "ar": "محلات توابل، صورة من سنة ١٩٩٤"
+          "ar": "محلات توابل، صورة من سنة 1994"
         },
         "source": "https://commons.wikimedia.org/wiki/File:Cairo_-_Khan_al-Khalili_spice_market_1994.jpg",
         "author": "Jon Gudorf Photography",
@@ -10651,7 +10651,7 @@
   "bab-al-futuh": {
     "history": {
       "en": "Badr al-Jamali built this northern gate in 1087 during the reign of the Fatimid caliph al-Mustansir. Although its foundation inscription names Bab al-Iqbal, the older name Bab al-Futuh remained in use.",
-      "ar": "بدر الجمالي بنى البوابة الشمالية دي سنة ١٠٨٧ في عهد الخليفة الفاطمي المستنصر. رغم إن نص التأسيس بيسميها باب الإقبال، اسم باب الفتوح الأقدم فضل مستخدم.",
+      "ar": "بدر الجمالي بنى البوابة الشمالية دي سنة 1087 في عهد الخليفة الفاطمي المستنصر. رغم إن نص التأسيس بيسميها باب الإقبال، اسم باب الفتوح الأقدم فضل مستخدم.",
       "items": [],
       "source_urls": [
         "https://egymonuments.gov.eg/en/monuments/bab-al-futuh/"
@@ -10928,7 +10928,7 @@
         "file": "khan-photo-3",
         "alt": {
           "en": "Lantern and lighting display, photographed in 2019",
-          "ar": "عرض فوانيس ووحدات إضاءة، متصور سنة ٢٠١٩"
+          "ar": "عرض فوانيس ووحدات إضاءة، متصور سنة 2019"
         },
         "source": "https://commons.wikimedia.org/wiki/File:Khan_el-Khalili_2019.jpg",
         "author": "Mohammed Moussa",
@@ -10941,7 +10941,7 @@
         "file": "khan-photo-5",
         "alt": {
           "en": "Spice stalls, photographed in 1994",
-          "ar": "محلات توابل، صورة من سنة ١٩٩٤"
+          "ar": "محلات توابل، صورة من سنة 1994"
         },
         "source": "https://commons.wikimedia.org/wiki/File:Cairo_-_Khan_al-Khalili_spice_market_1994.jpg",
         "author": "Jon Gudorf Photography",
@@ -11122,7 +11122,7 @@
   "bab-al-nasr": {
     "history": {
       "en": "Built by Badr al-Jamali in 1087, this stone gate replaced an earlier brick entrance in Cairo’s northern defenses. It opens onto Al-Gamaliya Street and is distinguished by its square towers.",
-      "ar": "البوابة الحجر دي بناها بدر الجمالي سنة ١٠٨٧ بدل مدخل أقدم بالطوب في تحصينات شمال القاهرة. بتفتح على شارع الجمالية، ومميزة ببرجيها المربعين.",
+      "ar": "البوابة الحجر دي بناها بدر الجمالي سنة 1087 بدل مدخل أقدم بالطوب في تحصينات شمال القاهرة. بتفتح على شارع الجمالية، ومميزة ببرجيها المربعين.",
       "items": [],
       "source_urls": [
         "https://egymonuments.gov.eg/en/monuments/bab-al-nasr"
@@ -11399,7 +11399,7 @@
         "file": "khan-photo-3",
         "alt": {
           "en": "Lantern and lighting display, photographed in 2019",
-          "ar": "عرض فوانيس ووحدات إضاءة، متصور سنة ٢٠١٩"
+          "ar": "عرض فوانيس ووحدات إضاءة، متصور سنة 2019"
         },
         "source": "https://commons.wikimedia.org/wiki/File:Khan_el-Khalili_2019.jpg",
         "author": "Mohammed Moussa",
@@ -11412,7 +11412,7 @@
         "file": "khan-photo-5",
         "alt": {
           "en": "Spice stalls, photographed in 1994",
-          "ar": "محلات توابل، صورة من سنة ١٩٩٤"
+          "ar": "محلات توابل، صورة من سنة 1994"
         },
         "source": "https://commons.wikimedia.org/wiki/File:Cairo_-_Khan_al-Khalili_spice_market_1994.jpg",
         "author": "Jon Gudorf Photography",
@@ -11593,7 +11593,7 @@
   "bab-zuweila": {
     "history": {
       "en": "The southern gate was built in 1092 under Badr al-Jamali. Centuries later, Sultan al-Muayyad Shaykh placed the minarets of his adjoining mosque on the gate’s towers, linking Fatimid defenses with Mamluk religious architecture.",
-      "ar": "البوابة الجنوبية اتبنت سنة ١٠٩٢ في عهد بدر الجمالي. وبعد قرون، السلطان المؤيد شيخ بنى مآذن جامعه المجاور فوق برجي البوابة، فربط تحصينات فاطمية بعمارة دينية مملوكية.",
+      "ar": "البوابة الجنوبية اتبنت سنة 1092 في عهد بدر الجمالي. وبعد قرون، السلطان المؤيد شيخ بنى مآذن جامعه المجاور فوق برجي البوابة، فربط تحصينات فاطمية بعمارة دينية مملوكية.",
       "items": [],
       "source_urls": [
         "https://egymonuments.gov.eg/en/monuments/bab-zuwayla/"
@@ -11870,7 +11870,7 @@
         "file": "khan-photo-3",
         "alt": {
           "en": "Lantern and lighting display, photographed in 2019",
-          "ar": "عرض فوانيس ووحدات إضاءة، متصور سنة ٢٠١٩"
+          "ar": "عرض فوانيس ووحدات إضاءة، متصور سنة 2019"
         },
         "source": "https://commons.wikimedia.org/wiki/File:Khan_el-Khalili_2019.jpg",
         "author": "Mohammed Moussa",
@@ -11883,7 +11883,7 @@
         "file": "khan-photo-5",
         "alt": {
           "en": "Spice stalls, photographed in 1994",
-          "ar": "محلات توابل، صورة من سنة ١٩٩٤"
+          "ar": "محلات توابل، صورة من سنة 1994"
         },
         "source": "https://commons.wikimedia.org/wiki/File:Cairo_-_Khan_al-Khalili_spice_market_1994.jpg",
         "author": "Jon Gudorf Photography",
