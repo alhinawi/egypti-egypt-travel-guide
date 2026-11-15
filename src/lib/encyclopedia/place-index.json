@@ -1331,5 +1331,226 @@
       "https://en.wikipedia.org/wiki/Marsa_Matrouh",
       "https://www.sis.gov.eg/Story/1145/Siwa?lang=en-us"
     ]
+  },
+  "coptic-museum": {
+    "governorate": "cairo",
+    "vibes": [
+      "historic"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://egymonuments.gov.eg/en/museums/the-coptic-museum",
+      "https://en.wikipedia.org/wiki/Coptic_Museum"
+    ]
+  },
+  "hanging-church": {
+    "governorate": "cairo",
+    "vibes": [
+      "historic"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://egymonuments.gov.eg/en/monuments/the-hanging-church",
+      "https://en.wikipedia.org/wiki/Hanging_Church"
+    ]
+  },
+  "ben-ezra-synagogue": {
+    "governorate": "cairo",
+    "vibes": [
+      "historic"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://egymonuments.gov.eg/en/monuments/ben-ezra-synagogue",
+      "https://en.wikipedia.org/wiki/Ben_Ezra_Synagogue"
+    ]
+  },
+  "abu-serga-church": {
+    "governorate": "cairo",
+    "vibes": [
+      "historic"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://egymonuments.gov.eg/en/monuments/church-of-saint-sergius-and-bacchus",
+      "https://en.wikipedia.org/wiki/Saints_Sergius_and_Bacchus_Church"
+    ]
+  },
+  "amr-ibn-al-as-mosque": {
+    "governorate": "cairo",
+    "vibes": [
+      "historic"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://egymonuments.gov.eg/en/monuments/the-mosque-of-amr-ibn-al-as",
+      "https://en.wikipedia.org/wiki/Amr_ibn_al-As_Mosque"
+    ]
+  },
+  "national-museum-egyptian-civilization": {
+    "governorate": "cairo",
+    "vibes": [
+      "historic"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://nmec.gov.eg/main-gallery/",
+      "https://nmec.gov.eg/mummies-hall/",
+      "https://nmec.gov.eg/",
+      "https://en.wikipedia.org/wiki/National_Museum_of_Egyptian_Civilization"
+    ]
+  },
+  "rhoda-nilometer": {
+    "governorate": "cairo",
+    "vibes": [
+      "historic"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://egymonuments.gov.eg/en/monuments/rawda-island-nilometer",
+      "https://www.wikidata.org/wiki/Q1992209"
+    ]
+  },
+  "manial-palace": {
+    "governorate": "cairo",
+    "vibes": [
+      "historic"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://egymonuments.gov.eg/en/museums/manial-palace-museum/",
+      "https://en.wikipedia.org/wiki/Manial_Palace_and_Museum"
+    ]
+  },
+  "muhammad-ali-mosque": {
+    "governorate": "cairo",
+    "vibes": [
+      "historic"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://egymonuments.gov.eg/en/monuments/muhammad-ali-mosque/",
+      "https://egymonuments.gov.eg/en/archaeological-sites/cairo-citadel/",
+      "https://en.wikipedia.org/wiki/Muhammad_Ali_Mosque"
+    ]
+  },
+  "sultan-hassan-mosque": {
+    "governorate": "cairo",
+    "vibes": [
+      "historic"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://egymonuments.gov.eg/en/monuments/mosque-and-madrasa-of-sultan-hasan/",
+      "https://en.wikipedia.org/wiki/Mosque-Madrasa_of_Sultan_Hasan"
+    ]
+  },
+  "al-rifai-mosque": {
+    "governorate": "cairo",
+    "vibes": [
+      "historic"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://egymonuments.gov.eg/en/monuments/al-rifa-i-mosque/",
+      "https://en.wikipedia.org/wiki/Al-Rifa%27i_Mosque"
+    ]
+  },
+  "al-azhar-mosque": {
+    "governorate": "cairo",
+    "vibes": [
+      "historic"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://www.cairo.gov.eg/en/culture/cairo-history/mosques-and-churches/cairo-mosques/",
+      "https://en.wikipedia.org/wiki/Al-Azhar_Mosque"
+    ]
+  },
+  "al-hussein-mosque": {
+    "governorate": "cairo",
+    "vibes": [
+      "historic"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://www.cairo.gov.eg/en/culture/cairo-history/mosques-and-churches/cairo-mosques/",
+      "https://en.wikipedia.org/wiki/Al-Hussein_Mosque"
+    ]
+  },
+  "abdeen-palace": {
+    "governorate": "cairo",
+    "vibes": [
+      "historic"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://www.presidency.eg/en/%D8%A7%D9%84%D9%82%D8%B5%D9%88%D8%B1-%D8%A7%D9%84%D8%B1%D8%A6%D8%A7%D8%B3%D9%8A%D8%A9/%D9%82%D8%B5%D8%B1-%D8%B9%D8%A7%D8%A8%D8%AF%D9%8A%D9%86/",
+      "https://en.wikipedia.org/wiki/Abdeen_Palace"
+    ]
+  },
+  "cairo-tower": {
+    "governorate": "cairo",
+    "vibes": [
+      "historic"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://www.cairo.gov.eg/en/culture/cairo-history/modern-landmarks/cairo-tower/",
+      "https://en.wikipedia.org/wiki/Cairo_Tower"
+    ]
+  },
+  "al-azhar-park": {
+    "governorate": "cairo",
+    "vibes": [
+      "relaxing",
+      "nature"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://azharpark.com/",
+      "https://en.wikipedia.org/wiki/Al-Azhar_Park"
+    ]
+  },
+  "wadi-degla": {
+    "governorate": "cairo",
+    "vibes": [
+      "nature",
+      "adventure"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://cairo.gov.eg/en/tourism/tourism-destinations/nature-reserves/",
+      "https://www.natureegypt.org/what-we-do/massage/wadi-degla-virtual-museum"
+    ]
+  },
+  "baron-empain-palace": {
+    "governorate": "cairo",
+    "vibes": [
+      "historic"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://egymonuments.gov.eg/monuments/baron-empain-palace",
+      "https://en.wikipedia.org/wiki/Baron_Empain_Palace"
+    ]
   }
 }

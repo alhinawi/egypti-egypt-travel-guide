@@ -1,3 +1,4 @@
+import cairoRichPlaces from './cairo-rich-places.json';
 import atlasPlaces from './atlas-places.json';
 import programs from './programs.json';
 export type Lang='ar'|'en';
@@ -73,7 +74,8 @@ export const places:Place[]=[
 {id:'hurghada-museum',destination:'hurghada',name:{ar:'متحف الغردقة',en:'Hurghada Museum'},description:{ar:'متحف للآثار في الغردقة. اختيار ثقافي في رحلة البحر، مع مراجعة التذاكر والمواعيد من المصدر.',en:'An archaeological museum in Hurghada. A cultural option on a seaside trip. Check admission and hours at the source.'},category:'culture',source:'https://egymonuments.gov.eg/en/museums/hurghada-museum/'},
 {id:'hurghada-markets',destination:'hurghada',name:{ar:'الأسواق التقليدية بالغردقة',en:'Hurghada’s traditional markets'},description:{ar:'جولة في أسواق المدينة التقليدية المذكورة في الدليل الرسمي. اسأل عن السعر واتفق عليه قبل الشراء.',en:'Explore the city’s traditional markets mentioned in the official guide. Ask for and agree on prices before buying.'},category:'city',source:source('hurghada')},
 {id:'hurghada-desert',destination:'hurghada',name:{ar:'صحراء ومحيط الغردقة',en:'Desert around Hurghada'},description:{ar:'كثبان ومناطق صحراوية يذكرها الدليل الرسمي. أي نشاط خارج المدينة يحتاج مشغّل مرخّص وترتيبات أمان وتصاريح مناسبة.',en:'Dunes and desert areas described by the official guide. Activities outside the city require a licensed operator and appropriate safety arrangements and permits.'},category:'nature',source:source('hurghada')},
-...atlasPlaces as Place[]
+...atlasPlaces as Place[],
+...cairoRichPlaces as Place[]
 ];
 export interface Itinerary {id:string;destination:string;title:Bilingual;days:{title:Bilingual;places:string[];note:Bilingual;morning?:Bilingual;afternoon?:Bilingual;evening?:Bilingual;nightBase?:string|null}[];program?:{start:string;end:string;budget:Bilingual;season:Bilingual;sources:string[];access:Bilingual};}
 export const itineraries:Itinerary[]=[

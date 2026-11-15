@@ -473,16 +473,16 @@
     "changes": "resized, converted to WebP; layout crop"
   },
   "marsa-alam": {
-    "file": "marsa-alam",
+    "file": "marsa-alam-main-road-roland-unger",
     "alt": {
-      "en": "A southern Red Sea coastal destination known for marine tourism.",
-      "ar": "وجهة على ساحل البحر الأحمر في الجنوب، معروفة بالسياحة البحرية."
+      "en": "South side of the main road in Marsa Alam town, looking west, 20 December 2015.",
+      "ar": "الجانب الجنوبي من الشارع الرئيسي في مدينة مرسى علم، باتجاه الغرب، 20 ديسمبر 2015."
     },
-    "source": "https://commons.wikimedia.org/wiki/File:Carnelia_Beach,_Marsa_Alam_(2232052889).jpg",
-    "author": "Andrew A. Shenouda from Riyadh, Saudi Arabia",
-    "license": "CC BY 2.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-    "changes": "resized, converted to WebP; layout crop"
+    "source": "https://commons.wikimedia.org/wiki/File:MarsaAlamMainRoadToWest.jpg",
+    "author": "Roland Unger",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "changes": "Publisher mirror is resized and AVIF-converted. Attached JPG is an additional format conversion; no crop or content edits by this research task. Resized and converted to WebP; layout crop."
   },
   "wadi-el-gemal-national-park": {
     "file": "wadi-el-gemal-national-park",
@@ -1320,6 +1320,224 @@
     },
     "source": "https://commons.wikimedia.org/wiki/File:20191112_165747jpg.jpg",
     "author": "Imannaguib7",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "coptic-museum": {
+    "file": "Q1784177-hero",
+    "alt": {
+      "en": "Le Musée Copte du Caire",
+      "ar": "فناء المتحف القبطي"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Le_Mus%C3%A9e_Copte_du_Caire.JPG",
+    "author": "The original uploader was Néfermaât at French Wikipedia.",
+    "license": "CC BY-SA 2.0 fr",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/fr/deed.en",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "hanging-church": {
+    "file": "Q2422298-hero",
+    "alt": {
+      "en": "Kairo Hanging Church BW 1",
+      "ar": "واجهة الكنيسة المعلّقة والسلم"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Kairo_Hanging_Church_BW_1.jpg",
+    "author": "Berthold Werner",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "ben-ezra-synagogue": {
+    "file": "Q2474653-hero",
+    "alt": {
+      "en": "Ben Ezra Synagogue Interior",
+      "ar": "داخل معبد بن عزرا من الشرفة العلوية"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Ben_Ezra_Synagogue_Interior.jpg",
+    "author": "Schlanger",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "abu-serga-church": {
+    "file": "Q2965718-hero",
+    "alt": {
+      "en": "Cairo, chiesa di san sergio 01",
+      "ar": "داخل كنيسة أبو سرجة"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Cairo,_chiesa_di_san_sergio_01.JPG",
+    "author": "Sailko",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "amr-ibn-al-as-mosque": {
+    "file": "Q683511-hero",
+    "alt": {
+      "en": "Mosque Amr ibn Al-As Entrance",
+      "ar": "مدخل جامع عمرو بن العاص"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Mosque_Amr_ibn_Al-As_Entrance.jpg",
+    "author": "Buyoof",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "national-museum-egyptian-civilization": {
+    "file": "Q29017001-hero",
+    "alt": {
+      "en": "NMEC-MainEntrance",
+      "ar": "المدخل الرئيسي لمتحف الحضارة"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:NMEC-MainEntrance.jpg",
+    "author": "Roland Unger",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "rhoda-nilometer": {
+    "file": "Q1992209-hero",
+    "alt": {
+      "en": "Exterior shelter over the Rawda Nilometer, not the measuring well",
+      "ar": "المبنى الخارجي لمقياس النيل بالروضة"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Cairo_Nilometer_1.jpg",
+    "author": "Baldiri",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "manial-palace": {
+    "file": "Q2586045-hero",
+    "alt": {
+      "en": "GD-EG-Caire-AlManyal020",
+      "ar": "مدخل قصر المنيل"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:GD-EG-Caire-AlManyal020.JPG",
+    "author": "Néfermaât",
+    "license": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "muhammad-ali-mosque": {
+    "file": "Q652046-hero",
+    "alt": {
+      "en": "Muhammad Ali Mosque illuminated at night; not proof of night visitor access",
+      "ar": "جامع محمد علي مضاء بالليل؛ الصورة مش دليل على إتاحة الزيارة الليلية"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Mosque_of_Muhammad_Ali_nights.jpg",
+    "author": "Mohamed abdelzaher",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "sultan-hassan-mosque": {
+    "file": "Q1430119-hero",
+    "alt": {
+      "en": "Sultan Hasan Mosque on the left, al-Rifai on the right",
+      "ar": "جامع السلطان حسن على الشمال والرفاعي على اليمين"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:%D9%85%D8%B3%D8%AC%D8%AF%D9%89_%D8%A7%D9%84%D8%B1%D9%81%D8%A7%D8%B9%D9%89_%D9%88%D8%A7%D9%84%D8%B3%D9%84%D8%B7%D8%A7%D9%86_%D8%A7%D9%84%D9%82%D8%A7%D9%87%D8%B1%D8%A9.jpg",
+    "author": "Batoul Khalifa",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "al-rifai-mosque": {
+    "file": "Q311441-hero",
+    "alt": {
+      "en": "Al-Rifai Mosque on the right, Sultan Hasan on the left",
+      "ar": "جامع الرفاعي على اليمين والسلطان حسن على الشمال"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Cairo-Moskee_Sultan_Hassan_-_Moskee_ar-Rifai.jpg",
+    "author": "Original uploader was Chris Karman at nl.wikipedia",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "al-azhar-mosque": {
+    "file": "khan-nearby-2",
+    "alt": {
+      "en": "Al-Azhar Mosque domes and minarets",
+      "ar": "قباب ومآذن الجامع الأزهر"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Cairo_-_Islamic_district_-_Al_Azhar_Mosque_and_University.JPG",
+    "author": "Daniel Mayer",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "resized, converted to WebP; layout crop",
+    "captured": "2008-07"
+  },
+  "al-hussein-mosque": {
+    "file": "khan-nearby-4",
+    "alt": {
+      "en": "Al-Hussein Mosque exterior",
+      "ar": "جامع الحسين من برّه"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Kairo_Al_Hussein_Mosque_BW_1.jpg",
+    "author": "Berthold Werner",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "changes": "resized, converted to WebP; layout crop",
+    "captured": "2010-11-04"
+  },
+  "abdeen-palace": {
+    "file": "Q307747-hero",
+    "alt": {
+      "en": "GD-EG-Caire-Abedin001",
+      "ar": "واجهة قصر عابدين"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:GD-EG-Caire-Abedin001.JPG",
+    "author": "Gérard Ducher (user:Néfermaât)",
+    "license": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "cairo-tower": {
+    "file": "Q614684-hero",
+    "alt": {
+      "en": "The Cairo Tower",
+      "ar": "برج القاهرة من النيل"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:The_Cairo_Tower.jpg",
+    "author": "Mohamedusrii",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "al-azhar-park": {
+    "file": "Q286446-hero",
+    "alt": {
+      "en": "Azhar Park",
+      "ar": "حدائق الأزهر والقاهرة التاريخية"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Azhar_Park.jpg",
+    "author": "Yasser Nazmi",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "wadi-degla": {
+    "file": "Q12241414-hero",
+    "alt": {
+      "en": "Wadi Degla",
+      "ar": "الوادي الصحراوي في محمية وادي دجلة"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Wadi_Degla.jpg",
+    "author": "Premiero",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "baron-empain-palace": {
+    "file": "Q808618-hero",
+    "alt": {
+      "en": "The exterior of the Baron Empain palace",
+      "ar": "واجهة قصر البارون"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:The_exterior_of_the_Baron_Empain_palace.jpg",
+    "author": "Bishoy Samuel",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "changes": "Resized and converted to WebP; layout crop"

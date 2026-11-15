@@ -2884,6 +2884,594 @@
           }
         }
       ]
+    },
+    "cairo-citadel": {
+      "place_center": {
+        "lat": 30.0294,
+        "lon": 31.2614,
+        "note": "Representative source coordinate, not a verified visitor entrance.",
+        "source": "Wikidata P625"
+      },
+      "place_coordinate_note": null,
+      "hotels": [
+        {
+          "wikidata_id": "Q8024637",
+          "name_en": "Windsor Hotel",
+          "name_ar": "فندق وندسور",
+          "name_ar_status": "from Wikidata label",
+          "distance_km_straight_line": 3.06,
+          "map_url": "https://www.openstreetmap.org/?mlat=30.052977&mlon=31.245038#map=17/30.052977/31.245038",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q8024637",
+          "official_website": "http://www.windsorcairo.com/",
+          "coords": [
+            30.05298,
+            31.24504
+          ],
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/The_Windsor_Hotel_Central_Cairo_%282354404413%29.jpg/960px-The_Windsor_Hotel_Central_Cairo_%282354404413%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "commons_page": "https://commons.wikimedia.org/wiki/File:The_Windsor_Hotel_Central_Cairo_(2354404413).jpg",
+            "file_title": "File:The Windsor Hotel Central Cairo (2354404413).jpg",
+            "license": "CC BY 2.0",
+            "license_url": "https://creativecommons.org/licenses/by/2.0",
+            "author": "Gaynor Barton",
+            "visually_checked": true,
+            "src": "/photos/hotels/Q8024637.webp"
+          }
+        },
+        {
+          "wikidata_id": "Q47429618",
+          "name_en": "Steigenberger Hotel El Tahrir Cairo",
+          "name_ar": "فندق شتيجنبرجر التحرير القاهرة",
+          "name_ar_status": "from Wikidata label",
+          "distance_km_straight_line": 3.18,
+          "map_url": "https://www.openstreetmap.org/?mlat=30.047318&mlon=31.235665#map=17/30.047318/31.235665",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q47429618",
+          "official_website": null,
+          "coords": [
+            30.04732,
+            31.23567
+          ],
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/CairoSteigenbergerHotelElTahrir.jpg/960px-CairoSteigenbergerHotelElTahrir.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "commons_page": "https://commons.wikimedia.org/wiki/File:CairoSteigenbergerHotelElTahrir.jpg",
+            "file_title": "File:CairoSteigenbergerHotelElTahrir.jpg",
+            "license": "CC BY-SA 4.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+            "author": "Roland Unger",
+            "visually_checked": true,
+            "src": "/photos/hotels/Q47429618.webp"
+          }
+        }
+      ]
+    },
+    "muhammad-ali-mosque": {
+      "place_center": {
+        "lat": 30.028611111111,
+        "lon": 31.259722222222,
+        "note": "Representative source coordinate, not a verified visitor entrance.",
+        "source": "Wikidata P625"
+      },
+      "place_coordinate_note": null,
+      "hotels": [
+        {
+          "wikidata_id": "Q8024637",
+          "name_en": "Windsor Hotel",
+          "name_ar": "فندق وندسور",
+          "name_ar_status": "from Wikidata label",
+          "distance_km_straight_line": 3.06,
+          "map_url": "https://www.openstreetmap.org/?mlat=30.052977&mlon=31.245038#map=17/30.052977/31.245038",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q8024637",
+          "official_website": "http://www.windsorcairo.com/",
+          "coords": [
+            30.05298,
+            31.24504
+          ],
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/The_Windsor_Hotel_Central_Cairo_%282354404413%29.jpg/960px-The_Windsor_Hotel_Central_Cairo_%282354404413%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "commons_page": "https://commons.wikimedia.org/wiki/File:The_Windsor_Hotel_Central_Cairo_(2354404413).jpg",
+            "file_title": "File:The Windsor Hotel Central Cairo (2354404413).jpg",
+            "license": "CC BY 2.0",
+            "license_url": "https://creativecommons.org/licenses/by/2.0",
+            "author": "Gaynor Barton",
+            "visually_checked": true,
+            "src": "/photos/hotels/Q8024637.webp"
+          }
+        },
+        {
+          "wikidata_id": "Q47429618",
+          "name_en": "Steigenberger Hotel El Tahrir Cairo",
+          "name_ar": "فندق شتيجنبرجر التحرير القاهرة",
+          "name_ar_status": "from Wikidata label",
+          "distance_km_straight_line": 3.11,
+          "map_url": "https://www.openstreetmap.org/?mlat=30.047318&mlon=31.235665#map=17/30.047318/31.235665",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q47429618",
+          "official_website": null,
+          "coords": [
+            30.04732,
+            31.23567
+          ],
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/CairoSteigenbergerHotelElTahrir.jpg/960px-CairoSteigenbergerHotelElTahrir.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "commons_page": "https://commons.wikimedia.org/wiki/File:CairoSteigenbergerHotelElTahrir.jpg",
+            "file_title": "File:CairoSteigenbergerHotelElTahrir.jpg",
+            "license": "CC BY-SA 4.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+            "author": "Roland Unger",
+            "visually_checked": true,
+            "src": "/photos/hotels/Q47429618.webp"
+          }
+        }
+      ]
+    },
+    "sultan-hassan-mosque": {
+      "place_center": {
+        "lat": 30.0319,
+        "lon": 31.2567,
+        "note": "Representative source coordinate, not a verified visitor entrance.",
+        "source": "Wikidata P625"
+      },
+      "place_coordinate_note": null,
+      "hotels": [
+        {
+          "wikidata_id": "Q8024637",
+          "name_en": "Windsor Hotel",
+          "name_ar": "فندق وندسور",
+          "name_ar_status": "from Wikidata label",
+          "distance_km_straight_line": 2.6,
+          "map_url": "https://www.openstreetmap.org/?mlat=30.052977&mlon=31.245038#map=17/30.052977/31.245038",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q8024637",
+          "official_website": "http://www.windsorcairo.com/",
+          "coords": [
+            30.05298,
+            31.24504
+          ],
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/The_Windsor_Hotel_Central_Cairo_%282354404413%29.jpg/960px-The_Windsor_Hotel_Central_Cairo_%282354404413%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "commons_page": "https://commons.wikimedia.org/wiki/File:The_Windsor_Hotel_Central_Cairo_(2354404413).jpg",
+            "file_title": "File:The Windsor Hotel Central Cairo (2354404413).jpg",
+            "license": "CC BY 2.0",
+            "license_url": "https://creativecommons.org/licenses/by/2.0",
+            "author": "Gaynor Barton",
+            "visually_checked": true,
+            "src": "/photos/hotels/Q8024637.webp"
+          }
+        },
+        {
+          "wikidata_id": "Q47429618",
+          "name_en": "Steigenberger Hotel El Tahrir Cairo",
+          "name_ar": "فندق شتيجنبرجر التحرير القاهرة",
+          "name_ar_status": "from Wikidata label",
+          "distance_km_straight_line": 2.65,
+          "map_url": "https://www.openstreetmap.org/?mlat=30.047318&mlon=31.235665#map=17/30.047318/31.235665",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q47429618",
+          "official_website": null,
+          "coords": [
+            30.04732,
+            31.23567
+          ],
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/CairoSteigenbergerHotelElTahrir.jpg/960px-CairoSteigenbergerHotelElTahrir.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "commons_page": "https://commons.wikimedia.org/wiki/File:CairoSteigenbergerHotelElTahrir.jpg",
+            "file_title": "File:CairoSteigenbergerHotelElTahrir.jpg",
+            "license": "CC BY-SA 4.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+            "author": "Roland Unger",
+            "visually_checked": true,
+            "src": "/photos/hotels/Q47429618.webp"
+          }
+        }
+      ]
+    },
+    "al-rifai-mosque": {
+      "place_center": {
+        "lat": 30.032777777778,
+        "lon": 31.256666666667,
+        "note": "Representative source coordinate, not a verified visitor entrance.",
+        "source": "Wikidata P625"
+      },
+      "place_coordinate_note": null,
+      "hotels": [
+        {
+          "wikidata_id": "Q8024637",
+          "name_en": "Windsor Hotel",
+          "name_ar": "فندق وندسور",
+          "name_ar_status": "from Wikidata label",
+          "distance_km_straight_line": 2.51,
+          "map_url": "https://www.openstreetmap.org/?mlat=30.052977&mlon=31.245038#map=17/30.052977/31.245038",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q8024637",
+          "official_website": "http://www.windsorcairo.com/",
+          "coords": [
+            30.05298,
+            31.24504
+          ],
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/The_Windsor_Hotel_Central_Cairo_%282354404413%29.jpg/960px-The_Windsor_Hotel_Central_Cairo_%282354404413%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "commons_page": "https://commons.wikimedia.org/wiki/File:The_Windsor_Hotel_Central_Cairo_(2354404413).jpg",
+            "file_title": "File:The Windsor Hotel Central Cairo (2354404413).jpg",
+            "license": "CC BY 2.0",
+            "license_url": "https://creativecommons.org/licenses/by/2.0",
+            "author": "Gaynor Barton",
+            "visually_checked": true,
+            "src": "/photos/hotels/Q8024637.webp"
+          }
+        },
+        {
+          "wikidata_id": "Q47429618",
+          "name_en": "Steigenberger Hotel El Tahrir Cairo",
+          "name_ar": "فندق شتيجنبرجر التحرير القاهرة",
+          "name_ar_status": "from Wikidata label",
+          "distance_km_straight_line": 2.59,
+          "map_url": "https://www.openstreetmap.org/?mlat=30.047318&mlon=31.235665#map=17/30.047318/31.235665",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q47429618",
+          "official_website": null,
+          "coords": [
+            30.04732,
+            31.23567
+          ],
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/CairoSteigenbergerHotelElTahrir.jpg/960px-CairoSteigenbergerHotelElTahrir.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "commons_page": "https://commons.wikimedia.org/wiki/File:CairoSteigenbergerHotelElTahrir.jpg",
+            "file_title": "File:CairoSteigenbergerHotelElTahrir.jpg",
+            "license": "CC BY-SA 4.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+            "author": "Roland Unger",
+            "visually_checked": true,
+            "src": "/photos/hotels/Q47429618.webp"
+          }
+        }
+      ]
+    },
+    "mosque-of-ibn-tulun": {
+      "place_center": {
+        "lat": 30.02875,
+        "lon": 31.249528,
+        "note": "Representative source coordinate, not a verified visitor entrance.",
+        "source": "Wikidata P625"
+      },
+      "place_coordinate_note": null,
+      "hotels": [
+        {
+          "wikidata_id": "Q47429618",
+          "name_en": "Steigenberger Hotel El Tahrir Cairo",
+          "name_ar": "فندق شتيجنبرجر التحرير القاهرة",
+          "name_ar_status": "from Wikidata label",
+          "distance_km_straight_line": 2.46,
+          "map_url": "https://www.openstreetmap.org/?mlat=30.047318&mlon=31.235665#map=17/30.047318/31.235665",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q47429618",
+          "official_website": null,
+          "coords": [
+            30.04732,
+            31.23567
+          ],
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/CairoSteigenbergerHotelElTahrir.jpg/960px-CairoSteigenbergerHotelElTahrir.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "commons_page": "https://commons.wikimedia.org/wiki/File:CairoSteigenbergerHotelElTahrir.jpg",
+            "file_title": "File:CairoSteigenbergerHotelElTahrir.jpg",
+            "license": "CC BY-SA 4.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+            "author": "Roland Unger",
+            "visually_checked": true,
+            "src": "/photos/hotels/Q47429618.webp"
+          }
+        },
+        {
+          "wikidata_id": "Q54887660",
+          "name_en": "Nile Ritz Carlton",
+          "name_ar": "نايل ريتز كارلتون",
+          "name_ar_status": "from Wikidata label",
+          "distance_km_straight_line": 2.53,
+          "map_url": "https://www.openstreetmap.org/?mlat=30.04608&mlon=31.23256#map=17/30.04608/31.23256",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q54887660",
+          "official_website": null,
+          "coords": [
+            30.04608,
+            31.23256
+          ],
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/View_of_Nile_%26_Ritz_Carlton_%28Ex_Nile_Hilton%29_%2810713994736%29.jpg/960px-View_of_Nile_%26_Ritz_Carlton_%28Ex_Nile_Hilton%29_%2810713994736%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "commons_page": "https://commons.wikimedia.org/wiki/File:View_of_Nile_%26_Ritz_Carlton_(Ex_Nile_Hilton)_(10713994736).jpg",
+            "file_title": "File:View of Nile & Ritz Carlton (Ex Nile Hilton) (10713994736).jpg",
+            "license": "CC BY 2.0",
+            "license_url": "https://creativecommons.org/licenses/by/2.0",
+            "author": "Mark Muehlhaeusler",
+            "visually_checked": true,
+            "src": "/photos/hotels/Q54887660.webp"
+          }
+        }
+      ]
+    },
+    "al-azhar-mosque": {
+      "place_center": {
+        "lat": 30.045726,
+        "lon": 31.262696,
+        "note": "Representative source coordinate, not a verified visitor entrance.",
+        "source": "Wikidata P625"
+      },
+      "place_coordinate_note": null,
+      "hotels": [
+        {
+          "wikidata_id": "Q8024637",
+          "name_en": "Windsor Hotel",
+          "name_ar": "فندق وندسور",
+          "name_ar_status": "from Wikidata label",
+          "distance_km_straight_line": 1.88,
+          "map_url": "https://www.openstreetmap.org/?mlat=30.052977&mlon=31.245038#map=17/30.052977/31.245038",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q8024637",
+          "official_website": "http://www.windsorcairo.com/",
+          "coords": [
+            30.05298,
+            31.24504
+          ],
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/The_Windsor_Hotel_Central_Cairo_%282354404413%29.jpg/960px-The_Windsor_Hotel_Central_Cairo_%282354404413%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "commons_page": "https://commons.wikimedia.org/wiki/File:The_Windsor_Hotel_Central_Cairo_(2354404413).jpg",
+            "file_title": "File:The Windsor Hotel Central Cairo (2354404413).jpg",
+            "license": "CC BY 2.0",
+            "license_url": "https://creativecommons.org/licenses/by/2.0",
+            "author": "Gaynor Barton",
+            "visually_checked": true,
+            "src": "/photos/hotels/Q8024637.webp"
+          }
+        }
+      ]
+    },
+    "al-hussein-mosque": {
+      "place_center": {
+        "lat": 30.0478,
+        "lon": 31.2631,
+        "note": "Representative source coordinate, not a verified visitor entrance.",
+        "source": "Wikidata P625"
+      },
+      "place_coordinate_note": null,
+      "hotels": [
+        {
+          "wikidata_id": "Q8024637",
+          "name_en": "Windsor Hotel",
+          "name_ar": "فندق وندسور",
+          "name_ar_status": "from Wikidata label",
+          "distance_km_straight_line": 1.83,
+          "map_url": "https://www.openstreetmap.org/?mlat=30.052977&mlon=31.245038#map=17/30.052977/31.245038",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q8024637",
+          "official_website": "http://www.windsorcairo.com/",
+          "coords": [
+            30.05298,
+            31.24504
+          ],
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/The_Windsor_Hotel_Central_Cairo_%282354404413%29.jpg/960px-The_Windsor_Hotel_Central_Cairo_%282354404413%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "commons_page": "https://commons.wikimedia.org/wiki/File:The_Windsor_Hotel_Central_Cairo_(2354404413).jpg",
+            "file_title": "File:The Windsor Hotel Central Cairo (2354404413).jpg",
+            "license": "CC BY 2.0",
+            "license_url": "https://creativecommons.org/licenses/by/2.0",
+            "author": "Gaynor Barton",
+            "visually_checked": true,
+            "src": "/photos/hotels/Q8024637.webp"
+          }
+        }
+      ]
+    },
+    "abdeen-palace": {
+      "place_center": {
+        "lat": 30.0417,
+        "lon": 31.2483,
+        "note": "Representative source coordinate, not a verified visitor entrance.",
+        "source": "Wikidata P625"
+      },
+      "place_coordinate_note": null,
+      "hotels": [
+        {
+          "wikidata_id": "Q8024637",
+          "name_en": "Windsor Hotel",
+          "name_ar": "فندق وندسور",
+          "name_ar_status": "from Wikidata label",
+          "distance_km_straight_line": 1.29,
+          "map_url": "https://www.openstreetmap.org/?mlat=30.052977&mlon=31.245038#map=17/30.052977/31.245038",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q8024637",
+          "official_website": "http://www.windsorcairo.com/",
+          "coords": [
+            30.05298,
+            31.24504
+          ],
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/The_Windsor_Hotel_Central_Cairo_%282354404413%29.jpg/960px-The_Windsor_Hotel_Central_Cairo_%282354404413%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "commons_page": "https://commons.wikimedia.org/wiki/File:The_Windsor_Hotel_Central_Cairo_(2354404413).jpg",
+            "file_title": "File:The Windsor Hotel Central Cairo (2354404413).jpg",
+            "license": "CC BY 2.0",
+            "license_url": "https://creativecommons.org/licenses/by/2.0",
+            "author": "Gaynor Barton",
+            "visually_checked": true,
+            "src": "/photos/hotels/Q8024637.webp"
+          }
+        },
+        {
+          "wikidata_id": "Q47429618",
+          "name_en": "Steigenberger Hotel El Tahrir Cairo",
+          "name_ar": "فندق شتيجنبرجر التحرير القاهرة",
+          "name_ar_status": "from Wikidata label",
+          "distance_km_straight_line": 1.37,
+          "map_url": "https://www.openstreetmap.org/?mlat=30.047318&mlon=31.235665#map=17/30.047318/31.235665",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q47429618",
+          "official_website": null,
+          "coords": [
+            30.04732,
+            31.23567
+          ],
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/CairoSteigenbergerHotelElTahrir.jpg/960px-CairoSteigenbergerHotelElTahrir.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "commons_page": "https://commons.wikimedia.org/wiki/File:CairoSteigenbergerHotelElTahrir.jpg",
+            "file_title": "File:CairoSteigenbergerHotelElTahrir.jpg",
+            "license": "CC BY-SA 4.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+            "author": "Roland Unger",
+            "visually_checked": true,
+            "src": "/photos/hotels/Q47429618.webp"
+          }
+        }
+      ]
+    },
+    "cairo-tower": {
+      "place_center": {
+        "lat": 30.04583333,
+        "lon": 31.22444444,
+        "note": "Representative source coordinate, not a verified visitor entrance.",
+        "source": "Wikidata P625"
+      },
+      "place_coordinate_note": null,
+      "hotels": [
+        {
+          "wikidata_id": "Q54887660",
+          "name_en": "Nile Ritz Carlton",
+          "name_ar": "نايل ريتز كارلتون",
+          "name_ar_status": "from Wikidata label",
+          "distance_km_straight_line": 0.78,
+          "map_url": "https://www.openstreetmap.org/?mlat=30.04608&mlon=31.23256#map=17/30.04608/31.23256",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q54887660",
+          "official_website": null,
+          "coords": [
+            30.04608,
+            31.23256
+          ],
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/View_of_Nile_%26_Ritz_Carlton_%28Ex_Nile_Hilton%29_%2810713994736%29.jpg/960px-View_of_Nile_%26_Ritz_Carlton_%28Ex_Nile_Hilton%29_%2810713994736%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "commons_page": "https://commons.wikimedia.org/wiki/File:View_of_Nile_%26_Ritz_Carlton_(Ex_Nile_Hilton)_(10713994736).jpg",
+            "file_title": "File:View of Nile & Ritz Carlton (Ex Nile Hilton) (10713994736).jpg",
+            "license": "CC BY 2.0",
+            "license_url": "https://creativecommons.org/licenses/by/2.0",
+            "author": "Mark Muehlhaeusler",
+            "visually_checked": true,
+            "src": "/photos/hotels/Q54887660.webp"
+          }
+        },
+        {
+          "wikidata_id": "Q47429618",
+          "name_en": "Steigenberger Hotel El Tahrir Cairo",
+          "name_ar": "فندق شتيجنبرجر التحرير القاهرة",
+          "name_ar_status": "from Wikidata label",
+          "distance_km_straight_line": 1.09,
+          "map_url": "https://www.openstreetmap.org/?mlat=30.047318&mlon=31.235665#map=17/30.047318/31.235665",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q47429618",
+          "official_website": null,
+          "coords": [
+            30.04732,
+            31.23567
+          ],
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/CairoSteigenbergerHotelElTahrir.jpg/960px-CairoSteigenbergerHotelElTahrir.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "commons_page": "https://commons.wikimedia.org/wiki/File:CairoSteigenbergerHotelElTahrir.jpg",
+            "file_title": "File:CairoSteigenbergerHotelElTahrir.jpg",
+            "license": "CC BY-SA 4.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+            "author": "Roland Unger",
+            "visually_checked": true,
+            "src": "/photos/hotels/Q47429618.webp"
+          }
+        }
+      ]
+    },
+    "al-azhar-park": {
+      "place_center": {
+        "lat": 30.0405,
+        "lon": 31.2646,
+        "note": "Representative source coordinate, not a verified visitor entrance.",
+        "source": "Wikidata P625"
+      },
+      "place_coordinate_note": null,
+      "hotels": [
+        {
+          "wikidata_id": "Q8024637",
+          "name_en": "Windsor Hotel",
+          "name_ar": "فندق وندسور",
+          "name_ar_status": "from Wikidata label",
+          "distance_km_straight_line": 2.34,
+          "map_url": "https://www.openstreetmap.org/?mlat=30.052977&mlon=31.245038#map=17/30.052977/31.245038",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q8024637",
+          "official_website": "http://www.windsorcairo.com/",
+          "coords": [
+            30.05298,
+            31.24504
+          ],
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/The_Windsor_Hotel_Central_Cairo_%282354404413%29.jpg/960px-The_Windsor_Hotel_Central_Cairo_%282354404413%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "commons_page": "https://commons.wikimedia.org/wiki/File:The_Windsor_Hotel_Central_Cairo_(2354404413).jpg",
+            "file_title": "File:The Windsor Hotel Central Cairo (2354404413).jpg",
+            "license": "CC BY 2.0",
+            "license_url": "https://creativecommons.org/licenses/by/2.0",
+            "author": "Gaynor Barton",
+            "visually_checked": true,
+            "src": "/photos/hotels/Q8024637.webp"
+          }
+        }
+      ]
+    },
+    "wadi-degla": {
+      "place_center": {
+        "lat": 29.949722222222,
+        "lon": 31.379722222222,
+        "note": "Representative source coordinate, not a verified visitor entrance.",
+        "source": "Wikidata P625"
+      },
+      "place_coordinate_note": null,
+      "hotels": [
+        {
+          "wikidata_id": "Q8024637",
+          "name_en": "Windsor Hotel",
+          "name_ar": "فندق وندسور",
+          "name_ar_status": "from Wikidata label",
+          "distance_km_straight_line": 17.32,
+          "map_url": "https://www.openstreetmap.org/?mlat=30.052977&mlon=31.245038#map=17/30.052977/31.245038",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q8024637",
+          "official_website": "http://www.windsorcairo.com/",
+          "coords": [
+            30.05298,
+            31.24504
+          ],
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/The_Windsor_Hotel_Central_Cairo_%282354404413%29.jpg/960px-The_Windsor_Hotel_Central_Cairo_%282354404413%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "commons_page": "https://commons.wikimedia.org/wiki/File:The_Windsor_Hotel_Central_Cairo_(2354404413).jpg",
+            "file_title": "File:The Windsor Hotel Central Cairo (2354404413).jpg",
+            "license": "CC BY 2.0",
+            "license_url": "https://creativecommons.org/licenses/by/2.0",
+            "author": "Gaynor Barton",
+            "visually_checked": true,
+            "src": "/photos/hotels/Q8024637.webp"
+          }
+        }
+      ]
+    },
+    "baron-empain-palace": {
+      "place_center": {
+        "lat": 30.086667,
+        "lon": 31.330278,
+        "note": "Representative source coordinate, not a verified visitor entrance.",
+        "source": "Wikidata P625"
+      },
+      "place_coordinate_note": null,
+      "hotels": [
+        {
+          "wikidata_id": "Q8024637",
+          "name_en": "Windsor Hotel",
+          "name_ar": "فندق وندسور",
+          "name_ar_status": "from Wikidata label",
+          "distance_km_straight_line": 9.02,
+          "map_url": "https://www.openstreetmap.org/?mlat=30.052977&mlon=31.245038#map=17/30.052977/31.245038",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q8024637",
+          "official_website": "http://www.windsorcairo.com/",
+          "coords": [
+            30.05298,
+            31.24504
+          ],
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/The_Windsor_Hotel_Central_Cairo_%282354404413%29.jpg/960px-The_Windsor_Hotel_Central_Cairo_%282354404413%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "commons_page": "https://commons.wikimedia.org/wiki/File:The_Windsor_Hotel_Central_Cairo_(2354404413).jpg",
+            "file_title": "File:The Windsor Hotel Central Cairo (2354404413).jpg",
+            "license": "CC BY 2.0",
+            "license_url": "https://creativecommons.org/licenses/by/2.0",
+            "author": "Gaynor Barton",
+            "visually_checked": true,
+            "src": "/photos/hotels/Q8024637.webp"
+          }
+        }
+      ]
     }
   }
 }

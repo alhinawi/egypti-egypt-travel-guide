@@ -1355,5 +1355,367 @@
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "changes": "Resized and converted to WebP; layout crop"
+  },
+  "Q1784177-hero": {
+    "file": "Q1784177-hero",
+    "alt": {
+      "en": "Le Musée Copte du Caire",
+      "ar": "فناء المتحف القبطي"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Le_Mus%C3%A9e_Copte_du_Caire.JPG",
+    "author": "The original uploader was Néfermaât at French Wikipedia.",
+    "license": "CC BY-SA 2.0 fr",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/fr/deed.en",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "Q5594835-hero": {
+    "file": "Q5594835-hero",
+    "alt": {
+      "en": "Historic Grand Nile Tower building photo, under the Hyatt name when photographed",
+      "ar": "صورة تاريخية لجراند نايل تاور من النيل، باسم حياة وقت التصوير"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Cairo_-_Garden_City_-_Hyatt_from_the_Nile.JPG",
+    "author": "Daniel Mayer",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "Q3079995-hero": {
+    "file": "Q3079995-hero",
+    "alt": {
+      "en": "Cairo - Garden City - Four Seasons Hotel from the Nile",
+      "ar": "فندق فور سيزونز نايل بلازا من النيل"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Cairo_-_Garden_City_-_Four_Seasons_Hotel_from_the_Nile.JPG",
+    "author": "Daniel Mayer",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "Q7553762-hero": {
+    "file": "Q7553762-hero",
+    "alt": {
+      "en": "El Gezirah Hotel, Cairo (2398217835)",
+      "ar": "فندق سوفيتل الجزيرة من النيل"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:El_Gezirah_Hotel,_Cairo_(2398217835).jpg",
+    "author": "air babble from England",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "Q2422298-hero": {
+    "file": "Q2422298-hero",
+    "alt": {
+      "en": "Kairo Hanging Church BW 1",
+      "ar": "واجهة الكنيسة المعلّقة والسلم"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Kairo_Hanging_Church_BW_1.jpg",
+    "author": "Berthold Werner",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "Q2474653-hero": {
+    "file": "Q2474653-hero",
+    "alt": {
+      "en": "Ben Ezra Synagogue Interior",
+      "ar": "داخل معبد بن عزرا من الشرفة العلوية"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Ben_Ezra_Synagogue_Interior.jpg",
+    "author": "Schlanger",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "Q2965718-hero": {
+    "file": "Q2965718-hero",
+    "alt": {
+      "en": "Cairo, chiesa di san sergio 01",
+      "ar": "داخل كنيسة أبو سرجة"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Cairo,_chiesa_di_san_sergio_01.JPG",
+    "author": "Sailko",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "Q683511-hero": {
+    "file": "Q683511-hero",
+    "alt": {
+      "en": "Mosque Amr ibn Al-As Entrance",
+      "ar": "مدخل جامع عمرو بن العاص"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Mosque_Amr_ibn_Al-As_Entrance.jpg",
+    "author": "Buyoof",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "Q29017001-hero": {
+    "file": "Q29017001-hero",
+    "alt": {
+      "en": "NMEC-MainEntrance",
+      "ar": "المدخل الرئيسي لمتحف الحضارة"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:NMEC-MainEntrance.jpg",
+    "author": "Roland Unger",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "Q1992209-hero": {
+    "file": "Q1992209-hero",
+    "alt": {
+      "en": "Exterior shelter over the Rawda Nilometer, not the measuring well",
+      "ar": "المبنى الخارجي لمقياس النيل بالروضة"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Cairo_Nilometer_1.jpg",
+    "author": "Baldiri",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "Q2586045-hero": {
+    "file": "Q2586045-hero",
+    "alt": {
+      "en": "GD-EG-Caire-AlManyal020",
+      "ar": "مدخل قصر المنيل"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:GD-EG-Caire-AlManyal020.JPG",
+    "author": "Néfermaât",
+    "license": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "Q8024637-photo": {
+    "file": "Q8024637-photo",
+    "alt": {
+      "en": "Windsor Hotel exterior / entrance",
+      "ar": "مدخل أو واجهة مكان الإقامة"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:The_Windsor_Hotel_Central_Cairo_(2354404413).jpg",
+    "author": "Gaynor Barton",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "Q111119507-photo": {
+    "file": "Q111119507-photo",
+    "alt": {
+      "en": "Golden Palace Hotel exterior / entrance",
+      "ar": "مدخل أو واجهة مكان الإقامة"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Golden_Palace_Hotel.jpg",
+    "author": "Marsupium",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "Q111119512-photo": {
+    "file": "Q111119512-photo",
+    "alt": {
+      "en": "African House Hotel exterior / entrance",
+      "ar": "مدخل أو واجهة مكان الإقامة"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:African_House_Hotel.jpg",
+    "author": "Marsupium",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "Q1988240-hero": {
+    "file": "cairo-citadel",
+    "alt": {
+      "en": "Cairo's medieval hilltop citadel, with later mosques and museums.",
+      "ar": "قلعة القاهرة التاريخية فوق هضبة المقطم، وفيها جوامع ومتاحف اتضافت على مراحل."
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Flickr_-_HuTect_ShOts_-_Citadel_of_Salah_El.Din_and_Masjid_Muhammad_Ali_%D9%82%D9%84%D8%B9%D8%A9_%D8%B5%D9%84%D8%A7%D8%AD_%D8%A7%D9%84%D8%AF%D9%8A%D9%86_%D8%A7%D9%84%D8%A3%D9%8A%D9%88%D8%A8%D9%8A_%D9%88%D9%85%D8%B3%D8%AC%D8%AF_%D9%85%D8%AD%D9%85%D8%AF_%D8%B9%D9%84%D9%8A_-_Cairo_-_Egypt_-_17_04_2010_(4).jpg",
+    "author": "Ahmed Al.Badawy from Cairo, Egypt",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "changes": "resized, converted to WebP; layout crop"
+  },
+  "Q47429618-photo": {
+    "file": "Q47429618-photo",
+    "alt": {
+      "en": "Steigenberger Hotel El Tahrir Cairo exterior / entrance",
+      "ar": "مدخل أو واجهة مكان الإقامة"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:CairoSteigenbergerHotelElTahrir.jpg",
+    "author": "Roland Unger",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "Q652046-hero": {
+    "file": "Q652046-hero",
+    "alt": {
+      "en": "Muhammad Ali Mosque illuminated at night; not proof of night visitor access",
+      "ar": "جامع محمد علي مضاء بالليل؛ الصورة مش دليل على إتاحة الزيارة الليلية"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Mosque_of_Muhammad_Ali_nights.jpg",
+    "author": "Mohamed abdelzaher",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "Q1430119-hero": {
+    "file": "Q1430119-hero",
+    "alt": {
+      "en": "Sultan Hasan Mosque on the left, al-Rifai on the right",
+      "ar": "جامع السلطان حسن على الشمال والرفاعي على اليمين"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:%D9%85%D8%B3%D8%AC%D8%AF%D9%89_%D8%A7%D9%84%D8%B1%D9%81%D8%A7%D8%B9%D9%89_%D9%88%D8%A7%D9%84%D8%B3%D9%84%D8%B7%D8%A7%D9%86_%D8%A7%D9%84%D9%82%D8%A7%D9%87%D8%B1%D8%A9.jpg",
+    "author": "Batoul Khalifa",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "Q311441-hero": {
+    "file": "Q311441-hero",
+    "alt": {
+      "en": "Al-Rifai Mosque on the right, Sultan Hasan on the left",
+      "ar": "جامع الرفاعي على اليمين والسلطان حسن على الشمال"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Cairo-Moskee_Sultan_Hassan_-_Moskee_ar-Rifai.jpg",
+    "author": "Original uploader was Chris Karman at nl.wikipedia",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "Q915413-hero": {
+    "file": "mosque-of-ibn-tulun",
+    "alt": {
+      "en": "A major surviving ninth-century mosque with a large arcaded courtyard.",
+      "ar": "جامع كبير من القرن التاسع، مشهور بصحنه الواسع وأروقته."
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Kairo_Ibn_Tulun_Moschee_BW_4.jpg",
+    "author": "User:Berthold Werner",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "changes": "resized, converted to WebP; layout crop"
+  },
+  "Q54887660-photo": {
+    "file": "Q54887660-photo",
+    "alt": {
+      "en": "Nile Ritz Carlton exterior / entrance",
+      "ar": "مدخل أو واجهة مكان الإقامة"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Nile_Ritz_Carlton_(2).jpg",
+    "author": "Mohamed Ouda",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "Q312342-hero": {
+    "file": "khan-nearby-2",
+    "alt": {
+      "en": "Al-Azhar Mosque domes and minarets",
+      "ar": "قباب ومآذن الجامع الأزهر"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Cairo_-_Islamic_district_-_Al_Azhar_Mosque_and_University.JPG",
+    "author": "Daniel Mayer",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "resized, converted to WebP; layout crop",
+    "captured": "2008-07"
+  },
+  "Q2279688-hero": {
+    "file": "khan-nearby-4",
+    "alt": {
+      "en": "Al-Hussein Mosque exterior",
+      "ar": "جامع الحسين من برّه"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Kairo_Al_Hussein_Mosque_BW_1.jpg",
+    "author": "Berthold Werner",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "changes": "resized, converted to WebP; layout crop",
+    "captured": "2010-11-04"
+  },
+  "Q307747-hero": {
+    "file": "Q307747-hero",
+    "alt": {
+      "en": "GD-EG-Caire-Abedin001",
+      "ar": "واجهة قصر عابدين"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:GD-EG-Caire-Abedin001.JPG",
+    "author": "Gérard Ducher (user:Néfermaât)",
+    "license": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "Q614684-hero": {
+    "file": "Q614684-hero",
+    "alt": {
+      "en": "The Cairo Tower",
+      "ar": "برج القاهرة من النيل"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:The_Cairo_Tower.jpg",
+    "author": "Mohamedusrii",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "Q286446-hero": {
+    "file": "Q286446-hero",
+    "alt": {
+      "en": "Azhar Park",
+      "ar": "حدائق الأزهر والقاهرة التاريخية"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Azhar_Park.jpg",
+    "author": "Yasser Nazmi",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "Q12241414-hero": {
+    "file": "Q12241414-hero",
+    "alt": {
+      "en": "Wadi Degla",
+      "ar": "الوادي الصحراوي في محمية وادي دجلة"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Wadi_Degla.jpg",
+    "author": "Premiero",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "Q808618-hero": {
+    "file": "Q808618-hero",
+    "alt": {
+      "en": "The exterior of the Baron Empain palace",
+      "ar": "واجهة قصر البارون"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:The_exterior_of_the_Baron_Empain_palace.jpg",
+    "author": "Bishoy Samuel",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "marsa-alam-main-road-roland-unger": {
+    "file": "marsa-alam-main-road-roland-unger",
+    "alt": {
+      "en": "South side of the main road in Marsa Alam town, looking west, 20 December 2015.",
+      "ar": "الجانب الجنوبي من الشارع الرئيسي في مدينة مرسى علم، باتجاه الغرب، 20 ديسمبر 2015."
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:MarsaAlamMainRoadToWest.jpg",
+    "author": "Roland Unger",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "changes": "Publisher mirror is resized and AVIF-converted. Attached JPG is an additional format conversion; no crop or content edits by this research task. Resized and converted to WebP; layout crop."
+  },
+  "marsa-alam-souq-roland-unger": {
+    "file": "marsa-alam-souq-roland-unger",
+    "alt": {
+      "en": "Marsa Alam town souk, 20 December 2015.",
+      "ar": "سوق مدينة مرسى علم، 20 ديسمبر 2015."
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:MarsaAlamSuq.jpg",
+    "author": "Roland Unger",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "changes": "Publisher mirror is resized and AVIF-converted. Attached JPG is an additional format conversion; no crop or content edits by this research task. Resized and converted to WebP; layout crop."
   }
 }
