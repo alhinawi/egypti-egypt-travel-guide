@@ -2,6 +2,7 @@ import {Hono} from 'hono';
 import {getCookie,setCookie,deleteCookie} from 'hono/cookie';
 import {SignJWT,jwtVerify,createRemoteJWKSet} from 'jose';
 import {places,itineraries} from '../src/lib/data';
+import demoSource from '../src/lib/demo-guides.json';
 interface Env {DB:D1Database; ASSETS:Fetcher; APP_ORIGIN:string; GOOGLE_CLIENT_ID:string; GOOGLE_CLIENT_SECRET:string; AUTH_SECRET:string; ADMIN_EMAILS?:string;}
 const app=new Hono<{Bindings:Env;Variables:{user:{id:string,name:string,email:string,picture:string|null}|null;sessionHash:string}}>();
 const jwks=createRemoteJWKSet(new URL('https://www.googleapis.com/oauth2/v3/certs'));
@@ -70,6 +71,33 @@ const isAdmin=(c:{env:Env;get:(k:'user')=>{email:string}|null})=>{const u=c.get(
 const mask=(e:string)=>{const[a,d]=e.split('@');return (a.slice(0,2)||'*')+'***@'+(d||'')};
 app.get('/api/me',c=>c.json({user:c.get('user'),admin:isAdmin(c)}));
 app.use('/api/admin/*',async(c,next)=>{if(!c.get('user'))return c.json({error:'Sign in required'},401);if(!isAdmin(c))return c.json({error:'Admin only'},403);await next()});
+
+const DEMO_KEY='demo.enabled';
+const demoGuides=()=>{const raw=demoSource as unknown;const list=Array.isArray(raw)?raw:Array.isArray((raw as {guides?:unknown})?.guides)?(raw as {guides:unknown[]}).guides:[];return list.filter((g):g is Record<string,unknown>=>Boolean(g)&&typeof g==='object'&&(g as {demo?:unknown}).demo===true)};
+const demoEnabled=async(db:D1Database)=>{try{const r=await db.prepare('SELECT value FROM site_settings WHERE key=?').bind(DEMO_KEY).first<{value:string}>();return r?r.value!=='0':true}catch{return true}};
+const demoSettings=async(db:D1Database)=>{try{return (await db.prepare("SELECT key,value,updated_at,updated_by FROM site_settings WHERE key LIKE 'demo.%' ORDER BY key").all<{key:string;value:string;updated_at:number;updated_by:string|null}>()).results}catch{return []}};
+const demoSnapshot=async(db:D1Database)=>({settings:await demoSettings(db),enabled:await demoEnabled(db),guides:demoGuides()});
+const hmac=async(e:Env,msg:string)=>Array.from(new Uint8Array(await crypto.subtle.sign('HMAC',await crypto.subtle.importKey('raw',secret(e),{name:'HMAC',hash:'SHA-256'},false,['sign']),new TextEncoder().encode(msg)))).map(b=>b.toString(16).padStart(2,'0')).join('');
+const same=(a:string,b:string)=>{if(a.length!==b.length)return false;let d=0;for(let i=0;i<a.length;i++)d|=a.charCodeAt(i)^b.charCodeAt(i);return d===0};
+const stateHash=async(snap:{settings:unknown;enabled:boolean;guides:unknown})=>hash(JSON.stringify([snap.settings,snap.enabled,snap.guides]));
+app.get('/api/demo-status',async c=>c.json({enabled:c.env.DB?await demoEnabled(c.env.DB):true}));
+app.get('/api/admin/demo/export',async c=>{
+ const snap=await demoSnapshot(c.env.DB),exp=Date.now()+30*60000,sh=await stateHash(snap);
+ const backupToken=exp+'.'+await hmac(c.env,'demo-backup:'+sh+':'+exp);
+ return c.json({backup:{kind:'egypti-demo-backup',version:1,exportedAt:new Date().toISOString(),enabled:snap.enabled,settings:snap.settings,guides:snap.guides},backupToken,expiresAt:exp});
+});
+const setDemo=async(c:{env:Env;get:(k:'user')=>{id:string}|null},on:boolean)=>{const now=Date.now(),by=c.get('user')?.id??null,db=c.env.DB;await db.batch([db.prepare('INSERT INTO site_settings(key,value,updated_at,updated_by) VALUES(?,?,?,?) ON CONFLICT(key) DO UPDATE SET value=excluded.value,updated_at=excluded.updated_at,updated_by=excluded.updated_by').bind(DEMO_KEY,on?'1':'0',now,by),db.prepare('INSERT INTO site_settings(key,value,updated_at,updated_by) VALUES(?,?,?,?) ON CONFLICT(key) DO UPDATE SET value=excluded.value,updated_at=excluded.updated_at,updated_by=excluded.updated_by').bind(on?'demo.restored_at':'demo.removed_at',String(now),now,by)])};
+app.post('/api/admin/demo/remove',async c=>{
+ let body:{confirm?:unknown;backupToken?:unknown};try{body=JSON.parse(await c.req.text())}catch{return c.json({error:'Invalid JSON'},400)}
+ if(body.confirm!=='REMOVE_DEMO')return c.json({error:'Confirmation required'},422);
+ const tok=typeof body.backupToken==='string'?body.backupToken:'',[expS,sig]=tok.split('.'),exp=Number(expS);
+ if(!sig||!Number.isFinite(exp)||exp<Date.now())return c.json({error:'Download a fresh backup first'},422);
+ const snap=await demoSnapshot(c.env.DB);
+ if(!same(sig,await hmac(c.env,'demo-backup:'+await stateHash(snap)+':'+exp)))return c.json({error:'Backup does not match the current data. Download it again.'},422);
+ try{await setDemo(c,false)}catch{return c.json({error:'Settings storage is not ready yet'},503)}
+ return c.json({ok:true,enabled:false});
+});
+app.post('/api/admin/demo/restore',async c=>{try{await setDemo(c,true)}catch{return c.json({error:'Settings storage is not ready yet'},503)}return c.json({ok:true,enabled:true})});
 app.get('/api/admin/overview',async c=>{
  const db=c.env.DB,now=Date.now(),week=now-7*86400000;
  const one=async(sql:string,...b:unknown[])=>(await db.prepare(sql).bind(...b).first<{n:number}>())?.n??0;
@@ -77,7 +105,7 @@ app.get('/api/admin/overview',async c=>{
  const top=await db.prepare('SELECT item_id,count(*) n FROM saved_items GROUP BY item_id ORDER BY n DESC,item_id LIMIT 8').all<{item_id:string;n:number}>();
  const recent=await db.prepare('SELECT name,email,created_at FROM users ORDER BY created_at DESC LIMIT 6').all<{name:string;email:string;created_at:number}>();
  let assets=false;try{assets=(await c.env.ASSETS.fetch(new Request(c.env.APP_ORIGIN+'/ar/'))).ok}catch{}
- return c.json({counts:{users,newUsers,sessions,saves,savers},topSaved:top.results,recentUsers:recent.results.map(r=>({name:r.name,email:mask(r.email),createdAt:r.created_at})),health:{database:true,google:configured(c.env),authSecret:Boolean(c.env.AUTH_SECRET),origin:c.env.APP_ORIGIN,adminCount:(c.env.ADMIN_EMAILS||'').split(',').filter(x=>x.trim()).length,assets},generatedAt:now});
+ return c.json({counts:{users,newUsers,sessions,saves,savers},topSaved:top.results,recentUsers:recent.results.map(r=>({name:r.name,email:mask(r.email),createdAt:r.created_at})),health:{database:true,google:configured(c.env),authSecret:Boolean(c.env.AUTH_SECRET),origin:c.env.APP_ORIGIN,adminCount:(c.env.ADMIN_EMAILS||'').split(',').filter(x=>x.trim()).length,assets},generatedAt:now,demo:{enabled:await demoEnabled(db),count:demoGuides().length}});
 });
 app.post('/api/auth/logout',async c=>{if(c.get('sessionHash'))await c.env.DB.prepare('DELETE FROM sessions WHERE token_hash=?').bind(c.get('sessionHash')).run();deleteCookie(c,SESSION,{...cookieOptions});return c.json({ok:true})});
 app.get('/api/saved',async c=>{const user=c.get('user');if(!user)return c.json({error:'Sign in required'},401);const result=await c.env.DB.prepare('SELECT item_id FROM saved_items WHERE user_id=? ORDER BY created_at DESC').bind(user.id).all<{item_id:string}>();return c.json({items:result.results.map(r=>r.item_id)})});

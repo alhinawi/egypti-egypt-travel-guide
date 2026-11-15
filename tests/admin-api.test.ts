@@ -2,7 +2,7 @@ import{test,before,after}from'node:test';import assert from'node:assert/strict';
 let mf:Miniflare;const origin='https://guide.test';const h=(t:string)=>createHash('sha256').update(t).digest('hex');
 const cookie=(t:string)=>({Origin:origin,'Content-Type':'application/json',Cookie:'__Host-eg-session='+t});
 before(async()=>{mf=new Miniflare({modules:true,scriptPath:'out/_worker.js',compatibilityDate:'2026-08-01',compatibilityFlags:['nodejs_compat'],bindings:{APP_ORIGIN:origin,GOOGLE_CLIENT_ID:'c',GOOGLE_CLIENT_SECRET:'s',AUTH_SECRET:'test-only-strong-enough-32bytes-secret',ADMIN_EMAILS:' Boss@Example.test , other@example.test'},d1Databases:['DB']});
- const db=await mf.getD1Database('DB');for(const s of readFileSync('migrations/0001_initial.sql','utf8').split(';').map(x=>x.trim()).filter(Boolean))await db.prepare(s).run();
+ const db=await mf.getD1Database('DB');for(const f of ['0001_initial','0002_site_settings'])for(const s of readFileSync('migrations/'+f+'.sql','utf8').split(';').map(x=>x.trim()).filter(Boolean))await db.prepare(s).run();
  const now=Date.now();for(const[id,email]of[['a','boss@example.test'],['b','user@example.test'],['c','bossy@example.test']]){await db.prepare('INSERT INTO users(id,google_sub,email,name,created_at,updated_at) VALUES(?,?,?,?,?,?)').bind(id,'g'+id,email,'U '+id,now,now).run();await db.prepare('INSERT INTO sessions(token_hash,user_id,expires_at) VALUES(?,?,?)').bind(h('tok-'+id),id,now+3600000).run()}
  await db.prepare('INSERT INTO saved_items(user_id,item_id,created_at) VALUES(?,?,?)').bind('b','place:qaitbay',now).run()});
 after(async()=>{await mf?.dispose()});
@@ -12,3 +12,18 @@ test('allowlisted email is admin, case and spaces ignored, emails masked',async(
 test('/api/me reports admin flag only for admins',async()=>{const a=await(await mf.dispatchFetch(origin+'/api/me',{headers:cookie('tok-a')})).json()as any;const b=await(await mf.dispatchFetch(origin+'/api/me',{headers:cookie('tok-b')})).json()as any;assert.equal(a.admin,true);assert.equal(b.admin,false);assert.equal((await(await mf.dispatchFetch(origin+'/api/me')).json()as any).admin,false)});
 test('admin API is read-only',async()=>{const r=await mf.dispatchFetch(origin+'/api/admin/overview',{method:'POST',headers:cookie('tok-a'),body:'{}'});assert.ok([401,403,404,405].includes(r.status)||r.status===200&&false)});
 test('no ADMIN_EMAILS means nobody is admin',async()=>{const m2=new Miniflare({modules:true,scriptPath:'out/_worker.js',compatibilityDate:'2026-08-01',compatibilityFlags:['nodejs_compat'],bindings:{APP_ORIGIN:origin,AUTH_SECRET:'x'.repeat(40)},d1Databases:['DB']});try{const db=await m2.getD1Database('DB');for(const s of readFileSync('migrations/0001_initial.sql','utf8').split(';').map(x=>x.trim()).filter(Boolean))await db.prepare(s).run();await db.prepare('INSERT INTO users(id,google_sub,email,name,created_at,updated_at) VALUES(?,?,?,?,?,?)').bind('a','ga','boss@example.test','B',1,1).run();await db.prepare('INSERT INTO sessions(token_hash,user_id,expires_at) VALUES(?,?,?)').bind(h('t'),'a',Date.now()+99999).run();assert.equal((await m2.dispatchFetch(origin+'/api/admin/overview',{headers:cookie('t')})).status,403)}finally{await m2.dispose()}});
+
+const post=(path:string,tok:string,body:unknown)=>mf.dispatchFetch(origin+path,{method:'POST',headers:cookie(tok),body:JSON.stringify(body)});
+test('demo status is public and defaults to enabled',async()=>{const r=await mf.dispatchFetch(origin+'/api/demo-status');assert.equal((await r.json()as any).enabled,true)});
+test('demo endpoints are admin-only',async()=>{for(const[m,p]of[['GET','/api/admin/demo/export'],['POST','/api/admin/demo/remove'],['POST','/api/admin/demo/restore']]){const anon=await mf.dispatchFetch(origin+p,{method:m,headers:m==='POST'?{Origin:origin,'Content-Type':'application/json'}:{},body:m==='POST'?'{}':undefined});assert.equal(anon.status,401,p);const user=await mf.dispatchFetch(origin+p,{method:m,headers:cookie('tok-b'),body:m==='POST'?'{}':undefined});assert.equal(user.status,403,p)}});
+test('remove needs confirmation and a matching backup token, then only flips the setting',async()=>{
+ assert.equal((await post('/api/admin/demo/remove','tok-a',{backupToken:'x'})).status,422);
+ assert.equal((await post('/api/admin/demo/remove','tok-a',{confirm:'REMOVE_DEMO'})).status,422);
+ assert.equal((await post('/api/admin/demo/remove','tok-a',{confirm:'REMOVE_DEMO',backupToken:(Date.now()+60000)+'.deadbeef'})).status,422);
+ const ex=await mf.dispatchFetch(origin+'/api/admin/demo/export',{headers:cookie('tok-a')});const j=await ex.json()as any;assert.equal(j.backup.kind,'egypti-demo-backup');assert.ok(!JSON.stringify(j).includes('boss@example'));
+ const before=await(await mf.dispatchFetch(origin+'/api/admin/overview',{headers:cookie('tok-a')})).json()as any;
+ const ok=await post('/api/admin/demo/remove','tok-a',{confirm:'REMOVE_DEMO',backupToken:j.backupToken});assert.equal(ok.status,200);
+ assert.equal((await(await mf.dispatchFetch(origin+'/api/demo-status')).json()as any).enabled,false);
+ const after=await(await mf.dispatchFetch(origin+'/api/admin/overview',{headers:cookie('tok-a')})).json()as any;assert.deepEqual(after.counts,before.counts);assert.equal(after.demo.enabled,false);
+ assert.equal((await post('/api/admin/demo/remove','tok-a',{confirm:'REMOVE_DEMO',backupToken:j.backupToken})).status,422,'token is single-state');
+ assert.equal((await post('/api/admin/demo/restore','tok-a',{})).status,200);assert.equal((await(await mf.dispatchFetch(origin+'/api/demo-status')).json()as any).enabled,true)});
