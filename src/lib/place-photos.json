@@ -63,5 +63,18 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
     "changes": "resized, WebP; card crop",
     "captured": "10 August 2011"
+  },
+  "menna-tt69": {
+    "file": "menna-tt69",
+    "alt": {
+      "ar": "المدخل الخارجي لمقبرة مننا TT69 في صخور جبانة طيبة",
+      "en": "Exterior entrance to the Tomb of Menna (TT69) in the Theban necropolis"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:By_ovedc_-_Tomb_of_Menna_-_01.jpg",
+    "author": "Ovedc",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "changes": "resized, WebP; card crop",
+    "captured": "10 October 2017"
   }
 }

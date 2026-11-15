@@ -60,5 +60,22 @@
     },
     "url": "https://my.matterport.com/show/?m=85n8j312Ur4",
     "source": "https://egymonuments.gov.eg/news/a-virtual-tour-through-the-tutankhamun-collection-at-the-egyptian-museum"
+  },
+  {
+    "placeId": "menna-tt69",
+    "provider": "ARCE · Matterport",
+    "kind": "model",
+    "title": {
+      "ar": "مصلى مقبرة مننا TT69",
+      "en": "The decorated chapel of Menna (TT69)"
+    },
+    "scope": {
+      "ar": "تجول داخل المصلى المزخرف في المقبرة. نموذج مسجّل، مش بث مباشر ولا تأكيد لإتاحة الدخول النهارده.",
+      "en": "Explore the decorated tomb chapel. A recorded model, not a live view or confirmation of admission today."
+    },
+    "url": "https://my.matterport.com/show/?m=vLYoS66CWpk",
+    "source": "https://www.ees.ac.uk/resource/the-tomb-of-menna--tt69---luxor.html",
+    "embedUrl": "https://my.matterport.com/show/?m=vLYoS66CWpk&play=1",
+    "interiorVerified": true
   }
 ]
