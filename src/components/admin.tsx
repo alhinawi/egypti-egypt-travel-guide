@@ -5,6 +5,8 @@ import{places,destinations,itineraries,categoryNames,checkedAt}from'@/lib/data';
 import{placePhotos,photoPath}from'@/lib/photos';
 import{mediaStatus}from'@/lib/media-status';
 import maps from'@/lib/maps.json';
+import hotelData from'@/lib/hotels.json';
+const hotelCount=new Set(Object.values(hotelData.places).flatMap(x=>x.hotels.map(h=>h.wikidata_id))).size;
 import{themes,isTheme,SITE_KEY,ADMIN_KEY,DEFAULT_THEME,type Theme}from'@/lib/themes';
 import'../app/admin.css';
 type User={id:string;name:string;email:string;picture:string|null};
@@ -92,7 +94,7 @@ function Places(){
   <Head eyebrow="الأماكن" title={places.length+' مكان في الدليل'} text={'عرض للقراءة بس. البيانات جوه كود الموقع، فالتعديل بيتم بـ PR. آخر مراجعة '+checkedAt+'.'}/>
   <div className="adm-filters"><label className="adm-search"><Search size={17}/><input value={q} onChange={e=>setQ(e.target.value)} placeholder="دوّر على مكان" aria-label="بحث"/></label><select value={dest} onChange={e=>setDest(e.target.value)} aria-label="الوجهة"><option value="all">كل الوجهات</option>{destinations.map(d=><option key={d.id} value={d.id}>{d.name.ar}</option>)}</select><div className="adm-seg" role="group" aria-label="الحالة">{([['all','الكل'],['ready','جاهز'],['pending','ناقص']] as const).map(([k,n])=><button key={k} aria-pressed={st===k} onClick={()=>setSt(k)}>{n}</button>)}</div><span className="adm-count">{shown.length} نتيجة</span></div>
   <div className="adm-places">{shown.map(({p,m,ph,pin,ticket})=><article key={p.id} className="adm-place"><img src={ph?photoPath(ph,420):destPhoto(p.destination)} alt="" width="420" height="280" loading="lazy"/><div className="adm-place-body"><h3>{p.name.ar}</h3><small>{destinations.find(d=>d.id===p.destination)?.name.ar} · {categoryNames[p.category].ar}</small><div className="adm-chips"><Chip ok={m.photo} yes="صورة" no="بدون صورة"/><Chip ok={m.interiorEmbed} yes="جولة داخلية" no="بدون جولة"/><Chip ok={pin} yes="دبوس" no="بدون دبوس"/>{ticket&&<span className="adm-chip ok">تذاكر</span>}</div><a className="adm-link" href={'/ar/places/'+p.id+'/'} target="_blank" rel="noreferrer">افتح الصفحة<ArrowUpRight size={15}/></a></div></article>)}{!shown.length&&<p className="adm-empty">مفيش أماكن بالشكل ده.</p>}</div>
-  <section className="adm-card adm-hotels"><img src="/photos/luxor-780.webp" alt="" loading="lazy"/><div><h2><Hotel size={19}/>بيانات الفنادق</h2><p><b>0</b> فندق في الموقع. الدليل مفيهوش فنادق أو حجوزات دلوقتي، وأي إضافة محتاجة مصدر وموافقة منك.</p></div></section>
+  <section className="adm-card adm-hotels"><img src="/photos/luxor-780.webp" alt="" loading="lazy"/><div><h2><Hotel size={19}/>بيانات الفنادق</h2><p><b>{hotelCount}</b> فندق في دليل الإقامة، موزّعين على صفحات الأماكن. المسافات خط مستقيم وليست طرق وصول. لا أسعار أو حجز أو دفع؛ مصادر البيانات وحقوق الصور مع كل فندق.</p></div></section>
  </>
 }
 const Chip=({ok,yes,no}:{ok:boolean;yes:string;no:string})=><span className={'adm-chip '+(ok?'ok':'warn')}>{ok?<Check size={13}/>:<AlertTriangle size={13}/>}{ok?yes:no}</span>;
