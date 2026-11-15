@@ -87,11 +87,15 @@
       "ar": "توابل وأكلات خفيفة: لفة في خان الخليلي"
     },
     "scope": {
-      "ar": "فيديو مسجّل قصير من RAWI سنة 2021. لفة في السوق، مش جولة 360 أو دخول تفاعلي لجوه كل المحلات.",
-      "en": "A short recorded RAWI walkthrough from 2021. Not a 360 visit or an interactive tour inside every shop."
+      "ar": "لفة مصوّرة في سوق خان الخليلي، سنة 2021.",
+      "en": "A recorded walk through Khan el-Khalili bazaar, 2021."
     },
     "url": "https://www.youtube.com/watch?v=xW75h9XP934",
     "embedUrl": "https://www.youtube.com/embed/xW75h9XP934",
-    "source": "https://artsandculture.google.com/asset/a-walk-through-cairo-s-khan-al-khalili-bazaar/kwGMyJb-ccBRwQ?hl=en"
+    "source": "https://artsandculture.google.com/asset/a-walk-through-cairo-s-khan-al-khalili-bazaar/kwGMyJb-ccBRwQ?hl=en",
+    "scopeNote": {
+      "ar": "فيديو مسجّل قصير من RAWI سنة 2021. لفة في السوق، مش جولة 360 أو دخول تفاعلي لجوه كل المحلات.",
+      "en": "A short recorded RAWI walkthrough from 2021. Not a 360 visit or an interactive tour inside every shop."
+    }
   }
 ]
