@@ -1,6 +1,6 @@
 'use client';
-import{useCallback,useEffect,useMemo,useState}from'react';
-import{ShieldCheck,LogOut,ArrowUpRight,Palette,MapPin,Users,Bookmark,Activity,Link2,Check,AlertTriangle,Search,Shuffle,Hotel,Camera,Scan,RefreshCw}from'lucide-react';
+import{useCallback,useEffect,useMemo,useRef,useState}from'react';
+import{ShieldCheck,LogOut,ArrowUpRight,Palette,MapPin,Users,Bookmark,Activity,Link2,Check,AlertTriangle,Search,Shuffle,Hotel,Camera,Scan,RefreshCw,Trash2,Download,Undo2}from'lucide-react';
 import{places,destinations,itineraries,categoryNames,checkedAt}from'@/lib/data';
 import{placePhotos,photoPath}from'@/lib/photos';
 import{mediaStatus}from'@/lib/media-status';
@@ -10,7 +10,7 @@ const hotelCount=new Set(Object.values(hotelData.places).flatMap(x=>x.hotels.map
 import{themes,isTheme,SITE_KEY,ADMIN_KEY,DEFAULT_THEME,type Theme}from'@/lib/themes';
 import'../app/admin.css';
 type User={id:string;name:string;email:string;picture:string|null};
-type Overview={counts:{users:number;newUsers:number;sessions:number;saves:number;savers:number};topSaved:{item_id:string;n:number}[];recentUsers:{name:string;email:string;createdAt:number}[];health:{database:boolean;google:boolean;authSecret:boolean;origin:string;adminCount:number;assets:boolean};generatedAt:number};
+type Overview={demo?:{enabled:boolean;count:number};counts:{users:number;newUsers:number;sessions:number;saves:number;savers:number};topSaved:{item_id:string;n:number}[];recentUsers:{name:string;email:string;createdAt:number}[];health:{database:boolean;google:boolean;authSecret:boolean;origin:string;adminCount:number;assets:boolean};generatedAt:number};
 type Gate='loading'|'anon'|'denied'|'ok'|'error';
 const day=(ms:number)=>new Date(ms).toISOString().slice(0,10);
 const destPhoto=(id:string)=>'/photos/'+(destinations.find(d=>d.id===id)?.photo||'giza')+'-420.webp';
@@ -84,7 +84,19 @@ function Overview({data,user,refresh}:{data:Overview;user:User;refresh:()=>void}
    <article className="adm-card adm-media"><img src="/photos/hurghada-780.webp" alt="" loading="lazy"/><div><h2><Scan size={19}/>جولات افتراضية</h2><p><b>{ready}</b> مكان جاهز (صورة وجولة داخلية متأكد منها).</p></div></article>
    <article className="adm-card adm-media"><img src="/photos/dahab-780.webp" alt="" loading="lazy"/><div><h2><MapPin size={19}/>دبابيس الخرائط</h2><p><b>{pins}</b> مكان بدبوس متأكد منه.</p></div></article>
   </section>
+  {data.demo&&<DemoCard demo={data.demo} refresh={refresh}/>}
  </>
+}
+const postJson=async(url:string,body:unknown)=>{const r=await fetch(url,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(body)});let j:{error?:string}={};try{j=await r.json()}catch{}return{ok:r.ok,error:j.error}};
+function DemoCard({demo,refresh}:{demo:{enabled:boolean;count:number};refresh:()=>void}){
+ const[open,setOpen]=useState(false),[token,setToken]=useState(''),[word,setWord]=useState(''),[busy,setBusy]=useState(false),[msg,setMsg]=useState(''),ref=useRef<HTMLDialogElement>(null);
+ useEffect(()=>{const el=ref.current;if(!el)return;if(open&&!el.open)el.showModal();if(!open&&el.open)el.close()},[open]);
+ const download=async()=>{setBusy(true);setMsg('');try{const r=await fetch('/api/admin/demo/export');if(!r.ok)throw Error();const j=await r.json();const blob=new Blob([JSON.stringify(j.backup,null,2)],{type:'application/json'});const a=document.createElement('a');a.href=URL.createObjectURL(blob);a.download='egypti-demo-backup-'+new Date().toISOString().slice(0,10)+'.json';document.body.appendChild(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(a.href),4000);setToken(j.backupToken);setMsg('النسخة الاحتياطية اتنزّلت.')}catch{setMsg('النسخة ما اتنزّلتش. جرّب تاني.')}setBusy(false)};
+ const remove=async()=>{setBusy(true);const r=await postJson('/api/admin/demo/remove',{confirm:'REMOVE_DEMO',backupToken:token});setBusy(false);if(r.ok){setOpen(false);setToken('');setWord('');refresh()}else setMsg(r.error==='Settings storage is not ready yet'?'التخزين لسه مش جاهز. جرّب بعد شوية.':'ما اتمسحش. نزّل النسخة الاحتياطية تاني وجرّب.')};
+ const restore=async()=>{setBusy(true);const r=await postJson('/api/admin/demo/restore',{});setBusy(false);if(r.ok)refresh();else setMsg('الرجوع ما تمّش. جرّب تاني.')};
+ const close=()=>{setOpen(false);setMsg('');setWord('')};
+ return <section className="adm-card adm-demo"><img src="/photos/luxor-780.webp" alt="" loading="lazy"/><div><h2><Trash2 size={19}/>البيانات التجريبية</h2><p>{demo.enabled?(demo.count+' دليل تجريبي ظاهر في الموقع دلوقتي. لو مسحتهم بيختفوا من الموقع كله، وحساباتك ومحفوظاتك الحقيقية ما بتتأثرش.'):'البيانات التجريبية مخفية من الموقع. تقدر ترجّعها في أي وقت.'}</p>{msg&&!open&&<p className="adm-fine" role="status">{msg}</p>}<div className="adm-actions">{demo.enabled?<button className="adm-btn" onClick={()=>setOpen(true)}><Trash2 size={16}/>امسح البيانات التجريبية</button>:<button className="adm-btn" disabled={busy} onClick={restore}><Undo2 size={16}/>رجّع البيانات التجريبية</button>}</div></div>
+  <dialog ref={ref} className="adm-dialog" onCancel={close} onClose={()=>setOpen(false)} aria-labelledby="demo-dlg-t"><h2 id="demo-dlg-t">مسح البيانات التجريبية؟</h2><p>الأدلة التجريبية هتختفي من الموقع للكل. الحسابات والمحفوظات والجلسات الحقيقية ما بتتلمسش، وتقدر ترجّع التجريبي بعد كده.</p><ol className="adm-steps"><li><b>1. نزّل نسخة احتياطية</b><button className="adm-btn ghost" disabled={busy} onClick={download}><Download size={16}/>نزّل النسخة</button>{token&&<span className="adm-ok"><Check size={14}/>اتنزّلت</span>}</li><li><b>2. اكتب كلمة «امسح» للتأكيد</b><input value={word} onChange={e=>setWord(e.target.value)} aria-label="اكتب امسح" autoComplete="off"/></li></ol>{msg&&<p className="adm-fine" role="status">{msg}</p>}<div className="adm-actions"><button className="adm-btn" disabled={busy||!token||word.trim()!=='امسح'} onClick={remove}>امسح دلوقتي</button><button className="adm-btn ghost" onClick={close}>إلغاء</button></div></dialog></section>
 }
 function Places(){
  const[q,setQ]=useState(''),[dest,setDest]=useState('all'),[st,setSt]=useState<'all'|'ready'|'pending'>('all');
