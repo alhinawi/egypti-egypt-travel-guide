@@ -1,0 +1,254 @@
+[
+  {
+    "id": "coptic-museum",
+    "destination": "cairo",
+    "name": {
+      "en": "Coptic Museum",
+      "ar": "المتحف القبطي"
+    },
+    "description": {
+      "ar": "مرقس سميكة باشا أسّس المتحف القبطي، اللي اتفتح سنة 1910، علشان يحافظ على الآثار القبطية وعناصر العمارة من الكنائس القديمة",
+      "en": "Marcus Simaika Pasha established the Coptic Museum, inaugurated in 1910, to preserve Coptic antiquities and architectural elements from older churches."
+    },
+    "category": "culture",
+    "source": "https://egymonuments.gov.eg/en/museums/the-coptic-museum"
+  },
+  {
+    "id": "hanging-church",
+    "destination": "cairo",
+    "name": {
+      "en": "Hanging Church",
+      "ar": "الكنيسة المعلقة"
+    },
+    "description": {
+      "ar": "كنيسة السيدة العذراء معروفة بالمعلّقة لأنها مبنية فوق بقايا الحصن الروماني في مصر القديمة",
+      "en": "The Church of the Virgin Mary is known as the Hanging Church because it stands over the remains of the Roman fortress in Old Cairo."
+    },
+    "category": "culture",
+    "source": "https://egymonuments.gov.eg/en/monuments/the-hanging-church"
+  },
+  {
+    "id": "ben-ezra-synagogue",
+    "destination": "cairo",
+    "name": {
+      "en": "Ben Ezra Synagogue",
+      "ar": "كنيس بن عزرا"
+    },
+    "description": {
+      "ar": "معبد بن عزرا بيحفظ فصل مهم من تاريخ الحياة اليهودية في مصر القديمة",
+      "en": "Ben Ezra preserves an important chapter of Jewish life in Old Cairo."
+    },
+    "category": "culture",
+    "source": "https://egymonuments.gov.eg/en/monuments/ben-ezra-synagogue"
+  },
+  {
+    "id": "abu-serga-church",
+    "destination": "cairo",
+    "name": {
+      "en": "Saints Sergius and Bacchus Church",
+      "ar": "كنيسة القديس أبو سرجة"
+    },
+    "description": {
+      "ar": "كنيسة القديسين سرجيوس وواخس، المعروفة بأبو سرجة، مرتبطة في التقليد القبطي بإقامة العائلة المقدسة في مصر",
+      "en": "The Church of Saints Sergius and Bacchus, known as Abu Serga, is associated in Coptic tradition with the Holy Family’s stay in Egypt."
+    },
+    "category": "culture",
+    "source": "https://egymonuments.gov.eg/en/monuments/church-of-saint-sergius-and-bacchus"
+  },
+  {
+    "id": "amr-ibn-al-as-mosque",
+    "destination": "cairo",
+    "name": {
+      "en": "Mosque of Amr ibn al-As",
+      "ar": "جامع عمرو بن العاص"
+    },
+    "description": {
+      "ar": "جامع عمرو بن العاص اتأسس في القرن السابع في الفسطاط، وهو أقدم تأسيس لجامع في مصر",
+      "en": "Founded in the 7th century in Fustat, the mosque of Amr ibn al-As is Egypt’s earliest mosque foundation."
+    },
+    "category": "culture",
+    "source": "https://egymonuments.gov.eg/en/monuments/the-mosque-of-amr-ibn-al-as"
+  },
+  {
+    "id": "national-museum-egyptian-civilization",
+    "destination": "cairo",
+    "name": {
+      "en": "National Museum of Egyptian Civilization",
+      "ar": "المتحف القومي للحضارة المصرية"
+    },
+    "description": {
+      "ar": "متحف الحضارة في الفسطاط بيعرض الحضارة المصرية من عصور ما قبل التاريخ للحياة الحديثة والمعاصرة، بما فيها التراث الشعبي",
+      "en": "NMEC in Fustat presents Egyptian civilization from prehistory to modern and contemporary life, including popular heritage."
+    },
+    "category": "culture",
+    "source": "https://nmec.gov.eg/main-gallery/"
+  },
+  {
+    "id": "rhoda-nilometer",
+    "destination": "cairo",
+    "name": {
+      "en": "Nilometer in Rhoda Island",
+      "ar": "مقياس النيل بالروضة"
+    },
+    "description": {
+      "ar": "مقياس النيل بالروضة اتبنى بأمر الخليفة العباسي المتوكل سنة 861",
+      "en": "Commissioned by the Abbasid caliph al-Mutawakkil in 861, the Rawda Nilometer measured the annual Nile flood."
+    },
+    "category": "culture",
+    "source": "https://egymonuments.gov.eg/en/monuments/rawda-island-nilometer"
+  },
+  {
+    "id": "manial-palace",
+    "destination": "cairo",
+    "name": {
+      "en": "Manial Palace and Museum",
+      "ar": "قصر الأمير محمد علي بالمنيل"
+    },
+    "description": {
+      "ar": "الأمير محمد علي توفيق بنى قصره بالمنيل بين 1900 و1929",
+      "en": "Prince Muhammad Ali Tawfik developed his Manial palace between 1900 and 1929."
+    },
+    "category": "culture",
+    "source": "https://egymonuments.gov.eg/en/museums/manial-palace-museum/"
+  },
+  {
+    "id": "muhammad-ali-mosque",
+    "destination": "cairo",
+    "name": {
+      "en": "Muhammad Ali Mosque",
+      "ar": "مسجد محمد علي"
+    },
+    "description": {
+      "ar": "جامع محمد علي من القرن التسعتاشر، جوّه القلعة في موقع قصور مملوكية أقدم",
+      "en": "Muhammad Ali Pasha’s 19th-century mosque stands inside the Citadel on the site of earlier Mamluk palaces."
+    },
+    "category": "culture",
+    "source": "https://egymonuments.gov.eg/en/monuments/muhammad-ali-mosque/"
+  },
+  {
+    "id": "sultan-hassan-mosque",
+    "destination": "cairo",
+    "name": {
+      "en": "Mosque-Madrassa of Sultan Hassan",
+      "ar": "مسجد ومدرسة السلطان الناصر حسن"
+    },
+    "description": {
+      "ar": "السلطان حسن أمر ببناء الجامع والمدرسة المملوكية في القرن الرابع عشر جنب القلعة",
+      "en": "Sultan Hasan commissioned this Mamluk mosque and madrasa in the 14th century beside the Citadel."
+    },
+    "category": "culture",
+    "source": "https://egymonuments.gov.eg/en/monuments/mosque-and-madrasa-of-sultan-hasan/"
+  },
+  {
+    "id": "al-rifai-mosque",
+    "destination": "cairo",
+    "name": {
+      "en": "Al-Rifa'i Mosque",
+      "ar": "مسجد الرفاعي"
+    },
+    "description": {
+      "ar": "المبنى الحالي لجامع الرفاعي اتعمل بتكليف من خوشيار هانم، والدة الخديوي إسماعيل، واكتمل سنة 1912 بعد توقفات",
+      "en": "Commissioned by Hoshiyar Hanim, mother of Khedive Ismail, the present al-Rifai Mosque was completed in 1912 after interruptions."
+    },
+    "category": "culture",
+    "source": "https://egymonuments.gov.eg/en/monuments/al-rifa-i-mosque/"
+  },
+  {
+    "id": "al-azhar-mosque",
+    "destination": "cairo",
+    "name": {
+      "en": "al-Azhar Mosque",
+      "ar": "الجامع الأزهر"
+    },
+    "description": {
+      "ar": "جوهر الصقلي بدأ بناء الأزهر سنة 970 لعاصمة الفاطميين، واكتمل سنة 972",
+      "en": "Jawhar al-Siqilli began Al-Azhar in 970 for the Fatimid capital, and it was completed in 972."
+    },
+    "category": "culture",
+    "source": "https://www.cairo.gov.eg/en/culture/cairo-history/mosques-and-churches/cairo-mosques/"
+  },
+  {
+    "id": "al-hussein-mosque",
+    "destination": "cairo",
+    "name": {
+      "en": "Al-Hussein Mosque",
+      "ar": "مسجد الإمام الحسين بالقاهرة"
+    },
+    "description": {
+      "ar": "الحسين اتطور من مشهد في العصر الفاطمي لواحد من أهم أماكن الزيارة الدينية في القاهرة، واتوسع واترمم في عهود بعد كده",
+      "en": "Al-Hussein developed from a Fatimid-period shrine into one of Cairo’s major places of devotion, expanded and restored under later rulers."
+    },
+    "category": "culture",
+    "source": "https://www.cairo.gov.eg/en/culture/cairo-history/mosques-and-churches/cairo-mosques/"
+  },
+  {
+    "id": "abdeen-palace",
+    "destination": "cairo",
+    "name": {
+      "en": "Abdeen Palace",
+      "ar": "قصر عابدين"
+    },
+    "description": {
+      "ar": "الخديوي إسماعيل أمر ببناء عابدين بعد توليه الحكم سنة 1863",
+      "en": "Khedive Ismail commissioned Abdeen after coming to power in 1863."
+    },
+    "category": "culture",
+    "source": "https://www.presidency.eg/en/%D8%A7%D9%84%D9%82%D8%B5%D9%88%D8%B1-%D8%A7%D9%84%D8%B1%D8%A6%D8%A7%D8%B3%D9%8A%D8%A9/%D9%82%D8%B5%D8%B1-%D8%B9%D8%A7%D8%A8%D8%AF%D9%8A%D9%86/"
+  },
+  {
+    "id": "cairo-tower",
+    "destination": "cairo",
+    "name": {
+      "en": "Cairo Tower",
+      "ar": "برج القاهرة"
+    },
+    "description": {
+      "ar": "برج القاهرة اكتمل سنة 1961 بتصميم المهندس المصري نعوم شبيب",
+      "en": "Completed in 1961 and designed by Egyptian architect Naoum Shebib, Cairo Tower is a 187-meter landmark on Gezira."
+    },
+    "category": "culture",
+    "source": "https://www.cairo.gov.eg/en/culture/cairo-history/modern-landmarks/cairo-tower/"
+  },
+  {
+    "id": "al-azhar-park",
+    "destination": "cairo",
+    "name": {
+      "en": "Al-Azhar Park",
+      "ar": "حديقة الأزهر"
+    },
+    "description": {
+      "ar": "حديقة الأزهر اتفتحت للجمهور سنة 2005، وحوّلت تلال مخلفات الدراسة لمساحة خضرا بتنسيق حدائق من خلال مؤسسة الآغا خان للثقافة",
+      "en": "Opened to the public in 2005, Al-Azhar Park transformed the Darassa rubble mound into landscaped public space through the Aga Khan Trust for Culture."
+    },
+    "category": "culture",
+    "source": "https://azharpark.com/"
+  },
+  {
+    "id": "wadi-degla",
+    "destination": "cairo",
+    "name": {
+      "en": "Wadi Degla",
+      "ar": "محمية وادي دجلة"
+    },
+    "description": {
+      "ar": "وادي دجلة محمية وادي صحراوي جنوب شرق القاهرة، بيشق طبقات حجر جيري فيها حفريات اتكوّنت بترسيب بحري قديم ثم التعرية",
+      "en": "Wadi Degla is a protected desert valley southeast of Cairo, cutting through fossil-bearing limestone shaped by ancient marine deposition and later erosion."
+    },
+    "category": "nature",
+    "source": "https://cairo.gov.eg/en/tourism/tourism-destinations/nature-reserves/"
+  },
+  {
+    "id": "baron-empain-palace",
+    "destination": "cairo",
+    "name": {
+      "en": "Baron Empain Palace",
+      "ar": "قصر البارون إمبان"
+    },
+    "description": {
+      "ar": "القصر اتبنى لرجل الأعمال البلجيكي إدوار إمبان سنة 1907-1911، وبقى معلم مميز لمصر الجديدة",
+      "en": "Built for Belgian businessman Edouard Empain in 1907-1911, the palace is a distinctive landmark of Heliopolis."
+    },
+    "category": "culture",
+    "source": "https://egymonuments.gov.eg/monuments/baron-empain-palace"
+  }
+]
