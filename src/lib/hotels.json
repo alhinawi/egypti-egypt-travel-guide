@@ -1,0 +1,2143 @@
+{
+  "generated": "2026-11-15",
+  "schema": "place_id -> {place_center, nearest_town_fallback?, place_coordinate_note?, hotels[]}. distance_km_straight_line = haversine between Wikidata hotel coordinates and place coordinate (Nominatim/Wikidata). photo.thumb_url = 640px Wikimedia Commons thumbnail; show license + author + commons_page as attribution.",
+  "places": {
+    "menna-tt69": {
+      "place_center": {
+        "lat": 25.732,
+        "lon": 32.6076,
+        "basis": "osm"
+      },
+      "place_coordinate_note": null,
+      "hotels": [
+        {
+          "wikidata_id": "Q111999097",
+          "name_en": "Nour El Gourna",
+          "name_ar": null,
+          "name_ar_status": "not found in Wikidata/OSM - show English only or add manually",
+          "distance_km_straight_line": 1.0,
+          "map_url": "https://www.openstreetmap.org/?mlat=25.72346&mlon=32.60559#map=17/25.72346/32.60559",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q111999097",
+          "official_website": null,
+          "coords": [
+            25.72346,
+            32.60559
+          ],
+          "photo": null
+        },
+        {
+          "wikidata_id": "Q111857726",
+          "name_en": "New Memnon Hotel",
+          "name_ar": null,
+          "name_ar_status": "not found in Wikidata/OSM - show English only or add manually",
+          "distance_km_straight_line": 1.4,
+          "map_url": "https://www.openstreetmap.org/?mlat=25.71971&mlon=32.61108#map=17/25.71971/32.61108",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q111857726",
+          "official_website": null,
+          "coords": [
+            25.71971,
+            32.61108
+          ],
+          "photo": null
+        }
+      ]
+    },
+    "giza-pyramids": {
+      "place_center": {
+        "lat": 29.9791647,
+        "lon": 31.1342133,
+        "basis": "هرم خوفو, شارع ابو الهول السياحي, نزلة البطران, الجيزة, 12125, مصر"
+      },
+      "place_coordinate_note": null,
+      "hotels": [
+        {
+          "wikidata_id": "Q1355271",
+          "name_en": "Mena House",
+          "name_ar": "مينا هاوس",
+          "name_ar_status": "from Wikidata label",
+          "distance_km_straight_line": 0.7,
+          "map_url": "https://www.openstreetmap.org/?mlat=29.98555556&mlon=31.13277778#map=17/29.98555556/31.13277778",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q1355271",
+          "official_website": null,
+          "coords": [
+            29.98556,
+            31.13278
+          ],
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/2._Mena_House_Hotel_1_C.jpg/960px-2._Mena_House_Hotel_1_C.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "commons_page": "https://commons.wikimedia.org/wiki/File:2._Mena_House_Hotel_1_C.webp",
+            "file_title": "File:2. Mena House Hotel 1 C.webp",
+            "license": "CC BY-SA 3.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+            "author": "Gerhard Haubold",
+            "visually_checked": true,
+            "src": "/photos/hotels/Q1355271.webp"
+          }
+        },
+        {
+          "wikidata_id": "Q111400507",
+          "name_en": "Pyramids Park Resort Cairo",
+          "name_ar": null,
+          "name_ar_status": "not found in Wikidata/OSM - show English only or add manually",
+          "distance_km_straight_line": 2.9,
+          "map_url": "https://www.openstreetmap.org/?mlat=29.999794&mlon=31.11621#map=17/29.999794/31.11621",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q111400507",
+          "official_website": null,
+          "coords": [
+            29.99979,
+            31.11621
+          ],
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Pyramids_Park_-_panoramio.jpg/960px-Pyramids_Park_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "commons_page": "https://commons.wikimedia.org/wiki/File:Pyramids_Park_-_panoramio.webp",
+            "file_title": "File:Pyramids Park - panoramio.webp",
+            "license": "CC BY 3.0",
+            "license_url": "https://creativecommons.org/licenses/by/3.0",
+            "author": "mcfr",
+            "visually_checked": true,
+            "src": "/photos/hotels/Q111400507.webp"
+          }
+        }
+      ]
+    },
+    "grand-egyptian-museum": {
+      "place_center": {
+        "lat": 29.9945754,
+        "lon": 31.1190738,
+        "basis": "المتحف المصري الكبير, طريق القاهرة, الاسكندرية الصحراوي, كفرة نصار, ال"
+      },
+      "place_coordinate_note": null,
+      "hotels": [
+        {
+          "wikidata_id": "Q111400507",
+          "name_en": "Pyramids Park Resort Cairo",
+          "name_ar": null,
+          "name_ar_status": "not found in Wikidata/OSM - show English only or add manually",
+          "distance_km_straight_line": 0.6,
+          "map_url": "https://www.openstreetmap.org/?mlat=29.999794&mlon=31.11621#map=17/29.999794/31.11621",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q111400507",
+          "official_website": null,
+          "coords": [
+            29.99979,
+            31.11621
+          ],
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Pyramids_Park_-_panoramio.jpg/960px-Pyramids_Park_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "commons_page": "https://commons.wikimedia.org/wiki/File:Pyramids_Park_-_panoramio.webp",
+            "file_title": "File:Pyramids Park - panoramio.webp",
+            "license": "CC BY 3.0",
+            "license_url": "https://creativecommons.org/licenses/by/3.0",
+            "author": "mcfr",
+            "visually_checked": true,
+            "src": "/photos/hotels/Q111400507.webp"
+          }
+        },
+        {
+          "wikidata_id": "Q1355271",
+          "name_en": "Mena House",
+          "name_ar": "مينا هاوس",
+          "name_ar_status": "from Wikidata label",
+          "distance_km_straight_line": 1.7,
+          "map_url": "https://www.openstreetmap.org/?mlat=29.98555556&mlon=31.13277778#map=17/29.98555556/31.13277778",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q1355271",
+          "official_website": null,
+          "coords": [
+            29.98556,
+            31.13278
+          ],
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/2._Mena_House_Hotel_1_C.jpg/960px-2._Mena_House_Hotel_1_C.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "commons_page": "https://commons.wikimedia.org/wiki/File:2._Mena_House_Hotel_1_C.webp",
+            "file_title": "File:2. Mena House Hotel 1 C.webp",
+            "license": "CC BY-SA 3.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+            "author": "Gerhard Haubold",
+            "visually_checked": true,
+            "src": "/photos/hotels/Q1355271.webp"
+          }
+        }
+      ]
+    },
+    "egyptian-museum": {
+      "place_center": {
+        "lat": 30.04778,
+        "lon": 31.23333,
+        "basis": "wd"
+      },
+      "place_coordinate_note": null,
+      "hotels": [
+        {
+          "wikidata_id": "Q54887660",
+          "name_en": "Nile Ritz Carlton",
+          "name_ar": "نايل ريتز كارلتون",
+          "name_ar_status": "from Wikidata label",
+          "distance_km_straight_line": 0.2,
+          "map_url": "https://www.openstreetmap.org/?mlat=30.04608&mlon=31.23256#map=17/30.04608/31.23256",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q54887660",
+          "official_website": null,
+          "coords": [
+            30.04608,
+            31.23256
+          ],
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/View_of_Nile_%26_Ritz_Carlton_%28Ex_Nile_Hilton%29_%2810713994736%29.jpg/960px-View_of_Nile_%26_Ritz_Carlton_%28Ex_Nile_Hilton%29_%2810713994736%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "commons_page": "https://commons.wikimedia.org/wiki/File:View_of_Nile_%26_Ritz_Carlton_(Ex_Nile_Hilton)_(10713994736).webp",
+            "file_title": "File:View of Nile & Ritz Carlton (Ex Nile Hilton) (10713994736).webp",
+            "license": "CC BY 2.0",
+            "license_url": "https://creativecommons.org/licenses/by/2.0",
+            "author": "Mark Muehlhaeusler",
+            "visually_checked": true,
+            "src": "/photos/hotels/Q54887660.webp"
+          }
+        },
+        {
+          "wikidata_id": "Q47429618",
+          "name_en": "Steigenberger Hotel El Tahrir Cairo",
+          "name_ar": "فندق شتيجنبرجر التحرير القاهرة",
+          "name_ar_status": "from Wikidata label",
+          "distance_km_straight_line": 0.2,
+          "map_url": "https://www.openstreetmap.org/?mlat=30.047318&mlon=31.235665#map=17/30.047318/31.235665",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q47429618",
+          "official_website": null,
+          "coords": [
+            30.04732,
+            31.23567
+          ],
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/CairoSteigenbergerHotelElTahrir.jpg/960px-CairoSteigenbergerHotelElTahrir.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "commons_page": "https://commons.wikimedia.org/wiki/File:CairoSteigenbergerHotelElTahrir.webp",
+            "file_title": "File:CairoSteigenbergerHotelElTahrir.webp",
+            "license": "CC BY-SA 4.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+            "author": "Roland Unger",
+            "visually_checked": true,
+            "src": "/photos/hotels/Q47429618.webp"
+          }
+        }
+      ]
+    },
+    "khayyamiyya": {
+      "place_center": {
+        "lat": 30.0457,
+        "lon": 31.261,
+        "basis": "approx"
+      },
+      "place_coordinate_note": "place coordinate approximate",
+      "hotels": [
+        {
+          "wikidata_id": "Q8024637",
+          "name_en": "Windsor Hotel",
+          "name_ar": "فندق وندسور",
+          "name_ar_status": "from Wikidata label",
+          "distance_km_straight_line": 1.7,
+          "map_url": "https://www.openstreetmap.org/?mlat=30.052977&mlon=31.245038#map=17/30.052977/31.245038",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q8024637",
+          "official_website": "http://www.windsorcairo.com/",
+          "coords": [
+            30.05298,
+            31.24504
+          ],
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/The_Windsor_Hotel_Central_Cairo_%282354404413%29.jpg/960px-The_Windsor_Hotel_Central_Cairo_%282354404413%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "commons_page": "https://commons.wikimedia.org/wiki/File:The_Windsor_Hotel_Central_Cairo_(2354404413).webp",
+            "file_title": "File:The Windsor Hotel Central Cairo (2354404413).webp",
+            "license": "CC BY 2.0",
+            "license_url": "https://creativecommons.org/licenses/by/2.0",
+            "author": "Gaynor Barton",
+            "visually_checked": true,
+            "src": "/photos/hotels/Q8024637.webp"
+          }
+        },
+        {
+          "wikidata_id": "Q47429618",
+          "name_en": "Steigenberger Hotel El Tahrir Cairo",
+          "name_ar": "فندق شتيجنبرجر التحرير القاهرة",
+          "name_ar_status": "from Wikidata label",
+          "distance_km_straight_line": 2.4,
+          "map_url": "https://www.openstreetmap.org/?mlat=30.047318&mlon=31.235665#map=17/30.047318/31.235665",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q47429618",
+          "official_website": null,
+          "coords": [
+            30.04732,
+            31.23567
+          ],
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/CairoSteigenbergerHotelElTahrir.jpg/960px-CairoSteigenbergerHotelElTahrir.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "commons_page": "https://commons.wikimedia.org/wiki/File:CairoSteigenbergerHotelElTahrir.webp",
+            "file_title": "File:CairoSteigenbergerHotelElTahrir.webp",
+            "license": "CC BY-SA 4.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+            "author": "Roland Unger",
+            "visually_checked": true,
+            "src": "/photos/hotels/Q47429618.webp"
+          }
+        }
+      ]
+    },
+    "wikalat-al-ghuri": {
+      "place_center": {
+        "lat": 30.047866,
+        "lon": 31.262161,
+        "basis": "wd"
+      },
+      "place_coordinate_note": null,
+      "hotels": [
+        {
+          "wikidata_id": "Q8024637",
+          "name_en": "Windsor Hotel",
+          "name_ar": "فندق وندسور",
+          "name_ar_status": "from Wikidata label",
+          "distance_km_straight_line": 1.7,
+          "map_url": "https://www.openstreetmap.org/?mlat=30.052977&mlon=31.245038#map=17/30.052977/31.245038",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q8024637",
+          "official_website": "http://www.windsorcairo.com/",
+          "coords": [
+            30.05298,
+            31.24504
+          ],
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/The_Windsor_Hotel_Central_Cairo_%282354404413%29.jpg/960px-The_Windsor_Hotel_Central_Cairo_%282354404413%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "commons_page": "https://commons.wikimedia.org/wiki/File:The_Windsor_Hotel_Central_Cairo_(2354404413).webp",
+            "file_title": "File:The Windsor Hotel Central Cairo (2354404413).webp",
+            "license": "CC BY 2.0",
+            "license_url": "https://creativecommons.org/licenses/by/2.0",
+            "author": "Gaynor Barton",
+            "visually_checked": true,
+            "src": "/photos/hotels/Q8024637.webp"
+          }
+        },
+        {
+          "wikidata_id": "Q47429618",
+          "name_en": "Steigenberger Hotel El Tahrir Cairo",
+          "name_ar": "فندق شتيجنبرجر التحرير القاهرة",
+          "name_ar_status": "from Wikidata label",
+          "distance_km_straight_line": 2.6,
+          "map_url": "https://www.openstreetmap.org/?mlat=30.047318&mlon=31.235665#map=17/30.047318/31.235665",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q47429618",
+          "official_website": null,
+          "coords": [
+            30.04732,
+            31.23567
+          ],
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/CairoSteigenbergerHotelElTahrir.jpg/960px-CairoSteigenbergerHotelElTahrir.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "commons_page": "https://commons.wikimedia.org/wiki/File:CairoSteigenbergerHotelElTahrir.webp",
+            "file_title": "File:CairoSteigenbergerHotelElTahrir.webp",
+            "license": "CC BY-SA 4.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+            "author": "Roland Unger",
+            "visually_checked": true,
+            "src": "/photos/hotels/Q47429618.webp"
+          }
+        }
+      ]
+    },
+    "qaitbay": {
+      "place_center": {
+        "lat": 31.2136787,
+        "lon": 29.8854132,
+        "basis": "قلعة قايتباي, شارع قلعه قايتباى, السيالة شرق, الإسكندرية, 21556, مصر"
+      },
+      "place_coordinate_note": null,
+      "hotels": [
+        {
+          "wikidata_id": "Q12231151",
+          "name_en": "Windsor Palace Hotel",
+          "name_ar": "فندق ويندسور",
+          "name_ar_status": "from Wikidata label",
+          "distance_km_straight_line": 1.8,
+          "map_url": "https://www.openstreetmap.org/?mlat=31.20046&mlon=29.89675#map=17/31.20046/29.89675",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q12231151",
+          "official_website": null,
+          "coords": [
+            31.20046,
+            29.89675
+          ],
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Windsore_palace_hotel.jpg/960px-Windsore_palace_hotel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "commons_page": "https://commons.wikimedia.org/wiki/File:Windsore_palace_hotel.webp",
+            "file_title": "File:Windsore palace hotel.webp",
+            "license": "CC BY-SA 3.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+            "author": "Nehal21",
+            "visually_checked": true,
+            "src": "/photos/hotels/Q12231151.webp"
+          }
+        },
+        {
+          "wikidata_id": "Q5056137",
+          "name_en": "Cecil Hotel",
+          "name_ar": "فندق سيسل",
+          "name_ar_status": "from Wikidata label",
+          "distance_km_straight_line": 1.9,
+          "map_url": "https://www.openstreetmap.org/?mlat=31.2008&mlon=29.8984#map=17/31.2008/29.8984",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q5056137",
+          "official_website": null,
+          "coords": [
+            31.2008,
+            29.8984
+          ],
+          "photo": {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/AlexCecil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "commons_page": "https://commons.wikimedia.org/wiki/File:AlexCecil.webp",
+            "file_title": "File:AlexCecil.webp",
+            "license": "CC BY-SA 3.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+            "author": "Roland Unger",
+            "visually_checked": true,
+            "src": "/photos/hotels/Q5056137.webp"
+          }
+        },
+        {
+          "wikidata_id": "Q110285078",
+          "name_en": "Triomphe Hotel",
+          "name_ar": "فندق النصر",
+          "name_ar_status": "from Wikidata label",
+          "distance_km_straight_line": 1.9,
+          "map_url": "https://www.openstreetmap.org/?mlat=31.2002&mlon=29.8982#map=17/31.2002/29.8982",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q110285078",
+          "official_website": null,
+          "coords": [
+            31.2002,
+            29.8982
+          ],
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/26_El_Gorfa_El_Togaria_Street.jpg/960px-26_El_Gorfa_El_Togaria_Street.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "commons_page": "https://commons.wikimedia.org/wiki/File:26_El_Gorfa_El_Togaria_Street.webp",
+            "file_title": "File:26 El Gorfa El Togaria Street.webp",
+            "license": "CC BY-SA 4.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+            "author": "Marsupium",
+            "visually_checked": true,
+            "src": "/photos/hotels/Q110285078.webp"
+          }
+        }
+      ]
+    },
+    "bibliotheca": {
+      "place_center": {
+        "lat": 31.2086605,
+        "lon": 29.9089329,
+        "basis": "مكتبة الإسكندرية, شارع بورسعيد, الشاطبى, الإسكندرية, 21526, مصر"
+      },
+      "place_coordinate_note": null,
+      "hotels": [
+        {
+          "wikidata_id": "Q63985038",
+          "name_en": "Paradise Inn Metropole Hotel",
+          "name_ar": "فندق باردايس إن لو متروبول",
+          "name_ar_status": "from Wikidata label",
+          "distance_km_straight_line": 1.2,
+          "map_url": "https://www.openstreetmap.org/?mlat=31.200949&mlon=29.900232#map=17/31.200949/29.900232",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q63985038",
+          "official_website": null,
+          "coords": [
+            31.20095,
+            29.90023
+          ],
+          "photo": {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Hotel_%22Le_Metropole%22_in_Alexandria%2C_%C3%84gypten.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "commons_page": "https://commons.wikimedia.org/wiki/File:Hotel_%22Le_Metropole%22_in_Alexandria,_%C3%84gypten.webp",
+            "file_title": "File:Hotel \"Le Metropole\" in Alexandria, Ägypten.webp",
+            "license": "CC BY-SA 3.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+            "author": "Roland Unger",
+            "visually_checked": true,
+            "src": "/photos/hotels/Q63985038.webp"
+          }
+        },
+        {
+          "wikidata_id": "Q5056137",
+          "name_en": "Cecil Hotel",
+          "name_ar": "فندق سيسل",
+          "name_ar_status": "from Wikidata label",
+          "distance_km_straight_line": 1.3,
+          "map_url": "https://www.openstreetmap.org/?mlat=31.2008&mlon=29.8984#map=17/31.2008/29.8984",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q5056137",
+          "official_website": null,
+          "coords": [
+            31.2008,
+            29.8984
+          ],
+          "photo": {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/AlexCecil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "commons_page": "https://commons.wikimedia.org/wiki/File:AlexCecil.webp",
+            "file_title": "File:AlexCecil.webp",
+            "license": "CC BY-SA 3.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+            "author": "Roland Unger",
+            "visually_checked": true,
+            "src": "/photos/hotels/Q5056137.webp"
+          }
+        },
+        {
+          "wikidata_id": "Q110285078",
+          "name_en": "Triomphe Hotel",
+          "name_ar": "فندق النصر",
+          "name_ar_status": "from Wikidata label",
+          "distance_km_straight_line": 1.4,
+          "map_url": "https://www.openstreetmap.org/?mlat=31.2002&mlon=29.8982#map=17/31.2002/29.8982",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q110285078",
+          "official_website": null,
+          "coords": [
+            31.2002,
+            29.8982
+          ],
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/26_El_Gorfa_El_Togaria_Street.jpg/960px-26_El_Gorfa_El_Togaria_Street.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "commons_page": "https://commons.wikimedia.org/wiki/File:26_El_Gorfa_El_Togaria_Street.webp",
+            "file_title": "File:26 El Gorfa El Togaria Street.webp",
+            "license": "CC BY-SA 4.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+            "author": "Marsupium",
+            "visually_checked": true,
+            "src": "/photos/hotels/Q110285078.webp"
+          }
+        }
+      ]
+    },
+    "montazah": {
+      "place_center": {
+        "lat": 31.2886,
+        "lon": 30.0159,
+        "basis": "wd"
+      },
+      "place_coordinate_note": null,
+      "hotels": [
+        {
+          "wikidata_id": "Q63990925",
+          "name_en": "Palestine Montaza",
+          "name_ar": "فندق فلسطين المنتزة",
+          "name_ar_status": "from Wikidata label",
+          "distance_km_straight_line": 0.2,
+          "map_url": "https://www.openstreetmap.org/?mlat=31.288281&mlon=30.018052#map=17/31.288281/30.018052",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q63990925",
+          "official_website": null,
+          "coords": [
+            31.28828,
+            30.01805
+          ],
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Helnan_Palstine_Hotel_3.jpg/960px-Helnan_Palstine_Hotel_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "commons_page": "https://commons.wikimedia.org/wiki/File:Helnan_Palstine_Hotel_3.webp",
+            "file_title": "File:Helnan Palstine Hotel 3.webp",
+            "license": "CC BY-SA 3.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+            "author": "Mina.maher.aziz",
+            "visually_checked": true,
+            "src": "/photos/hotels/Q63990925.webp"
+          }
+        },
+        {
+          "wikidata_id": "Q12232992",
+          "name_en": "El-Salamlek Palace",
+          "name_ar": "قصر السلاملك",
+          "name_ar_status": "from Wikidata label",
+          "distance_km_straight_line": 0.6,
+          "map_url": "https://www.openstreetmap.org/?mlat=31.286837&mlon=30.021402#map=17/31.286837/30.021402",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q12232992",
+          "official_website": null,
+          "coords": [
+            31.28684,
+            30.0214
+          ],
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Flickr_-_archer10_%28Dennis%29_-_Egypt-14A-124.jpg/960px-Flickr_-_archer10_%28Dennis%29_-_Egypt-14A-124.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "commons_page": "https://commons.wikimedia.org/wiki/File:Flickr_-_archer10_(Dennis)_-_Egypt-14A-124.webp",
+            "file_title": "File:Flickr - archer10 (Dennis) - Egypt-14A-124.webp",
+            "license": "CC BY-SA 2.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+            "author": "Dennis G. Jarvis",
+            "visually_checked": true,
+            "src": "/photos/hotels/Q12232992.webp"
+          }
+        }
+      ]
+    },
+    "cavafy": {
+      "place_center": {
+        "lat": 31.1976064,
+        "lon": 29.9012293,
+        "basis": "متحف كڤافيس, شارع شرم الشيخ, المسله شرق, الإسكندرية, 21521, مصر"
+      },
+      "place_coordinate_note": null,
+      "hotels": [
+        {
+          "wikidata_id": "Q63985038",
+          "name_en": "Paradise Inn Metropole Hotel",
+          "name_ar": "فندق باردايس إن لو متروبول",
+          "name_ar_status": "from Wikidata label",
+          "distance_km_straight_line": 0.4,
+          "map_url": "https://www.openstreetmap.org/?mlat=31.200949&mlon=29.900232#map=17/31.200949/29.900232",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q63985038",
+          "official_website": null,
+          "coords": [
+            31.20095,
+            29.90023
+          ],
+          "photo": {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Hotel_%22Le_Metropole%22_in_Alexandria%2C_%C3%84gypten.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "commons_page": "https://commons.wikimedia.org/wiki/File:Hotel_%22Le_Metropole%22_in_Alexandria,_%C3%84gypten.webp",
+            "file_title": "File:Hotel \"Le Metropole\" in Alexandria, Ägypten.webp",
+            "license": "CC BY-SA 3.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+            "author": "Roland Unger",
+            "visually_checked": true,
+            "src": "/photos/hotels/Q63985038.webp"
+          }
+        },
+        {
+          "wikidata_id": "Q110285078",
+          "name_en": "Triomphe Hotel",
+          "name_ar": "فندق النصر",
+          "name_ar_status": "from Wikidata label",
+          "distance_km_straight_line": 0.4,
+          "map_url": "https://www.openstreetmap.org/?mlat=31.2002&mlon=29.8982#map=17/31.2002/29.8982",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q110285078",
+          "official_website": null,
+          "coords": [
+            31.2002,
+            29.8982
+          ],
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/26_El_Gorfa_El_Togaria_Street.jpg/960px-26_El_Gorfa_El_Togaria_Street.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "commons_page": "https://commons.wikimedia.org/wiki/File:26_El_Gorfa_El_Togaria_Street.webp",
+            "file_title": "File:26 El Gorfa El Togaria Street.webp",
+            "license": "CC BY-SA 4.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+            "author": "Marsupium",
+            "visually_checked": true,
+            "src": "/photos/hotels/Q110285078.webp"
+          }
+        },
+        {
+          "wikidata_id": "Q5056137",
+          "name_en": "Cecil Hotel",
+          "name_ar": "فندق سيسل",
+          "name_ar_status": "from Wikidata label",
+          "distance_km_straight_line": 0.4,
+          "map_url": "https://www.openstreetmap.org/?mlat=31.2008&mlon=29.8984#map=17/31.2008/29.8984",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q5056137",
+          "official_website": null,
+          "coords": [
+            31.2008,
+            29.8984
+          ],
+          "photo": {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/AlexCecil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "commons_page": "https://commons.wikimedia.org/wiki/File:AlexCecil.webp",
+            "file_title": "File:AlexCecil.webp",
+            "license": "CC BY-SA 3.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+            "author": "Roland Unger",
+            "visually_checked": true,
+            "src": "/photos/hotels/Q5056137.webp"
+          }
+        }
+      ]
+    },
+    "antoniadis": {
+      "place_center": {
+        "lat": 31.2,
+        "lon": 29.94,
+        "basis": "approx"
+      },
+      "place_coordinate_note": "place coordinate approximate (not found in a source); distances are rough",
+      "hotels": [
+        {
+          "wikidata_id": "Q63985038",
+          "name_en": "Paradise Inn Metropole Hotel",
+          "name_ar": "فندق باردايس إن لو متروبول",
+          "name_ar_status": "from Wikidata label",
+          "distance_km_straight_line": 3.8,
+          "map_url": "https://www.openstreetmap.org/?mlat=31.200949&mlon=29.900232#map=17/31.200949/29.900232",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q63985038",
+          "official_website": null,
+          "coords": [
+            31.20095,
+            29.90023
+          ],
+          "photo": {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Hotel_%22Le_Metropole%22_in_Alexandria%2C_%C3%84gypten.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "commons_page": "https://commons.wikimedia.org/wiki/File:Hotel_%22Le_Metropole%22_in_Alexandria,_%C3%84gypten.webp",
+            "file_title": "File:Hotel \"Le Metropole\" in Alexandria, Ägypten.webp",
+            "license": "CC BY-SA 3.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+            "author": "Roland Unger",
+            "visually_checked": true,
+            "src": "/photos/hotels/Q63985038.webp"
+          }
+        },
+        {
+          "wikidata_id": "Q5056137",
+          "name_en": "Cecil Hotel",
+          "name_ar": "فندق سيسل",
+          "name_ar_status": "from Wikidata label",
+          "distance_km_straight_line": 4.0,
+          "map_url": "https://www.openstreetmap.org/?mlat=31.2008&mlon=29.8984#map=17/31.2008/29.8984",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q5056137",
+          "official_website": null,
+          "coords": [
+            31.2008,
+            29.8984
+          ],
+          "photo": {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/AlexCecil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "commons_page": "https://commons.wikimedia.org/wiki/File:AlexCecil.webp",
+            "file_title": "File:AlexCecil.webp",
+            "license": "CC BY-SA 3.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+            "author": "Roland Unger",
+            "visually_checked": true,
+            "src": "/photos/hotels/Q5056137.webp"
+          }
+        },
+        {
+          "wikidata_id": "Q110285078",
+          "name_en": "Triomphe Hotel",
+          "name_ar": "فندق النصر",
+          "name_ar_status": "from Wikidata label",
+          "distance_km_straight_line": 4.0,
+          "map_url": "https://www.openstreetmap.org/?mlat=31.2002&mlon=29.8982#map=17/31.2002/29.8982",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q110285078",
+          "official_website": null,
+          "coords": [
+            31.2002,
+            29.8982
+          ],
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/26_El_Gorfa_El_Togaria_Street.jpg/960px-26_El_Gorfa_El_Togaria_Street.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "commons_page": "https://commons.wikimedia.org/wiki/File:26_El_Gorfa_El_Togaria_Street.webp",
+            "file_title": "File:26 El Gorfa El Togaria Street.webp",
+            "license": "CC BY-SA 4.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+            "author": "Marsupium",
+            "visually_checked": true,
+            "src": "/photos/hotels/Q110285078.webp"
+          }
+        }
+      ]
+    },
+    "karnak": {
+      "place_center": {
+        "lat": 25.7101358,
+        "lon": 32.6501364,
+        "basis": "Karnak Temples & Luxor Temple, طريق الكباش, الكرنك القديم, الأقصر, 816"
+      },
+      "place_coordinate_note": null,
+      "hotels": [
+        {
+          "wikidata_id": "Q110570690",
+          "name_en": "Rezeiky Hotel Luxor",
+          "name_ar": "الرزيقي كامب وفندق",
+          "name_ar_status": "from Wikidata label",
+          "distance_km_straight_line": 0.1,
+          "map_url": "https://www.openstreetmap.org/?mlat=25.71085&mlon=32.64891#map=17/25.71085/32.64891",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q110570690",
+          "official_website": "https://rezeikycamp.com/",
+          "coords": [
+            25.71085,
+            32.64891
+          ],
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/H%C3%B4tel_Rezeiky_Camp_-_Louxor_%28EG%29_-_2025-12-05_-_1.jpg/960px-H%C3%B4tel_Rezeiky_Camp_-_Louxor_%28EG%29_-_2025-12-05_-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "commons_page": "https://commons.wikimedia.org/wiki/File:H%C3%B4tel_Rezeiky_Camp_-_Louxor_(EG)_-_2025-12-05_-_1.webp",
+            "file_title": "File:Hôtel Rezeiky Camp - Louxor (EG) - 2025-12-05 - 1.webp",
+            "license": "CC BY-SA 4.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+            "author": "Chabe01",
+            "visually_checked": true,
+            "src": "/photos/hotels/Q110570690.webp"
+          }
+        },
+        {
+          "wikidata_id": "Q110487835",
+          "name_en": "Susanna Hotel",
+          "name_ar": "فندق سوزانا",
+          "name_ar_status": "from Wikidata label",
+          "distance_km_straight_line": 1.3,
+          "map_url": "https://www.openstreetmap.org/?mlat=25.70142&mlon=32.642#map=17/25.70142/32.642",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q110487835",
+          "official_website": null,
+          "coords": [
+            25.70142,
+            32.642
+          ],
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/H%C3%B4tel_Susanna_-_Louxor_%28EG%29_-_2025-12-04_-_1.jpg/960px-H%C3%B4tel_Susanna_-_Louxor_%28EG%29_-_2025-12-04_-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "commons_page": "https://commons.wikimedia.org/wiki/File:H%C3%B4tel_Susanna_-_Louxor_(EG)_-_2025-12-04_-_1.webp",
+            "file_title": "File:Hôtel Susanna - Louxor (EG) - 2025-12-04 - 1.webp",
+            "license": "CC BY-SA 4.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+            "author": "Chabe01",
+            "visually_checked": true,
+            "src": "/photos/hotels/Q110487835.webp"
+          }
+        },
+        {
+          "wikidata_id": "Q7085427",
+          "name_en": "Winter Palace",
+          "name_ar": null,
+          "name_ar_status": "from Wikidata label",
+          "distance_km_straight_line": 2.0,
+          "map_url": "https://www.openstreetmap.org/?mlat=25.69671869&mlon=32.637160723#map=17/25.69671869/32.637160723",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q7085427",
+          "official_website": null,
+          "coords": [
+            25.69672,
+            32.63716
+          ],
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Luxor_Winter_Palace_R01.jpg/960px-Luxor_Winter_Palace_R01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "commons_page": "https://commons.wikimedia.org/wiki/File:Luxor_Winter_Palace_R01.webp",
+            "file_title": "File:Luxor Winter Palace R01.webp",
+            "license": "CC BY-SA 4.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+            "author": "Marc Ryckaert",
+            "visually_checked": true,
+            "src": "/photos/hotels/Q7085427.webp"
+          }
+        }
+      ]
+    },
+    "luxor-temple": {
+      "place_center": {
+        "lat": 25.699525,
+        "lon": 32.6390695,
+        "basis": "معبد الأقصر, طريق الكباش, الكرنك القديم, الأقصر, 81693, مصر"
+      },
+      "place_coordinate_note": null,
+      "hotels": [
+        {
+          "wikidata_id": "Q110487835",
+          "name_en": "Susanna Hotel",
+          "name_ar": "فندق سوزانا",
+          "name_ar_status": "from Wikidata label",
+          "distance_km_straight_line": 0.4,
+          "map_url": "https://www.openstreetmap.org/?mlat=25.70142&mlon=32.642#map=17/25.70142/32.642",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q110487835",
+          "official_website": null,
+          "coords": [
+            25.70142,
+            32.642
+          ],
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/H%C3%B4tel_Susanna_-_Louxor_%28EG%29_-_2025-12-04_-_1.jpg/960px-H%C3%B4tel_Susanna_-_Louxor_%28EG%29_-_2025-12-04_-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "commons_page": "https://commons.wikimedia.org/wiki/File:H%C3%B4tel_Susanna_-_Louxor_(EG)_-_2025-12-04_-_1.webp",
+            "file_title": "File:Hôtel Susanna - Louxor (EG) - 2025-12-04 - 1.webp",
+            "license": "CC BY-SA 4.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+            "author": "Chabe01",
+            "visually_checked": true,
+            "src": "/photos/hotels/Q110487835.webp"
+          }
+        },
+        {
+          "wikidata_id": "Q7085427",
+          "name_en": "Winter Palace",
+          "name_ar": null,
+          "name_ar_status": "from Wikidata label",
+          "distance_km_straight_line": 0.4,
+          "map_url": "https://www.openstreetmap.org/?mlat=25.69671869&mlon=32.637160723#map=17/25.69671869/32.637160723",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q7085427",
+          "official_website": null,
+          "coords": [
+            25.69672,
+            32.63716
+          ],
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Luxor_Winter_Palace_R01.jpg/960px-Luxor_Winter_Palace_R01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "commons_page": "https://commons.wikimedia.org/wiki/File:Luxor_Winter_Palace_R01.webp",
+            "file_title": "File:Luxor Winter Palace R01.webp",
+            "license": "CC BY-SA 4.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+            "author": "Marc Ryckaert",
+            "visually_checked": true,
+            "src": "/photos/hotels/Q7085427.webp"
+          }
+        },
+        {
+          "wikidata_id": "Q110514990",
+          "name_en": "Sonesta St. George Hotel",
+          "name_ar": "فندق سونستا سان جورج",
+          "name_ar_status": "from Wikidata label",
+          "distance_km_straight_line": 1.4,
+          "map_url": "https://www.openstreetmap.org/?mlat=25.68836&mlon=32.631851#map=17/25.68836/32.631851",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q110514990",
+          "official_website": "https://www.sonesta.com/eg/luxor/sonesta-st-george-hotel-luxor",
+          "coords": [
+            25.68836,
+            32.63185
+          ],
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Luxor_Sonesta_StGeorge_Hotel_R01.jpg/960px-Luxor_Sonesta_StGeorge_Hotel_R01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "commons_page": "https://commons.wikimedia.org/wiki/File:Luxor_Sonesta_StGeorge_Hotel_R01.webp",
+            "file_title": "File:Luxor Sonesta StGeorge Hotel R01.webp",
+            "license": "CC BY-SA 4.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+            "author": "Marc Ryckaert",
+            "visually_checked": true,
+            "src": "/photos/hotels/Q110514990.webp"
+          }
+        }
+      ]
+    },
+    "valley-kings": {
+      "place_center": {
+        "lat": 25.7404899,
+        "lon": 32.6017581,
+        "basis": "وادي الملوك, مدينه القرنة الجديدة, الأقصر, مصر"
+      },
+      "place_coordinate_note": null,
+      "hotels": [
+        {
+          "wikidata_id": "Q111999097",
+          "name_en": "Nour El Gourna",
+          "name_ar": null,
+          "name_ar_status": "not found in Wikidata/OSM - show English only or add manually",
+          "distance_km_straight_line": 1.9,
+          "map_url": "https://www.openstreetmap.org/?mlat=25.72346&mlon=32.60559#map=17/25.72346/32.60559",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q111999097",
+          "official_website": null,
+          "coords": [
+            25.72346,
+            32.60559
+          ],
+          "photo": null
+        },
+        {
+          "wikidata_id": "Q111857726",
+          "name_en": "New Memnon Hotel",
+          "name_ar": null,
+          "name_ar_status": "not found in Wikidata/OSM - show English only or add manually",
+          "distance_km_straight_line": 2.5,
+          "map_url": "https://www.openstreetmap.org/?mlat=25.71971&mlon=32.61108#map=17/25.71971/32.61108",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q111857726",
+          "official_website": null,
+          "coords": [
+            25.71971,
+            32.61108
+          ],
+          "photo": null
+        }
+      ]
+    },
+    "hatshepsut": {
+      "place_center": {
+        "lat": 25.738056,
+        "lon": 32.606944,
+        "basis": "wd"
+      },
+      "place_coordinate_note": null,
+      "hotels": [
+        {
+          "wikidata_id": "Q111999097",
+          "name_en": "Nour El Gourna",
+          "name_ar": null,
+          "name_ar_status": "not found in Wikidata/OSM - show English only or add manually",
+          "distance_km_straight_line": 1.6,
+          "map_url": "https://www.openstreetmap.org/?mlat=25.72346&mlon=32.60559#map=17/25.72346/32.60559",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q111999097",
+          "official_website": null,
+          "coords": [
+            25.72346,
+            32.60559
+          ],
+          "photo": null
+        },
+        {
+          "wikidata_id": "Q111857726",
+          "name_en": "New Memnon Hotel",
+          "name_ar": null,
+          "name_ar_status": "not found in Wikidata/OSM - show English only or add manually",
+          "distance_km_straight_line": 2.1,
+          "map_url": "https://www.openstreetmap.org/?mlat=25.71971&mlon=32.61108#map=17/25.71971/32.61108",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q111857726",
+          "official_website": null,
+          "coords": [
+            25.71971,
+            32.61108
+          ],
+          "photo": null
+        }
+      ]
+    },
+    "luxor-museum": {
+      "place_center": {
+        "lat": 25.7076634,
+        "lon": 32.644489,
+        "basis": "Luxor Museum, شارع متحف الاقصر, مدينه الاقصر, الأقصر, 81693, مصر"
+      },
+      "place_coordinate_note": null,
+      "hotels": [
+        {
+          "wikidata_id": "Q110570690",
+          "name_en": "Rezeiky Hotel Luxor",
+          "name_ar": "الرزيقي كامب وفندق",
+          "name_ar_status": "from Wikidata label",
+          "distance_km_straight_line": 0.6,
+          "map_url": "https://www.openstreetmap.org/?mlat=25.71085&mlon=32.64891#map=17/25.71085/32.64891",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q110570690",
+          "official_website": "https://rezeikycamp.com/",
+          "coords": [
+            25.71085,
+            32.64891
+          ],
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/H%C3%B4tel_Rezeiky_Camp_-_Louxor_%28EG%29_-_2025-12-05_-_1.jpg/960px-H%C3%B4tel_Rezeiky_Camp_-_Louxor_%28EG%29_-_2025-12-05_-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "commons_page": "https://commons.wikimedia.org/wiki/File:H%C3%B4tel_Rezeiky_Camp_-_Louxor_(EG)_-_2025-12-05_-_1.webp",
+            "file_title": "File:Hôtel Rezeiky Camp - Louxor (EG) - 2025-12-05 - 1.webp",
+            "license": "CC BY-SA 4.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+            "author": "Chabe01",
+            "visually_checked": true,
+            "src": "/photos/hotels/Q110570690.webp"
+          }
+        },
+        {
+          "wikidata_id": "Q110487835",
+          "name_en": "Susanna Hotel",
+          "name_ar": "فندق سوزانا",
+          "name_ar_status": "from Wikidata label",
+          "distance_km_straight_line": 0.7,
+          "map_url": "https://www.openstreetmap.org/?mlat=25.70142&mlon=32.642#map=17/25.70142/32.642",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q110487835",
+          "official_website": null,
+          "coords": [
+            25.70142,
+            32.642
+          ],
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/H%C3%B4tel_Susanna_-_Louxor_%28EG%29_-_2025-12-04_-_1.jpg/960px-H%C3%B4tel_Susanna_-_Louxor_%28EG%29_-_2025-12-04_-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "commons_page": "https://commons.wikimedia.org/wiki/File:H%C3%B4tel_Susanna_-_Louxor_(EG)_-_2025-12-04_-_1.webp",
+            "file_title": "File:Hôtel Susanna - Louxor (EG) - 2025-12-04 - 1.webp",
+            "license": "CC BY-SA 4.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+            "author": "Chabe01",
+            "visually_checked": true,
+            "src": "/photos/hotels/Q110487835.webp"
+          }
+        },
+        {
+          "wikidata_id": "Q7085427",
+          "name_en": "Winter Palace",
+          "name_ar": null,
+          "name_ar_status": "from Wikidata label",
+          "distance_km_straight_line": 1.4,
+          "map_url": "https://www.openstreetmap.org/?mlat=25.69671869&mlon=32.637160723#map=17/25.69671869/32.637160723",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q7085427",
+          "official_website": null,
+          "coords": [
+            25.69672,
+            32.63716
+          ],
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Luxor_Winter_Palace_R01.jpg/960px-Luxor_Winter_Palace_R01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "commons_page": "https://commons.wikimedia.org/wiki/File:Luxor_Winter_Palace_R01.webp",
+            "file_title": "File:Luxor Winter Palace R01.webp",
+            "license": "CC BY-SA 4.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+            "author": "Marc Ryckaert",
+            "visually_checked": true,
+            "src": "/photos/hotels/Q7085427.webp"
+          }
+        }
+      ]
+    },
+    "philae": {
+      "place_center": {
+        "lat": 24.021528,
+        "lon": 32.884167,
+        "basis": "wd"
+      },
+      "nearest_town_fallback": true,
+      "place_coordinate_note": "island temple, no hotels; options are Aswan hotels",
+      "hotels": [
+        {
+          "wikidata_id": "Q105219383",
+          "name_en": "Basma Hotel",
+          "name_ar": "فندق بسمة",
+          "name_ar_status": "from Wikidata label",
+          "distance_km_straight_line": 6.3,
+          "map_url": "https://www.openstreetmap.org/?mlat=24.07806&mlon=32.88767#map=17/24.07806/32.88767",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q105219383",
+          "official_website": null,
+          "coords": [
+            24.07806,
+            32.88767
+          ],
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Aswan_-_panoramio_%282%29.jpg/960px-Aswan_-_panoramio_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "commons_page": "https://commons.wikimedia.org/wiki/File:Aswan_-_panoramio_(2).webp",
+            "file_title": "File:Aswan - panoramio (2).webp",
+            "license": "CC BY 3.0",
+            "license_url": "https://creativecommons.org/licenses/by/3.0",
+            "author": "jokertrekker",
+            "visually_checked": true,
+            "src": "/photos/hotels/Q105219383.webp"
+          }
+        },
+        {
+          "wikidata_id": "Q105259668",
+          "name_en": "Pyramisa Island Aswan",
+          "name_ar": "منتجع اند سبا بيراميزا جزيرة ايزيس أسوان",
+          "name_ar_status": "from Wikidata label",
+          "distance_km_straight_line": 6.5,
+          "map_url": "https://www.openstreetmap.org/?mlat=24.0801&mlon=32.88013#map=17/24.0801/32.88013",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q105259668",
+          "official_website": null,
+          "coords": [
+            24.0801,
+            32.88013
+          ],
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Aswan_Pyramisa_Isis_Island_Hotel_R02.jpg/960px-Aswan_Pyramisa_Isis_Island_Hotel_R02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "commons_page": "https://commons.wikimedia.org/wiki/File:Aswan_Pyramisa_Isis_Island_Hotel_R02.webp",
+            "file_title": "File:Aswan Pyramisa Isis Island Hotel R02.webp",
+            "license": "CC BY 3.0",
+            "license_url": "https://creativecommons.org/licenses/by/3.0",
+            "author": "Marc Ryckaert (MJJR)",
+            "visually_checked": true,
+            "src": "/photos/hotels/Q105259668.webp"
+          }
+        },
+        {
+          "wikidata_id": "Q1283262",
+          "name_en": "Old Cataract",
+          "name_ar": null,
+          "name_ar_status": "from Wikidata label",
+          "distance_km_straight_line": 6.8,
+          "map_url": "https://www.openstreetmap.org/?mlat=24.082314&mlon=32.887318#map=17/24.082314/32.887318",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q1283262",
+          "official_website": null,
+          "coords": [
+            24.08231,
+            32.88732
+          ],
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Old_Cataract_hotel_Aswan-2232801103.jpg/960px-Old_Cataract_hotel_Aswan-2232801103.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "commons_page": "https://commons.wikimedia.org/wiki/File:Old_Cataract_hotel_Aswan-2232801103.webp",
+            "file_title": "File:Old Cataract hotel Aswan-2232801103.webp",
+            "license": "CC BY-SA 2.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+            "author": "DAVID HOLT",
+            "visually_checked": true,
+            "src": "/photos/hotels/Q1283262.webp"
+          }
+        }
+      ]
+    },
+    "elephantine": {
+      "place_center": {
+        "lat": 24.0910553,
+        "lon": 32.890111,
+        "basis": "جزيرة ألفنتين, Siou, أسوان, مصر"
+      },
+      "place_coordinate_note": null,
+      "hotels": [
+        {
+          "wikidata_id": "Q111999167",
+          "name_en": "The Mango Guest House",
+          "name_ar": null,
+          "name_ar_status": "not found in Wikidata/OSM - show English only or add manually",
+          "distance_km_straight_line": 0.2,
+          "map_url": "https://www.openstreetmap.org/?mlat=24.08942&mlon=32.8891#map=17/24.08942/32.8891",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q111999167",
+          "official_website": null,
+          "coords": [
+            24.08942,
+            32.8891
+          ],
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Mango_House_guest_house.jpg/960px-Mango_House_guest_house.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "commons_page": "https://commons.wikimedia.org/wiki/File:Mango_House_guest_house.webp",
+            "file_title": "File:Mango House guest house.webp",
+            "license": "CC BY-SA 4.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+            "author": "Vladimir Mironov 1984",
+            "visually_checked": true,
+            "src": "/photos/hotels/Q111999167.webp"
+          }
+        },
+        {
+          "wikidata_id": "Q105064101",
+          "name_en": "Mövenpick Resort Aswan",
+          "name_ar": "منتجع موفنبيك أسوان",
+          "name_ar_status": "from Wikidata label",
+          "distance_km_straight_line": 0.3,
+          "map_url": "https://www.openstreetmap.org/?mlat=24.09314&mlon=32.89195#map=17/24.09314/32.89195",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q105064101",
+          "official_website": null,
+          "coords": [
+            24.09314,
+            32.89195
+          ],
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Aswan_M%C3%B6venpick_R01.jpg/960px-Aswan_M%C3%B6venpick_R01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "commons_page": "https://commons.wikimedia.org/wiki/File:Aswan_M%C3%B6venpick_R01.webp",
+            "file_title": "File:Aswan Mövenpick R01.webp",
+            "license": "CC BY 3.0",
+            "license_url": "https://creativecommons.org/licenses/by/3.0",
+            "author": "Marc Ryckaert (MJJR)",
+            "visually_checked": true,
+            "src": "/photos/hotels/Q105064101.webp"
+          }
+        },
+        {
+          "wikidata_id": "Q105257906",
+          "name_en": "Philae Hotel",
+          "name_ar": "فبدق فيلة",
+          "name_ar_status": "from Wikidata label",
+          "distance_km_straight_line": 0.5,
+          "map_url": "https://www.openstreetmap.org/?mlat=24.089167&mlon=32.894556#map=17/24.089167/32.894556",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q105257906",
+          "official_website": null,
+          "coords": [
+            24.08917,
+            32.89456
+          ],
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Flickr_-_schmuela_-_fabulous_Philae_Hotel_in_Aswan.jpg/960px-Flickr_-_schmuela_-_fabulous_Philae_Hotel_in_Aswan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "commons_page": "https://commons.wikimedia.org/wiki/File:Flickr_-_schmuela_-_fabulous_Philae_Hotel_in_Aswan.webp",
+            "file_title": "File:Flickr - schmuela - fabulous Philae Hotel in Aswan.webp",
+            "license": "CC BY-SA 2.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+            "author": "Karen Green",
+            "visually_checked": true,
+            "src": "/photos/hotels/Q105257906.webp"
+          }
+        }
+      ]
+    },
+    "nubian-museum": {
+      "place_center": {
+        "lat": 24.0794855,
+        "lon": 32.8891534,
+        "basis": "متحف النوبة, شارع الفنادق, نجع المحطة, أسوان, 81529, مصر"
+      },
+      "place_coordinate_note": null,
+      "hotels": [
+        {
+          "wikidata_id": "Q105219383",
+          "name_en": "Basma Hotel",
+          "name_ar": "فندق بسمة",
+          "name_ar_status": "from Wikidata label",
+          "distance_km_straight_line": 0.2,
+          "map_url": "https://www.openstreetmap.org/?mlat=24.07806&mlon=32.88767#map=17/24.07806/32.88767",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q105219383",
+          "official_website": null,
+          "coords": [
+            24.07806,
+            32.88767
+          ],
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Aswan_-_panoramio_%282%29.jpg/960px-Aswan_-_panoramio_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "commons_page": "https://commons.wikimedia.org/wiki/File:Aswan_-_panoramio_(2).webp",
+            "file_title": "File:Aswan - panoramio (2).webp",
+            "license": "CC BY 3.0",
+            "license_url": "https://creativecommons.org/licenses/by/3.0",
+            "author": "jokertrekker",
+            "visually_checked": true,
+            "src": "/photos/hotels/Q105219383.webp"
+          }
+        },
+        {
+          "wikidata_id": "Q1283262",
+          "name_en": "Old Cataract",
+          "name_ar": null,
+          "name_ar_status": "from Wikidata label",
+          "distance_km_straight_line": 0.4,
+          "map_url": "https://www.openstreetmap.org/?mlat=24.082314&mlon=32.887318#map=17/24.082314/32.887318",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q1283262",
+          "official_website": null,
+          "coords": [
+            24.08231,
+            32.88732
+          ],
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Old_Cataract_hotel_Aswan-2232801103.jpg/960px-Old_Cataract_hotel_Aswan-2232801103.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "commons_page": "https://commons.wikimedia.org/wiki/File:Old_Cataract_hotel_Aswan-2232801103.webp",
+            "file_title": "File:Old Cataract hotel Aswan-2232801103.webp",
+            "license": "CC BY-SA 2.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+            "author": "DAVID HOLT",
+            "visually_checked": true,
+            "src": "/photos/hotels/Q1283262.webp"
+          }
+        },
+        {
+          "wikidata_id": "Q105259668",
+          "name_en": "Pyramisa Island Aswan",
+          "name_ar": "منتجع اند سبا بيراميزا جزيرة ايزيس أسوان",
+          "name_ar_status": "from Wikidata label",
+          "distance_km_straight_line": 0.9,
+          "map_url": "https://www.openstreetmap.org/?mlat=24.0801&mlon=32.88013#map=17/24.0801/32.88013",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q105259668",
+          "official_website": null,
+          "coords": [
+            24.0801,
+            32.88013
+          ],
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Aswan_Pyramisa_Isis_Island_Hotel_R02.jpg/960px-Aswan_Pyramisa_Isis_Island_Hotel_R02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "commons_page": "https://commons.wikimedia.org/wiki/File:Aswan_Pyramisa_Isis_Island_Hotel_R02.webp",
+            "file_title": "File:Aswan Pyramisa Isis Island Hotel R02.webp",
+            "license": "CC BY 3.0",
+            "license_url": "https://creativecommons.org/licenses/by/3.0",
+            "author": "Marc Ryckaert (MJJR)",
+            "visually_checked": true,
+            "src": "/photos/hotels/Q105259668.webp"
+          }
+        }
+      ]
+    },
+    "unfinished-obelisk": {
+      "place_center": {
+        "lat": 24.0769125,
+        "lon": 32.8954118,
+        "basis": "مسلة ناقصةال, شارع شرق البندر, عبد الحفيظ ابو قديس, أسوان, 81511, مصر"
+      },
+      "place_coordinate_note": null,
+      "hotels": [
+        {
+          "wikidata_id": "Q105219383",
+          "name_en": "Basma Hotel",
+          "name_ar": "فندق بسمة",
+          "name_ar_status": "from Wikidata label",
+          "distance_km_straight_line": 0.8,
+          "map_url": "https://www.openstreetmap.org/?mlat=24.07806&mlon=32.88767#map=17/24.07806/32.88767",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q105219383",
+          "official_website": null,
+          "coords": [
+            24.07806,
+            32.88767
+          ],
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Aswan_-_panoramio_%282%29.jpg/960px-Aswan_-_panoramio_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "commons_page": "https://commons.wikimedia.org/wiki/File:Aswan_-_panoramio_(2).webp",
+            "file_title": "File:Aswan - panoramio (2).webp",
+            "license": "CC BY 3.0",
+            "license_url": "https://creativecommons.org/licenses/by/3.0",
+            "author": "jokertrekker",
+            "visually_checked": true,
+            "src": "/photos/hotels/Q105219383.webp"
+          }
+        },
+        {
+          "wikidata_id": "Q1283262",
+          "name_en": "Old Cataract",
+          "name_ar": null,
+          "name_ar_status": "from Wikidata label",
+          "distance_km_straight_line": 1.0,
+          "map_url": "https://www.openstreetmap.org/?mlat=24.082314&mlon=32.887318#map=17/24.082314/32.887318",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q1283262",
+          "official_website": null,
+          "coords": [
+            24.08231,
+            32.88732
+          ],
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Old_Cataract_hotel_Aswan-2232801103.jpg/960px-Old_Cataract_hotel_Aswan-2232801103.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "commons_page": "https://commons.wikimedia.org/wiki/File:Old_Cataract_hotel_Aswan-2232801103.webp",
+            "file_title": "File:Old Cataract hotel Aswan-2232801103.webp",
+            "license": "CC BY-SA 2.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+            "author": "DAVID HOLT",
+            "visually_checked": true,
+            "src": "/photos/hotels/Q1283262.webp"
+          }
+        },
+        {
+          "wikidata_id": "Q105257906",
+          "name_en": "Philae Hotel",
+          "name_ar": "فبدق فيلة",
+          "name_ar_status": "from Wikidata label",
+          "distance_km_straight_line": 1.4,
+          "map_url": "https://www.openstreetmap.org/?mlat=24.089167&mlon=32.894556#map=17/24.089167/32.894556",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q105257906",
+          "official_website": null,
+          "coords": [
+            24.08917,
+            32.89456
+          ],
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Flickr_-_schmuela_-_fabulous_Philae_Hotel_in_Aswan.jpg/960px-Flickr_-_schmuela_-_fabulous_Philae_Hotel_in_Aswan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "commons_page": "https://commons.wikimedia.org/wiki/File:Flickr_-_schmuela_-_fabulous_Philae_Hotel_in_Aswan.webp",
+            "file_title": "File:Flickr - schmuela - fabulous Philae Hotel in Aswan.webp",
+            "license": "CC BY-SA 2.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+            "author": "Karen Green",
+            "visually_checked": true,
+            "src": "/photos/hotels/Q105257906.webp"
+          }
+        }
+      ]
+    },
+    "abu-simbel": {
+      "place_center": {
+        "lat": 22.3371195,
+        "lon": 31.6257973,
+        "basis": "معبدا أبو سمبل, شارع المعبد, مدينة أبو سمبل, أسوان, 81525, مصر"
+      },
+      "place_coordinate_note": "only 2 hotel entries found; no photo found",
+      "hotels": [
+        {
+          "wikidata_id": "Q111857804",
+          "name_en": "Seti Abu Simbel Lake Resort",
+          "name_ar": "سيتى أبو سمبل ريزورت",
+          "name_ar_status": "from Wikidata label",
+          "distance_km_straight_line": 1.2,
+          "map_url": "https://www.openstreetmap.org/?mlat=22.33825&mlon=31.61422#map=17/22.33825/31.61422",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q111857804",
+          "official_website": "https://www.setiabusimbel.com/",
+          "coords": [
+            22.33825,
+            31.61422
+          ],
+          "photo": null
+        },
+        {
+          "wikidata_id": "Q113587854",
+          "name_en": "Eskaleh Nubian Ecolodge",
+          "name_ar": null,
+          "name_ar_status": "not found in Wikidata/OSM - show English only or add manually",
+          "distance_km_straight_line": 1.3,
+          "map_url": "https://www.openstreetmap.org/?mlat=22.346811&mlon=31.618695#map=17/22.346811/31.618695",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q113587854",
+          "official_website": null,
+          "coords": [
+            22.34681,
+            31.61869
+          ],
+          "photo": null
+        }
+      ]
+    },
+    "eel-garden": {
+      "place_center": {
+        "lat": 28.5053487,
+        "lon": 34.5212322,
+        "basis": "Eel Garden, شارع المنيل, عصلة, دهب, جنوب سيناء, 45214, مصر"
+      },
+      "place_coordinate_note": null,
+      "hotels": [
+        {
+          "wikidata_id": "Q111857821",
+          "name_en": "Coral Coast Hotel",
+          "name_ar": null,
+          "name_ar_status": "not found in Wikidata/OSM - show English only or add manually",
+          "distance_km_straight_line": 0.2,
+          "map_url": "https://www.openstreetmap.org/?mlat=28.50361&mlon=34.51964#map=17/28.50361/34.51964",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q111857821",
+          "official_website": null,
+          "coords": [
+            28.50361,
+            34.51964
+          ],
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Rear_of_Coral_Coast_Hotel_at_Dusk.jpg/960px-Rear_of_Coral_Coast_Hotel_at_Dusk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "commons_page": "https://commons.wikimedia.org/wiki/File:Rear_of_Coral_Coast_Hotel_at_Dusk.webp",
+            "file_title": "File:Rear of Coral Coast Hotel at Dusk.webp",
+            "license": "CC BY 2.0",
+            "license_url": "https://creativecommons.org/licenses/by/2.0",
+            "author": "Tim Sheerman-Chase",
+            "visually_checked": true,
+            "src": "/photos/hotels/Q111857821.webp"
+          }
+        },
+        {
+          "wikidata_id": "Q111857819",
+          "name_en": "Blue Beach Club",
+          "name_ar": null,
+          "name_ar_status": "not found in Wikidata/OSM - show English only or add manually",
+          "distance_km_straight_line": 0.4,
+          "map_url": "https://www.openstreetmap.org/?mlat=28.50182&mlon=34.51954#map=17/28.50182/34.51954",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q111857819",
+          "official_website": null,
+          "coords": [
+            28.50182,
+            34.51954
+          ],
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Beach_Blue_Club_-_panoramio.jpg/960px-Beach_Blue_Club_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "commons_page": "https://commons.wikimedia.org/wiki/File:Beach_Blue_Club_-_panoramio.webp",
+            "file_title": "File:Beach Blue Club - panoramio.webp",
+            "license": "CC BY 3.0",
+            "license_url": "https://creativecommons.org/licenses/by/3.0",
+            "author": "pepanos",
+            "visually_checked": true,
+            "src": "/photos/hotels/Q111857819.webp"
+          }
+        },
+        {
+          "wikidata_id": "Q111857817",
+          "name_en": "Ali Baba Hotel",
+          "name_ar": null,
+          "name_ar_status": "not found in Wikidata/OSM - show English only or add manually",
+          "distance_km_straight_line": 0.9,
+          "map_url": "https://www.openstreetmap.org/?mlat=28.49774&mlon=34.51707#map=17/28.49774/34.51707",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q111857817",
+          "official_website": null,
+          "coords": [
+            28.49774,
+            34.51707
+          ],
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Ali_Baba_Hotel_-_panoramio.jpg/960px-Ali_Baba_Hotel_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "commons_page": "https://commons.wikimedia.org/wiki/File:Ali_Baba_Hotel_-_panoramio.webp",
+            "file_title": "File:Ali Baba Hotel - panoramio.webp",
+            "license": "CC BY-SA 3.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+            "author": "Hanc Tomasz",
+            "visually_checked": true,
+            "src": "/photos/hotels/Q111857817.webp"
+          }
+        }
+      ]
+    },
+    "lighthouse": {
+      "place_center": {
+        "lat": 28.5341659,
+        "lon": 34.5162863,
+        "basis": "LightHouse, Masbat, دهب, جنوب سيناء, مصر"
+      },
+      "place_coordinate_note": null,
+      "hotels": [
+        {
+          "wikidata_id": "Q111857821",
+          "name_en": "Coral Coast Hotel",
+          "name_ar": null,
+          "name_ar_status": "not found in Wikidata/OSM - show English only or add manually",
+          "distance_km_straight_line": 3.4,
+          "map_url": "https://www.openstreetmap.org/?mlat=28.50361&mlon=34.51964#map=17/28.50361/34.51964",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q111857821",
+          "official_website": null,
+          "coords": [
+            28.50361,
+            34.51964
+          ],
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Rear_of_Coral_Coast_Hotel_at_Dusk.jpg/960px-Rear_of_Coral_Coast_Hotel_at_Dusk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "commons_page": "https://commons.wikimedia.org/wiki/File:Rear_of_Coral_Coast_Hotel_at_Dusk.webp",
+            "file_title": "File:Rear of Coral Coast Hotel at Dusk.webp",
+            "license": "CC BY 2.0",
+            "license_url": "https://creativecommons.org/licenses/by/2.0",
+            "author": "Tim Sheerman-Chase",
+            "visually_checked": true,
+            "src": "/photos/hotels/Q111857821.webp"
+          }
+        },
+        {
+          "wikidata_id": "Q111857819",
+          "name_en": "Blue Beach Club",
+          "name_ar": null,
+          "name_ar_status": "not found in Wikidata/OSM - show English only or add manually",
+          "distance_km_straight_line": 3.6,
+          "map_url": "https://www.openstreetmap.org/?mlat=28.50182&mlon=34.51954#map=17/28.50182/34.51954",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q111857819",
+          "official_website": null,
+          "coords": [
+            28.50182,
+            34.51954
+          ],
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Beach_Blue_Club_-_panoramio.jpg/960px-Beach_Blue_Club_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "commons_page": "https://commons.wikimedia.org/wiki/File:Beach_Blue_Club_-_panoramio.webp",
+            "file_title": "File:Beach Blue Club - panoramio.webp",
+            "license": "CC BY 3.0",
+            "license_url": "https://creativecommons.org/licenses/by/3.0",
+            "author": "pepanos",
+            "visually_checked": true,
+            "src": "/photos/hotels/Q111857819.webp"
+          }
+        }
+      ]
+    },
+    "friday-market": {
+      "place_center": {
+        "lat": 28.5062141,
+        "lon": 34.5196403,
+        "basis": "Friday market, شارع المنيل, عصلة, دهب, جنوب سيناء, 45214, مصر"
+      },
+      "place_coordinate_note": null,
+      "hotels": [
+        {
+          "wikidata_id": "Q111857821",
+          "name_en": "Coral Coast Hotel",
+          "name_ar": null,
+          "name_ar_status": "not found in Wikidata/OSM - show English only or add manually",
+          "distance_km_straight_line": 0.3,
+          "map_url": "https://www.openstreetmap.org/?mlat=28.50361&mlon=34.51964#map=17/28.50361/34.51964",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q111857821",
+          "official_website": null,
+          "coords": [
+            28.50361,
+            34.51964
+          ],
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Rear_of_Coral_Coast_Hotel_at_Dusk.jpg/960px-Rear_of_Coral_Coast_Hotel_at_Dusk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "commons_page": "https://commons.wikimedia.org/wiki/File:Rear_of_Coral_Coast_Hotel_at_Dusk.webp",
+            "file_title": "File:Rear of Coral Coast Hotel at Dusk.webp",
+            "license": "CC BY 2.0",
+            "license_url": "https://creativecommons.org/licenses/by/2.0",
+            "author": "Tim Sheerman-Chase",
+            "visually_checked": true,
+            "src": "/photos/hotels/Q111857821.webp"
+          }
+        },
+        {
+          "wikidata_id": "Q111857819",
+          "name_en": "Blue Beach Club",
+          "name_ar": null,
+          "name_ar_status": "not found in Wikidata/OSM - show English only or add manually",
+          "distance_km_straight_line": 0.5,
+          "map_url": "https://www.openstreetmap.org/?mlat=28.50182&mlon=34.51954#map=17/28.50182/34.51954",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q111857819",
+          "official_website": null,
+          "coords": [
+            28.50182,
+            34.51954
+          ],
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Beach_Blue_Club_-_panoramio.jpg/960px-Beach_Blue_Club_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "commons_page": "https://commons.wikimedia.org/wiki/File:Beach_Blue_Club_-_panoramio.webp",
+            "file_title": "File:Beach Blue Club - panoramio.webp",
+            "license": "CC BY 3.0",
+            "license_url": "https://creativecommons.org/licenses/by/3.0",
+            "author": "pepanos",
+            "visually_checked": true,
+            "src": "/photos/hotels/Q111857819.webp"
+          }
+        },
+        {
+          "wikidata_id": "Q111857817",
+          "name_en": "Ali Baba Hotel",
+          "name_ar": null,
+          "name_ar_status": "not found in Wikidata/OSM - show English only or add manually",
+          "distance_km_straight_line": 1.0,
+          "map_url": "https://www.openstreetmap.org/?mlat=28.49774&mlon=34.51707#map=17/28.49774/34.51707",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q111857817",
+          "official_website": null,
+          "coords": [
+            28.49774,
+            34.51707
+          ],
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Ali_Baba_Hotel_-_panoramio.jpg/960px-Ali_Baba_Hotel_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "commons_page": "https://commons.wikimedia.org/wiki/File:Ali_Baba_Hotel_-_panoramio.webp",
+            "file_title": "File:Ali Baba Hotel - panoramio.webp",
+            "license": "CC BY-SA 3.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+            "author": "Hanc Tomasz",
+            "visually_checked": true,
+            "src": "/photos/hotels/Q111857817.webp"
+          }
+        }
+      ]
+    },
+    "blue-lagoon": {
+      "place_center": {
+        "lat": 28.53,
+        "lon": 34.51,
+        "basis": "approx"
+      },
+      "place_coordinate_note": "place coordinate approximate; hotels are Dahab-town options, label as nearest town",
+      "hotels": [
+        {
+          "wikidata_id": "Q111857821",
+          "name_en": "Coral Coast Hotel",
+          "name_ar": null,
+          "name_ar_status": "not found in Wikidata/OSM - show English only or add manually",
+          "distance_km_straight_line": 3.1,
+          "map_url": "https://www.openstreetmap.org/?mlat=28.50361&mlon=34.51964#map=17/28.50361/34.51964",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q111857821",
+          "official_website": null,
+          "coords": [
+            28.50361,
+            34.51964
+          ],
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Rear_of_Coral_Coast_Hotel_at_Dusk.jpg/960px-Rear_of_Coral_Coast_Hotel_at_Dusk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "commons_page": "https://commons.wikimedia.org/wiki/File:Rear_of_Coral_Coast_Hotel_at_Dusk.webp",
+            "file_title": "File:Rear of Coral Coast Hotel at Dusk.webp",
+            "license": "CC BY 2.0",
+            "license_url": "https://creativecommons.org/licenses/by/2.0",
+            "author": "Tim Sheerman-Chase",
+            "visually_checked": true,
+            "src": "/photos/hotels/Q111857821.webp"
+          }
+        },
+        {
+          "wikidata_id": "Q111857819",
+          "name_en": "Blue Beach Club",
+          "name_ar": null,
+          "name_ar_status": "not found in Wikidata/OSM - show English only or add manually",
+          "distance_km_straight_line": 3.3,
+          "map_url": "https://www.openstreetmap.org/?mlat=28.50182&mlon=34.51954#map=17/28.50182/34.51954",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q111857819",
+          "official_website": null,
+          "coords": [
+            28.50182,
+            34.51954
+          ],
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Beach_Blue_Club_-_panoramio.jpg/960px-Beach_Blue_Club_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "commons_page": "https://commons.wikimedia.org/wiki/File:Beach_Blue_Club_-_panoramio.webp",
+            "file_title": "File:Beach Blue Club - panoramio.webp",
+            "license": "CC BY 3.0",
+            "license_url": "https://creativecommons.org/licenses/by/3.0",
+            "author": "pepanos",
+            "visually_checked": true,
+            "src": "/photos/hotels/Q111857819.webp"
+          }
+        },
+        {
+          "wikidata_id": "Q111857817",
+          "name_en": "Ali Baba Hotel",
+          "name_ar": null,
+          "name_ar_status": "not found in Wikidata/OSM - show English only or add manually",
+          "distance_km_straight_line": 3.7,
+          "map_url": "https://www.openstreetmap.org/?mlat=28.49774&mlon=34.51707#map=17/28.49774/34.51707",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q111857817",
+          "official_website": null,
+          "coords": [
+            28.49774,
+            34.51707
+          ],
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Ali_Baba_Hotel_-_panoramio.jpg/960px-Ali_Baba_Hotel_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "commons_page": "https://commons.wikimedia.org/wiki/File:Ali_Baba_Hotel_-_panoramio.webp",
+            "file_title": "File:Ali Baba Hotel - panoramio.webp",
+            "license": "CC BY-SA 3.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+            "author": "Hanc Tomasz",
+            "visually_checked": true,
+            "src": "/photos/hotels/Q111857817.webp"
+          }
+        }
+      ]
+    },
+    "dahab-mountains": {
+      "place_center": {
+        "lat": 28.4963633,
+        "lon": 34.5145652,
+        "basis": "دهب, جنوب سيناء, 55555, مصر"
+      },
+      "place_coordinate_note": null,
+      "hotels": [
+        {
+          "wikidata_id": "Q111111130",
+          "name_en": "Dahab Plaza Hotel",
+          "name_ar": null,
+          "name_ar_status": "not found in Wikidata/OSM - show English only or add manually",
+          "distance_km_straight_line": 0.1,
+          "map_url": "https://www.openstreetmap.org/?mlat=28.4950846&mlon=34.5149847#map=17/28.4950846/34.5149847",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q111111130",
+          "official_website": null,
+          "coords": [
+            28.49508,
+            34.51498
+          ],
+          "photo": {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Dahab_Plaza_Hotel_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "commons_page": "https://commons.wikimedia.org/wiki/File:Dahab_Plaza_Hotel_-_panoramio.webp",
+            "file_title": "File:Dahab Plaza Hotel - panoramio.webp",
+            "license": "CC BY 3.0",
+            "license_url": "https://creativecommons.org/licenses/by/3.0",
+            "author": "emadsinai",
+            "visually_checked": true,
+            "src": "/photos/hotels/Q111111130.webp"
+          }
+        },
+        {
+          "wikidata_id": "Q111857817",
+          "name_en": "Ali Baba Hotel",
+          "name_ar": null,
+          "name_ar_status": "not found in Wikidata/OSM - show English only or add manually",
+          "distance_km_straight_line": 0.3,
+          "map_url": "https://www.openstreetmap.org/?mlat=28.49774&mlon=34.51707#map=17/28.49774/34.51707",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q111857817",
+          "official_website": null,
+          "coords": [
+            28.49774,
+            34.51707
+          ],
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Ali_Baba_Hotel_-_panoramio.jpg/960px-Ali_Baba_Hotel_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "commons_page": "https://commons.wikimedia.org/wiki/File:Ali_Baba_Hotel_-_panoramio.webp",
+            "file_title": "File:Ali Baba Hotel - panoramio.webp",
+            "license": "CC BY-SA 3.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+            "author": "Hanc Tomasz",
+            "visually_checked": true,
+            "src": "/photos/hotels/Q111857817.webp"
+          }
+        },
+        {
+          "wikidata_id": "Q111857819",
+          "name_en": "Blue Beach Club",
+          "name_ar": null,
+          "name_ar_status": "not found in Wikidata/OSM - show English only or add manually",
+          "distance_km_straight_line": 0.8,
+          "map_url": "https://www.openstreetmap.org/?mlat=28.50182&mlon=34.51954#map=17/28.50182/34.51954",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q111857819",
+          "official_website": null,
+          "coords": [
+            28.50182,
+            34.51954
+          ],
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Beach_Blue_Club_-_panoramio.jpg/960px-Beach_Blue_Club_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "commons_page": "https://commons.wikimedia.org/wiki/File:Beach_Blue_Club_-_panoramio.webp",
+            "file_title": "File:Beach Blue Club - panoramio.webp",
+            "license": "CC BY 3.0",
+            "license_url": "https://creativecommons.org/licenses/by/3.0",
+            "author": "pepanos",
+            "visually_checked": true,
+            "src": "/photos/hotels/Q111857819.webp"
+          }
+        }
+      ]
+    },
+    "giftun": {
+      "place_center": {
+        "lat": 27.2238304,
+        "lon": 33.9269401,
+        "basis": "جزيرة جفتون الكبير, الغردقة, البحر الأحمر, مصر"
+      },
+      "nearest_town_fallback": true,
+      "place_coordinate_note": "islands have no hotels; options are Hurghada mainland hotels",
+      "hotels": [
+        {
+          "wikidata_id": "Q111400556",
+          "name_en": "Arabella Azur Resort",
+          "name_ar": null,
+          "name_ar_status": "not found in Wikidata/OSM - show English only or add manually",
+          "distance_km_straight_line": 8.1,
+          "map_url": "https://www.openstreetmap.org/?mlat=27.23986&mlon=33.84683#map=17/27.23986/33.84683",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q111400556",
+          "official_website": null,
+          "coords": [
+            27.23986,
+            33.84683
+          ],
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Arabella_Azur_Resort_-_panoramio_%281%29.jpg/960px-Arabella_Azur_Resort_-_panoramio_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "commons_page": "https://commons.wikimedia.org/wiki/File:Arabella_Azur_Resort_-_panoramio_(1).webp",
+            "file_title": "File:Arabella Azur Resort - panoramio (1).webp",
+            "license": "CC BY 3.0",
+            "license_url": "https://creativecommons.org/licenses/by/3.0",
+            "author": "Tanya Dedyukhina",
+            "visually_checked": true,
+            "src": "/photos/hotels/Q111400556.webp"
+          }
+        },
+        {
+          "wikidata_id": "Q111400550",
+          "name_en": "Sunny Days Palma De Mirette Resort & Spa",
+          "name_ar": null,
+          "name_ar_status": "not found in Wikidata/OSM - show English only or add manually",
+          "distance_km_straight_line": 8.6,
+          "map_url": "https://www.openstreetmap.org/?mlat=27.24496&mlon=33.8429#map=17/27.24496/33.8429",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q111400550",
+          "official_website": null,
+          "coords": [
+            27.24496,
+            33.8429
+          ],
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Hurgada_Sunny_Days_-_Mirette_-_panoramio.jpg/960px-Hurgada_Sunny_Days_-_Mirette_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "commons_page": "https://commons.wikimedia.org/wiki/File:Hurgada_Sunny_Days_-_Mirette_-_panoramio.webp",
+            "file_title": "File:Hurgada Sunny Days - Mirette - panoramio.webp",
+            "license": "CC BY 3.0",
+            "license_url": "https://creativecommons.org/licenses/by/3.0",
+            "author": "Tanya Dedyukhina",
+            "visually_checked": true,
+            "src": "/photos/hotels/Q111400550.webp"
+          }
+        }
+      ]
+    },
+    "hurghada-marina": {
+      "place_center": {
+        "lat": 27.2436353,
+        "lon": 33.8488682,
+        "basis": "Marina, شارع البحر, السقاله, Arabia, الغردقة, البحر الأحمر, 84935, مصر"
+      },
+      "place_coordinate_note": null,
+      "hotels": [
+        {
+          "wikidata_id": "Q111400556",
+          "name_en": "Arabella Azur Resort",
+          "name_ar": null,
+          "name_ar_status": "not found in Wikidata/OSM - show English only or add manually",
+          "distance_km_straight_line": 0.5,
+          "map_url": "https://www.openstreetmap.org/?mlat=27.23986&mlon=33.84683#map=17/27.23986/33.84683",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q111400556",
+          "official_website": null,
+          "coords": [
+            27.23986,
+            33.84683
+          ],
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Arabella_Azur_Resort_-_panoramio_%281%29.jpg/960px-Arabella_Azur_Resort_-_panoramio_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "commons_page": "https://commons.wikimedia.org/wiki/File:Arabella_Azur_Resort_-_panoramio_(1).webp",
+            "file_title": "File:Arabella Azur Resort - panoramio (1).webp",
+            "license": "CC BY 3.0",
+            "license_url": "https://creativecommons.org/licenses/by/3.0",
+            "author": "Tanya Dedyukhina",
+            "visually_checked": true,
+            "src": "/photos/hotels/Q111400556.webp"
+          }
+        },
+        {
+          "wikidata_id": "Q111400550",
+          "name_en": "Sunny Days Palma De Mirette Resort & Spa",
+          "name_ar": null,
+          "name_ar_status": "not found in Wikidata/OSM - show English only or add manually",
+          "distance_km_straight_line": 0.6,
+          "map_url": "https://www.openstreetmap.org/?mlat=27.24496&mlon=33.8429#map=17/27.24496/33.8429",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q111400550",
+          "official_website": null,
+          "coords": [
+            27.24496,
+            33.8429
+          ],
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Hurgada_Sunny_Days_-_Mirette_-_panoramio.jpg/960px-Hurgada_Sunny_Days_-_Mirette_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "commons_page": "https://commons.wikimedia.org/wiki/File:Hurgada_Sunny_Days_-_Mirette_-_panoramio.webp",
+            "file_title": "File:Hurgada Sunny Days - Mirette - panoramio.webp",
+            "license": "CC BY 3.0",
+            "license_url": "https://creativecommons.org/licenses/by/3.0",
+            "author": "Tanya Dedyukhina",
+            "visually_checked": true,
+            "src": "/photos/hotels/Q111400550.webp"
+          }
+        },
+        {
+          "wikidata_id": "Q111400545",
+          "name_en": "Seagull Beach Resort",
+          "name_ar": null,
+          "name_ar_status": "not found in Wikidata/OSM - show English only or add manually",
+          "distance_km_straight_line": 3.2,
+          "map_url": "https://www.openstreetmap.org/?mlat=27.21603&mlon=33.83931#map=17/27.21603/33.83931",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q111400545",
+          "official_website": null,
+          "coords": [
+            27.21603,
+            33.83931
+          ],
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Sea_Gull_hotel_ve%C4%8Der_-_panoramio.jpg/960px-Sea_Gull_hotel_ve%C4%8Der_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "commons_page": "https://commons.wikimedia.org/wiki/File:Sea_Gull_hotel_ve%C4%8Der_-_panoramio.webp",
+            "file_title": "File:Sea Gull hotel večer - panoramio.webp",
+            "license": "CC BY 3.0",
+            "license_url": "https://creativecommons.org/licenses/by/3.0",
+            "author": "1089hruskapetr",
+            "visually_checked": true,
+            "src": "/photos/hotels/Q111400545.webp"
+          }
+        }
+      ]
+    },
+    "hurghada-museum": {
+      "place_center": {
+        "lat": 27.1595408,
+        "lon": 33.8212732,
+        "basis": "Hurghada Museum, شارع النصر, القرى السياحية, Sakkala, الهضبة, البحر ال"
+      },
+      "place_coordinate_note": null,
+      "hotels": [
+        {
+          "wikidata_id": "Q18509281",
+          "name_en": "Swiss Inn Resort Hurghada",
+          "name_ar": null,
+          "name_ar_status": "not found in Wikidata/OSM - show English only or add manually",
+          "distance_km_straight_line": 0.4,
+          "map_url": "https://www.openstreetmap.org/?mlat=27.15875&mlon=33.825694444#map=17/27.15875/33.825694444",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q18509281",
+          "official_website": "https://swissinn.net/hotels/index.php?lang=Hurghada",
+          "coords": [
+            27.15875,
+            33.82569
+          ],
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Hilton_hurghada_resort.JPG/960px-Hilton_hurghada_resort.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "commons_page": "https://commons.wikimedia.org/wiki/File:Hilton_hurghada_resort.JPG",
+            "file_title": "File:Hilton hurghada resort.JPG",
+            "license": "CC BY-SA 3.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+            "author": "Christophe Badoux",
+            "visually_checked": true,
+            "src": "/photos/hotels/Q18509281.webp"
+          },
+          "current_name_source": "https://swissinn.net/hotels/index.php?lang=Hurghada"
+        }
+      ]
+    },
+    "hurghada-markets": {
+      "place_center": {
+        "lat": 27.2195584,
+        "lon": 33.8320656,
+        "basis": "Sakkala, الهضبة, البحر الأحمر, 84512, مصر"
+      },
+      "place_coordinate_note": null,
+      "hotels": [
+        {
+          "wikidata_id": "Q111400545",
+          "name_en": "Seagull Beach Resort",
+          "name_ar": null,
+          "name_ar_status": "not found in Wikidata/OSM - show English only or add manually",
+          "distance_km_straight_line": 0.8,
+          "map_url": "https://www.openstreetmap.org/?mlat=27.21603&mlon=33.83931#map=17/27.21603/33.83931",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q111400545",
+          "official_website": null,
+          "coords": [
+            27.21603,
+            33.83931
+          ],
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Sea_Gull_hotel_ve%C4%8Der_-_panoramio.jpg/960px-Sea_Gull_hotel_ve%C4%8Der_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "commons_page": "https://commons.wikimedia.org/wiki/File:Sea_Gull_hotel_ve%C4%8Der_-_panoramio.webp",
+            "file_title": "File:Sea Gull hotel večer - panoramio.webp",
+            "license": "CC BY 3.0",
+            "license_url": "https://creativecommons.org/licenses/by/3.0",
+            "author": "1089hruskapetr",
+            "visually_checked": true,
+            "src": "/photos/hotels/Q111400545.webp"
+          }
+        },
+        {
+          "wikidata_id": "Q111400556",
+          "name_en": "Arabella Azur Resort",
+          "name_ar": null,
+          "name_ar_status": "not found in Wikidata/OSM - show English only or add manually",
+          "distance_km_straight_line": 2.7,
+          "map_url": "https://www.openstreetmap.org/?mlat=27.23986&mlon=33.84683#map=17/27.23986/33.84683",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q111400556",
+          "official_website": null,
+          "coords": [
+            27.23986,
+            33.84683
+          ],
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Arabella_Azur_Resort_-_panoramio_%281%29.jpg/960px-Arabella_Azur_Resort_-_panoramio_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "commons_page": "https://commons.wikimedia.org/wiki/File:Arabella_Azur_Resort_-_panoramio_(1).webp",
+            "file_title": "File:Arabella Azur Resort - panoramio (1).webp",
+            "license": "CC BY 3.0",
+            "license_url": "https://creativecommons.org/licenses/by/3.0",
+            "author": "Tanya Dedyukhina",
+            "visually_checked": true,
+            "src": "/photos/hotels/Q111400556.webp"
+          }
+        },
+        {
+          "wikidata_id": "Q111400547",
+          "name_en": "Hurghada Marriott Beach Resort",
+          "name_ar": "منتجع ماريوت بيتش الغردقة",
+          "name_ar_status": "from Wikidata label",
+          "distance_km_straight_line": 2.8,
+          "map_url": "https://www.openstreetmap.org/?mlat=27.19734&mlon=33.84429#map=17/27.19734/33.84429",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q111400547",
+          "official_website": "https://www.marriott.com/en-us/hotels/hrgeg-hurghada-marriott-beach-resort/overview/",
+          "coords": [
+            27.19734,
+            33.84429
+          ],
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Marriott_hurghada_hotel_2_-_panoramio.jpg/960px-Marriott_hurghada_hotel_2_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "commons_page": "https://commons.wikimedia.org/wiki/File:Marriott_hurghada_hotel_2_-_panoramio.webp",
+            "file_title": "File:Marriott hurghada hotel 2 - panoramio.webp",
+            "license": "CC BY 3.0",
+            "license_url": "https://creativecommons.org/licenses/by/3.0",
+            "author": "Hassan Gaafar",
+            "visually_checked": true,
+            "src": "/photos/hotels/Q111400547.webp"
+          }
+        }
+      ]
+    },
+    "hurghada-desert": {
+      "place_center": {
+        "lat": 27.222556,
+        "lon": 33.8307062,
+        "basis": "الغردقة, البحر الأحمر, 84512, مصر"
+      },
+      "place_coordinate_note": null,
+      "hotels": [
+        {
+          "wikidata_id": "Q111400545",
+          "name_en": "Seagull Beach Resort",
+          "name_ar": null,
+          "name_ar_status": "not found in Wikidata/OSM - show English only or add manually",
+          "distance_km_straight_line": 1.1,
+          "map_url": "https://www.openstreetmap.org/?mlat=27.21603&mlon=33.83931#map=17/27.21603/33.83931",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q111400545",
+          "official_website": null,
+          "coords": [
+            27.21603,
+            33.83931
+          ],
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Sea_Gull_hotel_ve%C4%8Der_-_panoramio.jpg/960px-Sea_Gull_hotel_ve%C4%8Der_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "commons_page": "https://commons.wikimedia.org/wiki/File:Sea_Gull_hotel_ve%C4%8Der_-_panoramio.webp",
+            "file_title": "File:Sea Gull hotel večer - panoramio.webp",
+            "license": "CC BY 3.0",
+            "license_url": "https://creativecommons.org/licenses/by/3.0",
+            "author": "1089hruskapetr",
+            "visually_checked": true,
+            "src": "/photos/hotels/Q111400545.webp"
+          }
+        },
+        {
+          "wikidata_id": "Q111400556",
+          "name_en": "Arabella Azur Resort",
+          "name_ar": null,
+          "name_ar_status": "not found in Wikidata/OSM - show English only or add manually",
+          "distance_km_straight_line": 2.5,
+          "map_url": "https://www.openstreetmap.org/?mlat=27.23986&mlon=33.84683#map=17/27.23986/33.84683",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q111400556",
+          "official_website": null,
+          "coords": [
+            27.23986,
+            33.84683
+          ],
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Arabella_Azur_Resort_-_panoramio_%281%29.jpg/960px-Arabella_Azur_Resort_-_panoramio_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "commons_page": "https://commons.wikimedia.org/wiki/File:Arabella_Azur_Resort_-_panoramio_(1).webp",
+            "file_title": "File:Arabella Azur Resort - panoramio (1).webp",
+            "license": "CC BY 3.0",
+            "license_url": "https://creativecommons.org/licenses/by/3.0",
+            "author": "Tanya Dedyukhina",
+            "visually_checked": true,
+            "src": "/photos/hotels/Q111400556.webp"
+          }
+        },
+        {
+          "wikidata_id": "Q111400550",
+          "name_en": "Sunny Days Palma De Mirette Resort & Spa",
+          "name_ar": null,
+          "name_ar_status": "not found in Wikidata/OSM - show English only or add manually",
+          "distance_km_straight_line": 2.8,
+          "map_url": "https://www.openstreetmap.org/?mlat=27.24496&mlon=33.8429#map=17/27.24496/33.8429",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q111400550",
+          "official_website": null,
+          "coords": [
+            27.24496,
+            33.8429
+          ],
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Hurgada_Sunny_Days_-_Mirette_-_panoramio.jpg/960px-Hurgada_Sunny_Days_-_Mirette_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "commons_page": "https://commons.wikimedia.org/wiki/File:Hurgada_Sunny_Days_-_Mirette_-_panoramio.webp",
+            "file_title": "File:Hurgada Sunny Days - Mirette - panoramio.webp",
+            "license": "CC BY 3.0",
+            "license_url": "https://creativecommons.org/licenses/by/3.0",
+            "author": "Tanya Dedyukhina",
+            "visually_checked": true,
+            "src": "/photos/hotels/Q111400550.webp"
+          }
+        }
+      ]
+    }
+  }
+}
