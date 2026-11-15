@@ -6,7 +6,8 @@
     "nodejs_compat"
   ],
   "vars": {
-    "APP_ORIGIN": "https://egypti.pages.dev"
+    "APP_ORIGIN": "https://egypti.pages.dev",
+    "ADMIN_EMAILS": "3asfuur@gmail.com"
   },
   "d1_databases": [
     {
