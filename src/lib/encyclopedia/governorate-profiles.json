@@ -5214,7 +5214,9 @@
     ],
     "prior_unknowns_note": "The unknowns list below came from the first atlas pass. Some entries are now partly enriched. Use actual section contents as the display source of truth.",
     "hero_photo_id": "governorate-gharbia",
-    "detail_photo_ids": [],
+    "detail_photo_ids": [
+      "ahmad-al-badawi-mosque"
+    ],
     "national_cultural_calendar": null
   },
   "monufia": {
@@ -6879,7 +6881,8 @@
     "prior_unknowns_note": "The unknowns list below came from the first atlas pass. Some entries are now partly enriched. Use actual section contents as the display source of truth.",
     "hero_photo_id": "governorate-port-said",
     "detail_photo_ids": [
-      "governorate-port-said-detail-1"
+      "governorate-port-said-detail-1",
+      "port-fuad"
     ],
     "national_cultural_calendar": null
   },

@@ -1717,5 +1717,860 @@
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
     "changes": "Publisher mirror is resized and AVIF-converted. Attached JPG is an additional format conversion; no crop or content edits by this research task. Resized and converted to WebP; layout crop."
+  },
+  "Q3330629-hero": {
+    "file": "Q3330629-hero",
+    "alt": {
+      "en": "Museum of Islamic Art façade",
+      "ar": "واجهة متحف الفن الإسلامي"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:CairoIslamicMuseum.jpg",
+    "author": "Roland Unger",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "changes": "Resized and converted to WebP; layout crop",
+    "heroSuitable": true
+  },
+  "Q2190649-hero": {
+    "file": "Q2190649-hero",
+    "alt": {
+      "en": "Reception hall inside the Gayer-Anderson Museum",
+      "ar": "قاعة استقبال داخل متحف جاير أندرسون"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:CairoGayerCelebrationHall.jpg",
+    "author": "Roland Unger",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "changes": "Resized and converted to WebP; layout crop",
+    "heroSuitable": true
+  },
+  "Q12241337-hero": {
+    "file": "Q12241337-hero",
+    "alt": {
+      "en": "Entrance of the Petrified Forest protected area in Cairo, archival photograph from 2001.",
+      "ar": "مدخل محمية الغابة المتحجرة بالقاهرة، صورة أرشيفية من 2001."
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:MaadiForestEntrance.jpg",
+    "author": "Roland Unger",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "changes": "Resized and converted to WebP; layout crop",
+    "heroSuitable": true
+  },
+  "giza-flickr-1": {
+    "file": "giza-flickr-1",
+    "alt": {
+      "en": "Great Pyramid corner and exposed limestone courses",
+      "ar": "ركن الهرم الأكبر ومداميك الحجر الجيري الظاهرة"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Great_Pyramid_(Pyramid_of_Cheops_Khufu),_Giza,_GG,_EGY_(40936203693).jpg",
+    "author": "Warren LeMay from Chicago, IL, United States",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "changes": "Resized and converted to WebP; layout crop",
+    "heroSuitable": true
+  },
+  "giza-flickr-3": {
+    "file": "giza-flickr-3",
+    "alt": {
+      "en": "Looking up the limestone face of the Great Pyramid",
+      "ar": "منظر لفوق على وجه الهرم الأكبر من الحجر الجيري"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Great_Pyramid_(Pyramid_of_Cheops_Khufu),_Giza,_GG,_EGY_(40936215363).jpg",
+    "author": "Warren LeMay from Chicago, IL, United States",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "changes": "Resized and converted to WebP; layout crop",
+    "heroSuitable": true
+  },
+  "giza-flickr-4": {
+    "file": "giza-flickr-4",
+    "alt": {
+      "en": "The Great Pyramid beyond visitor structures, photographed in 2019",
+      "ar": "الهرم الأكبر خلف مباني الزوار، صورة سنة 2019"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Great_Pyramid_(Pyramid_of_Cheops_Khufu),_Giza,_GG,_EGY_(47850686472).jpg",
+    "author": "Warren LeMay from Chicago, IL, United States",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "changes": "Resized and converted to WebP; layout crop",
+    "heroSuitable": true
+  },
+  "giza-flickr-6": {
+    "file": "giza-flickr-6",
+    "alt": {
+      "en": "The Great Pyramid beside the visitor path, photographed in 2019",
+      "ar": "الهرم الأكبر جنب مسار الزوار، صورة سنة 2019"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Great_Pyramid_(Pyramid_of_Cheops_Khufu),_Giza,_GG,_EGY_(47902782131).jpg",
+    "author": "Warren LeMay from Chicago, IL, United States",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "changes": "Resized and converted to WebP; layout crop",
+    "heroSuitable": true
+  },
+  "giza-flickr-7": {
+    "file": "giza-flickr-7",
+    "alt": {
+      "en": "Khafre pyramid and surviving summit casing",
+      "ar": "هرم خفرع وبقايا الكسوة عند القمة"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Khafre%27s_Pyramid_at_Giza_(2427492641).jpg",
+    "author": "Jerome Bon from Paris, France",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "changes": "Resized and converted to WebP; layout crop",
+    "heroSuitable": true
+  },
+  "giza-flickr-8": {
+    "file": "giza-flickr-8",
+    "alt": {
+      "en": "Khafre pyramid with visitors showing its scale",
+      "ar": "هرم خفرع ومعاه زوار بيوضحوا حجمه"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Khafre%27s_Pyramid_at_Giza_(2428311384).jpg",
+    "author": "Jerome Bon from Paris, France",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "changes": "Resized and converted to WebP; layout crop",
+    "heroSuitable": true
+  },
+  "giza-flickr-9": {
+    "file": "giza-flickr-9",
+    "alt": {
+      "en": "Southwest corner of the pyramid of Khafre",
+      "ar": "الركن الجنوبي الغربي لهرم خفرع"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Pyramid_of_Khafre,_south-west_corner.jpg",
+    "author": "Jerome Bon from Paris, France",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "changes": "Resized and converted to WebP; layout crop",
+    "heroSuitable": true
+  },
+  "giza-flickr-10": {
+    "file": "giza-flickr-10",
+    "alt": {
+      "en": "Bent Pyramid with its change of slope and surviving casing",
+      "ar": "الهرم المنحني وتغيّر زاوية الميل والكسوة الباقية"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Bent_Pyramid_featuring_the_original_polished_limestone_outer_casing_that_the_pyramids_used_to_have_(14616487960).jpg",
+    "author": "Jorge Láscar from Melbourne, Australia",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "changes": "Resized and converted to WebP; layout crop",
+    "heroSuitable": true
+  },
+  "giza-flickr-11": {
+    "file": "giza-flickr-11",
+    "alt": {
+      "en": "Red Pyramid with a car in the foreground, photographed in 1998",
+      "ar": "الهرم الأحمر وعربية قدامه، صورة سنة 1998"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Dahshur,_Red_Pyramid_(6201580430).jpg",
+    "author": "Arian Zwegers from Brussels, Belgium",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "changes": "Resized and converted to WebP; layout crop",
+    "heroSuitable": true
+  },
+  "giza-flickr-12": {
+    "file": "giza-flickr-12",
+    "alt": {
+      "en": "Red Pyramid across the desert foreground",
+      "ar": "الهرم الأحمر من خلف الأرض الصحراوية"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Red_Pyramid_Dahshur_Panorama.jpg",
+    "author": "Ankur P",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "changes": "Resized and converted to WebP; layout crop",
+    "heroSuitable": true
+  },
+  "giza-flickr-13": {
+    "file": "giza-flickr-13",
+    "alt": {
+      "en": "Step Pyramid of Djoser, photographed in 1998",
+      "ar": "هرم زوسر المدرج، صورة سنة 1998"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Saqqara,_step_pyramid_of_Djoser_(6201557496).jpg",
+    "author": "Arian Zwegers from Brussels, Belgium",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "changes": "Resized and converted to WebP; layout crop",
+    "heroSuitable": true
+  },
+  "giza-ov-1": {
+    "file": "giza-ov-1",
+    "alt": {
+      "en": "Menkaure pyramid, northern face and breach",
+      "ar": "هرم منكاورع، الوجه الشمالي والفجوة"
+    },
+    "source": "https://www.flickr.com/photos/77619789@N00/3421937638",
+    "author": "a rancid amoeba",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/deed.en",
+    "changes": "Resized and converted to WebP; layout crop",
+    "heroSuitable": true
+  },
+  "giza-ov-2": {
+    "file": "giza-ov-2",
+    "alt": {
+      "en": "Menkaure pyramid from the complex, portrait view",
+      "ar": "هرم منكاورع من المجموعة، كادر رأسي"
+    },
+    "source": "https://www.flickr.com/photos/34561917@N04/7832658382",
+    "author": "isawnyu",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/deed.en",
+    "changes": "Resized and converted to WebP; layout crop",
+    "heroSuitable": true
+  },
+  "giza-ov-3": {
+    "file": "giza-ov-3",
+    "alt": {
+      "en": "Menkaure pyramid and visitor foreground",
+      "ar": "هرم منكاورع ومنطقة الزوار قدامه"
+    },
+    "source": "https://www.flickr.com/photos/15164743@N05/2887655320",
+    "author": "zolakoma",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/deed.en",
+    "changes": "Resized and converted to WebP; layout crop",
+    "heroSuitable": true
+  },
+  "giza-ov-5": {
+    "file": "giza-ov-5",
+    "alt": {
+      "en": "Menkaure pyramid with vehicles in the foreground, historic photograph",
+      "ar": "هرم منكاورع وعربيات قدامه، صورة تاريخية"
+    },
+    "source": "https://www.flickr.com/photos/34561917@N04/7832665342",
+    "author": "isawnyu",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/deed.en",
+    "changes": "Resized and converted to WebP; layout crop",
+    "heroSuitable": true
+  },
+  "giza-ov-6": {
+    "file": "giza-ov-6",
+    "alt": {
+      "en": "Menkaure pyramid and smaller subsidiary pyramids",
+      "ar": "هرم منكاورع والأهرامات الأصغر المجاورة"
+    },
+    "source": "https://www.flickr.com/photos/8721758@N06/14777215676",
+    "author": "Jorge Lascar",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/deed.en",
+    "changes": "Resized and converted to WebP; layout crop",
+    "heroSuitable": true
+  },
+  "giza-ov-31": {
+    "file": "giza-ov-31",
+    "alt": {
+      "en": "Historic pyramid view from Mena House, under former Oberoi branding; not a room-view guarantee",
+      "ar": "منظر تاريخي للأهرامات من مينا هاوس وقت إدارة أوبروي السابقة؛ مش ضمان لإطلالة أي أوضة"
+    },
+    "source": "https://www.flickr.com/photos/81402356@N00/2411112348",
+    "author": "MichaelTyler",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/deed.en",
+    "changes": "Resized and converted to WebP; layout crop",
+    "heroSuitable": true
+  },
+  "giza-ov-7": {
+    "file": "giza-ov-7",
+    "alt": {
+      "en": "Great Sphinx with Khafre pyramid behind",
+      "ar": "أبو الهول وهرم خفرع وراه"
+    },
+    "source": "https://www.flickr.com/photos/21013862@N08/2274810233",
+    "author": "twiga_swala",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/deed.en",
+    "changes": "Resized and converted to WebP; layout crop",
+    "heroSuitable": true
+  },
+  "giza-ov-8": {
+    "file": "giza-ov-8",
+    "alt": {
+      "en": "Face of the Great Sphinx",
+      "ar": "وجه أبو الهول"
+    },
+    "source": "https://www.flickr.com/photos/21013862@N08/2275600408",
+    "author": "twiga_swala",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/deed.en",
+    "changes": "Resized and converted to WebP; layout crop",
+    "heroSuitable": true
+  },
+  "giza-ov-9": {
+    "file": "giza-ov-9",
+    "alt": {
+      "en": "Sphinx side view and enclosure",
+      "ar": "أبو الهول من الجنب والمنطقة المحيطة"
+    },
+    "source": "https://www.flickr.com/photos/59081381@N03/40936134053",
+    "author": "w_lemay",
+    "license": "CC0 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "changes": "Resized and converted to WebP; layout crop",
+    "heroSuitable": true
+  },
+  "giza-ov-10": {
+    "file": "giza-ov-10",
+    "alt": {
+      "en": "Sphinx and pyramid, portrait view",
+      "ar": "أبو الهول والهرم، كادر رأسي"
+    },
+    "source": "https://www.flickr.com/photos/59081381@N03/47850556112",
+    "author": "w_lemay",
+    "license": "CC0 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "changes": "Resized and converted to WebP; layout crop",
+    "heroSuitable": true
+  },
+  "giza-ov-11": {
+    "file": "giza-ov-11",
+    "alt": {
+      "en": "Sphinx side profile and Khafre pyramid",
+      "ar": "جانب أبو الهول وهرم خفرع"
+    },
+    "source": "https://www.flickr.com/photos/59081381@N03/47850554672",
+    "author": "w_lemay",
+    "license": "CC0 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "changes": "Resized and converted to WebP; layout crop",
+    "heroSuitable": true
+  },
+  "giza-ov-12": {
+    "file": "giza-ov-12",
+    "alt": {
+      "en": "Sphinx in profile with paws and enclosure",
+      "ar": "أبو الهول من الجانب والكفوف والمنطقة المحيطة"
+    },
+    "source": "https://www.flickr.com/photos/59081381@N03/47902651351",
+    "author": "w_lemay",
+    "license": "CC0 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "changes": "Resized and converted to WebP; layout crop",
+    "heroSuitable": true
+  },
+  "giza-ov-13": {
+    "file": "giza-ov-13",
+    "alt": {
+      "en": "Underground passage of the Serapeum",
+      "ar": "ممر السرابيوم تحت الأرض"
+    },
+    "source": "https://www.flickr.com/photos/63503049@N03/52623425380",
+    "author": "travelourplanet.com",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/deed.en",
+    "changes": "Resized and converted to WebP; layout crop",
+    "heroSuitable": true
+  },
+  "giza-ov-15": {
+    "file": "giza-ov-15",
+    "alt": {
+      "en": "Long corridor inside the Serapeum",
+      "ar": "الممر الطويل جوّه السرابيوم"
+    },
+    "source": "https://www.flickr.com/photos/63503049@N03/52622478322",
+    "author": "travelourplanet.com",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/deed.en",
+    "changes": "Resized and converted to WebP; layout crop",
+    "heroSuitable": true
+  },
+  "giza-ov-16": {
+    "file": "giza-ov-16",
+    "alt": {
+      "en": "A stone sarcophagus inside the Serapeum",
+      "ar": "تابوت حجري جوّه السرابيوم"
+    },
+    "source": "https://www.flickr.com/photos/21236485@N04/8081880893",
+    "author": "pyramidtextsonline",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/deed.en",
+    "changes": "Resized and converted to WebP; layout crop",
+    "heroSuitable": true
+  },
+  "giza-ov-17": {
+    "file": "giza-ov-17",
+    "alt": {
+      "en": "Entrance descending into the Serapeum",
+      "ar": "المدخل النازل للسرابيوم"
+    },
+    "source": "https://www.flickr.com/photos/21236485@N04/8081876094",
+    "author": "pyramidtextsonline",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/deed.en",
+    "changes": "Resized and converted to WebP; layout crop",
+    "heroSuitable": true
+  },
+  "giza-ov-18": {
+    "file": "giza-ov-18",
+    "alt": {
+      "en": "Sarcophagus and inscriptions inside the Serapeum",
+      "ar": "تابوت ونقوش جوّه السرابيوم"
+    },
+    "source": "https://www.flickr.com/photos/21236485@N04/8081876028",
+    "author": "pyramidtextsonline",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/deed.en",
+    "changes": "Resized and converted to WebP; layout crop",
+    "heroSuitable": true
+  },
+  "giza-ov-19": {
+    "file": "giza-ov-19",
+    "alt": {
+      "en": "Water and palm landscape labeled Bahariya by the photographer",
+      "ar": "منظر مية ونخيل مصنّف بالبحرية عند المصوّر"
+    },
+    "source": "https://www.flickr.com/photos/99843959@N00/6217890233",
+    "author": "Mr. Theklan",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/deed.en",
+    "changes": "Resized and converted to WebP; layout crop",
+    "heroSuitable": true
+  },
+  "giza-ov-20": {
+    "file": "giza-ov-20",
+    "alt": {
+      "en": "Bahariya village beyond palm groves",
+      "ar": "قرية بالبحرية خلف زراعات النخيل"
+    },
+    "source": "https://www.flickr.com/photos/20606462@N00/256637799",
+    "author": "Neil and Kathy Carey",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/deed.en",
+    "changes": "Resized and converted to WebP; layout crop",
+    "heroSuitable": true
+  },
+  "giza-ov-21": {
+    "file": "giza-ov-21",
+    "alt": {
+      "en": "Pyramid-shaped natural hill near Bahariya, not an ancient pyramid",
+      "ar": "تل طبيعي على شكل هرم قرب البحرية، مش هرم أثري"
+    },
+    "source": "https://www.flickr.com/photos/20606462@N00/256639055",
+    "author": "Neil and Kathy Carey",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/deed.en",
+    "changes": "Resized and converted to WebP; layout crop",
+    "heroSuitable": true
+  },
+  "giza-ov-23": {
+    "file": "giza-ov-23",
+    "alt": {
+      "en": "Temple of Alexander at Bahariya, wide view near dusk",
+      "ar": "معبد الإسكندر في البحرية، منظر واسع قرب الغروب"
+    },
+    "source": "https://www.flickr.com/photos/37174512@N03/52364291264",
+    "author": "Panegyrics of Granovetter",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/deed.en",
+    "changes": "Resized and converted to WebP; layout crop",
+    "heroSuitable": true
+  },
+  "giza-ov-24": {
+    "file": "giza-ov-24",
+    "alt": {
+      "en": "Temple of Alexander at Bahariya, closer view",
+      "ar": "معبد الإسكندر في البحرية، منظر أقرب"
+    },
+    "source": "https://www.flickr.com/photos/37174512@N03/52363981771",
+    "author": "Panegyrics of Granovetter",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/deed.en",
+    "changes": "Resized and converted to WebP; layout crop",
+    "heroSuitable": true
+  },
+  "giza-ov-25": {
+    "file": "giza-ov-25",
+    "alt": {
+      "en": "Reclining Ramesses II colossus at Mit Rahina, full view",
+      "ar": "تمثال رمسيس التاني المستلقي في ميت رهينة، منظر كامل"
+    },
+    "source": "https://www.flickr.com/photos/25897810@N00/4053989612",
+    "author": "David Berkowitz",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/deed.en",
+    "changes": "Resized and converted to WebP; layout crop",
+    "heroSuitable": true
+  },
+  "giza-ov-26": {
+    "file": "giza-ov-26",
+    "alt": {
+      "en": "Ramesses II colossus from the side of its display",
+      "ar": "تمثال رمسيس التاني من جانب منطقة العرض"
+    },
+    "source": "https://www.flickr.com/photos/25897810@N00/4053247245",
+    "author": "David Berkowitz",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/deed.en",
+    "changes": "Resized and converted to WebP; layout crop",
+    "heroSuitable": true
+  },
+  "giza-ov-27": {
+    "file": "giza-ov-27",
+    "alt": {
+      "en": "Face and chest detail of the reclining Ramesses II",
+      "ar": "تفاصيل الوجه والصدر في تمثال رمسيس التاني المستلقي"
+    },
+    "source": "https://www.flickr.com/photos/25897810@N00/4053247503",
+    "author": "David Berkowitz",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/deed.en",
+    "changes": "Resized and converted to WebP; layout crop",
+    "heroSuitable": true
+  },
+  "giza-ov-28": {
+    "file": "giza-ov-28",
+    "alt": {
+      "en": "Side detail of the Ramesses II colossus",
+      "ar": "تفاصيل جانب تمثال رمسيس التاني"
+    },
+    "source": "https://www.flickr.com/photos/25897810@N00/4053247057",
+    "author": "David Berkowitz",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/deed.en",
+    "changes": "Resized and converted to WebP; layout crop",
+    "heroSuitable": true
+  },
+  "giza-ov-30": {
+    "file": "giza-ov-30",
+    "alt": {
+      "en": "Profile detail of the reclining Ramesses II",
+      "ar": "تفاصيل وجه تمثال رمسيس التاني من الجنب"
+    },
+    "source": "https://www.flickr.com/photos/25897810@N00/4053248521",
+    "author": "David Berkowitz",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/deed.en",
+    "changes": "Resized and converted to WebP; layout crop",
+    "heroSuitable": true
+  },
+  "flickr-2122704168": {
+    "file": "flickr-2122704168",
+    "alt": {
+      "en": "A bridge scene in Shubra El Kheima, photographed in 2007.",
+      "ar": "مشهد كوبري في شبرا الخيمة، صورة سنة 2007."
+    },
+    "source": "https://www.flickr.com/photos/2007828/2122704168",
+    "author": "Andrew A. Shenouda",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/deed.en",
+    "changes": "Resized and converted to WebP; layout crop",
+    "heroSuitable": true
+  },
+  "flickr-6943969705": {
+    "file": "flickr-6943969705",
+    "alt": {
+      "en": "Hawara pyramid and the canal through the archaeological area, photographed in 2009.",
+      "ar": "هرم هوارة والترعة اللي بتعدي بالمنطقة الأثرية، صورة سنة 2009."
+    },
+    "source": "https://www.flickr.com/photos/hannahpethen/6943969705",
+    "author": "Hannah Pethen",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/deed.en",
+    "changes": "Resized and converted to WebP; layout crop",
+    "heroSuitable": true
+  },
+  "flickr-4565554783": {
+    "file": "flickr-4565554783",
+    "alt": {
+      "en": "Satellite view of the Suez Canal region, with Lake Manzala at the upper left. NASA image via Flickr.",
+      "ar": "صورة قمر صناعي لمنطقة قناة السويس، وبحيرة المنزلة في أعلى الشمال. صورة ناسا عبر فليكر."
+    },
+    "source": "https://www.flickr.com/photos/48722974@N07/4565554783",
+    "author": "eutrophication&hypoxia",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/deed.en",
+    "changes": "Resized and converted to WebP; layout crop",
+    "heroSuitable": false
+  },
+  "flickr-2237866751": {
+    "file": "flickr-2237866751",
+    "alt": {
+      "en": "A Hathor-related tomb-painting detail at Meir, photographed in 2007.",
+      "ar": "تفصيلة رسم مرتبطة بحتحور في مقابر مير، صورة سنة 2007."
+    },
+    "source": "https://www.flickr.com/photos/61542961@N00/2237866751",
+    "author": "Flop Eared Mule",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/deed.en",
+    "changes": "Resized and converted to WebP; layout crop",
+    "heroSuitable": false
+  },
+  "flickr-3426724519": {
+    "file": "flickr-3426724519",
+    "alt": {
+      "en": "A waterwheel at Tuna el Gebel, photographed in 2009.",
+      "ar": "ساقية في تونة الجبل، صورة سنة 2009."
+    },
+    "source": "https://www.flickr.com/photos/arancidamoeba/3426724519",
+    "author": "a rancid amoeba",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/deed.en",
+    "changes": "Resized and converted to WebP; layout crop",
+    "heroSuitable": false
+  },
+  "flickr-491882156": {
+    "file": "flickr-491882156",
+    "alt": {
+      "en": "Mansoura-España garment factory gate in Talkha, photographed in 2007.",
+      "ar": "بوابة مصنع المنصورة إسبانيا للملابس في طلخا، صورة سنة 2007."
+    },
+    "source": "https://www.flickr.com/photos/elhamalawy/491882156",
+    "author": "Hossam el-Hamalawy",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/deed.en",
+    "changes": "Resized and converted to WebP; layout crop",
+    "heroSuitable": false
+  },
+  "flickr-54297658122": {
+    "file": "flickr-54297658122",
+    "alt": {
+      "en": "Grand Egyptian Museum exterior, photographed in January 2025.",
+      "ar": "واجهة المتحف المصري الكبير، صورة في يناير 2025."
+    },
+    "source": "https://www.flickr.com/photos/prof_richard/54297658122",
+    "author": "Richard Mortel",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/deed.en",
+    "changes": "Resized and converted to WebP; layout crop",
+    "heroSuitable": true
+  },
+  "flickr-52088550881": {
+    "file": "flickr-52088550881",
+    "alt": {
+      "en": "Monuments along Al Muizz Street at night, photographed in 2022.",
+      "ar": "آثار شارع المعز بالليل، صورة سنة 2022."
+    },
+    "source": "https://www.flickr.com/photos/prof_richard/52088550881",
+    "author": "Richard Mortel",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/deed.en",
+    "changes": "Resized and converted to WebP; layout crop",
+    "heroSuitable": true
+  },
+  "flickr-14772289106": {
+    "file": "flickr-14772289106",
+    "alt": {
+      "en": "Prayer-hall view in the madrasa of Sultan al Zahir Barquq, photographed in 2012.",
+      "ar": "منظر قاعة الصلاة في مدرسة السلطان الظاهر برقوق، صورة سنة 2012."
+    },
+    "source": "https://www.flickr.com/photos/jlascar/14772289106",
+    "author": "Jorge Láscar",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/deed.en",
+    "changes": "Resized and converted to WebP; layout crop",
+    "heroSuitable": true
+  },
+  "flickr-54300199428": {
+    "file": "flickr-54300199428",
+    "alt": {
+      "en": "Inscription detail at Al Aqmar Mosque, photographed in 2025.",
+      "ar": "تفصيلة كتابة في جامع الأقمر، صورة سنة 2025."
+    },
+    "source": "https://www.flickr.com/photos/prof_richard/54300199428",
+    "author": "Richard Mortel",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/deed.en",
+    "changes": "Resized and converted to WebP; layout crop",
+    "heroSuitable": false
+  },
+  "flickr-3379453300": {
+    "file": "flickr-3379453300",
+    "alt": {
+      "en": "Courtyard of Bayt El Suhaymi, photographed in 2009.",
+      "ar": "فناء بيت السحيمي، صورة سنة 2009."
+    },
+    "source": "https://www.flickr.com/photos/garyku/3379453300",
+    "author": "Gary Ku",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/deed.en",
+    "changes": "Resized and converted to WebP; layout crop",
+    "heroSuitable": true
+  },
+  "flickr-54300156419": {
+    "file": "flickr-54300156419",
+    "alt": {
+      "en": "Bab Al Futuh, photographed in 2025.",
+      "ar": "باب الفتوح، صورة سنة 2025."
+    },
+    "source": "https://www.flickr.com/photos/prof_richard/54300156419",
+    "author": "Richard Mortel",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/deed.en",
+    "changes": "Resized and converted to WebP; layout crop",
+    "heroSuitable": true
+  },
+  "flickr-739015514": {
+    "file": "flickr-739015514",
+    "alt": {
+      "en": "Tower detail of Bab Zuweila, photographed in 2005.",
+      "ar": "تفصيلة برج في باب زويلة، صورة سنة 2005."
+    },
+    "source": "https://www.flickr.com/photos/kudumomo/739015514",
+    "author": "momo",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/deed.en",
+    "changes": "Resized and converted to WebP; layout crop",
+    "heroSuitable": false
+  },
+  "flickr-34760864905": {
+    "file": "flickr-34760864905",
+    "alt": {
+      "en": "A textile vendor in Tentmakers Alley, photographed in 2017.",
+      "ar": "بائع منسوجات في شارع الخيامية، صورة سنة 2017."
+    },
+    "source": "https://www.flickr.com/photos/fischerfotos/34760864905",
+    "author": "Mark Fischer",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/deed.en",
+    "changes": "Resized and converted to WebP; layout crop",
+    "heroSuitable": true
+  },
+  "flickr-677497348": {
+    "file": "flickr-677497348",
+    "alt": {
+      "en": "An old house in Baltim, photographed in 2006.",
+      "ar": "بيت قديم في بلطيم، صورة سنة 2006."
+    },
+    "source": "https://www.flickr.com/photos/elhamalawy/677497348",
+    "author": "Hossam el-Hamalawy",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/deed.en",
+    "changes": "Resized and converted to WebP; layout crop",
+    "heroSuitable": false
+  },
+  "flickr-55578565872": {
+    "file": "flickr-55578565872",
+    "alt": {
+      "en": "Cultivated fields and palms in the Faiyum Oasis, photographed in 2023.",
+      "ar": "حقول مزروعة ونخيل في واحة الفيوم، صورة سنة 2023."
+    },
+    "source": "https://www.flickr.com/photos/genesisscience/55578565872",
+    "author": "Nate Loper",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/deed.en",
+    "changes": "Resized and converted to WebP; layout crop",
+    "heroSuitable": true
+  },
+  "flickr-739017156": {
+    "file": "flickr-739017156",
+    "alt": {
+      "en": "Courtyard of Wikalat Al Ghuri, photographed in 2005.",
+      "ar": "فناء وكالة الغوري، صورة سنة 2005."
+    },
+    "source": "https://www.flickr.com/photos/kudumomo/739017156",
+    "author": "momo",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/deed.en",
+    "changes": "Resized and converted to WebP; layout crop",
+    "heroSuitable": true
+  },
+  "flickr-52395655213": {
+    "file": "flickr-52395655213",
+    "alt": {
+      "en": "Interior of the mausoleum in the Qalawun complex, photographed in 2022.",
+      "ar": "من داخل ضريح مجموعة قلاوون، صورة سنة 2022."
+    },
+    "source": "https://www.flickr.com/photos/fran001/52395655213",
+    "author": "Francisco Anzola",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/deed.en",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "photo-064d4304aa6cd876": {
+    "file": "photo-064d4304aa6cd876",
+    "alt": {
+      "en": "Excavations at Ahnas el Medineh / Heracleopolis Magna, published in 1894.",
+      "ar": "حفائر إهناسيا المدينة / هيراكليوبوليس ماجنا، منشورة سنة 1894."
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Temple_Heracleopolis_Magna_1894.jpg",
+    "author": "Henri Edouard Naville (1844 - 1926)",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Temple_Heracleopolis_Magna_1894.jpg",
+    "changes": "Resized and converted to WebP; layout crop",
+    "heroSuitable": false
+  },
+  "photo-90df9a714f6f69eb": {
+    "file": "photo-90df9a714f6f69eb",
+    "alt": {
+      "en": "Akhmim Open-Air Museum site, photographed on 26 February 2005.",
+      "ar": "موقع متحف أخميم المفتوح، صورة 26 فبراير 2005."
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:AkhmimOpenAirMuseum.jpg",
+    "author": "Roland Unger",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "changes": "Resized and converted to WebP; layout crop",
+    "heroSuitable": true
+  },
+  "photo-d3165ab836e153db": {
+    "file": "photo-d3165ab836e153db",
+    "alt": {
+      "en": "Fishing boats at Ezbet El Borg, photographed in October 2023.",
+      "ar": "مراكب صيد في عزبة البرج، صورة في أكتوبر 2023."
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:%D8%A3%D8%B3%D8%B7%D9%88%D9%84_%D8%A7%D9%84%D8%B5%D9%8A%D8%AF_%D9%81%D9%8A_%D9%85%D8%AF%D9%8A%D9%86%D8%A9_%D8%B9%D8%B2%D8%A8%D8%A9_%D8%A7%D9%84%D8%A8%D8%B1%D8%AC_%D8%A8%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A9_%D8%AF%D9%85%D9%8A%D8%A7%D8%B7_-_%D8%B4%D9%85%D8%A7%D9%84_%D9%85%D8%B5%D8%B1_-_1.jpg",
+    "author": "Domyati123",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+    "changes": "Resized and converted to WebP; layout crop",
+    "heroSuitable": true
+  },
+  "photo-4b528563683a2299": {
+    "file": "photo-4b528563683a2299",
+    "alt": {
+      "en": "Shield motifs on the eastern tower of Bab Al Nasr in Cairo, photographed in 2019.",
+      "ar": "زخارف الدروع على البرج الشرقي لباب النصر في القاهرة، صورة سنة 2019."
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Bab_al-Nasr_Cairo_DSCF0005.jpg",
+    "author": "R Prazeres",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+    "changes": "Resized and converted to WebP; layout crop",
+    "heroSuitable": false
+  },
+  "photo-5fd3c11399d924cc": {
+    "file": "photo-5fd3c11399d924cc",
+    "alt": {
+      "en": "A lane in Qasr Farafra, looking south, photographed on 13 March 2004.",
+      "ar": "حارة في قصر الفرافرة باتجاه الجنوب، صورة 13 مارس 2004."
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:FarafraQasr1.jpg",
+    "author": "Roland Unger",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "changes": "Resized and converted to WebP; layout crop",
+    "heroSuitable": false
+  },
+  "ahmad-al-badawi-mosque": {
+    "file": "atlas-ahmad-al-badawi-mosque",
+    "alt": {
+      "en": "Shrine of Ahmad al-Badawi inside his mosque in Tanta, photographed in 2012",
+      "ar": "ضريح السيد أحمد البدوي جوه جامعه في طنطا، صورة سنة 2012"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Grave_of_Ahmad_al-Badawi.jpg",
+    "author": "Jonathan A.C. Brown",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "port-fuad": {
+    "file": "atlas-port-fuad",
+    "alt": {
+      "en": "Port Fuad viewed from the Port Said side of the canal",
+      "ar": "بورفؤاد من ناحية بورسعيد على القناة"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Port_Fouad.JPG",
+    "author": "See below",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "changes": "Resized and converted to WebP; layout crop"
   }
 }

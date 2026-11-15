@@ -25,18 +25,21 @@
   ],
   "grand-egyptian-museum": [
     "grand-egyptian-museum-extra-1",
-    "grand-egyptian-museum-extra-2"
+    "grand-egyptian-museum-extra-2",
+    "flickr-54297658122"
   ],
   "egyptian-museum": [
     "egyptian-museum-extra-1"
   ],
   "khayyamiyya": [
     "khayyamiyya-extra-1",
-    "khayyamiyya-extra-2"
+    "khayyamiyya-extra-2",
+    "flickr-34760864905"
   ],
   "wikalat-al-ghuri": [
     "wikalat-al-ghuri-extra-1",
-    "wikalat-al-ghuri-extra-2"
+    "wikalat-al-ghuri-extra-2",
+    "flickr-739017156"
   ],
   "bibliotheca": [
     "bibliotheca-extra-1",
@@ -126,5 +129,75 @@
   ],
   "marsa-alam": [
     "marsa-alam-souq-roland-unger"
+  ],
+  "great-pyramid-khufu": [
+    "giza-flickr-3",
+    "giza-flickr-4",
+    "giza-flickr-6"
+  ],
+  "khafre-pyramid": [
+    "giza-flickr-8",
+    "giza-flickr-9"
+  ],
+  "red-pyramid": [
+    "giza-flickr-12"
+  ],
+  "saqqara": [],
+  "dahshur": [],
+  "menkaure-pyramid": [
+    "giza-ov-2",
+    "giza-ov-3",
+    "giza-ov-5",
+    "giza-ov-6"
+  ],
+  "great-sphinx": [
+    "giza-ov-8",
+    "giza-ov-9",
+    "giza-ov-10",
+    "giza-ov-11",
+    "giza-ov-12"
+  ],
+  "serapeum-saqqara": [
+    "giza-ov-15",
+    "giza-ov-16",
+    "giza-ov-17",
+    "giza-ov-18"
+  ],
+  "bahariya-oasis": [
+    "giza-ov-19",
+    "giza-ov-20",
+    "giza-ov-21",
+    "giza-ov-23",
+    "giza-ov-24"
+  ],
+  "memphis-mit-rahina": [
+    "giza-ov-26",
+    "giza-ov-27",
+    "giza-ov-28",
+    "giza-ov-30"
+  ],
+  "al-muizz-street": [
+    "flickr-52088550881"
+  ],
+  "sultan-barquq-complex": [
+    "flickr-14772289106"
+  ],
+  "al-aqmar-mosque": [
+    "flickr-54300199428"
+  ],
+  "bayt-al-suhaymi": [
+    "flickr-3379453300"
+  ],
+  "bab-al-futuh": [
+    "flickr-54300156419"
+  ],
+  "bab-zuweila": [
+    "flickr-739015514"
+  ],
+  "qalawun-complex": [
+    "flickr-52395655213"
+  ],
+  "bab-al-nasr": [
+    "photo-4b528563683a2299"
   ]
 }

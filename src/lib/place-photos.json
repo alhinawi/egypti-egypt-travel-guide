@@ -1541,5 +1541,317 @@
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "changes": "Resized and converted to WebP; layout crop"
+  },
+  "museum-islamic-art": {
+    "file": "Q3330629-hero",
+    "alt": {
+      "en": "Museum of Islamic Art façade",
+      "ar": "واجهة متحف الفن الإسلامي"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:CairoIslamicMuseum.jpg",
+    "author": "Roland Unger",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "changes": "Resized and converted to WebP; layout crop",
+    "heroSuitable": true
+  },
+  "gayer-anderson-museum": {
+    "file": "Q2190649-hero",
+    "alt": {
+      "en": "Reception hall inside the Gayer-Anderson Museum",
+      "ar": "قاعة استقبال داخل متحف جاير أندرسون"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:CairoGayerCelebrationHall.jpg",
+    "author": "Roland Unger",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "changes": "Resized and converted to WebP; layout crop",
+    "heroSuitable": true
+  },
+  "petrified-forest-cairo": {
+    "file": "Q12241337-hero",
+    "alt": {
+      "en": "Entrance of the Petrified Forest protected area in Cairo, archival photograph from 2001.",
+      "ar": "مدخل محمية الغابة المتحجرة بالقاهرة، صورة أرشيفية من 2001."
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:MaadiForestEntrance.jpg",
+    "author": "Roland Unger",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "changes": "Resized and converted to WebP; layout crop",
+    "heroSuitable": true
+  },
+  "great-pyramid-khufu": {
+    "file": "giza-flickr-1",
+    "alt": {
+      "en": "Great Pyramid corner and exposed limestone courses",
+      "ar": "ركن الهرم الأكبر ومداميك الحجر الجيري الظاهرة"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Great_Pyramid_(Pyramid_of_Cheops_Khufu),_Giza,_GG,_EGY_(40936203693).jpg",
+    "author": "Warren LeMay from Chicago, IL, United States",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "changes": "Resized and converted to WebP; layout crop",
+    "heroSuitable": true
+  },
+  "khafre-pyramid": {
+    "file": "giza-flickr-7",
+    "alt": {
+      "en": "Khafre pyramid and surviving summit casing",
+      "ar": "هرم خفرع وبقايا الكسوة عند القمة"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Khafre%27s_Pyramid_at_Giza_(2427492641).jpg",
+    "author": "Jerome Bon from Paris, France",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "changes": "Resized and converted to WebP; layout crop",
+    "heroSuitable": true
+  },
+  "bent-pyramid": {
+    "file": "giza-flickr-10",
+    "alt": {
+      "en": "Bent Pyramid with its change of slope and surviving casing",
+      "ar": "الهرم المنحني وتغيّر زاوية الميل والكسوة الباقية"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Bent_Pyramid_featuring_the_original_polished_limestone_outer_casing_that_the_pyramids_used_to_have_(14616487960).jpg",
+    "author": "Jorge Láscar from Melbourne, Australia",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "changes": "Resized and converted to WebP; layout crop",
+    "heroSuitable": true
+  },
+  "red-pyramid": {
+    "file": "giza-flickr-11",
+    "alt": {
+      "en": "Red Pyramid with a car in the foreground, photographed in 1998",
+      "ar": "الهرم الأحمر وعربية قدامه، صورة سنة 1998"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Dahshur,_Red_Pyramid_(6201580430).jpg",
+    "author": "Arian Zwegers from Brussels, Belgium",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "changes": "Resized and converted to WebP; layout crop",
+    "heroSuitable": true
+  },
+  "djoser-step-pyramid": {
+    "file": "giza-flickr-13",
+    "alt": {
+      "en": "Step Pyramid of Djoser, photographed in 1998",
+      "ar": "هرم زوسر المدرج، صورة سنة 1998"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Saqqara,_step_pyramid_of_Djoser_(6201557496).jpg",
+    "author": "Arian Zwegers from Brussels, Belgium",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "changes": "Resized and converted to WebP; layout crop",
+    "heroSuitable": true
+  },
+  "menkaure-pyramid": {
+    "file": "giza-ov-1",
+    "alt": {
+      "en": "Menkaure pyramid, northern face and breach",
+      "ar": "هرم منكاورع، الوجه الشمالي والفجوة"
+    },
+    "source": "https://www.flickr.com/photos/77619789@N00/3421937638",
+    "author": "a rancid amoeba",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/deed.en",
+    "changes": "Resized and converted to WebP; layout crop",
+    "heroSuitable": true
+  },
+  "great-sphinx": {
+    "file": "giza-ov-7",
+    "alt": {
+      "en": "Great Sphinx with Khafre pyramid behind",
+      "ar": "أبو الهول وهرم خفرع وراه"
+    },
+    "source": "https://www.flickr.com/photos/21013862@N08/2274810233",
+    "author": "twiga_swala",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/deed.en",
+    "changes": "Resized and converted to WebP; layout crop",
+    "heroSuitable": true
+  },
+  "serapeum-saqqara": {
+    "file": "giza-ov-13",
+    "alt": {
+      "en": "Underground passage of the Serapeum",
+      "ar": "ممر السرابيوم تحت الأرض"
+    },
+    "source": "https://www.flickr.com/photos/63503049@N03/52623425380",
+    "author": "travelourplanet.com",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/deed.en",
+    "changes": "Resized and converted to WebP; layout crop",
+    "heroSuitable": true
+  },
+  "memphis-mit-rahina": {
+    "file": "giza-ov-25",
+    "alt": {
+      "en": "Reclining Ramesses II colossus at Mit Rahina, full view",
+      "ar": "تمثال رمسيس التاني المستلقي في ميت رهينة، منظر كامل"
+    },
+    "source": "https://www.flickr.com/photos/25897810@N00/4053989612",
+    "author": "David Berkowitz",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/deed.en",
+    "changes": "Resized and converted to WebP; layout crop",
+    "heroSuitable": true
+  },
+  "shubra-el-kheima": {
+    "file": "flickr-2122704168",
+    "alt": {
+      "en": "A bridge scene in Shubra El Kheima, photographed in 2007.",
+      "ar": "مشهد كوبري في شبرا الخيمة، صورة سنة 2007."
+    },
+    "source": "https://www.flickr.com/photos/2007828/2122704168",
+    "author": "Andrew A. Shenouda",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/deed.en",
+    "changes": "Resized and converted to WebP; layout crop",
+    "heroSuitable": true
+  },
+  "hawara": {
+    "file": "flickr-6943969705",
+    "alt": {
+      "en": "Hawara pyramid and the canal through the archaeological area, photographed in 2009.",
+      "ar": "هرم هوارة والترعة اللي بتعدي بالمنطقة الأثرية، صورة سنة 2009."
+    },
+    "source": "https://www.flickr.com/photos/hannahpethen/6943969705",
+    "author": "Hannah Pethen",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/deed.en",
+    "changes": "Resized and converted to WebP; layout crop",
+    "heroSuitable": true
+  },
+  "lake-manzala": {
+    "file": "flickr-4565554783",
+    "alt": {
+      "en": "Satellite view of the Suez Canal region, with Lake Manzala at the upper left. NASA image via Flickr.",
+      "ar": "صورة قمر صناعي لمنطقة قناة السويس، وبحيرة المنزلة في أعلى الشمال. صورة ناسا عبر فليكر."
+    },
+    "source": "https://www.flickr.com/photos/48722974@N07/4565554783",
+    "author": "eutrophication&hypoxia",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/deed.en",
+    "changes": "Resized and converted to WebP; layout crop",
+    "heroSuitable": false
+  },
+  "meir-egypt": {
+    "file": "flickr-2237866751",
+    "alt": {
+      "en": "A Hathor-related tomb-painting detail at Meir, photographed in 2007.",
+      "ar": "تفصيلة رسم مرتبطة بحتحور في مقابر مير، صورة سنة 2007."
+    },
+    "source": "https://www.flickr.com/photos/61542961@N00/2237866751",
+    "author": "Flop Eared Mule",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/deed.en",
+    "changes": "Resized and converted to WebP; layout crop",
+    "heroSuitable": false
+  },
+  "tuna-el-gebel": {
+    "file": "flickr-3426724519",
+    "alt": {
+      "en": "A waterwheel at Tuna el Gebel, photographed in 2009.",
+      "ar": "ساقية في تونة الجبل، صورة سنة 2009."
+    },
+    "source": "https://www.flickr.com/photos/arancidamoeba/3426724519",
+    "author": "a rancid amoeba",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/deed.en",
+    "changes": "Resized and converted to WebP; layout crop",
+    "heroSuitable": false
+  },
+  "talkha": {
+    "file": "flickr-491882156",
+    "alt": {
+      "en": "Mansoura-España garment factory gate in Talkha, photographed in 2007.",
+      "ar": "بوابة مصنع المنصورة إسبانيا للملابس في طلخا، صورة سنة 2007."
+    },
+    "source": "https://www.flickr.com/photos/elhamalawy/491882156",
+    "author": "Hossam el-Hamalawy",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/deed.en",
+    "changes": "Resized and converted to WebP; layout crop",
+    "heroSuitable": false
+  },
+  "baltim": {
+    "file": "flickr-677497348",
+    "alt": {
+      "en": "An old house in Baltim, photographed in 2006.",
+      "ar": "بيت قديم في بلطيم، صورة سنة 2006."
+    },
+    "source": "https://www.flickr.com/photos/elhamalawy/677497348",
+    "author": "Hossam el-Hamalawy",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/deed.en",
+    "changes": "Resized and converted to WebP; layout crop",
+    "heroSuitable": false
+  },
+  "faiyum-oasis": {
+    "file": "flickr-55578565872",
+    "alt": {
+      "en": "Cultivated fields and palms in the Faiyum Oasis, photographed in 2023.",
+      "ar": "حقول مزروعة ونخيل في واحة الفيوم، صورة سنة 2023."
+    },
+    "source": "https://www.flickr.com/photos/genesisscience/55578565872",
+    "author": "Nate Loper",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/deed.en",
+    "changes": "Resized and converted to WebP; layout crop",
+    "heroSuitable": true
+  },
+  "heracleopolis-magna": {
+    "file": "photo-064d4304aa6cd876",
+    "alt": {
+      "en": "Excavations at Ahnas el Medineh / Heracleopolis Magna, published in 1894.",
+      "ar": "حفائر إهناسيا المدينة / هيراكليوبوليس ماجنا، منشورة سنة 1894."
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Temple_Heracleopolis_Magna_1894.jpg",
+    "author": "Henri Edouard Naville (1844 - 1926)",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Temple_Heracleopolis_Magna_1894.jpg",
+    "changes": "Resized and converted to WebP; layout crop",
+    "heroSuitable": false
+  },
+  "akhmim": {
+    "file": "photo-90df9a714f6f69eb",
+    "alt": {
+      "en": "Akhmim Open-Air Museum site, photographed on 26 February 2005.",
+      "ar": "موقع متحف أخميم المفتوح، صورة 26 فبراير 2005."
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:AkhmimOpenAirMuseum.jpg",
+    "author": "Roland Unger",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "changes": "Resized and converted to WebP; layout crop",
+    "heroSuitable": true
+  },
+  "ezbet-el-borg": {
+    "file": "photo-d3165ab836e153db",
+    "alt": {
+      "en": "Fishing boats at Ezbet El Borg, photographed in October 2023.",
+      "ar": "مراكب صيد في عزبة البرج، صورة في أكتوبر 2023."
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:%D8%A3%D8%B3%D8%B7%D9%88%D9%84_%D8%A7%D9%84%D8%B5%D9%8A%D8%AF_%D9%81%D9%8A_%D9%85%D8%AF%D9%8A%D9%86%D8%A9_%D8%B9%D8%B2%D8%A8%D8%A9_%D8%A7%D9%84%D8%A8%D8%B1%D8%AC_%D8%A8%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A9_%D8%AF%D9%85%D9%8A%D8%A7%D8%B7_-_%D8%B4%D9%85%D8%A7%D9%84_%D9%85%D8%B5%D8%B1_-_1.jpg",
+    "author": "Domyati123",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+    "changes": "Resized and converted to WebP; layout crop",
+    "heroSuitable": true
+  },
+  "farafra-egypt": {
+    "file": "photo-5fd3c11399d924cc",
+    "alt": {
+      "en": "A lane in Qasr Farafra, looking south, photographed on 13 March 2004.",
+      "ar": "حارة في قصر الفرافرة باتجاه الجنوب، صورة 13 مارس 2004."
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:FarafraQasr1.jpg",
+    "author": "Roland Unger",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "changes": "Resized and converted to WebP; layout crop",
+    "heroSuitable": false
   }
 }

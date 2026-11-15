@@ -796,5 +796,173 @@
     },
     "category": "sea",
     "source": "https://en.wikipedia.org/wiki/Marsa_Matrouh"
+  },
+  {
+    "id": "shubra-el-kheima",
+    "destination": "qalyubia",
+    "name": {
+      "en": "Shubra El Kheima",
+      "ar": "شبرا الخيمة"
+    },
+    "description": {
+      "ar": "مدينة كبيرة في القليوبية وجزء من عمران القاهرة الكبرى.",
+      "en": "A major city of Qalyubia within the Greater Cairo urban area."
+    },
+    "category": "city",
+    "source": "https://en.wikipedia.org/wiki/Shubra_El_Kheima"
+  },
+  {
+    "id": "hawara",
+    "destination": "fayoum",
+    "name": {
+      "en": "Hawara",
+      "ar": "هوارة"
+    },
+    "description": {
+      "ar": "منطقة أثرية فيها هرم أمنمحات التالت.",
+      "en": "The archaeological site of Amenemhat III's pyramid."
+    },
+    "category": "culture",
+    "source": "https://en.wikipedia.org/wiki/Hawara"
+  },
+  {
+    "id": "lake-manzala",
+    "destination": "dakahlia",
+    "name": {
+      "en": "Lake Manzala",
+      "ar": "بحيرة المنزلة"
+    },
+    "description": {
+      "ar": "بحيرة ساحلية كبيرة بمياه شروب، مشتركة بين أكتر من محافظة في شمال شرق الدلتا.",
+      "en": "A large brackish coastal lagoon shared by the northeastern Delta governorates."
+    },
+    "category": "nature",
+    "source": "https://en.wikipedia.org/wiki/Lake_Manzala"
+  },
+  {
+    "id": "meir-egypt",
+    "destination": "asyut",
+    "name": {
+      "en": "Meir, Egypt",
+      "ar": "مقابر مير"
+    },
+    "description": {
+      "ar": "مقابر صخرية لكبار الأقاليم من الدولتين القديمة والوسطى.",
+      "en": "Rock-cut tombs of provincial elites from the Old and Middle Kingdoms."
+    },
+    "category": "culture",
+    "source": "https://en.wikipedia.org/wiki/Meir,_Egypt"
+  },
+  {
+    "id": "tuna-el-gebel",
+    "destination": "minya",
+    "name": {
+      "en": "Tuna el-Gebel",
+      "ar": "تونا الجبل"
+    },
+    "description": {
+      "ar": "جبانة أثرية مرتبطة بمدينة الأشمونين القديمة.",
+      "en": "An ancient necropolis associated with the city of Hermopolis."
+    },
+    "category": "culture",
+    "source": "https://en.wikipedia.org/wiki/Tuna_el-Gebel"
+  },
+  {
+    "id": "talkha",
+    "destination": "dakahlia",
+    "name": {
+      "en": "Talkha",
+      "ar": "طلخا"
+    },
+    "description": {
+      "ar": "مدينة على النيل قصاد المنصورة.",
+      "en": "A city on the Nile opposite Mansoura."
+    },
+    "category": "city",
+    "source": "https://en.wikipedia.org/wiki/Talkha"
+  },
+  {
+    "id": "baltim",
+    "destination": "kafr-el-sheikh",
+    "name": {
+      "en": "Baltim",
+      "ar": "بلطيم"
+    },
+    "description": {
+      "ar": "مدينة في شمال الدلتا، مرتبطة بمنطقة المصيف على المتوسط.",
+      "en": "A northern-Delta town associated with the nearby Mediterranean resort coast."
+    },
+    "category": "sea",
+    "source": "https://en.wikipedia.org/wiki/Baltim"
+  },
+  {
+    "id": "faiyum-oasis",
+    "destination": "fayoum",
+    "name": {
+      "en": "Faiyum Oasis",
+      "ar": "واحة الفيوم"
+    },
+    "description": {
+      "ar": "منخفض الفيوم الزراعي والبيئة المرتبطة بالبحيرة.",
+      "en": "The cultivated depression and lake landscape around Fayoum."
+    },
+    "category": "nature",
+    "source": "https://en.wikipedia.org/wiki/Faiyum_Oasis"
+  },
+  {
+    "id": "heracleopolis-magna",
+    "destination": "beni-suef",
+    "name": {
+      "en": "Heracleopolis Magna",
+      "ar": "إهناسيا القديمة"
+    },
+    "description": {
+      "ar": "بقايا مدينة مصرية قديمة مهمة جنب إهناسيا الحالية.",
+      "en": "The remains of an important ancient Egyptian city near modern Ihnasya."
+    },
+    "category": "culture",
+    "source": "https://en.wikipedia.org/wiki/Heracleopolis_Magna"
+  },
+  {
+    "id": "akhmim",
+    "destination": "sohag",
+    "name": {
+      "en": "Akhmim",
+      "ar": "أخميم"
+    },
+    "description": {
+      "ar": "مدينة لسه عايشة بجذورها القديمة، وفيها آثار مهمة من فترات مختلفة.",
+      "en": "A living town with ancient roots and important remains from earlier periods."
+    },
+    "category": "culture",
+    "source": "https://en.wikipedia.org/wiki/Akhmim"
+  },
+  {
+    "id": "ezbet-el-borg",
+    "destination": "damietta",
+    "name": {
+      "en": "Ezbet El Borg",
+      "ar": "عزبة البرج"
+    },
+    "description": {
+      "ar": "مدينة صيد عند فرع دمياط قرب مصبه في المتوسط.",
+      "en": "A fishing town by the Damietta branch near its Mediterranean mouth."
+    },
+    "category": "city",
+    "source": "https://en.wikipedia.org/wiki/Ezbet_El_Borg"
+  },
+  {
+    "id": "farafra-egypt",
+    "destination": "new-valley",
+    "name": {
+      "en": "Farafra, Egypt",
+      "ar": "الفرافرة"
+    },
+    "description": {
+      "ar": "واحة ومدينة بتعتبر مدخل لمنطقة الصحراء البيضاء.",
+      "en": "An oasis settlement serving as a gateway to the White Desert area."
+    },
+    "category": "city",
+    "source": "https://en.wikipedia.org/wiki/Farafra,_Egypt"
   }
 ]
