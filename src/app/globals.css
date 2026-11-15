@@ -63,3 +63,4 @@ html{--page:#f5f7f6;--paper:#fff;--ink:#102c38;--muted:#60747d;--accent:#125366;
 .photo-context-note{font-size:12px;line-height:1.8;color:var(--muted)}
 @media(max-width:600px){.virtual-card>.place-photo-card{margin:-22px -22px 4px}.virtual-card>.place-photo-card img,.trip-card>.place-photo-card img{height:215px}.trip-card{gap:10px;padding-bottom:17px}.trip-card .trip-link h3{font-size:15px}}
 .day-parts .place-photo-card{grid-column:1/-1;margin:0 0 10px;border-radius:9px;overflow:hidden}.day-parts .place-photo-card img{width:100%;height:180px;object-fit:cover;display:block}.place-photo-card .photo-context-note{padding:8px 14px;margin:0;font-size:11px}
+.empty-state{overflow:hidden}.empty-state>.place-photo-card{margin:-30px -30px 24px;border-radius:0}.empty-state>.place-photo-card img{display:block;height:210px;width:100%;object-fit:cover}
