@@ -1397,7 +1397,31 @@
           "https://www.experienceegypt.eg/en/city/1/cairo-giza"
         ]
       }
-    ]
+    ],
+    "history": {
+      "en": "Saladin began the Citadel's construction in 1176. It remained a center of government for centuries and was repeatedly changed by later rulers, especially during the Mamluk period and under Muhammad Ali. The buildings visible today belong to several different periods, not a single construction campaign.",
+      "ar": "صلاح الدين بدأ بناء القلعة سنة 1176. فضلت مركز للحكم لقرون، وحكام بعده غيّروا فيها وأضافوا مباني، خصوصًا في العصر المملوكي وعهد محمد علي. اللي بتشوفه النهارده جاي من عصور مختلفة، مش مشروع اتبنى مرة واحدة.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Cairo_Citadel"
+      ]
+    },
+    "nearby": {
+      "items": [
+        {
+          "text": {
+            "ar": "أماكن تانية في الدليل على بُعد لحد 40 كم من نقطة الخريطة، بالخط المستقيم مش مسافة المشي أو السواقة: جامع ابن طولون (1.2 كم)؛ خان الخليلي (2.0 كم)؛ المتحف المصري (3.4 كم). السماح بالزيارة والطريق محتاجين مراجعة منفصلة.",
+            "en": "Other catalog entries within 40 km of this map marker (straight line, not walking/driving distance): Mosque of Ibn Tulun (1.2 km); Khan el-Khalili (2.0 km); Egyptian Museum (3.4 km). Access and routes must be checked separately."
+          },
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Cairo_Citadel",
+            "https://www.experienceegypt.eg/en/city/1/cairo-giza",
+            "https://en.wikipedia.org/wiki/Mosque_of_Ibn_Tulun",
+            "https://en.wikipedia.org/wiki/Khan_el-Khalili",
+            "https://en.wikipedia.org/wiki/Egyptian_Museum"
+          ]
+        }
+      ]
+    }
   },
   "mosque-of-ibn-tulun": {
     "see": {
@@ -1563,7 +1587,31 @@
           "https://www.experienceegypt.eg/en/city/1/cairo-giza"
         ]
       }
-    ]
+    ],
+    "history": {
+      "en": "Ahmad ibn Tulun built the mosque between 876 and 879. Its courtyard, pointed arches and stucco work reflect connections with Abbasid architecture in Samarra. Later restorations, including Sultan Lajin's work in the thirteenth century, also shaped what survives.",
+      "ar": "أحمد بن طولون بنى الجامع بين 876 و879. الصحن والعقود المدببة والزخارف الجصية فيهم صلة بعمارة العباسيين في سامرا. وترميمات لاحقة، منها شغل السلطان لاجين في القرن التلتاشر، ساهمت في شكل المبنى اللي باقي.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mosque_of_Ibn_Tulun"
+      ]
+    },
+    "nearby": {
+      "items": [
+        {
+          "text": {
+            "ar": "أماكن تانية في الدليل على بُعد لحد 40 كم من نقطة الخريطة، بالخط المستقيم مش مسافة المشي أو السواقة: قلعة صلاح الدين (1.2 كم)؛ خان الخليلي (2.4 كم)؛ المتحف المصري (2.6 كم). السماح بالزيارة والطريق محتاجين مراجعة منفصلة.",
+            "en": "Other catalog entries within 40 km of this map marker (straight line, not walking/driving distance): Cairo Citadel (1.2 km); Khan el-Khalili (2.4 km); Egyptian Museum (2.6 km). Access and routes must be checked separately."
+          },
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Mosque_of_Ibn_Tulun",
+            "https://www.experienceegypt.eg/en/city/1/cairo-giza",
+            "https://en.wikipedia.org/wiki/Cairo_Citadel",
+            "https://en.wikipedia.org/wiki/Khan_el-Khalili",
+            "https://en.wikipedia.org/wiki/Egyptian_Museum"
+          ]
+        }
+      ]
+    }
   },
   "giza-pyramids": {
     "see": {
@@ -2114,7 +2162,30 @@
           "https://www.experienceegypt.eg/en/city/1/cairo-giza"
         ]
       }
-    ]
+    ],
+    "history": {
+      "en": "Saqqara served as a burial landscape for Memphis over many centuries. Djoser's Step Pyramid belongs to the Third Dynasty, while later kings and officials added pyramids and private tombs. The site's story therefore continues far beyond a single pyramid.",
+      "ar": "سقارة كانت منطقة دفن لمدينة منف على مدى قرون طويلة. هرم زوسر المدرج من الأسرة التالتة، وبعده ملوك وكبار موظفين أضافوا أهرامات ومقابر خاصة. عشان كده حكاية المكان أكبر من هرم واحد.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Saqqara"
+      ]
+    },
+    "nearby": {
+      "items": [
+        {
+          "text": {
+            "ar": "أماكن تانية في الدليل على بُعد لحد 40 كم من نقطة الخريطة، بالخط المستقيم مش مسافة المشي أو السواقة: دهشور (7.2 كم)؛ منطقة أهرامات الجيزة (14.2 كم). السماح بالزيارة والطريق محتاجين مراجعة منفصلة.",
+            "en": "Other catalog entries within 40 km of this map marker (straight line, not walking/driving distance): Dahshur (7.2 km); Giza pyramid complex (14.2 km). Access and routes must be checked separately."
+          },
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Saqqara",
+            "https://www.experienceegypt.eg/en/city/1/cairo-giza",
+            "https://en.wikipedia.org/wiki/Dahshur",
+            "https://en.wikipedia.org/wiki/Giza_pyramid_complex"
+          ]
+        }
+      ]
+    }
   },
   "dahshur": {
     "see": {
@@ -2255,7 +2326,30 @@
           "https://www.experienceegypt.eg/en/city/1/cairo-giza"
         ]
       }
-    ]
+    ],
+    "history": {
+      "en": "Dahshur's best-known monuments are Sneferu's Bent and Red pyramids, built early in the Fourth Dynasty. They belong to the wider pyramid landscape of ancient Memphis, on the desert edge west of the cultivated Nile plain.",
+      "ar": "أشهر آثار دهشور الهرم المنحني والهرم الأحمر لسنفرو، من بداية الأسرة الرابعة. وهما جزء من نطاق أهرامات منف القديمة، عند حافة الصحرا غرب أرض الوادي الزراعية.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Dahshur"
+      ]
+    },
+    "nearby": {
+      "items": [
+        {
+          "text": {
+            "ar": "أماكن تانية في الدليل على بُعد لحد 40 كم من نقطة الخريطة، بالخط المستقيم مش مسافة المشي أو السواقة: سقارة (7.2 كم)؛ منطقة أهرامات الجيزة (20.2 كم). السماح بالزيارة والطريق محتاجين مراجعة منفصلة.",
+            "en": "Other catalog entries within 40 km of this map marker (straight line, not walking/driving distance): Saqqara (7.2 km); Giza pyramid complex (20.2 km). Access and routes must be checked separately."
+          },
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Dahshur",
+            "https://www.experienceegypt.eg/en/city/1/cairo-giza",
+            "https://en.wikipedia.org/wiki/Saqqara",
+            "https://en.wikipedia.org/wiki/Giza_pyramid_complex"
+          ]
+        }
+      ]
+    }
   },
   "bahariya-oasis": {
     "see": {
@@ -2298,7 +2392,21 @@
           "https://www.experienceegypt.eg/en/city/1/cairo-giza"
         ]
       }
-    ]
+    ],
+    "weather": {
+      "en": "Cooler months suit exposed archaeological sites. Cairo Airport normals are a nearby urban proxy, not climate data for remote Bahariya.",
+      "ar": "الشهور الأبرد أنسب للمناطق الأثرية المكشوفة. بيانات مطار القاهرة تقريب للجزء القريب من المدينة، ومش وصف لجو الواحات البحرية.",
+      "sources": [
+        "https://www.nodc.noaa.gov/archive/arc0216/0253808/2.2/data/0-data/Region-1-WMO-Normals-9120/Egypt/CSV/CairoAP_62366.csv"
+      ]
+    },
+    "history": {
+      "en": "Bahariya preserves evidence from prehistoric settlement through pharaonic and Graeco-Roman periods. Late-period tombs and the cemetery known as the Valley of the Golden Mummies are part of that long record. A modern road to Cairo transformed its connections in the twentieth century.",
+      "ar": "البحرية فيها شواهد من الاستيطان قبل التاريخ ولحد العصور الفرعونية واليونانية والرومانية. مقابر العصور المتأخرة والجبانة المعروفة بوادي المومياوات الذهبية جزء من السجل الطويل ده. والطريق الحديث للقاهرة غيّر اتصال الواحة بالعاصمة في القرن العشرين.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bahariya_Oasis"
+      ]
+    }
   },
   "qaitbay": {
     "see": {
@@ -2444,7 +2552,31 @@
           "https://www.experienceegypt.eg/en/city/27/alexandria"
         ]
       }
-    ]
+    ],
+    "history": {
+      "en": "Sultan Qaitbay built this coastal fortress between 1477 and 1479. Its position on the Pharos headland guarded the entrance to Alexandria's harbor, reflecting the city's long maritime role.",
+      "ar": "السلطان قايتباي بنى القلعة الساحلية بين 1477 و1479. موقعها على طرف فاروس كان لحماية مدخل مينا إسكندرية، وبيوضح ارتباط المدينة الطويل بالبحر.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Citadel_of_Qaitbay"
+      ]
+    },
+    "nearby": {
+      "items": [
+        {
+          "text": {
+            "ar": "أماكن تانية في الدليل على بُعد لحد 40 كم من نقطة الخريطة، بالخط المستقيم مش مسافة المشي أو السواقة: مكتبة الإسكندرية (2.3 كم)؛ مقابر كوم الشقافة (3.9 كم)؛ قصر المنتزه (15.0 كم). السماح بالزيارة والطريق محتاجين مراجعة منفصلة.",
+            "en": "Other catalog entries within 40 km of this map marker (straight line, not walking/driving distance): Bibliotheca Alexandrina (2.3 km); Catacombs of Kom El Shoqafa (3.9 km); Montaza Palace (15.0 km). Access and routes must be checked separately."
+          },
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Citadel_of_Qaitbay",
+            "https://www.experienceegypt.eg/en/city/27/alexandria",
+            "https://en.wikipedia.org/wiki/Bibliotheca_Alexandrina",
+            "https://en.wikipedia.org/wiki/Catacombs_of_Kom_El_Shoqafa",
+            "https://en.wikipedia.org/wiki/Montaza_Palace"
+          ]
+        }
+      ]
+    }
   },
   "bibliotheca": {
     "see": {
@@ -2590,7 +2722,31 @@
           "https://www.experienceegypt.eg/en/city/27/alexandria"
         ]
       }
-    ]
+    ],
+    "history": {
+      "en": "The modern library was inaugurated in 2002 to commemorate Alexandria's ancient library tradition. It is a contemporary cultural complex, not a surviving ancient building. In addition to reading and research spaces, the institution includes museums, galleries and a planetarium.",
+      "ar": "المكتبة الحديثة اتفتحت سنة 2002 لاستحضار تقاليد مكتبة إسكندرية القديمة. هي مجمع ثقافي معاصر، مش مبنى أثري قديم لسه باقي. وجنب مساحات القراءة والبحث فيها متاحف وقاعات عرض وقبة سماوية.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bibliotheca_Alexandrina"
+      ]
+    },
+    "nearby": {
+      "items": [
+        {
+          "text": {
+            "ar": "أماكن تانية في الدليل على بُعد لحد 40 كم من نقطة الخريطة، بالخط المستقيم مش مسافة المشي أو السواقة: قلعة قايتباي (2.3 كم)؛ مقابر كوم الشقافة (3.7 كم)؛ قصر المنتزه (13.5 كم). السماح بالزيارة والطريق محتاجين مراجعة منفصلة.",
+            "en": "Other catalog entries within 40 km of this map marker (straight line, not walking/driving distance): Citadel of Qaitbay (2.3 km); Catacombs of Kom El Shoqafa (3.7 km); Montaza Palace (13.5 km). Access and routes must be checked separately."
+          },
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Bibliotheca_Alexandrina",
+            "https://www.experienceegypt.eg/en/city/27/alexandria",
+            "https://en.wikipedia.org/wiki/Citadel_of_Qaitbay",
+            "https://en.wikipedia.org/wiki/Catacombs_of_Kom_El_Shoqafa",
+            "https://en.wikipedia.org/wiki/Montaza_Palace"
+          ]
+        }
+      ]
+    }
   },
   "catacombs-of-kom-el-shoqafa": {
     "see": {
@@ -2741,7 +2897,31 @@
           "https://www.experienceegypt.eg/en/city/27/alexandria"
         ]
       }
-    ]
+    ],
+    "history": {
+      "en": "These underground burial chambers developed during the Roman period. Their decoration combines Egyptian funerary imagery with Greek and Roman forms, making the site useful for understanding Alexandria's mixed cultural world rather than a single artistic tradition.",
+      "ar": "المقابر دي اتطورت تحت الأرض في العصر الروماني. زخارفها بتجمع رموز جنائزية مصرية مع أشكال يونانية ورومانية، فبتساعدك تفهم تنوع ثقافة إسكندرية وقتها، مش أسلوب فني واحد.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Catacombs_of_Kom_El_Shoqafa"
+      ]
+    },
+    "nearby": {
+      "items": [
+        {
+          "text": {
+            "ar": "أماكن تانية في الدليل على بُعد لحد 40 كم من نقطة الخريطة، بالخط المستقيم مش مسافة المشي أو السواقة: مكتبة الإسكندرية (3.7 كم)؛ قلعة قايتباي (3.9 كم)؛ قصر المنتزه (16.9 كم). السماح بالزيارة والطريق محتاجين مراجعة منفصلة.",
+            "en": "Other catalog entries within 40 km of this map marker (straight line, not walking/driving distance): Bibliotheca Alexandrina (3.7 km); Citadel of Qaitbay (3.9 km); Montaza Palace (16.9 km). Access and routes must be checked separately."
+          },
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Catacombs_of_Kom_El_Shoqafa",
+            "https://www.experienceegypt.eg/en/city/27/alexandria",
+            "https://en.wikipedia.org/wiki/Bibliotheca_Alexandrina",
+            "https://en.wikipedia.org/wiki/Citadel_of_Qaitbay",
+            "https://en.wikipedia.org/wiki/Montaza_Palace"
+          ]
+        }
+      ]
+    }
   },
   "montazah": {
     "see": {
@@ -2887,7 +3067,31 @@
           "https://www.experienceegypt.eg/en/city/27/alexandria"
         ]
       }
-    ]
+    ],
+    "history": {
+      "en": "Montaza developed as a royal seaside estate under Khedive Abbas Hilmi II in the late nineteenth century, with later royal additions. The estate includes more than one palace and extensive gardens; the whole landscape should not be confused with access to a palace interior.",
+      "ar": "المنتزه اتطور كمقر ملكي صيفي على البحر في عهد الخديوي عباس حلمي التاني أواخر القرن التسعتاشر، وبعده إضافات ملكية تانية. المكان فيه أكتر من قصر وجناين واسعة؛ دخول المنطقة مش معناه تلقائيًا دخول جوه القصور.",
+      "sources": [
+        "https://www.sis.gov.eg/Story/168344/El-Montaza-palace?lang=en-us"
+      ]
+    },
+    "nearby": {
+      "items": [
+        {
+          "text": {
+            "ar": "أماكن تانية في الدليل على بُعد لحد 40 كم من نقطة الخريطة، بالخط المستقيم مش مسافة المشي أو السواقة: مكتبة الإسكندرية (13.5 كم)؛ قلعة قايتباي (15.0 كم)؛ مقابر كوم الشقافة (16.9 كم). السماح بالزيارة والطريق محتاجين مراجعة منفصلة.",
+            "en": "Other catalog entries within 40 km of this map marker (straight line, not walking/driving distance): Bibliotheca Alexandrina (13.5 km); Citadel of Qaitbay (15.0 km); Catacombs of Kom El Shoqafa (16.9 km). Access and routes must be checked separately."
+          },
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Montaza_Palace",
+            "https://www.experienceegypt.eg/en/city/27/alexandria",
+            "https://en.wikipedia.org/wiki/Bibliotheca_Alexandrina",
+            "https://en.wikipedia.org/wiki/Citadel_of_Qaitbay",
+            "https://en.wikipedia.org/wiki/Catacombs_of_Kom_El_Shoqafa"
+          ]
+        }
+      ]
+    }
   },
   "karnak": {
     "see": {
@@ -3023,7 +3227,31 @@
           "https://www.experienceegypt.eg/en/city/22/luxor"
         ]
       }
-    ]
+    ],
+    "history": {
+      "en": "Karnak grew through additions made by rulers over many centuries, beginning in the Middle Kingdom and continuing into the Ptolemaic period. Much of the surviving monumental architecture dates to the New Kingdom. Amun and the Theban religious tradition were central to the complex.",
+      "ar": "الكرنك كبر بإضافات ملوك كتير عبر قرون، من الدولة الوسطى ولحد العصر البطلمي. جزء كبير من العمارة الضخمة الباقية بيرجع للدولة الحديثة. وآمون والتقاليد الدينية في طيبة كانوا في قلب المجمع.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Karnak"
+      ]
+    },
+    "nearby": {
+      "items": [
+        {
+          "text": {
+            "ar": "أماكن تانية في الدليل على بُعد لحد 40 كم من نقطة الخريطة، بالخط المستقيم مش مسافة المشي أو السواقة: معبد الأقصر (2.8 كم)؛ معبد حتشبسوت (5.6 كم)؛ وادي الملوك (6.2 كم). السماح بالزيارة والطريق محتاجين مراجعة منفصلة.",
+            "en": "Other catalog entries within 40 km of this map marker (straight line, not walking/driving distance): Luxor Temple (2.8 km); Mortuary temple of Hatshepsut (5.6 km); Valley of the Kings (6.2 km). Access and routes must be checked separately."
+          },
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Karnak",
+            "https://www.experienceegypt.eg/en/city/22/luxor",
+            "https://en.wikipedia.org/wiki/Luxor_Temple",
+            "https://en.wikipedia.org/wiki/Mortuary_temple_of_Hatshepsut",
+            "https://en.wikipedia.org/wiki/Valley_of_the_Kings"
+          ]
+        }
+      ]
+    }
   },
   "luxor-temple": {
     "see": {
@@ -3159,7 +3387,42 @@
           "https://www.experienceegypt.eg/en/city/22/luxor"
         ]
       }
-    ]
+    ],
+    "history": {
+      "en": "The east-bank temple developed mainly under New Kingdom rulers including Amenhotep III and Ramesses II. It was associated with the renewal of kingship and later acquired Roman and Christian layers. Its history is therefore wider than the pharaonic facade alone.",
+      "ar": "معبد البر الشرقي اتطور أساسًا في الدولة الحديثة، ومن أبرز ملوكه أمنحتب التالت ورمسيس التاني. ارتبط بتجديد الملكية، وبعد كده اتضافت له استخدامات رومانية ومسيحية. تاريخه أوسع من الواجهة الفرعونية لوحدها.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Luxor_Temple"
+      ]
+    },
+    "buy": [
+      {
+        "text": {
+          "ar": "دليل الأقصر الرسمي بيحط السوق الرئيسي قرب الناحية الشرقية لمعبد الأقصر، وبيذكر الهدايا والتوابل والعطور من المعروضات. مواعيد الدليل المطبوعة مش تأكيد لمواعيد النهارده.",
+          "en": "The official Luxor guide places the main souq near the east side of Luxor Temple, with souvenirs, spices and perfumes among the categories described. Treat its printed hours as historical guide text, not today's schedule."
+        },
+        "source_urls": [
+          "https://www.experienceegypt.eg/files/Luxor-Eng.pdf"
+        ]
+      }
+    ],
+    "nearby": {
+      "items": [
+        {
+          "text": {
+            "ar": "أماكن تانية في الدليل على بُعد لحد 40 كم من نقطة الخريطة، بالخط المستقيم مش مسافة المشي أو السواقة: معابد الكرنك (2.8 كم)؛ معبد حتشبسوت (5.4 كم)؛ وادي الملوك (5.9 كم). السماح بالزيارة والطريق محتاجين مراجعة منفصلة.",
+            "en": "Other catalog entries within 40 km of this map marker (straight line, not walking/driving distance): Karnak (2.8 km); Mortuary temple of Hatshepsut (5.4 km); Valley of the Kings (5.9 km). Access and routes must be checked separately."
+          },
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Luxor_Temple",
+            "https://www.experienceegypt.eg/en/city/22/luxor",
+            "https://en.wikipedia.org/wiki/Karnak",
+            "https://en.wikipedia.org/wiki/Mortuary_temple_of_Hatshepsut",
+            "https://en.wikipedia.org/wiki/Valley_of_the_Kings"
+          ]
+        }
+      ]
+    }
   },
   "valley-kings": {
     "see": {
@@ -3295,7 +3558,42 @@
           "https://www.experienceegypt.eg/en/city/22/luxor"
         ]
       }
-    ]
+    ],
+    "history": {
+      "en": "During the New Kingdom, rulers and elite figures were buried in rock-cut tombs in this west-bank valley. Painted funerary texts and scenes express beliefs about the afterlife. The discovery of Tutankhamun's tomb in 1922 brought the valley a new wave of international attention.",
+      "ar": "في الدولة الحديثة، ملوك وشخصيات كبيرة اتدفنوا في مقابر محفورة في صخر الوادي على البر الغربي. النصوص والمناظر الجنائزية بتعبر عن معتقدات العالم الآخر. واكتشاف مقبرة توت عنخ آمون سنة 1922 رجّع اهتمام عالمي كبير بالمكان.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Valley_of_the_Kings"
+      ]
+    },
+    "buy": [
+      {
+        "text": {
+          "ar": "منطقة الجبانة في البر الغربي مرتبطة بورش ألباستر في دليل الأقصر الرسمي. دي وقفات تسوق منفصلة، مش جزء من تذكرة المقابر ولا دليل إن كل تذكار معمول يدويًا هنا.",
+          "en": "The west-bank necropolis area is associated with alabaster workshops in the official Luxor guide. These are separate shopping stops, not part of the tomb admission or proof that every souvenir is locally handmade."
+        },
+        "source_urls": [
+          "https://www.experienceegypt.eg/files/Luxor-Eng.pdf"
+        ]
+      }
+    ],
+    "nearby": {
+      "items": [
+        {
+          "text": {
+            "ar": "أماكن تانية في الدليل على بُعد لحد 40 كم من نقطة الخريطة، بالخط المستقيم مش مسافة المشي أو السواقة: معبد حتشبسوت (0.5 كم)؛ معبد الأقصر (5.9 كم)؛ معابد الكرنك (6.2 كم). السماح بالزيارة والطريق محتاجين مراجعة منفصلة.",
+            "en": "Other catalog entries within 40 km of this map marker (straight line, not walking/driving distance): Mortuary temple of Hatshepsut (0.5 km); Luxor Temple (5.9 km); Karnak (6.2 km). Access and routes must be checked separately."
+          },
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Valley_of_the_Kings",
+            "https://www.experienceegypt.eg/en/city/22/luxor",
+            "https://en.wikipedia.org/wiki/Mortuary_temple_of_Hatshepsut",
+            "https://en.wikipedia.org/wiki/Luxor_Temple",
+            "https://en.wikipedia.org/wiki/Karnak"
+          ]
+        }
+      ]
+    }
   },
   "hatshepsut": {
     "see": {
@@ -3431,7 +3729,31 @@
           "https://www.experienceegypt.eg/en/city/22/luxor"
         ]
       }
-    ]
+    ],
+    "history": {
+      "en": "Hatshepsut built this terraced temple during the Eighteenth Dynasty at Deir el-Bahari. Its design served both royal commemoration and the worship of Amun, with reliefs including the expedition to Punt.",
+      "ar": "حتشبسوت بنت المعبد المدرج ده في الدير البحري خلال الأسرة التمنتاشر. تصميمه جمع تخليد الملكة وعبادة آمون، ومن مناظره رحلة بلاد بونت.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mortuary_temple_of_Hatshepsut"
+      ]
+    },
+    "nearby": {
+      "items": [
+        {
+          "text": {
+            "ar": "أماكن تانية في الدليل على بُعد لحد 40 كم من نقطة الخريطة، بالخط المستقيم مش مسافة المشي أو السواقة: وادي الملوك (0.5 كم)؛ معبد الأقصر (5.4 كم)؛ معابد الكرنك (5.6 كم). السماح بالزيارة والطريق محتاجين مراجعة منفصلة.",
+            "en": "Other catalog entries within 40 km of this map marker (straight line, not walking/driving distance): Valley of the Kings (0.5 km); Luxor Temple (5.4 km); Karnak (5.6 km). Access and routes must be checked separately."
+          },
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Mortuary_temple_of_Hatshepsut",
+            "https://www.experienceegypt.eg/en/city/22/luxor",
+            "https://en.wikipedia.org/wiki/Valley_of_the_Kings",
+            "https://en.wikipedia.org/wiki/Luxor_Temple",
+            "https://en.wikipedia.org/wiki/Karnak"
+          ]
+        }
+      ]
+    }
   },
   "philae": {
     "see": {
@@ -3567,7 +3889,29 @@
           "https://www.experienceegypt.eg/en/city/9/aswan-abu-simbel"
         ]
       }
-    ]
+    ],
+    "history": {
+      "en": "The monuments now stand on Agilkia Island after an international rescue project moved them from Philae, where dam construction threatened repeated flooding. The relocation is part of the site's modern history, alongside its ancient religious story.",
+      "ar": "الآثار موجودة دلوقتي على جزيرة أجيليكا بعد مشروع إنقاذ دولي نقلها من فيلة، اللي كانت مهددة بالغرق بسبب السدود. النقل جزء من تاريخ المكان الحديث، جنب حكايته الدينية القديمة.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Philae_temple_complex"
+      ]
+    },
+    "nearby": {
+      "items": [
+        {
+          "text": {
+            "ar": "أماكن تانية في الدليل على بُعد لحد 40 كم من نقطة الخريطة، بالخط المستقيم مش مسافة المشي أو السواقة: جزيرة إلفنتين (7.7 كم). السماح بالزيارة والطريق محتاجين مراجعة منفصلة.",
+            "en": "Other catalog entries within 40 km of this map marker (straight line, not walking/driving distance): Elephantine (7.7 km). Access and routes must be checked separately."
+          },
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Philae_temple_complex",
+            "https://www.experienceegypt.eg/en/city/9/aswan-abu-simbel",
+            "https://en.wikipedia.org/wiki/Elephantine"
+          ]
+        }
+      ]
+    }
   },
   "abu-simbel": {
     "see": {
@@ -3703,7 +4047,14 @@
           "https://www.experienceegypt.eg/en/city/9/aswan-abu-simbel"
         ]
       }
-    ]
+    ],
+    "history": {
+      "en": "Ramesses II commissioned the two rock-cut temples during the thirteenth century BC. The complex was moved to higher ground in the 1960s to protect it from the rising waters of Lake Nasser. That rescue forms a major chapter in the international campaign to save Nubian monuments.",
+      "ar": "رمسيس التاني أمر بنحت المعبدين في القرن التلتاشر قبل الميلاد. المجمع اتنقل لأرض أعلى في الستينيات عشان يتحمى من ارتفاع مياه بحيرة ناصر. وإنقاذه فصل مهم من الحملة الدولية لإنقاذ آثار النوبة.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Abu_Simbel"
+      ]
+    }
   },
   "elephantine": {
     "see": {
@@ -3839,7 +4190,29 @@
           "https://www.experienceegypt.eg/en/city/9/aswan-abu-simbel"
         ]
       }
-    ]
+    ],
+    "history": {
+      "en": "Excavations and the Elephantine papyri reveal a long history of settlement and religious life on the island. Aramaic documents record a community living here during the Persian period, alongside Egyptian traditions. The island is both an archaeological landscape and a place where people live today.",
+      "ar": "الحفريات وبرديات إلفنتين بيكشفوا تاريخ طويل للسكن والحياة الدينية على الجزيرة. وثائق آرامية بتسجل مجتمع عاش هنا في العصر الفارسي، جنب التقاليد المصرية. والجزيرة منطقة آثار ومكان ناس عايشة فيه لحد النهارده.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Elephantine"
+      ]
+    },
+    "nearby": {
+      "items": [
+        {
+          "text": {
+            "ar": "أماكن تانية في الدليل على بُعد لحد 40 كم من نقطة الخريطة، بالخط المستقيم مش مسافة المشي أو السواقة: معبد فيلة (7.7 كم). السماح بالزيارة والطريق محتاجين مراجعة منفصلة.",
+            "en": "Other catalog entries within 40 km of this map marker (straight line, not walking/driving distance): Philae temple complex (7.7 km). Access and routes must be checked separately."
+          },
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Elephantine",
+            "https://www.experienceegypt.eg/en/city/9/aswan-abu-simbel",
+            "https://en.wikipedia.org/wiki/Philae_temple_complex"
+          ]
+        }
+      ]
+    }
   },
   "kom-ombo-temple": {
     "see": {
@@ -3980,7 +4353,14 @@
           "https://www.experienceegypt.eg/en/city/9/aswan-abu-simbel"
         ]
       }
-    ]
+    ],
+    "history": {
+      "en": "Kom Ombo's unusual double temple developed in the Ptolemaic period and received Roman additions. Its paired design distinguishes it from the single-axis arrangement visitors may expect at other temples.",
+      "ar": "معبد كوم أمبو المزدوج اتطور في العصر البطلمي، واتضافت له أجزاء في العصر الروماني. تصميمه المزدوج بيميزه عن ترتيب المحور الواحد اللي ممكن تتوقعه في معابد تانية.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Temple_of_Kom_Ombo"
+      ]
+    }
   },
   "hurghada": {
     "see": {
@@ -4121,7 +4501,40 @@
           "https://www.experienceegypt.eg/en/region/13/the-red-sea"
         ]
       }
-    ]
+    ],
+    "history": {
+      "en": "Hurghada grew from a fishing settlement into a major Red Sea resort city. Its modern urban history is tied to the growth of beach and diving tourism, alongside its role as the governorate capital.",
+      "ar": "الغردقة كبرت من تجمع للصيد لمدينة سياحية كبيرة على البحر الأحمر. تاريخها العمراني الحديث مرتبط بنمو سياحة البحر والغوص، جنب دورها كعاصمة المحافظة.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Hurghada"
+      ]
+    },
+    "buy": [
+      {
+        "text": {
+          "ar": "الصفحة الرسمية بتذكر الأسواق التقليدية ضمن معالم الغردقة على البر. ده بيسند فكرة استكشاف مناطق السوق، مش ادعاءات عن فرش بعينه أو سعر أو أصل التذكار.",
+          "en": "The official page identifies traditional markets as part of Hurghada's land-based attractions. This supports browsing market areas, not claims about a particular stall, price or locally made souvenir."
+        },
+        "source_urls": [
+          "https://www.experienceegypt.eg/en/city/23/hurghada"
+        ]
+      }
+    ],
+    "nearby": {
+      "items": [
+        {
+          "text": {
+            "ar": "أماكن تانية في الدليل على بُعد لحد 40 كم من نقطة الخريطة، بالخط المستقيم مش مسافة المشي أو السواقة: الجونة (19.3 كم). السماح بالزيارة والطريق محتاجين مراجعة منفصلة.",
+            "en": "Other catalog entries within 40 km of this map marker (straight line, not walking/driving distance): El Gouna (19.3 km). Access and routes must be checked separately."
+          },
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Hurghada",
+            "https://www.experienceegypt.eg/en/region/13/the-red-sea",
+            "https://en.wikipedia.org/wiki/El_Gouna"
+          ]
+        }
+      ]
+    }
   },
   "el-gouna": {
     "see": {
@@ -4262,7 +4675,29 @@
           "https://www.experienceegypt.eg/en/region/13/the-red-sea"
         ]
       }
-    ]
+    ],
+    "history": {
+      "en": "El Gouna is a planned modern resort development associated with Orascom, rather than an ancient town. Its lagoon-and-island layout and later film festival belong to this recent development history.",
+      "ar": "الجونة تطوير سياحي حديث مخطط ومرتبط بأوراسكوم، مش مدينة أثرية قديمة. تخطيط البحيرات والجزر ومهرجان السينما اللي جه بعد كده جزء من تاريخ التطوير الحديث ده.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/El_Gouna"
+      ]
+    },
+    "nearby": {
+      "items": [
+        {
+          "text": {
+            "ar": "أماكن تانية في الدليل على بُعد لحد 40 كم من نقطة الخريطة، بالخط المستقيم مش مسافة المشي أو السواقة: الغردقة (19.3 كم). السماح بالزيارة والطريق محتاجين مراجعة منفصلة.",
+            "en": "Other catalog entries within 40 km of this map marker (straight line, not walking/driving distance): Hurghada (19.3 km). Access and routes must be checked separately."
+          },
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/El_Gouna",
+            "https://www.experienceegypt.eg/en/region/13/the-red-sea",
+            "https://en.wikipedia.org/wiki/Hurghada"
+          ]
+        }
+      ]
+    }
   },
   "marsa-alam": {
     "see": {
@@ -4544,7 +4979,14 @@
           "https://www.experienceegypt.eg/en/region/13/the-red-sea"
         ]
       }
-    ]
+    ],
+    "history": {
+      "en": "Declared a national park in 2003, Wadi El Gemal also contains older evidence of human activity, including rock art and remains connected with ancient mining. Its story combines desert ecology, coastal life and archaeological traces.",
+      "ar": "وادي الجمال اتعلن محمية سنة 2003، وفيه كمان شواهد أقدم على نشاط البشر، منها فنون صخرية وبقايا مرتبطة بالتعدين القديم. حكايته بتجمع بيئة الصحرا والساحل وآثار النشاط البشري.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Wadi_El_Gemal_National_Park"
+      ]
+    }
   },
   "ras-muhammad-national-park": {
     "see": {
@@ -4685,7 +5127,14 @@
           "https://www.experienceegypt.eg/en/city/16/sharm-al-sheikh"
         ]
       }
-    ]
+    ],
+    "history": {
+      "en": "Ras Muhammad became a protected marine reserve in 1983. Its conservation history concerns the protection of reefs, wildlife and coastal habitats from damaging activities and expanding development. It is a natural-heritage story rather than an archaeological monument.",
+      "ar": "رأس محمد بقت محمية بحرية سنة 1983. تاريخ حمايتها مرتبط بالحفاظ على الشعاب والكائنات والبيئات الساحلية من الأنشطة الضارة والتوسع العمراني. دي حكاية تراث طبيعي، مش أثر معماري.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ras_Muhammad_National_Park"
+      ]
+    }
   },
   "dahab": {
     "see": {
@@ -4826,6 +5275,24 @@
           "https://www.experienceegypt.eg/en/city/16/sharm-al-sheikh"
         ]
       }
+    ],
+    "history": {
+      "en": "Dahab developed from a Bedouin fishing village into a coastal town associated with diving, windsurfing and longer stays. That transition is central to its modern history, while the local Bedouin community remains part of the town's identity.",
+      "ar": "دهب اتطورت من قرية صيد بدوية لمدينة ساحلية مرتبطة بالغوص وركوب الرياح والإقامات الطويلة. التحول ده في قلب تاريخها الحديث، والمجتمع البدوي المحلي لسه جزء من هويتها.",
+      "sources": [
+        "https://www.experienceegypt.eg/en/city/33/dahab"
+      ]
+    },
+    "buy": [
+      {
+        "text": {
+          "ar": "دهب وسانت كاترين مرتبطين بتطريز الستات البدويات في تقارير تراثية حديثة. ده مدخل لحرفة إقليمية، مش تأكيد محل أو ضمان إن كل نسيج معروض معمول يدويًا هنا.",
+          "en": "Dahab and Saint Catherine are associated with Bedouin women's embroidery in recent heritage reporting. This is a regional craft lead, not a verified store or guarantee that every displayed textile is locally handmade."
+        },
+        "source_urls": [
+          "https://english.ahram.org.eg/News/547087.aspx"
+        ]
+      }
     ]
   },
   "saint-catherine-s-monastery": {
@@ -4869,7 +5336,36 @@
           "https://www.experienceegypt.eg/en/city/16/sharm-al-sheikh"
         ]
       }
-    ]
+    ],
+    "history": {
+      "en": "The monastery was built under the Byzantine emperor Justinian in the sixth century. It developed as a center of Christian pilgrimage at a site sacred to several religious traditions. It is part of the Saint Catherine World Heritage area, inscribed in 2002.",
+      "ar": "الدير اتبنى في عهد الإمبراطور البيزنطي جستنيان في القرن السادس. اتطور كمركز للحج المسيحي في مكان ليه قدسية في أكتر من تقليد ديني. وهو جزء من منطقة سانت كاترين المسجلة تراث عالمي سنة 2002.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Saint_Catherine%27s_Monastery"
+      ]
+    },
+    "nearby": {
+      "items": [
+        {
+          "text": {
+            "ar": "أماكن تانية في الدليل على بُعد لحد 40 كم من نقطة الخريطة، بالخط المستقيم مش مسافة المشي أو السواقة: جبل موسى (1.8 كم). السماح بالزيارة والطريق محتاجين مراجعة منفصلة.",
+            "en": "Other catalog entries within 40 km of this map marker (straight line, not walking/driving distance): Mount Sinai (1.8 km). Access and routes must be checked separately."
+          },
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Saint_Catherine%27s_Monastery",
+            "https://www.experienceegypt.eg/en/city/16/sharm-al-sheikh",
+            "https://en.wikipedia.org/wiki/Mount_Sinai"
+          ]
+        }
+      ]
+    },
+    "weather": {
+      "en": "Spring and autumn are practical coastal defaults. Sharm airport normals must not be used for Saint Catherine's high mountains, where winter can be much colder.",
+      "ar": "الربيع والخريف اختيار مريح للساحل. بيانات مطار شرم مينفعش تتطبق على جبال سانت كاترين؛ برد الشتا هناك مختلف تمامًا.",
+      "sources": [
+        "https://www.nodc.noaa.gov/archive/arc0216/0253808/2.2/data/0-data/Region-1-WMO-Normals-9120/Egypt/CSV/SharmElSheikhAP_62460.csv"
+      ]
+    }
   },
   "mount-sinai": {
     "see": {
@@ -4912,7 +5408,36 @@
           "https://www.experienceegypt.eg/en/city/16/sharm-al-sheikh"
         ]
       }
-    ]
+    ],
+    "history": {
+      "en": "Jabal Musa is traditionally identified with the mountain where Moses received the commandments. This is a religious identification shared in local pilgrimage traditions, not an archaeological proof of a single agreed biblical location.",
+      "ar": "جبل موسى مرتبط تقليديًا بالجبل اللي تلقى عنده موسى الوصايا. ده تعريف ديني حاضر في تقاليد الحج للمكان، مش إثبات أثري لموقع كتابي واحد متفق عليه.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mount_Sinai"
+      ]
+    },
+    "nearby": {
+      "items": [
+        {
+          "text": {
+            "ar": "أماكن تانية في الدليل على بُعد لحد 40 كم من نقطة الخريطة، بالخط المستقيم مش مسافة المشي أو السواقة: دير سانت كاترين (1.8 كم). السماح بالزيارة والطريق محتاجين مراجعة منفصلة.",
+            "en": "Other catalog entries within 40 km of this map marker (straight line, not walking/driving distance): Saint Catherine's Monastery (1.8 km). Access and routes must be checked separately."
+          },
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Mount_Sinai",
+            "https://www.experienceegypt.eg/en/city/16/sharm-al-sheikh",
+            "https://en.wikipedia.org/wiki/Saint_Catherine%27s_Monastery"
+          ]
+        }
+      ]
+    },
+    "weather": {
+      "en": "Spring and autumn are practical coastal defaults. Sharm airport normals must not be used for Saint Catherine's high mountains, where winter can be much colder.",
+      "ar": "الربيع والخريف اختيار مريح للساحل. بيانات مطار شرم مينفعش تتطبق على جبال سانت كاترين؛ برد الشتا هناك مختلف تمامًا.",
+      "sources": [
+        "https://www.nodc.noaa.gov/archive/arc0216/0253808/2.2/data/0-data/Region-1-WMO-Normals-9120/Egypt/CSV/SharmElSheikhAP_62460.csv"
+      ]
+    }
   },
   "grand-egyptian-museum": {
     "wear": [
@@ -12060,5 +12585,2838 @@
         ]
       }
     ]
+  },
+  "banha": {
+    "see": {
+      "en": "Qalyubia's capital on the Damietta branch of the Nile.",
+      "ar": "عاصمة القليوبية على فرع دمياط من النيل.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Banha",
+        "https://sis.gov.eg/en/egypt/system-of-government/executive-authority/qalyubia/"
+      ]
+    },
+    "wear": [
+      {
+        "text": {
+          "ar": "للخروج خد معاك حماية من الشمس وجزمة مريحة، واحترم تعليمات اللبس في أماكن العبادة.",
+          "en": "For outdoor visits, bring sun protection and comfortable shoes. Respect religious-site clothing requirements."
+        },
+        "source_urls": [
+          "https://www.experienceegypt.eg/en/usefulinfo"
+        ]
+      }
+    ],
+    "nearby": {
+      "items": [
+        {
+          "text": {
+            "ar": "أماكن تانية في الدليل على بُعد لحد 40 كم من نقطة الخريطة، بالخط المستقيم مش مسافة المشي أو السواقة: أتريب (0.2 كم)؛ القناطر الخيرية (30.7 كم)؛ شبرا الخيمة (37.9 كم). السماح بالزيارة والطريق محتاجين مراجعة منفصلة.",
+            "en": "Other catalog entries within 40 km of this map marker (straight line, not walking/driving distance): Athribis (0.2 km); El Qanater El Khayreya (30.7 km); Shubra El Kheima (37.9 km). Access and routes must be checked separately."
+          },
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Banha",
+            "https://sis.gov.eg/en/egypt/system-of-government/executive-authority/qalyubia/",
+            "https://en.wikipedia.org/wiki/Athribis",
+            "https://en.wikipedia.org/wiki/El_Qanater_El_Khayreya",
+            "https://en.wikipedia.org/wiki/Shubra_El_Kheima"
+          ]
+        }
+      ]
+    },
+    "weather": {
+      "en": "Editorial choice for outdoor sightseeing in the cooler part of the year, based on the cited city table. Not a forecast.",
+      "ar": "اختيار تحريري للفسح الخارجية في الجزء الأبرد من السنة، بناءً على جدول المدينة. دي مش نشرة جو.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Banha"
+      ]
+    },
+    "reviewedAt": "2026-11-15"
+  },
+  "el-qanater-el-khayreya": {
+    "history": {
+      "en": "The town developed around the Delta Barrages, an important nineteenth-century irrigation project at the head of the Nile Delta. A later barrage was added downstream in 1939. The historic structures belong to the story of managing the Nile, as well as the town's leisure landscape.",
+      "ar": "المدينة اتطورت حوالين قناطر الدلتا، مشروع ري مهم من القرن التسعتاشر عند رأس الدلتا. واتعملت قناطر أحدث باتجاه المصب سنة 1939. المنشآت التاريخية جزء من حكاية تنظيم مياه النيل، وكمان من منظر المدينة اللي الناس بتتنزه فيه.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/El_Qanater_El_Khayreya"
+      ]
+    },
+    "see": {
+      "en": "A Nile-side town associated with the historic Delta barrages.",
+      "ar": "مدينة على النيل مرتبطة بالقناطر التاريخية عند بداية فرعيه.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/El_Qanater_El_Khayreya",
+        "https://sis.gov.eg/en/egypt/system-of-government/executive-authority/qalyubia/"
+      ]
+    },
+    "wear": [
+      {
+        "text": {
+          "ar": "للخروج خد معاك حماية من الشمس وجزمة مريحة، واحترم تعليمات اللبس في أماكن العبادة.",
+          "en": "For outdoor visits, bring sun protection and comfortable shoes. Respect religious-site clothing requirements."
+        },
+        "source_urls": [
+          "https://www.experienceegypt.eg/en/usefulinfo"
+        ]
+      }
+    ],
+    "nearby": {
+      "items": [
+        {
+          "text": {
+            "ar": "أماكن تانية في الدليل على بُعد لحد 40 كم من نقطة الخريطة، بالخط المستقيم مش مسافة المشي أو السواقة: شبرا الخيمة (12.8 كم)؛ بنها (30.7 كم)؛ أتريب (30.8 كم). السماح بالزيارة والطريق محتاجين مراجعة منفصلة.",
+            "en": "Other catalog entries within 40 km of this map marker (straight line, not walking/driving distance): Shubra El Kheima (12.8 km); Banha (30.7 km); Athribis (30.8 km). Access and routes must be checked separately."
+          },
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/El_Qanater_El_Khayreya",
+            "https://sis.gov.eg/en/egypt/system-of-government/executive-authority/qalyubia/",
+            "https://en.wikipedia.org/wiki/Shubra_El_Kheima",
+            "https://en.wikipedia.org/wiki/Banha",
+            "https://en.wikipedia.org/wiki/Athribis"
+          ]
+        }
+      ]
+    },
+    "weather": {
+      "en": "Editorial choice for outdoor sightseeing in the cooler part of the year, based on the cited city table. Not a forecast.",
+      "ar": "اختيار تحريري للفسح الخارجية في الجزء الأبرد من السنة، بناءً على جدول المدينة. دي مش نشرة جو.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Banha"
+      ]
+    },
+    "reviewedAt": "2026-11-15"
+  },
+  "damietta": {
+    "history": {
+      "en": "Damietta's position at a Nile mouth made it a strategic Mediterranean port. It was a major target during the Fifth and Seventh Crusades, with occupation and later rebuilding marking its medieval history. The present city is not an unchanged remnant of a single period.",
+      "ar": "موقع دمياط عند مصب النيل خلاها مينا استراتيجية على المتوسط. كانت هدف مهم في الحملتين الصليبيتين الخامسة والسابعة، والاحتلال وإعادة البناء من علامات تاريخها في العصور الوسطى. المدينة الحالية مش بقايا ثابتة من عصر واحد.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Damietta"
+      ]
+    },
+    "see": {
+      "en": "A historic Nile-Delta port city known for furniture-making and food production.",
+      "ar": "مدينة ومينا تاريخية في الدلتا، معروفة بالأثاث وصناعات الأكل.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Damietta",
+        "https://sis.gov.eg/Story/26537"
+      ]
+    },
+    "wear": [
+      {
+        "text": {
+          "ar": "للخروج خد معاك حماية من الشمس وجزمة مريحة، واحترم تعليمات اللبس في أماكن العبادة.",
+          "en": "For outdoor visits, bring sun protection and comfortable shoes. Respect religious-site clothing requirements."
+        },
+        "source_urls": [
+          "https://www.experienceegypt.eg/en/usefulinfo"
+        ]
+      }
+    ],
+    "nearby": {
+      "items": [
+        {
+          "text": {
+            "ar": "أماكن تانية في الدليل على بُعد لحد 40 كم من نقطة الخريطة، بالخط المستقيم مش مسافة المشي أو السواقة: جامع عمرو بن العاص بدمياط (0.8 كم)؛ عزبة البرج (9.8 كم)؛ رأس البر (10.7 كم). السماح بالزيارة والطريق محتاجين مراجعة منفصلة.",
+            "en": "Other catalog entries within 40 km of this map marker (straight line, not walking/driving distance): Amr ibn al-As Mosque (Damietta) (0.8 km); Ezbet El Borg (9.8 km); Ras el-Barr (10.7 km). Access and routes must be checked separately."
+          },
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Damietta",
+            "https://sis.gov.eg/Story/26537",
+            "https://en.wikipedia.org/wiki/Amr_ibn_al-As_Mosque_(Damietta)",
+            "https://en.wikipedia.org/wiki/Ezbet_El_Borg",
+            "https://en.wikipedia.org/wiki/Ras_el-Barr"
+          ]
+        }
+      ]
+    },
+    "weather": {
+      "en": "Spring and early autumn suit mixed city and outdoor visits; beach-focused trips have different summer preferences. City data do not represent every coastal or inland site.",
+      "ar": "الربيع وأول الخريف مناسبين لفسح المدينة والخروج. لو البحر هو الهدف فاختيار موسم الصيف مختلف، وبيانات المدينة مش وصف لكل الساحل والريف.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Damietta"
+      ]
+    },
+    "reviewedAt": "2026-11-15"
+  },
+  "ras-el-barr": {
+    "see": {
+      "en": "A Mediterranean summer resort beside the mouth of the Damietta Nile branch.",
+      "ar": "مصيف على المتوسط جنب مصب فرع دمياط.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ras_el-Barr",
+        "https://sis.gov.eg/Story/26537"
+      ]
+    },
+    "eat": [
+      {
+        "text": {
+          "ar": "تقرير أكل إقليمي من سنة 2017 بيذكر محلات تنظيف وطهي السمك في منطقة السوق العمومي برأس البر. اعتبره مدخل تاريخي لمنطقة سوق بس؛ المحلات والمخزون والنظافة والمواعيد محتاجين مراجعة حالية.",
+          "en": "A 2017 regional-food feature identifies fish cleaning and cooking shops in Ras el-Barr's public-market area. Use this as a broad historical market lead only; businesses, stock, hygiene and opening hours need current checks."
+        },
+        "source_urls": [
+          "https://www.almasryalyoum.com/news/details/1155917"
+        ]
+      }
+    ],
+    "wear": [
+      {
+        "text": {
+          "ar": "للخروج خد معاك حماية من الشمس وجزمة مريحة، واحترم تعليمات اللبس في أماكن العبادة.",
+          "en": "For outdoor visits, bring sun protection and comfortable shoes. Respect religious-site clothing requirements."
+        },
+        "source_urls": [
+          "https://www.experienceegypt.eg/en/usefulinfo"
+        ]
+      }
+    ],
+    "nearby": {
+      "items": [
+        {
+          "text": {
+            "ar": "أماكن تانية في الدليل على بُعد لحد 40 كم من نقطة الخريطة، بالخط المستقيم مش مسافة المشي أو السواقة: عزبة البرج (1.8 كم)؛ جامع عمرو بن العاص بدمياط (10.0 كم)؛ مدينة دمياط (10.7 كم). السماح بالزيارة والطريق محتاجين مراجعة منفصلة.",
+            "en": "Other catalog entries within 40 km of this map marker (straight line, not walking/driving distance): Ezbet El Borg (1.8 km); Amr ibn al-As Mosque (Damietta) (10.0 km); Damietta (10.7 km). Access and routes must be checked separately."
+          },
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Ras_el-Barr",
+            "https://sis.gov.eg/Story/26537",
+            "https://en.wikipedia.org/wiki/Ezbet_El_Borg",
+            "https://en.wikipedia.org/wiki/Amr_ibn_al-As_Mosque_(Damietta)",
+            "https://en.wikipedia.org/wiki/Damietta"
+          ]
+        }
+      ]
+    },
+    "weather": {
+      "en": "Spring and early autumn suit mixed city and outdoor visits; beach-focused trips have different summer preferences. City data do not represent every coastal or inland site.",
+      "ar": "الربيع وأول الخريف مناسبين لفسح المدينة والخروج. لو البحر هو الهدف فاختيار موسم الصيف مختلف، وبيانات المدينة مش وصف لكل الساحل والريف.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Damietta"
+      ]
+    },
+    "reviewedAt": "2026-11-15"
+  },
+  "amr-ibn-al-as-mosque-damietta": {
+    "history": {
+      "en": "Also known as Abu al-Ma'ati Mosque, this Damietta mosque carries a history of religious reuse: it was temporarily converted to a church during Crusader occupation. Claims that it was Egypt's second mosque are attributed to local tradition rather than stated here as settled fact.",
+      "ar": "الجامع في دمياط معروف كمان باسم أبو المعاطي، ومن تاريخه إنه اتحول مؤقتًا لكنيسة وقت الاحتلال الصليبي. وصفه بأنه تاني جامع في مصر مرتبط برواية محلية، ومش بنقدمه هنا كحقيقة محسومة.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Amr_ibn_al-As_Mosque_(Damietta)"
+      ]
+    },
+    "see": {
+      "en": "A historic Damietta mosque, also known as Abu'l-Ma'ati Mosque.",
+      "ar": "جامع تاريخي في دمياط، معروف كمان باسم جامع أبو المعاطي.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Amr_ibn_al-As_Mosque_(Damietta)",
+        "https://sis.gov.eg/Story/26537"
+      ]
+    },
+    "wear": [
+      {
+        "text": {
+          "ar": "للخروج خد معاك حماية من الشمس وجزمة مريحة، واحترم تعليمات اللبس في أماكن العبادة.",
+          "en": "For outdoor visits, bring sun protection and comfortable shoes. Respect religious-site clothing requirements."
+        },
+        "source_urls": [
+          "https://www.experienceegypt.eg/en/usefulinfo"
+        ]
+      }
+    ],
+    "nearby": {
+      "items": [
+        {
+          "text": {
+            "ar": "أماكن تانية في الدليل على بُعد لحد 40 كم من نقطة الخريطة، بالخط المستقيم مش مسافة المشي أو السواقة: مدينة دمياط (0.8 كم)؛ عزبة البرج (9.2 كم)؛ رأس البر (10.0 كم). السماح بالزيارة والطريق محتاجين مراجعة منفصلة.",
+            "en": "Other catalog entries within 40 km of this map marker (straight line, not walking/driving distance): Damietta (0.8 km); Ezbet El Borg (9.2 km); Ras el-Barr (10.0 km). Access and routes must be checked separately."
+          },
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Amr_ibn_al-As_Mosque_(Damietta)",
+            "https://sis.gov.eg/Story/26537",
+            "https://en.wikipedia.org/wiki/Damietta",
+            "https://en.wikipedia.org/wiki/Ezbet_El_Borg",
+            "https://en.wikipedia.org/wiki/Ras_el-Barr"
+          ]
+        }
+      ]
+    },
+    "weather": {
+      "en": "Spring and early autumn suit mixed city and outdoor visits; beach-focused trips have different summer preferences. City data do not represent every coastal or inland site.",
+      "ar": "الربيع وأول الخريف مناسبين لفسح المدينة والخروج. لو البحر هو الهدف فاختيار موسم الصيف مختلف، وبيانات المدينة مش وصف لكل الساحل والريف.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Damietta"
+      ]
+    },
+    "reviewedAt": "2026-11-15"
+  },
+  "mansoura-egypt": {
+    "history": {
+      "en": "Mansoura was established in the Ayyubid period in 1219. It is closely associated with the Seventh Crusade and the captivity of Louis IX in 1250, remembered through Dar Ibn Luqman. Its medieval history is a different layer from the modern riverside city.",
+      "ar": "المنصورة اتأسست في العصر الأيوبي سنة 1219. وهي مرتبطة بالحملة الصليبية السابعة وأسر لويس التاسع سنة 1250، اللي بتفتكره دار ابن لقمان. التاريخ الوسيط ده طبقة مختلفة عن المدينة الحديثة على النيل.",
+      "sources": [
+        "http://www.mans.edu.eg/en/about/history-and-facts/history/101-info/768-about-mansoura-city"
+      ]
+    },
+    "see": {
+      "en": "Dakahlia's capital beside the Damietta branch of the Nile.",
+      "ar": "عاصمة الدقهلية على فرع دمياط من النيل.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mansoura,_Egypt",
+        "https://www.sis.gov.eg/Story/68563/Dakahlia-Governorate"
+      ]
+    },
+    "wear": [
+      {
+        "text": {
+          "ar": "للخروج خد معاك حماية من الشمس وجزمة مريحة، واحترم تعليمات اللبس في أماكن العبادة.",
+          "en": "For outdoor visits, bring sun protection and comfortable shoes. Respect religious-site clothing requirements."
+        },
+        "source_urls": [
+          "https://www.experienceegypt.eg/en/usefulinfo"
+        ]
+      }
+    ],
+    "nearby": {
+      "items": [
+        {
+          "text": {
+            "ar": "أماكن تانية في الدليل على بُعد لحد 40 كم من نقطة الخريطة، بالخط المستقيم مش مسافة المشي أو السواقة: طلخا (0.9 كم). السماح بالزيارة والطريق محتاجين مراجعة منفصلة.",
+            "en": "Other catalog entries within 40 km of this map marker (straight line, not walking/driving distance): Talkha (0.9 km). Access and routes must be checked separately."
+          },
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Mansoura,_Egypt",
+            "https://www.sis.gov.eg/Story/68563/Dakahlia-Governorate",
+            "https://en.wikipedia.org/wiki/Talkha"
+          ]
+        }
+      ]
+    },
+    "weather": {
+      "en": "Spring and early autumn suit mixed city and outdoor visits; beach-focused trips have different summer preferences. City data do not represent every coastal or inland site.",
+      "ar": "الربيع وأول الخريف مناسبين لفسح المدينة والخروج. لو البحر هو الهدف فاختيار موسم الصيف مختلف، وبيانات المدينة مش وصف لكل الساحل والريف.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mansoura,_Egypt"
+      ]
+    },
+    "reviewedAt": "2026-11-15"
+  },
+  "zagazig": {
+    "history": {
+      "en": "Modern Zagazig developed in the nineteenth century on the site of an earlier village. It stands near ancient Bubastis, but the modern governorate capital and the older archaeological city are not the same historical foundation.",
+      "ar": "الزقازيق الحديثة اتطورت في القرن التسعتاشر في موقع قرية أقدم. هي قريبة من تل بسطة، لكن عاصمة المحافظة الحديثة والمدينة الأثرية الأقدم مش تأسيس تاريخي واحد.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Zagazig"
+      ]
+    },
+    "see": {
+      "en": "The capital of Sharqia and a base for reaching nearby Bubastis.",
+      "ar": "عاصمة الشرقية، ومنها تقدر ترتب زيارة تل بسطة القريب.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Zagazig",
+        "https://www.sis.gov.eg/Story/68564?lang=en-us"
+      ]
+    },
+    "wear": [
+      {
+        "text": {
+          "ar": "للخروج خد معاك حماية من الشمس وجزمة مريحة، واحترم تعليمات اللبس في أماكن العبادة.",
+          "en": "For outdoor visits, bring sun protection and comfortable shoes. Respect religious-site clothing requirements."
+        },
+        "source_urls": [
+          "https://www.experienceegypt.eg/en/usefulinfo"
+        ]
+      }
+    ],
+    "nearby": {
+      "items": [
+        {
+          "text": {
+            "ar": "أماكن تانية في الدليل على بُعد لحد 40 كم من نقطة الخريطة، بالخط المستقيم مش مسافة المشي أو السواقة: تل بسطة (1.2 كم)؛ بلبيس (17.9 كم). السماح بالزيارة والطريق محتاجين مراجعة منفصلة.",
+            "en": "Other catalog entries within 40 km of this map marker (straight line, not walking/driving distance): Bubastis (1.2 km); Bilbeis (17.9 km). Access and routes must be checked separately."
+          },
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Zagazig",
+            "https://www.sis.gov.eg/Story/68564?lang=en-us",
+            "https://en.wikipedia.org/wiki/Bubastis",
+            "https://en.wikipedia.org/wiki/Bilbeis"
+          ]
+        }
+      ]
+    },
+    "weather": {
+      "en": "Editorial choice for outdoor sightseeing in the cooler part of the year, based on the cited city table. Not a forecast.",
+      "ar": "اختيار تحريري للفسح الخارجية في الجزء الأبرد من السنة، بناءً على جدول المدينة. دي مش نشرة جو.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Zagazig"
+      ]
+    },
+    "reviewedAt": "2026-11-15"
+  },
+  "bubastis": {
+    "history": {
+      "en": "Tell Basta preserves the remains of Bubastis, a major center of worship for the goddess Bastet. The ancient city lies within the modern Zagazig area.",
+      "ar": "تل بسطة فيه بقايا مدينة بوباستيس، اللي كانت مركز مهم لعبادة الإلهة باستت. المدينة القديمة موجودة ضمن منطقة الزقازيق الحالية.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bubastis"
+      ]
+    },
+    "see": {
+      "en": "The ancient city associated with the cult of the goddess Bastet.",
+      "ar": "المدينة القديمة اللي ارتبطت بعبادة باستت.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bubastis",
+        "https://www.sis.gov.eg/Story/68564?lang=en-us"
+      ]
+    },
+    "wear": [
+      {
+        "text": {
+          "ar": "للخروج خد معاك حماية من الشمس وجزمة مريحة، واحترم تعليمات اللبس في أماكن العبادة.",
+          "en": "For outdoor visits, bring sun protection and comfortable shoes. Respect religious-site clothing requirements."
+        },
+        "source_urls": [
+          "https://www.experienceegypt.eg/en/usefulinfo"
+        ]
+      }
+    ],
+    "nearby": {
+      "items": [
+        {
+          "text": {
+            "ar": "أماكن تانية في الدليل على بُعد لحد 40 كم من نقطة الخريطة، بالخط المستقيم مش مسافة المشي أو السواقة: الزقازيق (1.2 كم)؛ بلبيس (18.2 كم). السماح بالزيارة والطريق محتاجين مراجعة منفصلة.",
+            "en": "Other catalog entries within 40 km of this map marker (straight line, not walking/driving distance): Zagazig (1.2 km); Bilbeis (18.2 km). Access and routes must be checked separately."
+          },
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Bubastis",
+            "https://www.sis.gov.eg/Story/68564?lang=en-us",
+            "https://en.wikipedia.org/wiki/Zagazig",
+            "https://en.wikipedia.org/wiki/Bilbeis"
+          ]
+        }
+      ]
+    },
+    "weather": {
+      "en": "Editorial choice for outdoor sightseeing in the cooler part of the year, based on the cited city table. Not a forecast.",
+      "ar": "اختيار تحريري للفسح الخارجية في الجزء الأبرد من السنة، بناءً على جدول المدينة. دي مش نشرة جو.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Zagazig"
+      ]
+    },
+    "reviewedAt": "2026-11-15"
+  },
+  "tanis": {
+    "history": {
+      "en": "Tanis, now San al-Hagar, was a royal capital during the Twenty-first and Twenty-second Dynasties. Its location was once connected with a Nile branch that has since silted up.",
+      "ar": "تانيس، اللي هي صان الحجر، كانت عاصمة ملكية في الأسرتين الحادية والعشرين والتانية والعشرين. موقعها كان مرتبط بفرع قديم للنيل اتردم بالطمي مع الوقت.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tanis"
+      ]
+    },
+    "see": {
+      "en": "A major ancient Delta city with temple remains and royal burials.",
+      "ar": "مدينة قديمة مهمة في الدلتا، فيها بقايا معابد ومقابر ملكية.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tanis",
+        "https://www.sis.gov.eg/Story/68564?lang=en-us"
+      ]
+    },
+    "wear": [
+      {
+        "text": {
+          "ar": "للخروج خد معاك حماية من الشمس وجزمة مريحة، واحترم تعليمات اللبس في أماكن العبادة.",
+          "en": "For outdoor visits, bring sun protection and comfortable shoes. Respect religious-site clothing requirements."
+        },
+        "source_urls": [
+          "https://www.experienceegypt.eg/en/usefulinfo"
+        ]
+      }
+    ],
+    "weather": {
+      "en": "Editorial choice for outdoor sightseeing in the cooler part of the year, based on the cited city table. Not a forecast.",
+      "ar": "اختيار تحريري للفسح الخارجية في الجزء الأبرد من السنة، بناءً على جدول المدينة. دي مش نشرة جو.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Zagazig"
+      ]
+    },
+    "reviewedAt": "2026-11-15"
+  },
+  "bilbeis": {
+    "see": {
+      "en": "A historic town in the southern part of Sharqia.",
+      "ar": "مدينة تاريخية في جنوب محافظة الشرقية.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bilbeis",
+        "https://www.sis.gov.eg/Story/68564?lang=en-us"
+      ]
+    },
+    "wear": [
+      {
+        "text": {
+          "ar": "للخروج خد معاك حماية من الشمس وجزمة مريحة، واحترم تعليمات اللبس في أماكن العبادة.",
+          "en": "For outdoor visits, bring sun protection and comfortable shoes. Respect religious-site clothing requirements."
+        },
+        "source_urls": [
+          "https://www.experienceegypt.eg/en/usefulinfo"
+        ]
+      }
+    ],
+    "nearby": {
+      "items": [
+        {
+          "text": {
+            "ar": "أماكن تانية في الدليل على بُعد لحد 40 كم من نقطة الخريطة، بالخط المستقيم مش مسافة المشي أو السواقة: الزقازيق (17.9 كم)؛ تل بسطة (18.2 كم). السماح بالزيارة والطريق محتاجين مراجعة منفصلة.",
+            "en": "Other catalog entries within 40 km of this map marker (straight line, not walking/driving distance): Zagazig (17.9 km); Bubastis (18.2 km). Access and routes must be checked separately."
+          },
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Bilbeis",
+            "https://www.sis.gov.eg/Story/68564?lang=en-us",
+            "https://en.wikipedia.org/wiki/Zagazig",
+            "https://en.wikipedia.org/wiki/Bubastis"
+          ]
+        }
+      ]
+    },
+    "weather": {
+      "en": "Editorial choice for outdoor sightseeing in the cooler part of the year, based on the cited city table. Not a forecast.",
+      "ar": "اختيار تحريري للفسح الخارجية في الجزء الأبرد من السنة، بناءً على جدول المدينة. دي مش نشرة جو.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Zagazig"
+      ]
+    },
+    "reviewedAt": "2026-11-15",
+    "history": {
+      "en": "Bilbeis stood on routes approaching the Delta from the east. It was a bishopric in late antiquity and became involved in the military contests over Egypt during the twelfth century. These layers explain its role as more than a modern commuter town.",
+      "ar": "بلبيس كانت على طرق الدخول للدلتا من الشرق. كانت مقر أسقفية في أواخر العصور القديمة، ودخلت في الصراعات العسكرية على مصر في القرن الاتناشر. الطبقات دي بتوضح دورها الأقدم من كونها مدينة حديثة قريبة من القاهرة.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bilbeis"
+      ]
+    }
+  },
+  "tanta": {
+    "see": {
+      "en": "Gharbia's capital, associated with commerce, sweets and the Ahmad al-Badawi Mosque.",
+      "ar": "عاصمة الغربية، ومرتبطة بالتجارة والحلويات والجامع الأحمدي.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tanta",
+        "https://sis.gov.eg/Story/181712/Gharbia-Governorate?lang=en-us"
+      ]
+    },
+    "wear": [
+      {
+        "text": {
+          "ar": "للخروج خد معاك حماية من الشمس وجزمة مريحة، واحترم تعليمات اللبس في أماكن العبادة.",
+          "en": "For outdoor visits, bring sun protection and comfortable shoes. Respect religious-site clothing requirements."
+        },
+        "source_urls": [
+          "https://www.experienceegypt.eg/en/usefulinfo"
+        ]
+      }
+    ],
+    "nearby": {
+      "items": [
+        {
+          "text": {
+            "ar": "أماكن تانية في الدليل على بُعد لحد 40 كم من نقطة الخريطة، بالخط المستقيم مش مسافة المشي أو السواقة: الجامع الأحمدي (0.1 كم)؛ المحلة الكبرى (25.9 كم)؛ سمنود (31.4 كم). السماح بالزيارة والطريق محتاجين مراجعة منفصلة.",
+            "en": "Other catalog entries within 40 km of this map marker (straight line, not walking/driving distance): Ahmad al-Badawi Mosque (0.1 km); El Mahalla El Kubra (25.9 km); Samannud (31.4 km). Access and routes must be checked separately."
+          },
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Tanta",
+            "https://sis.gov.eg/Story/181712/Gharbia-Governorate?lang=en-us",
+            "https://en.wikipedia.org/wiki/Ahmad_al-Badawi_Mosque",
+            "https://en.wikipedia.org/wiki/El_Mahalla_El_Kubra",
+            "https://en.wikipedia.org/wiki/Samannud"
+          ]
+        }
+      ]
+    },
+    "weather": {
+      "en": "Editorial choice for outdoor sightseeing in the cooler part of the year, based on the cited city table. Not a forecast.",
+      "ar": "اختيار تحريري للفسح الخارجية في الجزء الأبرد من السنة، بناءً على جدول المدينة. دي مش نشرة جو.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tanta"
+      ]
+    },
+    "reviewedAt": "2026-11-15",
+    "history": {
+      "en": "Tanta's prominence grew around Ahmad al-Badawi and the annual gathering associated with him from the medieval period onward. Religious patronage and trade helped shape the city before later nineteenth- and twentieth-century urban expansion.",
+      "ar": "مكانة طنطا كبرت حوالين السيد أحمد البدوي والتجمع السنوي المرتبط به من العصور الوسطى وما بعدها. الرعاية الدينية والتجارة ساعدوا في تشكيل المدينة قبل توسعها العمراني في القرنين التسعتاشر والعشرين.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tanta"
+      ]
+    }
+  },
+  "el-mahalla-el-kubra": {
+    "history": {
+      "en": "Textile manufacturing is central to modern Mahalla's identity, particularly the presence of the Misr Spinning and Weaving Company. The city is a place of industrial history, not simply a generic Delta stop.",
+      "ar": "صناعة النسيج في قلب هوية المحلة الحديثة، خصوصًا مع وجود شركة مصر للغزل والنسيج. المدينة ليها تاريخ صناعي واضح، مش مجرد محطة شبه غيرها في الدلتا.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/El_Mahalla_El_Kubra"
+      ]
+    },
+    "see": {
+      "en": "A major Delta city closely associated with Egypt's textile industry.",
+      "ar": "مدينة كبيرة في الدلتا، مرتبطة بصناعة النسيج في مصر.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/El_Mahalla_El_Kubra",
+        "https://sis.gov.eg/Story/181712/Gharbia-Governorate?lang=en-us"
+      ]
+    },
+    "wear": [
+      {
+        "text": {
+          "ar": "للخروج خد معاك حماية من الشمس وجزمة مريحة، واحترم تعليمات اللبس في أماكن العبادة.",
+          "en": "For outdoor visits, bring sun protection and comfortable shoes. Respect religious-site clothing requirements."
+        },
+        "source_urls": [
+          "https://www.experienceegypt.eg/en/usefulinfo"
+        ]
+      }
+    ],
+    "nearby": {
+      "items": [
+        {
+          "text": {
+            "ar": "أماكن تانية في الدليل على بُعد لحد 40 كم من نقطة الخريطة، بالخط المستقيم مش مسافة المشي أو السواقة: سمنود (8.2 كم)؛ طنطا (25.9 كم)؛ الجامع الأحمدي (25.9 كم). السماح بالزيارة والطريق محتاجين مراجعة منفصلة.",
+            "en": "Other catalog entries within 40 km of this map marker (straight line, not walking/driving distance): Samannud (8.2 km); Tanta (25.9 km); Ahmad al-Badawi Mosque (25.9 km). Access and routes must be checked separately."
+          },
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/El_Mahalla_El_Kubra",
+            "https://sis.gov.eg/Story/181712/Gharbia-Governorate?lang=en-us",
+            "https://en.wikipedia.org/wiki/Samannud",
+            "https://en.wikipedia.org/wiki/Tanta",
+            "https://en.wikipedia.org/wiki/Ahmad_al-Badawi_Mosque"
+          ]
+        }
+      ]
+    },
+    "weather": {
+      "en": "Editorial choice for outdoor sightseeing in the cooler part of the year, based on the cited city table. Not a forecast.",
+      "ar": "اختيار تحريري للفسح الخارجية في الجزء الأبرد من السنة، بناءً على جدول المدينة. دي مش نشرة جو.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tanta"
+      ]
+    },
+    "reviewedAt": "2026-11-15"
+  },
+  "ahmad-al-badawi-mosque": {
+    "see": {
+      "en": "Tanta's major mosque and shrine associated with the Sufi figure Ahmad al-Badawi.",
+      "ar": "جامع وضريح مهم في طنطا مرتبط بالسيد أحمد البدوي.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ahmad_al-Badawi_Mosque",
+        "https://sis.gov.eg/Story/181712/Gharbia-Governorate?lang=en-us"
+      ]
+    },
+    "wear": [
+      {
+        "text": {
+          "ar": "للخروج خد معاك حماية من الشمس وجزمة مريحة، واحترم تعليمات اللبس في أماكن العبادة.",
+          "en": "For outdoor visits, bring sun protection and comfortable shoes. Respect religious-site clothing requirements."
+        },
+        "source_urls": [
+          "https://www.experienceegypt.eg/en/usefulinfo"
+        ]
+      }
+    ],
+    "nearby": {
+      "items": [
+        {
+          "text": {
+            "ar": "أماكن تانية في الدليل على بُعد لحد 40 كم من نقطة الخريطة، بالخط المستقيم مش مسافة المشي أو السواقة: طنطا (0.1 كم)؛ المحلة الكبرى (25.9 كم)؛ سمنود (31.4 كم). السماح بالزيارة والطريق محتاجين مراجعة منفصلة.",
+            "en": "Other catalog entries within 40 km of this map marker (straight line, not walking/driving distance): Tanta (0.1 km); El Mahalla El Kubra (25.9 km); Samannud (31.4 km). Access and routes must be checked separately."
+          },
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Ahmad_al-Badawi_Mosque",
+            "https://sis.gov.eg/Story/181712/Gharbia-Governorate?lang=en-us",
+            "https://en.wikipedia.org/wiki/Tanta",
+            "https://en.wikipedia.org/wiki/El_Mahalla_El_Kubra",
+            "https://en.wikipedia.org/wiki/Samannud"
+          ]
+        }
+      ]
+    },
+    "weather": {
+      "en": "Editorial choice for outdoor sightseeing in the cooler part of the year, based on the cited city table. Not a forecast.",
+      "ar": "اختيار تحريري للفسح الخارجية في الجزء الأبرد من السنة، بناءً على جدول المدينة. دي مش نشرة جو.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tanta"
+      ]
+    },
+    "reviewedAt": "2026-11-15",
+    "history": {
+      "en": "The shrine grew after Ahmad al-Badawi's death in the thirteenth century. Mamluk and later rulers expanded and altered the complex, followed by further additions in the twentieth century. The present mosque is the result of several building phases.",
+      "ar": "الضريح اتطور بعد وفاة السيد أحمد البدوي في القرن التلتاشر. حكام مماليك واللي جم بعدهم وسعوا المجمع وعدّلوا فيه، وبعدهم إضافات في القرن العشرين. الجامع الحالي نتيجة مراحل بناء متعددة.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ahmad_al-Badawi_Mosque"
+      ]
+    }
+  },
+  "samannud": {
+    "history": {
+      "en": "Known in classical antiquity as Sebennytos, Samannud is a Delta city with roots in ancient Egypt. Its modern streets occupy a place with a much longer settlement history than the present buildings alone suggest.",
+      "ar": "سمنود اتعرفت في العصور الكلاسيكية باسم سبنيتوس، وهي مدينة دلتاوية جذورها راجعة لمصر القديمة. شوارعها الحديثة موجودة في مكان تاريخه السكني أقدم بكتير من المباني الحالية.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Samannud"
+      ]
+    },
+    "see": {
+      "en": "A Delta town with ancient roots and later religious heritage.",
+      "ar": "مدينة في الدلتا جذورها قديمة، وليها تراث ديني من فترات تانية.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Samannud",
+        "https://sis.gov.eg/Story/181712/Gharbia-Governorate?lang=en-us"
+      ]
+    },
+    "wear": [
+      {
+        "text": {
+          "ar": "للخروج خد معاك حماية من الشمس وجزمة مريحة، واحترم تعليمات اللبس في أماكن العبادة.",
+          "en": "For outdoor visits, bring sun protection and comfortable shoes. Respect religious-site clothing requirements."
+        },
+        "source_urls": [
+          "https://www.experienceegypt.eg/en/usefulinfo"
+        ]
+      }
+    ],
+    "nearby": {
+      "items": [
+        {
+          "text": {
+            "ar": "أماكن تانية في الدليل على بُعد لحد 40 كم من نقطة الخريطة، بالخط المستقيم مش مسافة المشي أو السواقة: المحلة الكبرى (8.2 كم)؛ طنطا (31.4 كم)؛ الجامع الأحمدي (31.4 كم). السماح بالزيارة والطريق محتاجين مراجعة منفصلة.",
+            "en": "Other catalog entries within 40 km of this map marker (straight line, not walking/driving distance): El Mahalla El Kubra (8.2 km); Tanta (31.4 km); Ahmad al-Badawi Mosque (31.4 km). Access and routes must be checked separately."
+          },
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Samannud",
+            "https://sis.gov.eg/Story/181712/Gharbia-Governorate?lang=en-us",
+            "https://en.wikipedia.org/wiki/El_Mahalla_El_Kubra",
+            "https://en.wikipedia.org/wiki/Tanta",
+            "https://en.wikipedia.org/wiki/Ahmad_al-Badawi_Mosque"
+          ]
+        }
+      ]
+    },
+    "weather": {
+      "en": "Editorial choice for outdoor sightseeing in the cooler part of the year, based on the cited city table. Not a forecast.",
+      "ar": "اختيار تحريري للفسح الخارجية في الجزء الأبرد من السنة، بناءً على جدول المدينة. دي مش نشرة جو.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tanta"
+      ]
+    },
+    "reviewedAt": "2026-11-15"
+  },
+  "shibin-el-kom": {
+    "see": {
+      "en": "The administrative capital of Monufia Governorate.",
+      "ar": "العاصمة الإدارية لمحافظة المنوفية.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Shibin_El_Kom",
+        "https://sis.gov.eg/Story/180527/Menofia-Governorate?lang=en-us"
+      ]
+    },
+    "wear": [
+      {
+        "text": {
+          "ar": "للخروج خد معاك حماية من الشمس وجزمة مريحة، واحترم تعليمات اللبس في أماكن العبادة.",
+          "en": "For outdoor visits, bring sun protection and comfortable shoes. Respect religious-site clothing requirements."
+        },
+        "source_urls": [
+          "https://www.experienceegypt.eg/en/usefulinfo"
+        ]
+      }
+    ],
+    "nearby": {
+      "items": [
+        {
+          "text": {
+            "ar": "أماكن تانية في الدليل على بُعد لحد 40 كم من نقطة الخريطة، بالخط المستقيم مش مسافة المشي أو السواقة: منوف (12.8 كم)؛ قويسنا (14.1 كم)؛ أشمون (29.5 كم). السماح بالزيارة والطريق محتاجين مراجعة منفصلة.",
+            "en": "Other catalog entries within 40 km of this map marker (straight line, not walking/driving distance): Menouf (12.8 km); Quesna (14.1 km); Ashmoun (29.5 km). Access and routes must be checked separately."
+          },
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Shibin_El_Kom",
+            "https://sis.gov.eg/Story/180527/Menofia-Governorate?lang=en-us",
+            "https://en.wikipedia.org/wiki/Menouf",
+            "https://en.wikipedia.org/wiki/Quesna",
+            "https://en.wikipedia.org/wiki/Ashmoun"
+          ]
+        }
+      ]
+    },
+    "weather": {
+      "en": "Editorial choice for outdoor sightseeing in the cooler part of the year, based on the cited city table. Not a forecast.",
+      "ar": "اختيار تحريري للفسح الخارجية في الجزء الأبرد من السنة، بناءً على جدول المدينة. دي مش نشرة جو.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Shibin_El_Kom"
+      ]
+    },
+    "reviewedAt": "2026-11-15"
+  },
+  "menouf": {
+    "history": {
+      "en": "Menouf gave Monufia Governorate its name and served as its capital until 1826. The city is one of the governorate's settlements with an ancient Egyptian history.",
+      "ar": "منوف هي اللي ادّت محافظة المنوفية اسمها، وكانت عاصمتها لحد سنة 1826. وهي من مدن المحافظة اللي ليها تاريخ راجع لمصر القديمة.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Menouf"
+      ]
+    },
+    "see": {
+      "en": "The historic town from which Monufia takes its name.",
+      "ar": "المدينة التاريخية اللي اسم المنوفية جاي منها.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Menouf",
+        "https://sis.gov.eg/Story/180527/Menofia-Governorate?lang=en-us"
+      ]
+    },
+    "wear": [
+      {
+        "text": {
+          "ar": "للخروج خد معاك حماية من الشمس وجزمة مريحة، واحترم تعليمات اللبس في أماكن العبادة.",
+          "en": "For outdoor visits, bring sun protection and comfortable shoes. Respect religious-site clothing requirements."
+        },
+        "source_urls": [
+          "https://www.experienceegypt.eg/en/usefulinfo"
+        ]
+      }
+    ],
+    "nearby": {
+      "items": [
+        {
+          "text": {
+            "ar": "أماكن تانية في الدليل على بُعد لحد 40 كم من نقطة الخريطة، بالخط المستقيم مش مسافة المشي أو السواقة: شبين الكوم (12.8 كم)؛ أشمون (21.5 كم)؛ قويسنا (24.3 كم). السماح بالزيارة والطريق محتاجين مراجعة منفصلة.",
+            "en": "Other catalog entries within 40 km of this map marker (straight line, not walking/driving distance): Shibin El Kom (12.8 km); Ashmoun (21.5 km); Quesna (24.3 km). Access and routes must be checked separately."
+          },
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Menouf",
+            "https://sis.gov.eg/Story/180527/Menofia-Governorate?lang=en-us",
+            "https://en.wikipedia.org/wiki/Shibin_El_Kom",
+            "https://en.wikipedia.org/wiki/Ashmoun",
+            "https://en.wikipedia.org/wiki/Quesna"
+          ]
+        }
+      ]
+    },
+    "weather": {
+      "en": "Editorial choice for outdoor sightseeing in the cooler part of the year, based on the cited city table. Not a forecast.",
+      "ar": "اختيار تحريري للفسح الخارجية في الجزء الأبرد من السنة، بناءً على جدول المدينة. دي مش نشرة جو.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Shibin_El_Kom"
+      ]
+    },
+    "reviewedAt": "2026-11-15"
+  },
+  "buto": {
+    "history": {
+      "en": "Known in ancient Egyptian as Per-Wadjet, Buto was a cult center of the cobra goddess Wadjet. Archaeology records settlement from the Predynastic period, with later periods of renewed occupation. Today the site is known as Tell el-Fara'in.",
+      "ar": "بوتو كان اسمها المصري القديم بر واجيت، وكانت مركز لعبادة الإلهة واجيت. الآثار بتسجل سكن من قبل الأسرات، وبعده فترات تانية رجع فيها العمران. الموقع معروف دلوقتي بتل الفراعين.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Buto"
+      ]
+    },
+    "see": {
+      "en": "The archaeological site of an important ancient city in the northern Delta.",
+      "ar": "موقع أثري لمدينة قديمة مهمة في شمال الدلتا.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Buto",
+        "https://sis.gov.eg/Story/180185/Kafr-El-Sheikh-Governorate?lang=en-us"
+      ]
+    },
+    "wear": [
+      {
+        "text": {
+          "ar": "للخروج خد معاك حماية من الشمس وجزمة مريحة، واحترم تعليمات اللبس في أماكن العبادة.",
+          "en": "For outdoor visits, bring sun protection and comfortable shoes. Respect religious-site clothing requirements."
+        },
+        "source_urls": [
+          "https://www.experienceegypt.eg/en/usefulinfo"
+        ]
+      }
+    ],
+    "nearby": {
+      "items": [
+        {
+          "text": {
+            "ar": "أماكن تانية في الدليل على بُعد لحد 40 كم من نقطة الخريطة، بالخط المستقيم مش مسافة المشي أو السواقة: فوه (18.5 كم)؛ بحيرة البرلس (33.9 كم). السماح بالزيارة والطريق محتاجين مراجعة منفصلة.",
+            "en": "Other catalog entries within 40 km of this map marker (straight line, not walking/driving distance): Fuwwah (18.5 km); Lake Burullus (33.9 km). Access and routes must be checked separately."
+          },
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Buto",
+            "https://sis.gov.eg/Story/180185/Kafr-El-Sheikh-Governorate?lang=en-us",
+            "https://en.wikipedia.org/wiki/Fuwwah",
+            "https://en.wikipedia.org/wiki/Lake_Burullus"
+          ]
+        }
+      ]
+    },
+    "weather": {
+      "en": "Spring and early autumn suit mixed city and outdoor visits; beach-focused trips have different summer preferences. City data do not represent every coastal or inland site.",
+      "ar": "الربيع وأول الخريف مناسبين لفسح المدينة والخروج. لو البحر هو الهدف فاختيار موسم الصيف مختلف، وبيانات المدينة مش وصف لكل الساحل والريف.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kafr_El_Sheikh"
+      ]
+    },
+    "reviewedAt": "2026-11-15"
+  },
+  "lake-burullus": {
+    "see": {
+      "en": "A Mediterranean coastal lagoon supporting fishing and wetland habitats.",
+      "ar": "بحيرة ساحلية على المتوسط، مرتبطة بالصيد وبيئات الأراضي الرطبة.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lake_Burullus",
+        "https://sis.gov.eg/Story/180185/Kafr-El-Sheikh-Governorate?lang=en-us"
+      ]
+    },
+    "wear": [
+      {
+        "text": {
+          "ar": "للخروج خد معاك حماية من الشمس وجزمة مريحة، واحترم تعليمات اللبس في أماكن العبادة.",
+          "en": "For outdoor visits, bring sun protection and comfortable shoes. Respect religious-site clothing requirements."
+        },
+        "source_urls": [
+          "https://www.experienceegypt.eg/en/usefulinfo"
+        ]
+      }
+    ],
+    "nearby": {
+      "items": [
+        {
+          "text": {
+            "ar": "أماكن تانية في الدليل على بُعد لحد 40 كم من نقطة الخريطة، بالخط المستقيم مش مسافة المشي أو السواقة: بلطيم (24.9 كم)؛ تل الفراعين (33.9 كم). السماح بالزيارة والطريق محتاجين مراجعة منفصلة.",
+            "en": "Other catalog entries within 40 km of this map marker (straight line, not walking/driving distance): Baltim (24.9 km); Buto (33.9 km). Access and routes must be checked separately."
+          },
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Lake_Burullus",
+            "https://sis.gov.eg/Story/180185/Kafr-El-Sheikh-Governorate?lang=en-us",
+            "https://en.wikipedia.org/wiki/Baltim",
+            "https://en.wikipedia.org/wiki/Buto"
+          ]
+        }
+      ]
+    },
+    "weather": {
+      "en": "Spring and early autumn suit mixed city and outdoor visits; beach-focused trips have different summer preferences. City data do not represent every coastal or inland site.",
+      "ar": "الربيع وأول الخريف مناسبين لفسح المدينة والخروج. لو البحر هو الهدف فاختيار موسم الصيف مختلف، وبيانات المدينة مش وصف لكل الساحل والريف.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kafr_El_Sheikh"
+      ]
+    },
+    "reviewedAt": "2026-11-15",
+    "history": {
+      "en": "In the early Islamic period, a port near the lake outlet formed part of the Delta coast's defensive network. Connections with the Rosetta branch and changes in sediment and water shaped a landscape used for settlement, navigation and fishing.",
+      "ar": "في العصر الإسلامي المبكر، مينا قرب بوغاز البحيرة كانت جزء من شبكة الدفاع عن ساحل الدلتا. الاتصال بفرع رشيد وتغيرات الطمي والمياه شكلوا مكان للسكن والملاحة والصيد.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lake_Burullus"
+      ]
+    }
+  },
+  "fuwwah": {
+    "see": {
+      "en": "A historic town on the Rosetta branch of the Nile.",
+      "ar": "مدينة تاريخية على فرع رشيد من النيل.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Fuwwah",
+        "https://sis.gov.eg/Story/180185/Kafr-El-Sheikh-Governorate?lang=en-us"
+      ]
+    },
+    "buy": [
+      {
+        "text": {
+          "ar": "فوه مكان موثق لاستكشاف صناعة الكليم والجوبلان اليدوي. اسأل الصانع عن الخامة وطريقة الشغل قبل الشراء؛ مواعيد وأسعار ومخزون ورشة بعينها مش متراجعين.",
+          "en": "Fuwwah is a documented place to explore kilim and handwoven Gobelin production. Ask the maker about material and technique before buying; no individual workshop hours, prices or stock have been checked."
+        },
+        "source_urls": [
+          "https://kfs.gov.eg/ar-fuwah/"
+        ]
+      }
+    ],
+    "wear": [
+      {
+        "text": {
+          "ar": "للخروج خد معاك حماية من الشمس وجزمة مريحة، واحترم تعليمات اللبس في أماكن العبادة.",
+          "en": "For outdoor visits, bring sun protection and comfortable shoes. Respect religious-site clothing requirements."
+        },
+        "source_urls": [
+          "https://www.experienceegypt.eg/en/usefulinfo"
+        ]
+      }
+    ],
+    "nearby": {
+      "items": [
+        {
+          "text": {
+            "ar": "أماكن تانية في الدليل على بُعد لحد 40 كم من نقطة الخريطة، بالخط المستقيم مش مسافة المشي أو السواقة: تل الفراعين (18.5 كم). السماح بالزيارة والطريق محتاجين مراجعة منفصلة.",
+            "en": "Other catalog entries within 40 km of this map marker (straight line, not walking/driving distance): Buto (18.5 km). Access and routes must be checked separately."
+          },
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Fuwwah",
+            "https://sis.gov.eg/Story/180185/Kafr-El-Sheikh-Governorate?lang=en-us",
+            "https://en.wikipedia.org/wiki/Buto"
+          ]
+        }
+      ]
+    },
+    "weather": {
+      "en": "Spring and early autumn suit mixed city and outdoor visits; beach-focused trips have different summer preferences. City data do not represent every coastal or inland site.",
+      "ar": "الربيع وأول الخريف مناسبين لفسح المدينة والخروج. لو البحر هو الهدف فاختيار موسم الصيف مختلف، وبيانات المدينة مش وصف لكل الساحل والريف.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kafr_El_Sheikh"
+      ]
+    },
+    "reviewedAt": "2026-11-15",
+    "history": {
+      "en": "Fuwwah prospered as a river-trading town on the Rosetta branch in the medieval period. Religious buildings, commercial structures and a nineteenth-century fez factory record different phases of that economy, alongside the later weaving traditions.",
+      "ar": "فوه ازدهرت كمدينة تجارة نهرية على فرع رشيد في العصور الوسطى. المباني الدينية والمنشآت التجارية ومصنع الطرابيش من القرن التسعتاشر بيسجلوا مراحل مختلفة من اقتصادها، جنب تقاليد النسيج اللاحقة.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Fuwwah",
+        "https://kfs.gov.eg/ar-fuwah/"
+      ]
+    }
+  },
+  "rosetta": {
+    "history": {
+      "en": "Rashid developed as an important Delta port, particularly in the Ottoman period. The Rosetta Stone was found nearby at Fort Julien in 1799, while the town's surviving historic houses tell a separate story of trade and domestic life.",
+      "ar": "رشيد اتطورت كمينا مهمة في الدلتا، خصوصًا في العصر العثماني. حجر رشيد اتلاقى قريب منها في قلعة جوليان سنة 1799، وبيوتها التاريخية بتحكي كمان عن التجارة والحياة اليومية.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Rosetta"
+      ]
+    },
+    "see": {
+      "en": "A historic river-port town associated with Ottoman houses and the Rosetta Stone.",
+      "ar": "مدينة نهرية تاريخية مرتبطة ببيوت عثمانية وحجر رشيد.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Rosetta",
+        "https://www.sis.gov.eg/Story/170578/Beheira-Governorate?lang=en-us"
+      ]
+    },
+    "buy": [
+      {
+        "text": {
+          "ar": "كمدخل لمنطقة حرف، تقرير من يونيو 2026 بيصف عروض سجاد وكليم وجلد وخوص وجريد وفخار في الحديقة المتحفية قدام متحف رشيد الوطني. اتأكد من الدخول وترتيبات البيع حاليًا بشكل منفصل؛ التقرير عن زيارة رسمية بتاريخ محدد، مش ضمان سوق شغال كل يوم.",
+          "en": "For a broad craft-area lead, June 2026 reporting describes carpet/kilim, leatherwork, palm-material and pottery displays at the museum garden opposite Rosetta National Museum. Confirm current public access and sale arrangements separately; the report describes a dated official visit, not guaranteed daily market trading."
+        },
+        "source_urls": [
+          "https://gate.ahram.org.eg/News/5672256.aspx"
+        ]
+      }
+    ],
+    "wear": [
+      {
+        "text": {
+          "ar": "للخروج خد معاك حماية من الشمس وجزمة مريحة، واحترم تعليمات اللبس في أماكن العبادة.",
+          "en": "For outdoor visits, bring sun protection and comfortable shoes. Respect religious-site clothing requirements."
+        },
+        "source_urls": [
+          "https://www.experienceegypt.eg/en/usefulinfo"
+        ]
+      }
+    ],
+    "weather": {
+      "en": "Editorial choice for outdoor sightseeing in the cooler part of the year, based on the cited city table. Not a forecast.",
+      "ar": "اختيار تحريري للفسح الخارجية في الجزء الأبرد من السنة، بناءً على جدول المدينة. دي مش نشرة جو.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Damanhur"
+      ]
+    },
+    "reviewedAt": "2026-11-15"
+  },
+  "wadi-el-natrun": {
+    "history": {
+      "en": "Known in early Christian literature as Scetis, Wadi El Natrun was one of the Nitrian Desert's principal monastic centers. Unlike nearby ancient monastic areas surviving mainly as archaeology, the valley retains monasteries in active religious use.",
+      "ar": "وادي النطرون اتعرف في الكتابات المسيحية المبكرة باسم شيهيت، وكان من أهم مراكز الرهبنة في الصحرا. وعلى عكس مناطق رهبانية قديمة قريبة باقي منها آثار أساسًا، الوادي لسه فيه أديرة ليها حياة دينية مستمرة.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Wadi_El_Natrun"
+      ]
+    },
+    "see": {
+      "en": "A desert depression known for its living Coptic monasteries.",
+      "ar": "منخفض صحراوي معروف بأديرته القبطية اللي الحياة الرهبانية مستمرة فيها.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Wadi_El_Natrun",
+        "https://www.sis.gov.eg/Story/170578/Beheira-Governorate?lang=en-us"
+      ]
+    },
+    "wear": [
+      {
+        "text": {
+          "ar": "للخروج خد معاك حماية من الشمس وجزمة مريحة، واحترم تعليمات اللبس في أماكن العبادة.",
+          "en": "For outdoor visits, bring sun protection and comfortable shoes. Respect religious-site clothing requirements."
+        },
+        "source_urls": [
+          "https://www.experienceegypt.eg/en/usefulinfo"
+        ]
+      }
+    ],
+    "nearby": {
+      "items": [
+        {
+          "text": {
+            "ar": "أماكن تانية في الدليل على بُعد لحد 40 كم من نقطة الخريطة، بالخط المستقيم مش مسافة المشي أو السواقة: دير الأنبا مقار (35.2 كم). السماح بالزيارة والطريق محتاجين مراجعة منفصلة.",
+            "en": "Other catalog entries within 40 km of this map marker (straight line, not walking/driving distance): Monastery of Saint Macarius the Great (35.2 km). Access and routes must be checked separately."
+          },
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Wadi_El_Natrun",
+            "https://www.sis.gov.eg/Story/170578/Beheira-Governorate?lang=en-us",
+            "https://en.wikipedia.org/wiki/Monastery_of_Saint_Macarius_the_Great"
+          ]
+        }
+      ]
+    },
+    "weather": {
+      "en": "Editorial choice for outdoor sightseeing in the cooler part of the year, based on the cited city table. Not a forecast.",
+      "ar": "اختيار تحريري للفسح الخارجية في الجزء الأبرد من السنة، بناءً على جدول المدينة. دي مش نشرة جو.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Damanhur"
+      ]
+    },
+    "reviewedAt": "2026-11-15"
+  },
+  "damanhur": {
+    "history": {
+      "en": "Damanhur's settlement history reaches back to ancient Egypt. The modern Beheira capital expanded to absorb neighboring historic villages, adding later urban layers to its older core.",
+      "ar": "تاريخ السكن في دمنهور بيرجع لمصر القديمة. عاصمة البحيرة الحديثة اتوسعت وضمت قرى تاريخية مجاورة، فاتضافت طبقات عمرانية جديدة حوالين قلبها الأقدم.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Damanhur"
+      ]
+    },
+    "see": {
+      "en": "The capital and a principal city of Beheira Governorate.",
+      "ar": "عاصمة البحيرة وواحدة من مدنها الرئيسية.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Damanhur",
+        "https://www.sis.gov.eg/Story/170578/Beheira-Governorate?lang=en-us"
+      ]
+    },
+    "wear": [
+      {
+        "text": {
+          "ar": "للخروج خد معاك حماية من الشمس وجزمة مريحة، واحترم تعليمات اللبس في أماكن العبادة.",
+          "en": "For outdoor visits, bring sun protection and comfortable shoes. Respect religious-site clothing requirements."
+        },
+        "source_urls": [
+          "https://www.experienceegypt.eg/en/usefulinfo"
+        ]
+      }
+    ],
+    "weather": {
+      "en": "Editorial choice for outdoor sightseeing in the cooler part of the year, based on the cited city table. Not a forecast.",
+      "ar": "اختيار تحريري للفسح الخارجية في الجزء الأبرد من السنة، بناءً على جدول المدينة. دي مش نشرة جو.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Damanhur"
+      ]
+    },
+    "reviewedAt": "2026-11-15"
+  },
+  "monastery-of-saint-macarius-the-great": {
+    "history": {
+      "en": "The monastery's tradition traces its origins to Saint Macarius, who withdrew to the desert during the fourth century. It forms part of Wadi El Natrun's long Coptic monastic landscape. This religious history is distinct from the unverified visiting arrangements of any particular day.",
+      "ar": "تقليد الدير بيرجع أصله للأنبا مقار اللي اعتزل في الصحرا في القرن الرابع. وهو جزء من تاريخ الرهبنة القبطية الطويل في وادي النطرون. التاريخ الديني ده حاجة، وترتيبات الزيارة في يوم معين حاجة تانية محتاجة مراجعة.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Monastery_of_Saint_Macarius_the_Great"
+      ]
+    },
+    "see": {
+      "en": "An ancient Coptic monastery in the Wadi El Natrun area.",
+      "ar": "دير قبطي تاريخي في منطقة وادي النطرون.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Monastery_of_Saint_Macarius_the_Great",
+        "https://www.sis.gov.eg/Story/170578/Beheira-Governorate?lang=en-us"
+      ]
+    },
+    "wear": [
+      {
+        "text": {
+          "ar": "للخروج خد معاك حماية من الشمس وجزمة مريحة، واحترم تعليمات اللبس في أماكن العبادة.",
+          "en": "For outdoor visits, bring sun protection and comfortable shoes. Respect religious-site clothing requirements."
+        },
+        "source_urls": [
+          "https://www.experienceegypt.eg/en/usefulinfo"
+        ]
+      }
+    ],
+    "nearby": {
+      "items": [
+        {
+          "text": {
+            "ar": "أماكن تانية في الدليل على بُعد لحد 40 كم من نقطة الخريطة، بالخط المستقيم مش مسافة المشي أو السواقة: وادي النطرون (35.2 كم). السماح بالزيارة والطريق محتاجين مراجعة منفصلة.",
+            "en": "Other catalog entries within 40 km of this map marker (straight line, not walking/driving distance): Wadi El Natrun (35.2 km). Access and routes must be checked separately."
+          },
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Monastery_of_Saint_Macarius_the_Great",
+            "https://www.sis.gov.eg/Story/170578/Beheira-Governorate?lang=en-us",
+            "https://en.wikipedia.org/wiki/Wadi_El_Natrun"
+          ]
+        }
+      ]
+    },
+    "weather": {
+      "en": "Editorial choice for outdoor sightseeing in the cooler part of the year, based on the cited city table. Not a forecast.",
+      "ar": "اختيار تحريري للفسح الخارجية في الجزء الأبرد من السنة، بناءً على جدول المدينة. دي مش نشرة جو.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Damanhur"
+      ]
+    },
+    "reviewedAt": "2026-11-15"
+  },
+  "port-said-lighthouse": {
+    "history": {
+      "en": "Completed in 1869 just before the opening of the Suez Canal, the lighthouse was built to guide shipping at the canal's Mediterranean entrance. Its octagonal tower reflects the port city's nineteenth-century maritime development.",
+      "ar": "الفنار خلص سنة 1869 قبل افتتاح قناة السويس بوقت قصير، وكان لإرشاد السفن عند مدخل القناة على البحر المتوسط. برجه التماني مرتبط بتطور بورسعيد البحري في القرن التسعتاشر.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Port_Said_Lighthouse"
+      ]
+    },
+    "see": {
+      "en": "A nineteenth-century lighthouse associated with the opening era of the Suez Canal.",
+      "ar": "فنار من القرن التسعتاشر مرتبط بفترة افتتاح قناة السويس.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Port_Said_Lighthouse",
+        "https://sis.gov.eg/Story/68561/Port-Said-Governorate?lang=en-us"
+      ]
+    },
+    "wear": [
+      {
+        "text": {
+          "ar": "للخروج خد معاك حماية من الشمس وجزمة مريحة، واحترم تعليمات اللبس في أماكن العبادة.",
+          "en": "For outdoor visits, bring sun protection and comfortable shoes. Respect religious-site clothing requirements."
+        },
+        "source_urls": [
+          "https://www.experienceegypt.eg/en/usefulinfo"
+        ]
+      }
+    ],
+    "nearby": {
+      "items": [
+        {
+          "text": {
+            "ar": "أماكن تانية في الدليل على بُعد لحد 40 كم من نقطة الخريطة، بالخط المستقيم مش مسافة المشي أو السواقة: بورسعيد (0.6 كم)؛ بورفؤاد (1.6 كم). السماح بالزيارة والطريق محتاجين مراجعة منفصلة.",
+            "en": "Other catalog entries within 40 km of this map marker (straight line, not walking/driving distance): Port Said (0.6 km); Port Fuad (1.6 km). Access and routes must be checked separately."
+          },
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Port_Said_Lighthouse",
+            "https://sis.gov.eg/Story/68561/Port-Said-Governorate?lang=en-us",
+            "https://en.wikipedia.org/wiki/Port_Said",
+            "https://en.wikipedia.org/wiki/Port_Fuad"
+          ]
+        }
+      ]
+    },
+    "weather": {
+      "en": "Spring and early autumn suit mixed city and outdoor visits; beach-focused trips have different summer preferences. City data do not represent every coastal or inland site.",
+      "ar": "الربيع وأول الخريف مناسبين لفسح المدينة والخروج. لو البحر هو الهدف فاختيار موسم الصيف مختلف، وبيانات المدينة مش وصف لكل الساحل والريف.",
+      "sources": [
+        "https://www.nodc.noaa.gov/archive/arc0216/0253808/2.2/data/0-data/Region-1-WMO-Normals-9120/Egypt/CSV/PortSaidElgamil_62332.csv"
+      ]
+    },
+    "reviewedAt": "2026-11-15"
+  },
+  "port-fuad": {
+    "history": {
+      "en": "Port Fuad was established in 1926 and named after King Fuad I. Its modern history is tied to the Suez Canal and the expansion of the Port Said urban area onto the canal's eastern bank.",
+      "ar": "بورفؤاد اتأسست سنة 1926 واتسمت على اسم الملك فؤاد الأول. تاريخها الحديث مرتبط بقناة السويس وامتداد العمران في منطقة بورسعيد للبر الشرقي للقناة.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Port_Fouad"
+      ]
+    },
+    "see": {
+      "en": "The canal-side city on the eastern side of Port Said Governorate.",
+      "ar": "مدينة على الناحية الشرقية للقناة ضمن محافظة بورسعيد.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Port_Fuad",
+        "https://sis.gov.eg/Story/68561/Port-Said-Governorate?lang=en-us"
+      ]
+    },
+    "wear": [
+      {
+        "text": {
+          "ar": "للخروج خد معاك حماية من الشمس وجزمة مريحة، واحترم تعليمات اللبس في أماكن العبادة.",
+          "en": "For outdoor visits, bring sun protection and comfortable shoes. Respect religious-site clothing requirements."
+        },
+        "source_urls": [
+          "https://www.experienceegypt.eg/en/usefulinfo"
+        ]
+      }
+    ],
+    "nearby": {
+      "items": [
+        {
+          "text": {
+            "ar": "أماكن تانية في الدليل على بُعد لحد 40 كم من نقطة الخريطة، بالخط المستقيم مش مسافة المشي أو السواقة: فنار بورسعيد (1.6 كم)؛ بورسعيد (1.7 كم). السماح بالزيارة والطريق محتاجين مراجعة منفصلة.",
+            "en": "Other catalog entries within 40 km of this map marker (straight line, not walking/driving distance): Port Said Lighthouse (1.6 km); Port Said (1.7 km). Access and routes must be checked separately."
+          },
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Port_Fuad",
+            "https://sis.gov.eg/Story/68561/Port-Said-Governorate?lang=en-us",
+            "https://en.wikipedia.org/wiki/Port_Said_Lighthouse",
+            "https://en.wikipedia.org/wiki/Port_Said"
+          ]
+        }
+      ]
+    },
+    "weather": {
+      "en": "Spring and early autumn suit mixed city and outdoor visits; beach-focused trips have different summer preferences. City data do not represent every coastal or inland site.",
+      "ar": "الربيع وأول الخريف مناسبين لفسح المدينة والخروج. لو البحر هو الهدف فاختيار موسم الصيف مختلف، وبيانات المدينة مش وصف لكل الساحل والريف.",
+      "sources": [
+        "https://www.nodc.noaa.gov/archive/arc0216/0253808/2.2/data/0-data/Region-1-WMO-Normals-9120/Egypt/CSV/PortSaidElgamil_62332.csv"
+      ]
+    },
+    "reviewedAt": "2026-11-15"
+  },
+  "port-said": {
+    "history": {
+      "en": "Port Said was established in 1859 during construction of the Suez Canal. International shipping and trade shaped its mixed commercial communities and its distinctive buildings with large balconies. Its history is closely tied to the canal rather than an ancient settlement nucleus.",
+      "ar": "بورسعيد اتأسست سنة 1859 وقت حفر قناة السويس. الملاحة والتجارة الدولية شكّلوا مجتمعاتها التجارية المتنوعة ومبانيها المميزة بالبلكونات الكبيرة. تاريخها مرتبط بالقناة، مش بنواة مدينة أثرية قديمة.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Port_Said"
+      ]
+    },
+    "see": {
+      "en": "A Mediterranean port at the northern entrance to the Suez Canal.",
+      "ar": "مدينة ومينا على المتوسط عند المدخل الشمالي لقناة السويس.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Port_Said",
+        "https://sis.gov.eg/Story/68561/Port-Said-Governorate?lang=en-us"
+      ]
+    },
+    "buy": [
+      {
+        "text": {
+          "ar": "تقرير من مارس 2026 بيذكر أسواق الحميدي والتجاري مع الهدوم البالة، وشارع البازار مع الحلويات المستوردة. دي مناطق تبدأ منها البحث؛ المخزون والمواعيد وأصالة الماركات والأسعار مش متراجعين.",
+          "en": "A March 2026 feature identifies Al-Hamidi and Al-Tijari markets with second-hand clothing, and Bazaar Street with imported sweets. These are area-level leads; present stock, opening hours, brand authenticity and prices have not been checked."
+        },
+        "source_urls": [
+          "https://english.ahram.org.eg/NewsContent/50/1208/564550/AlAhram-Weekly/Features/A-journey-through-time-in-Port-Said.aspx"
+        ]
+      }
+    ],
+    "wear": [
+      {
+        "text": {
+          "ar": "للخروج خد معاك حماية من الشمس وجزمة مريحة، واحترم تعليمات اللبس في أماكن العبادة.",
+          "en": "For outdoor visits, bring sun protection and comfortable shoes. Respect religious-site clothing requirements."
+        },
+        "source_urls": [
+          "https://www.experienceegypt.eg/en/usefulinfo"
+        ]
+      }
+    ],
+    "nearby": {
+      "items": [
+        {
+          "text": {
+            "ar": "أماكن تانية في الدليل على بُعد لحد 40 كم من نقطة الخريطة، بالخط المستقيم مش مسافة المشي أو السواقة: فنار بورسعيد (0.6 كم)؛ بورفؤاد (1.7 كم). السماح بالزيارة والطريق محتاجين مراجعة منفصلة.",
+            "en": "Other catalog entries within 40 km of this map marker (straight line, not walking/driving distance): Port Said Lighthouse (0.6 km); Port Fuad (1.7 km). Access and routes must be checked separately."
+          },
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Port_Said",
+            "https://sis.gov.eg/Story/68561/Port-Said-Governorate?lang=en-us",
+            "https://en.wikipedia.org/wiki/Port_Said_Lighthouse",
+            "https://en.wikipedia.org/wiki/Port_Fuad"
+          ]
+        }
+      ]
+    },
+    "weather": {
+      "en": "Spring and early autumn suit mixed city and outdoor visits; beach-focused trips have different summer preferences. City data do not represent every coastal or inland site.",
+      "ar": "الربيع وأول الخريف مناسبين لفسح المدينة والخروج. لو البحر هو الهدف فاختيار موسم الصيف مختلف، وبيانات المدينة مش وصف لكل الساحل والريف.",
+      "sources": [
+        "https://www.nodc.noaa.gov/archive/arc0216/0253808/2.2/data/0-data/Region-1-WMO-Normals-9120/Egypt/CSV/PortSaidElgamil_62332.csv"
+      ]
+    },
+    "reviewedAt": "2026-11-15"
+  },
+  "suez": {
+    "history": {
+      "en": "Modern Suez follows a much older Red Sea port tradition associated with Clysma. Its position at the northern Gulf of Suez later placed it beside the canal's southern entrance, with maritime and industrial activity shaping the modern city.",
+      "ar": "السويس الحديثة بتمتد من تقليد أقدم لمينا على البحر الأحمر مرتبط بالقلزم. موقعها عند شمال خليج السويس بقى بعد كده جنب مدخل القناة الجنوبي، والنشاط البحري والصناعي شكّلوا المدينة الحديثة.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Suez"
+      ]
+    },
+    "see": {
+      "en": "The port city at the northern end of the Gulf of Suez.",
+      "ar": "مدينة المواني عند رأس خليج السويس.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Suez",
+        "https://www.sis.gov.eg/Story/168167/Suez-Governorate?lang=en-us"
+      ]
+    },
+    "wear": [
+      {
+        "text": {
+          "ar": "للخروج خد معاك حماية من الشمس وجزمة مريحة، واحترم تعليمات اللبس في أماكن العبادة.",
+          "en": "For outdoor visits, bring sun protection and comfortable shoes. Respect religious-site clothing requirements."
+        },
+        "source_urls": [
+          "https://www.experienceegypt.eg/en/usefulinfo"
+        ]
+      }
+    ],
+    "nearby": {
+      "items": [
+        {
+          "text": {
+            "ar": "أماكن تانية في الدليل على بُعد لحد 40 كم من نقطة الخريطة، بالخط المستقيم مش مسافة المشي أو السواقة: ميناء السويس (1.9 كم). السماح بالزيارة والطريق محتاجين مراجعة منفصلة.",
+            "en": "Other catalog entries within 40 km of this map marker (straight line, not walking/driving distance): Suez Port (1.9 km). Access and routes must be checked separately."
+          },
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Suez",
+            "https://www.sis.gov.eg/Story/168167/Suez-Governorate?lang=en-us",
+            "https://en.wikipedia.org/wiki/Suez_Port"
+          ]
+        }
+      ]
+    },
+    "weather": {
+      "en": "Editorial choice for outdoor sightseeing in the cooler part of the year, based on the cited city table. Not a forecast.",
+      "ar": "اختيار تحريري للفسح الخارجية في الجزء الأبرد من السنة، بناءً على جدول المدينة. دي مش نشرة جو.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Suez"
+      ]
+    },
+    "reviewedAt": "2026-11-15"
+  },
+  "ain-sokhna": {
+    "see": {
+      "en": "A Gulf of Suez beach destination within Suez Governorate.",
+      "ar": "وجهة بحر ومصايف على خليج السويس، وتبع محافظة السويس.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ain_Sokhna",
+        "https://www.sis.gov.eg/Story/168167/Suez-Governorate?lang=en-us"
+      ]
+    },
+    "wear": [
+      {
+        "text": {
+          "ar": "للخروج خد معاك حماية من الشمس وجزمة مريحة، واحترم تعليمات اللبس في أماكن العبادة.",
+          "en": "For outdoor visits, bring sun protection and comfortable shoes. Respect religious-site clothing requirements."
+        },
+        "source_urls": [
+          "https://www.experienceegypt.eg/en/usefulinfo"
+        ]
+      }
+    ],
+    "weather": {
+      "en": "Editorial choice for outdoor sightseeing in the cooler part of the year, based on the cited city table. Not a forecast.",
+      "ar": "اختيار تحريري للفسح الخارجية في الجزء الأبرد من السنة، بناءً على جدول المدينة. دي مش نشرة جو.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Suez"
+      ]
+    },
+    "reviewedAt": "2026-11-15",
+    "history": {
+      "en": "Excavations in the Ain Sokhna area have identified an ancient port linked to expeditions across the Red Sea and to Sinai mining routes during the Old and Middle Kingdoms. This archaeological site is distinct from the modern resort coastline; public access to it is not established here.",
+      "ar": "حفائر منطقة العين السخنة كشفت مينا قديمة مرتبطة برحلات البحر الأحمر وطرق التعدين في سيناء في الدولتين القديمة والوسطى. الموقع الأثري ده غير شريط المنتجعات الحديث؛ والدخول له كزيارة عامة مش مثبت هنا.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ain_Sokhna"
+      ]
+    }
+  },
+  "suez-port": {
+    "see": {
+      "en": "A port at the southern approach to the Suez Canal.",
+      "ar": "مينا عند منطقة المدخل الجنوبي لقناة السويس.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Suez_Port",
+        "https://www.sis.gov.eg/Story/168167/Suez-Governorate?lang=en-us"
+      ]
+    },
+    "wear": [
+      {
+        "text": {
+          "ar": "للخروج خد معاك حماية من الشمس وجزمة مريحة، واحترم تعليمات اللبس في أماكن العبادة.",
+          "en": "For outdoor visits, bring sun protection and comfortable shoes. Respect religious-site clothing requirements."
+        },
+        "source_urls": [
+          "https://www.experienceegypt.eg/en/usefulinfo"
+        ]
+      }
+    ],
+    "nearby": {
+      "items": [
+        {
+          "text": {
+            "ar": "أماكن تانية في الدليل على بُعد لحد 40 كم من نقطة الخريطة، بالخط المستقيم مش مسافة المشي أو السواقة: مدينة السويس (1.9 كم). السماح بالزيارة والطريق محتاجين مراجعة منفصلة.",
+            "en": "Other catalog entries within 40 km of this map marker (straight line, not walking/driving distance): Suez (1.9 km). Access and routes must be checked separately."
+          },
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Suez_Port",
+            "https://www.sis.gov.eg/Story/168167/Suez-Governorate?lang=en-us",
+            "https://en.wikipedia.org/wiki/Suez"
+          ]
+        }
+      ]
+    },
+    "weather": {
+      "en": "Editorial choice for outdoor sightseeing in the cooler part of the year, based on the cited city table. Not a forecast.",
+      "ar": "اختيار تحريري للفسح الخارجية في الجزء الأبرد من السنة، بناءً على جدول المدينة. دي مش نشرة جو.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Suez"
+      ]
+    },
+    "reviewedAt": "2026-11-15",
+    "history": {
+      "en": "Port Tewfik developed as a Suez Canal Company port town during the nineteenth century. Its planned buildings and housing reflected the company's organization of work and residence at the canal's southern entrance.",
+      "ar": "بورتوفيق اتطور كمدينة مينا تابعة لشركة قناة السويس في القرن التسعتاشر. مبانيه ومساكنه المخططة عكست تنظيم الشركة للشغل والسكن عند مدخل القناة الجنوبي.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Suez_Port"
+      ]
+    }
+  },
+  "ismailia": {
+    "history": {
+      "en": "Ismailia was founded in 1863 during construction of the Suez Canal and named after Khedive Ismail. Canal administration, foreign involvement and later struggles over the Canal Zone all shaped the city's modern history.",
+      "ar": "الإسماعيلية اتأسست سنة 1863 وقت حفر قناة السويس واتسمت على اسم الخديوي إسماعيل. إدارة القناة والوجود الأجنبي والصراع اللاحق على منطقة القناة كلهم شكّلوا تاريخ المدينة الحديث.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ismailia"
+      ]
+    },
+    "see": {
+      "en": "The canal-side governorate capital near Lake Timsah.",
+      "ar": "عاصمة المحافظة على القناة قرب بحيرة التمساح.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ismailia",
+        "https://www.sis.gov.eg/Story/172210/Ismailia-Governorate?lang=en-us"
+      ]
+    },
+    "eat": [
+      {
+        "text": {
+          "ar": "المانجو محصول محلي موثق، وصواني السمك مذكورة في تغطية الأكل الإقليمي. دي أفكار تسأل عنها في المدينة، مش ضمان توفر طول السنة أو مطعم متراجع أو مهرجان شغال دلوقتي.",
+          "en": "Mangoes are a documented local crop and fish trays are documented in regional food coverage. These suggest what to ask about in the city, not a year-round supply, checked restaurant or festival operating now."
+        },
+        "source_urls": [
+          "https://gate.ahram.org.eg/News/5884065.aspx",
+          "https://www.almasryalyoum.com/news/details/1155917"
+        ]
+      }
+    ],
+    "wear": [
+      {
+        "text": {
+          "ar": "للخروج خد معاك حماية من الشمس وجزمة مريحة، واحترم تعليمات اللبس في أماكن العبادة.",
+          "en": "For outdoor visits, bring sun protection and comfortable shoes. Respect religious-site clothing requirements."
+        },
+        "source_urls": [
+          "https://www.experienceegypt.eg/en/usefulinfo"
+        ]
+      }
+    ],
+    "nearby": {
+      "items": [
+        {
+          "text": {
+            "ar": "أماكن تانية في الدليل على بُعد لحد 40 كم من نقطة الخريطة، بالخط المستقيم مش مسافة المشي أو السواقة: بحيرة التمساح (2.4 كم)؛ البحيرة المرة الكبرى (31.1 كم). السماح بالزيارة والطريق محتاجين مراجعة منفصلة.",
+            "en": "Other catalog entries within 40 km of this map marker (straight line, not walking/driving distance): Lake Timsah (2.4 km); Great Bitter Lake (31.1 km). Access and routes must be checked separately."
+          },
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Ismailia",
+            "https://www.sis.gov.eg/Story/172210/Ismailia-Governorate?lang=en-us",
+            "https://en.wikipedia.org/wiki/Lake_Timsah",
+            "https://en.wikipedia.org/wiki/Great_Bitter_Lake"
+          ]
+        }
+      ]
+    },
+    "weather": {
+      "en": "Editorial choice for outdoor sightseeing in the cooler part of the year, based on the cited city table. Not a forecast.",
+      "ar": "اختيار تحريري للفسح الخارجية في الجزء الأبرد من السنة، بناءً على جدول المدينة. دي مش نشرة جو.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ismailia"
+      ]
+    },
+    "reviewedAt": "2026-11-15"
+  },
+  "lake-timsah": {
+    "history": {
+      "en": "Lake Timsah became part of the Suez Canal waterway during its nineteenth-century construction. Its story connects a natural basin with the engineering project that transformed navigation between the Mediterranean and Red Seas.",
+      "ar": "بحيرة التمساح بقت جزء من المجرى الملاحي لقناة السويس وقت حفرها في القرن التسعتاشر. حكايتها بتربط منخفض طبيعي بمشروع هندسي غيّر الملاحة بين البحر المتوسط والبحر الأحمر.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lake_Timsah"
+      ]
+    },
+    "see": {
+      "en": "A lake on the Suez Canal beside Ismailia.",
+      "ar": "بحيرة على مسار قناة السويس جنب الإسماعيلية.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lake_Timsah",
+        "https://www.sis.gov.eg/Story/172210/Ismailia-Governorate?lang=en-us"
+      ]
+    },
+    "wear": [
+      {
+        "text": {
+          "ar": "للخروج خد معاك حماية من الشمس وجزمة مريحة، واحترم تعليمات اللبس في أماكن العبادة.",
+          "en": "For outdoor visits, bring sun protection and comfortable shoes. Respect religious-site clothing requirements."
+        },
+        "source_urls": [
+          "https://www.experienceegypt.eg/en/usefulinfo"
+        ]
+      }
+    ],
+    "nearby": {
+      "items": [
+        {
+          "text": {
+            "ar": "أماكن تانية في الدليل على بُعد لحد 40 كم من نقطة الخريطة، بالخط المستقيم مش مسافة المشي أو السواقة: مدينة الإسماعيلية (2.4 كم)؛ البحيرة المرة الكبرى (28.8 كم). السماح بالزيارة والطريق محتاجين مراجعة منفصلة.",
+            "en": "Other catalog entries within 40 km of this map marker (straight line, not walking/driving distance): Ismailia (2.4 km); Great Bitter Lake (28.8 km). Access and routes must be checked separately."
+          },
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Lake_Timsah",
+            "https://www.sis.gov.eg/Story/172210/Ismailia-Governorate?lang=en-us",
+            "https://en.wikipedia.org/wiki/Ismailia",
+            "https://en.wikipedia.org/wiki/Great_Bitter_Lake"
+          ]
+        }
+      ]
+    },
+    "weather": {
+      "en": "Editorial choice for outdoor sightseeing in the cooler part of the year, based on the cited city table. Not a forecast.",
+      "ar": "اختيار تحريري للفسح الخارجية في الجزء الأبرد من السنة، بناءً على جدول المدينة. دي مش نشرة جو.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ismailia"
+      ]
+    },
+    "reviewedAt": "2026-11-15"
+  },
+  "great-bitter-lake": {
+    "history": {
+      "en": "Before the Suez Canal was built, the Great Bitter Lake basin was a dry salt valley. Filling and connecting it to the canal transformed it into part of the international waterway. Its modern history is therefore closely tied to canal engineering.",
+      "ar": "قبل حفر قناة السويس، حوض البحيرة المرة الكبرى كان منخفض ملحي جاف. ملؤه وربطه بالقناة حوّله لجزء من المجرى الملاحي الدولي. عشان كده تاريخه الحديث مرتبط جدًا بهندسة القناة.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Great_Bitter_Lake"
+      ]
+    },
+    "see": {
+      "en": "A major lake forming part of the Suez Canal waterway.",
+      "ar": "بحيرة كبيرة بتشكّل جزء من المجرى الملاحي لقناة السويس.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Great_Bitter_Lake",
+        "https://www.sis.gov.eg/Story/172210/Ismailia-Governorate?lang=en-us"
+      ]
+    },
+    "wear": [
+      {
+        "text": {
+          "ar": "للخروج خد معاك حماية من الشمس وجزمة مريحة، واحترم تعليمات اللبس في أماكن العبادة.",
+          "en": "For outdoor visits, bring sun protection and comfortable shoes. Respect religious-site clothing requirements."
+        },
+        "source_urls": [
+          "https://www.experienceegypt.eg/en/usefulinfo"
+        ]
+      }
+    ],
+    "nearby": {
+      "items": [
+        {
+          "text": {
+            "ar": "أماكن تانية في الدليل على بُعد لحد 40 كم من نقطة الخريطة، بالخط المستقيم مش مسافة المشي أو السواقة: بحيرة التمساح (28.8 كم)؛ مدينة الإسماعيلية (31.1 كم). السماح بالزيارة والطريق محتاجين مراجعة منفصلة.",
+            "en": "Other catalog entries within 40 km of this map marker (straight line, not walking/driving distance): Lake Timsah (28.8 km); Ismailia (31.1 km). Access and routes must be checked separately."
+          },
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Great_Bitter_Lake",
+            "https://www.sis.gov.eg/Story/172210/Ismailia-Governorate?lang=en-us",
+            "https://en.wikipedia.org/wiki/Lake_Timsah",
+            "https://en.wikipedia.org/wiki/Ismailia"
+          ]
+        }
+      ]
+    },
+    "weather": {
+      "en": "Editorial choice for outdoor sightseeing in the cooler part of the year, based on the cited city table. Not a forecast.",
+      "ar": "اختيار تحريري للفسح الخارجية في الجزء الأبرد من السنة، بناءً على جدول المدينة. دي مش نشرة جو.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ismailia"
+      ]
+    },
+    "reviewedAt": "2026-11-15"
+  },
+  "arish": {
+    "history": {
+      "en": "Ancient and early medieval sources knew the city as Rhinocorura. Its position at the mouth of Wadi al-Arish places its history within the long movement between the Nile Delta, Sinai and the eastern Mediterranean. This is historical reference, not a present travel recommendation.",
+      "ar": "المصادر القديمة والوسيطة المبكرة عرفت المدينة باسم رينوكورورا. موقعها عند مصب وادي العريش بيحط تاريخها ضمن حركة التنقل الطويلة بين الدلتا وسيناء وشرق المتوسط. ده مرجع تاريخي، مش ترشيح حالي للسفر.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Arish"
+      ]
+    },
+    "see": {
+      "en": "The capital of North Sinai on the Mediterranean coast.",
+      "ar": "عاصمة شمال سيناء على ساحل البحر المتوسط.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Arish",
+        "https://www.sis.gov.eg/Story/171927/North-Sinai?lang=en"
+      ]
+    },
+    "wear": [
+      {
+        "text": {
+          "ar": "للخروج خد معاك حماية من الشمس وجزمة مريحة، واحترم تعليمات اللبس في أماكن العبادة.",
+          "en": "For outdoor visits, bring sun protection and comfortable shoes. Respect religious-site clothing requirements."
+        },
+        "source_urls": [
+          "https://www.experienceegypt.eg/en/usefulinfo"
+        ]
+      }
+    ],
+    "weather": {
+      "en": "No travel season is recommended while the cited current all-travel warning applies. Monthly climate is provided only as encyclopedia data.",
+      "ar": "مفيش موسم سفر بننصح بيه مع التحذير الحالي المشار له. بيانات الجو هنا للتعريف الموسوعي بس.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Arish"
+      ]
+    },
+    "reviewedAt": "2026-11-15"
+  },
+  "lake-bardawil": {
+    "see": {
+      "en": "A shallow coastal lagoon on the northern Sinai shore.",
+      "ar": "بحيرة ساحلية ضحلة على شاطئ شمال سينا.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lake_Bardawil",
+        "https://www.sis.gov.eg/Story/171927/North-Sinai?lang=en"
+      ]
+    },
+    "wear": [
+      {
+        "text": {
+          "ar": "للخروج خد معاك حماية من الشمس وجزمة مريحة، واحترم تعليمات اللبس في أماكن العبادة.",
+          "en": "For outdoor visits, bring sun protection and comfortable shoes. Respect religious-site clothing requirements."
+        },
+        "source_urls": [
+          "https://www.experienceegypt.eg/en/usefulinfo"
+        ]
+      }
+    ],
+    "weather": {
+      "en": "No travel season is recommended while the cited current all-travel warning applies. Monthly climate is provided only as encyclopedia data.",
+      "ar": "مفيش موسم سفر بننصح بيه مع التحذير الحالي المشار له. بيانات الجو هنا للتعريف الموسوعي بس.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Arish"
+      ]
+    },
+    "reviewedAt": "2026-11-15"
+  },
+  "wadi-al-hitan": {
+    "history": {
+      "en": "The fossil landscape preserves early whales and evidence of the transition from land-dwelling ancestors to marine life. It was inscribed as a UNESCO World Heritage Site in 2005. This is a story of natural history, distinct from pharaonic antiquities.",
+      "ar": "المنطقة الأحفورية بتحفظ حيتان مبكرة وشواهد على الانتقال من أسلاف عاشت على اليابسة للحياة البحرية. اتسجلت كموقع تراث عالمي لليونسكو سنة 2005. دي حكاية تاريخ طبيعي، مختلفة عن الآثار الفرعونية.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Wadi_al_Hitan"
+      ]
+    },
+    "see": {
+      "en": "A UNESCO World Heritage fossil landscape documenting the evolution of early whales.",
+      "ar": "موقع حفريات ضمن تراث اليونسكو، بيوثق تطور الحيتان القديمة.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Wadi_al_Hitan",
+        "https://www.sis.gov.eg/Story/68572"
+      ]
+    },
+    "wear": [
+      {
+        "text": {
+          "ar": "للخروج خد معاك حماية من الشمس وجزمة مريحة، واحترم تعليمات اللبس في أماكن العبادة.",
+          "en": "For outdoor visits, bring sun protection and comfortable shoes. Respect religious-site clothing requirements."
+        },
+        "source_urls": [
+          "https://www.experienceegypt.eg/en/usefulinfo"
+        ]
+      }
+    ],
+    "nearby": {
+      "items": [
+        {
+          "text": {
+            "ar": "أماكن تانية في الدليل على بُعد لحد 40 كم من نقطة الخريطة، بالخط المستقيم مش مسافة المشي أو السواقة: وادي الريان (28.9 كم). السماح بالزيارة والطريق محتاجين مراجعة منفصلة.",
+            "en": "Other catalog entries within 40 km of this map marker (straight line, not walking/driving distance): Wadi El Rayan (28.9 km). Access and routes must be checked separately."
+          },
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Wadi_al_Hitan",
+            "https://www.sis.gov.eg/Story/68572",
+            "https://en.wikipedia.org/wiki/Wadi_El_Rayan"
+          ]
+        }
+      ]
+    },
+    "weather": {
+      "en": "Editorial choice for outdoor sightseeing in the cooler part of the year, based on the cited city table. Not a forecast.",
+      "ar": "اختيار تحريري للفسح الخارجية في الجزء الأبرد من السنة، بناءً على جدول المدينة. دي مش نشرة جو.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Faiyum"
+      ]
+    },
+    "reviewedAt": "2026-11-15"
+  },
+  "wadi-el-rayan": {
+    "see": {
+      "en": "A protected desert depression known for its lakes and waterfalls.",
+      "ar": "منخفض صحراوي محمي، معروف ببحيراته والشلالات.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Wadi_El_Rayan",
+        "https://www.sis.gov.eg/Story/68572"
+      ]
+    },
+    "wear": [
+      {
+        "text": {
+          "ar": "للخروج خد معاك حماية من الشمس وجزمة مريحة، واحترم تعليمات اللبس في أماكن العبادة.",
+          "en": "For outdoor visits, bring sun protection and comfortable shoes. Respect religious-site clothing requirements."
+        },
+        "source_urls": [
+          "https://www.experienceegypt.eg/en/usefulinfo"
+        ]
+      }
+    ],
+    "nearby": {
+      "items": [
+        {
+          "text": {
+            "ar": "أماكن تانية في الدليل على بُعد لحد 40 كم من نقطة الخريطة، بالخط المستقيم مش مسافة المشي أو السواقة: وادي الحيتان (28.9 كم)؛ واحة الفيوم (38.6 كم). السماح بالزيارة والطريق محتاجين مراجعة منفصلة.",
+            "en": "Other catalog entries within 40 km of this map marker (straight line, not walking/driving distance): Wadi al Hitan (28.9 km); Faiyum Oasis (38.6 km). Access and routes must be checked separately."
+          },
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Wadi_El_Rayan",
+            "https://www.sis.gov.eg/Story/68572",
+            "https://en.wikipedia.org/wiki/Wadi_al_Hitan",
+            "https://en.wikipedia.org/wiki/Faiyum_Oasis"
+          ]
+        }
+      ]
+    },
+    "weather": {
+      "en": "Editorial choice for outdoor sightseeing in the cooler part of the year, based on the cited city table. Not a forecast.",
+      "ar": "اختيار تحريري للفسح الخارجية في الجزء الأبرد من السنة، بناءً على جدول المدينة. دي مش نشرة جو.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Faiyum"
+      ]
+    },
+    "reviewedAt": "2026-11-15",
+    "history": {
+      "en": "The present lakes were formed through the management of agricultural drainage water. The upper and lower lakes and the falls between them show how a desert depression became a modern wetland landscape. Its water story is not that of an unchanged ancient natural lake.",
+      "ar": "البحيرات الحالية اتكونت من إدارة مياه الصرف الزراعي. البحيرة العليا والسفلى والشلالات بينهم بيوضحوا إزاي منخفض صحراوي اتحول لمنطقة رطبة حديثة. حكاية المياه هنا مش بحيرة طبيعية قديمة فضلت من غير تغيير.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Wadi_El_Rayan"
+      ]
+    }
+  },
+  "meidum": {
+    "history": {
+      "en": "Meidum is an ancient pyramid-and-cemetery landscape with mudbrick mastabas. The surviving pyramid has a distinctive exposed core; it should be understood together with the surrounding burial structures rather than as an isolated tower.",
+      "ar": "ميدوم منطقة هرم وجبانة قديمة فيها مصاطب من الطوب اللبن. الجزء الباقي من الهرم مميز بقلبه المكشوف؛ وفهم المكان بيكمل مع مباني الدفن اللي حواليه، مش كأنه برج لوحده.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Meidum"
+      ]
+    },
+    "see": {
+      "en": "A distinctive early pyramid site in northern Beni Suef Governorate.",
+      "ar": "منطقة هرم مبكر بشكله المميز، في شمال محافظة بني سويف.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Meidum",
+        "https://beta.sis.gov.eg/en/egypt/political-system/executive-authority/beni-suef/"
+      ]
+    },
+    "wear": [
+      {
+        "text": {
+          "ar": "للخروج خد معاك حماية من الشمس وجزمة مريحة، واحترم تعليمات اللبس في أماكن العبادة.",
+          "en": "For outdoor visits, bring sun protection and comfortable shoes. Respect religious-site clothing requirements."
+        },
+        "source_urls": [
+          "https://www.experienceegypt.eg/en/usefulinfo"
+        ]
+      }
+    ],
+    "nearby": {
+      "items": [
+        {
+          "text": {
+            "ar": "أماكن تانية في الدليل على بُعد لحد 40 كم من نقطة الخريطة، بالخط المستقيم مش مسافة المشي أو السواقة: مدينة بني سويف (36.4 كم)؛ إهناسيا القديمة (40.0 كم). السماح بالزيارة والطريق محتاجين مراجعة منفصلة.",
+            "en": "Other catalog entries within 40 km of this map marker (straight line, not walking/driving distance): Beni Suef (36.4 km); Heracleopolis Magna (40.0 km). Access and routes must be checked separately."
+          },
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Meidum",
+            "https://beta.sis.gov.eg/en/egypt/political-system/executive-authority/beni-suef/",
+            "https://en.wikipedia.org/wiki/Beni_Suef",
+            "https://en.wikipedia.org/wiki/Heracleopolis_Magna"
+          ]
+        }
+      ]
+    },
+    "weather": {
+      "en": "Editorial choice for outdoor sightseeing in the cooler part of the year, based on the cited city table. Not a forecast.",
+      "ar": "اختيار تحريري للفسح الخارجية في الجزء الأبرد من السنة، بناءً على جدول المدينة. دي مش نشرة جو.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Beni_Suef"
+      ]
+    },
+    "reviewedAt": "2026-11-15"
+  },
+  "beni-suef": {
+    "see": {
+      "en": "The governorate capital on the Nile in northern Upper Egypt.",
+      "ar": "عاصمة المحافظة على النيل في شمال الصعيد.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Beni_Suef",
+        "https://beta.sis.gov.eg/en/egypt/political-system/executive-authority/beni-suef/"
+      ]
+    },
+    "wear": [
+      {
+        "text": {
+          "ar": "للخروج خد معاك حماية من الشمس وجزمة مريحة، واحترم تعليمات اللبس في أماكن العبادة.",
+          "en": "For outdoor visits, bring sun protection and comfortable shoes. Respect religious-site clothing requirements."
+        },
+        "source_urls": [
+          "https://www.experienceegypt.eg/en/usefulinfo"
+        ]
+      }
+    ],
+    "nearby": {
+      "items": [
+        {
+          "text": {
+            "ar": "أماكن تانية في الدليل على بُعد لحد 40 كم من نقطة الخريطة، بالخط المستقيم مش مسافة المشي أو السواقة: إهناسيا القديمة (14.6 كم)؛ ميدوم (36.4 كم). السماح بالزيارة والطريق محتاجين مراجعة منفصلة.",
+            "en": "Other catalog entries within 40 km of this map marker (straight line, not walking/driving distance): Heracleopolis Magna (14.6 km); Meidum (36.4 km). Access and routes must be checked separately."
+          },
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Beni_Suef",
+            "https://beta.sis.gov.eg/en/egypt/political-system/executive-authority/beni-suef/",
+            "https://en.wikipedia.org/wiki/Heracleopolis_Magna",
+            "https://en.wikipedia.org/wiki/Meidum"
+          ]
+        }
+      ]
+    },
+    "weather": {
+      "en": "Editorial choice for outdoor sightseeing in the cooler part of the year, based on the cited city table. Not a forecast.",
+      "ar": "اختيار تحريري للفسح الخارجية في الجزء الأبرد من السنة، بناءً على جدول المدينة. دي مش نشرة جو.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Beni_Suef"
+      ]
+    },
+    "reviewedAt": "2026-11-15",
+    "history": {
+      "en": "Beni Suef grew in importance in the medieval period with textile manufacturing and later became a provincial administrative center under Muhammad Ali. It is distinct from ancient Heracleopolis at nearby Ihnasya.",
+      "ar": "أهمية بني سويف كبرت في العصور الوسطى مع صناعة النسيج، وبعد كده بقت مركز إداري إقليمي في عهد محمد علي. وهي غير هيراكليوبوليس القديمة في إهناسيا القريبة.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Beni_Suef"
+      ]
+    }
+  },
+  "sannur-cave": {
+    "history": {
+      "en": "Sannur's natural history was shaped by groundwater moving through limestone and depositing mineral formations underground. It is a geological heritage site, not a pharaonic monument, and its formations should be understood on a much longer timescale than the surrounding human settlements.",
+      "ar": "التاريخ الطبيعي لكهف سنور اتشكل من حركة المياه الجوفية في الحجر الجيري وترسيب تكوينات معدنية تحت الأرض. هو موقع تراث جيولوجي، مش أثر فرعوني، وتكويناته بتتفهم على مقياس زمني أطول بكتير من التجمعات البشرية اللي حواليه.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sannur_Cave"
+      ]
+    },
+    "see": {
+      "en": "A limestone cave known for its mineral formations east of the Nile.",
+      "ar": "كهف في الحجر الجيري معروف بتكويناته المعدنية شرق النيل.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sannur_Cave",
+        "https://beta.sis.gov.eg/en/egypt/political-system/executive-authority/beni-suef/"
+      ]
+    },
+    "wear": [
+      {
+        "text": {
+          "ar": "للخروج خد معاك حماية من الشمس وجزمة مريحة، واحترم تعليمات اللبس في أماكن العبادة.",
+          "en": "For outdoor visits, bring sun protection and comfortable shoes. Respect religious-site clothing requirements."
+        },
+        "source_urls": [
+          "https://www.experienceegypt.eg/en/usefulinfo"
+        ]
+      }
+    ],
+    "weather": {
+      "en": "Editorial choice for outdoor sightseeing in the cooler part of the year, based on the cited city table. Not a forecast.",
+      "ar": "اختيار تحريري للفسح الخارجية في الجزء الأبرد من السنة، بناءً على جدول المدينة. دي مش نشرة جو.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Beni_Suef"
+      ]
+    },
+    "reviewedAt": "2026-11-15"
+  },
+  "beni-hasan": {
+    "history": {
+      "en": "The cliff-cut tombs at Beni Hasan served the regional elite, especially during the Middle Kingdom. Surviving paintings show farming, crafts, games and encounters with visitors from outside Egypt, alongside funerary themes.",
+      "ar": "مقابر بني حسن المنحوتة في الجبل كانت لكبار أهل الإقليم، خصوصًا في الدولة الوسطى. الرسومات الباقية فيها زراعة وحرف وألعاب ولقاءات مع ناس من بره مصر، جنب الموضوعات الجنائزية.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Beni_Hasan"
+      ]
+    },
+    "see": {
+      "en": "Rock-cut elite tombs with painted scenes, especially from the Middle Kingdom.",
+      "ar": "مقابر صخرية لكبار الأقاليم، فيها مناظر مرسومة وخصوصًا من الدولة الوسطى.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Beni_Hasan",
+        "https://tourism.minya.gov.eg/about-us"
+      ]
+    },
+    "wear": [
+      {
+        "text": {
+          "ar": "للخروج خد معاك حماية من الشمس وجزمة مريحة، واحترم تعليمات اللبس في أماكن العبادة.",
+          "en": "For outdoor visits, bring sun protection and comfortable shoes. Respect religious-site clothing requirements."
+        },
+        "source_urls": [
+          "https://www.experienceegypt.eg/en/usefulinfo"
+        ]
+      }
+    ],
+    "nearby": {
+      "items": [
+        {
+          "text": {
+            "ar": "أماكن تانية في الدليل على بُعد لحد 40 كم من نقطة الخريطة، بالخط المستقيم مش مسافة المشي أو السواقة: الأشمونين (18.1 كم)؛ تونا الجبل (27.3 كم)؛ تل العمارنة (31.9 كم). السماح بالزيارة والطريق محتاجين مراجعة منفصلة.",
+            "en": "Other catalog entries within 40 km of this map marker (straight line, not walking/driving distance): Hermopolis (18.1 km); Tuna el-Gebel (27.3 km); Amarna (31.9 km). Access and routes must be checked separately."
+          },
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Beni_Hasan",
+            "https://tourism.minya.gov.eg/about-us",
+            "https://en.wikipedia.org/wiki/Hermopolis",
+            "https://en.wikipedia.org/wiki/Tuna_el-Gebel",
+            "https://en.wikipedia.org/wiki/Amarna"
+          ]
+        }
+      ]
+    },
+    "weather": {
+      "en": "Editorial choice for outdoor sightseeing in the cooler part of the year, based on the cited city table. Not a forecast.",
+      "ar": "اختيار تحريري للفسح الخارجية في الجزء الأبرد من السنة، بناءً على جدول المدينة. دي مش نشرة جو.",
+      "sources": [
+        "https://www.nodc.noaa.gov/archive/arc0216/0253808/2.2/data/0-data/Region-1-WMO-Normals-9120/Egypt/CSV/Minya_62387.csv"
+      ]
+    },
+    "reviewedAt": "2026-11-15"
+  },
+  "amarna": {
+    "history": {
+      "en": "Akhenaten established Akhetaten here during the Eighteenth Dynasty as a new capital. The archaeological remains preserve the layout of the royal city associated with his reign, on the east bank of the Nile.",
+      "ar": "إخناتون أسس هنا أخيتاتون كعاصمة جديدة في الأسرة التمنتاشر. بقايا المدينة الملكية المرتبطة بعهده موجودة على البر الشرقي للنيل.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Amarna"
+      ]
+    },
+    "see": {
+      "en": "The remains of Akhenaten's capital Akhetaten on the east bank of the Nile.",
+      "ar": "بقايا عاصمة أخناتون أخت آتون على البر الشرقي للنيل.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Amarna",
+        "https://tourism.minya.gov.eg/about-us"
+      ]
+    },
+    "wear": [
+      {
+        "text": {
+          "ar": "للخروج خد معاك حماية من الشمس وجزمة مريحة، واحترم تعليمات اللبس في أماكن العبادة.",
+          "en": "For outdoor visits, bring sun protection and comfortable shoes. Respect religious-site clothing requirements."
+        },
+        "source_urls": [
+          "https://www.experienceegypt.eg/en/usefulinfo"
+        ]
+      }
+    ],
+    "nearby": {
+      "items": [
+        {
+          "text": {
+            "ar": "أماكن تانية في الدليل على بُعد لحد 40 كم من نقطة الخريطة، بالخط المستقيم مش مسافة المشي أو السواقة: الأشمونين (17.7 كم)؛ تونا الجبل (21.5 كم)؛ بني حسن (31.9 كم). السماح بالزيارة والطريق محتاجين مراجعة منفصلة.",
+            "en": "Other catalog entries within 40 km of this map marker (straight line, not walking/driving distance): Hermopolis (17.7 km); Tuna el-Gebel (21.5 km); Beni Hasan (31.9 km). Access and routes must be checked separately."
+          },
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Amarna",
+            "https://tourism.minya.gov.eg/about-us",
+            "https://en.wikipedia.org/wiki/Hermopolis",
+            "https://en.wikipedia.org/wiki/Tuna_el-Gebel",
+            "https://en.wikipedia.org/wiki/Beni_Hasan"
+          ]
+        }
+      ]
+    },
+    "weather": {
+      "en": "Editorial choice for outdoor sightseeing in the cooler part of the year, based on the cited city table. Not a forecast.",
+      "ar": "اختيار تحريري للفسح الخارجية في الجزء الأبرد من السنة، بناءً على جدول المدينة. دي مش نشرة جو.",
+      "sources": [
+        "https://www.nodc.noaa.gov/archive/arc0216/0253808/2.2/data/0-data/Region-1-WMO-Normals-9120/Egypt/CSV/Minya_62387.csv"
+      ]
+    },
+    "reviewedAt": "2026-11-15"
+  },
+  "hermopolis": {
+    "history": {
+      "en": "The ancient city of Khemenu developed into the major Graeco-Roman city known as Hermopolis Magna and later an early Christian center. Its remains lie at modern el-Ashmunein in Minya.",
+      "ar": "مدينة خمنو القديمة اتطورت لمدينة كبيرة معروفة باسم هرموبوليس ماجنا في العصرين اليوناني والروماني، وبقت بعد كده مركز مسيحي مبكر. بقاياها في الأشمونين بالمنيا.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Hermopolis"
+      ]
+    },
+    "see": {
+      "en": "An ancient Egyptian city and later religious center in the Minya area.",
+      "ar": "مدينة مصرية قديمة ومركز ديني من فترات لاحقة في منطقة المنيا.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Hermopolis",
+        "https://tourism.minya.gov.eg/about-us"
+      ]
+    },
+    "wear": [
+      {
+        "text": {
+          "ar": "للخروج خد معاك حماية من الشمس وجزمة مريحة، واحترم تعليمات اللبس في أماكن العبادة.",
+          "en": "For outdoor visits, bring sun protection and comfortable shoes. Respect religious-site clothing requirements."
+        },
+        "source_urls": [
+          "https://www.experienceegypt.eg/en/usefulinfo"
+        ]
+      }
+    ],
+    "nearby": {
+      "items": [
+        {
+          "text": {
+            "ar": "أماكن تانية في الدليل على بُعد لحد 40 كم من نقطة الخريطة، بالخط المستقيم مش مسافة المشي أو السواقة: تونا الجبل (10.9 كم)؛ تل العمارنة (17.7 كم)؛ بني حسن (18.1 كم). السماح بالزيارة والطريق محتاجين مراجعة منفصلة.",
+            "en": "Other catalog entries within 40 km of this map marker (straight line, not walking/driving distance): Tuna el-Gebel (10.9 km); Amarna (17.7 km); Beni Hasan (18.1 km). Access and routes must be checked separately."
+          },
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Hermopolis",
+            "https://tourism.minya.gov.eg/about-us",
+            "https://en.wikipedia.org/wiki/Tuna_el-Gebel",
+            "https://en.wikipedia.org/wiki/Amarna",
+            "https://en.wikipedia.org/wiki/Beni_Hasan"
+          ]
+        }
+      ]
+    },
+    "weather": {
+      "en": "Editorial choice for outdoor sightseeing in the cooler part of the year, based on the cited city table. Not a forecast.",
+      "ar": "اختيار تحريري للفسح الخارجية في الجزء الأبرد من السنة، بناءً على جدول المدينة. دي مش نشرة جو.",
+      "sources": [
+        "https://www.nodc.noaa.gov/archive/arc0216/0253808/2.2/data/0-data/Region-1-WMO-Normals-9120/Egypt/CSV/Minya_62387.csv"
+      ]
+    },
+    "reviewedAt": "2026-11-15"
+  },
+  "asyut": {
+    "history": {
+      "en": "Modern Assiut stands near the ancient city of the same name. Its identity therefore combines a present-day Upper Egyptian regional center with a nearby ancient settlement landscape, rather than one single surviving ancient urban plan.",
+      "ar": "أسيوط الحديثة موجودة قرب المدينة القديمة اللي حملت نفس الاسم. هويتها بتجمع مركز إقليمي صعيدي حالي مع منطقة استيطان قديمة قريبة، مش مخطط مدينة أثرية واحد لسه باقي.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Asyut"
+      ]
+    },
+    "see": {
+      "en": "A major Upper Egyptian city with a long history of regional trade.",
+      "ar": "مدينة كبيرة في الصعيد، ليها تاريخ طويل في التجارة الإقليمية.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Asyut",
+        "https://www.sis.gov.eg/Story/180455/Assiut-Governorate?lang=en-us"
+      ]
+    },
+    "wear": [
+      {
+        "text": {
+          "ar": "للخروج خد معاك حماية من الشمس وجزمة مريحة، واحترم تعليمات اللبس في أماكن العبادة.",
+          "en": "For outdoor visits, bring sun protection and comfortable shoes. Respect religious-site clothing requirements."
+        },
+        "source_urls": [
+          "https://www.experienceegypt.eg/en/usefulinfo"
+        ]
+      }
+    ],
+    "weather": {
+      "en": "Editorial choice for outdoor sightseeing in the cooler part of the year, based on the cited city table. Not a forecast.",
+      "ar": "اختيار تحريري للفسح الخارجية في الجزء الأبرد من السنة، بناءً على جدول المدينة. دي مش نشرة جو.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Asyut"
+      ]
+    },
+    "reviewedAt": "2026-11-15"
+  },
+  "deir-el-muharraq": {
+    "see": {
+      "en": "An important Coptic monastery near El Qusiya.",
+      "ar": "دير قبطي مهم قرب القوصية.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Deir_el-Muharraq",
+        "https://www.sis.gov.eg/Story/180455/Assiut-Governorate?lang=en-us"
+      ]
+    },
+    "wear": [
+      {
+        "text": {
+          "ar": "للخروج خد معاك حماية من الشمس وجزمة مريحة، واحترم تعليمات اللبس في أماكن العبادة.",
+          "en": "For outdoor visits, bring sun protection and comfortable shoes. Respect religious-site clothing requirements."
+        },
+        "source_urls": [
+          "https://www.experienceegypt.eg/en/usefulinfo"
+        ]
+      }
+    ],
+    "nearby": {
+      "items": [
+        {
+          "text": {
+            "ar": "أماكن تانية في الدليل على بُعد لحد 40 كم من نقطة الخريطة، بالخط المستقيم مش مسافة المشي أو السواقة: مقابر مير (7.3 كم). السماح بالزيارة والطريق محتاجين مراجعة منفصلة.",
+            "en": "Other catalog entries within 40 km of this map marker (straight line, not walking/driving distance): Meir, Egypt (7.3 km). Access and routes must be checked separately."
+          },
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Deir_el-Muharraq",
+            "https://www.sis.gov.eg/Story/180455/Assiut-Governorate?lang=en-us",
+            "https://en.wikipedia.org/wiki/Meir,_Egypt"
+          ]
+        }
+      ]
+    },
+    "weather": {
+      "en": "Editorial choice for outdoor sightseeing in the cooler part of the year, based on the cited city table. Not a forecast.",
+      "ar": "اختيار تحريري للفسح الخارجية في الجزء الأبرد من السنة، بناءً على جدول المدينة. دي مش نشرة جو.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Asyut"
+      ]
+    },
+    "reviewedAt": "2026-11-15",
+    "history": {
+      "en": "Al-Muharraq is a Coptic monastic complex at Mount Qusqam, with a fortress dated to the sixth or seventh century and later church additions. The tradition of the Holy Family's stay is part of the site's religious significance and should be understood as a faith tradition.",
+      "ar": "المحرق مجمع رهباني قبطي عند جبل قسقام، وفيه حصن بيرجع للقرن السادس أو السابع وإضافات كنسية لاحقة. تقليد إقامة العائلة المقدسة جزء من قدسية المكان، وبيتقدم باعتباره تقليد إيماني.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Deir_el-Muharraq"
+      ]
+    }
+  },
+  "abydos-egypt": {
+    "history": {
+      "en": "Abydos contains early royal burial grounds at Umm el-Qa'ab and major temple remains. Seti I's memorial temple preserves the famous king list, making the area important for both royal history and ancient religious life.",
+      "ar": "أبيدوس فيها جبانات ملكية مبكرة في أم القعاب وبقايا معابد كبيرة. معبد سيتي الأول فيه قائمة الملوك المشهورة، وده بيخلي المنطقة مهمة لتاريخ الملكية والحياة الدينية القديمة.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Abydos,_Egypt"
+      ]
+    },
+    "see": {
+      "en": "An ancient sacred landscape including the celebrated temple of Seti I.",
+      "ar": "منطقة دينية قديمة، فيها معبد سيتي الأول المشهور.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Abydos,_Egypt",
+        "https://www.sis.gov.eg/Story/68574/Sohag-Governorate"
+      ]
+    },
+    "wear": [
+      {
+        "text": {
+          "ar": "للخروج خد معاك حماية من الشمس وجزمة مريحة، واحترم تعليمات اللبس في أماكن العبادة.",
+          "en": "For outdoor visits, bring sun protection and comfortable shoes. Respect religious-site clothing requirements."
+        },
+        "source_urls": [
+          "https://www.experienceegypt.eg/en/usefulinfo"
+        ]
+      }
+    ],
+    "weather": {
+      "en": "Editorial choice for outdoor sightseeing in the cooler part of the year, based on the cited city table. Not a forecast.",
+      "ar": "اختيار تحريري للفسح الخارجية في الجزء الأبرد من السنة، بناءً على جدول المدينة. دي مش نشرة جو.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sohag"
+      ]
+    },
+    "reviewedAt": "2026-11-15"
+  },
+  "white-monastery": {
+    "history": {
+      "en": "Associated with Saint Shenoute, the White Monastery takes its common name from its limestone outer walls. It is part of the Coptic monastic landscape west of Sohag and has a major manuscript and literary history.",
+      "ar": "الدير الأبيض مرتبط بالأنبا شنودة، واسمه الشائع جاي من الحجر الجيري في حيطانه الخارجية. هو جزء من منطقة الرهبنة القبطية غرب سوهاج، وليه تاريخ مهم في المخطوطات والكتابات.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/White_Monastery"
+      ]
+    },
+    "see": {
+      "en": "A historic Coptic monastery associated with Shenoute.",
+      "ar": "دير قبطي تاريخي مرتبط بالأنبا شنودة رئيس المتوحدين.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/White_Monastery",
+        "https://www.sis.gov.eg/Story/68574/Sohag-Governorate"
+      ]
+    },
+    "wear": [
+      {
+        "text": {
+          "ar": "للخروج خد معاك حماية من الشمس وجزمة مريحة، واحترم تعليمات اللبس في أماكن العبادة.",
+          "en": "For outdoor visits, bring sun protection and comfortable shoes. Respect religious-site clothing requirements."
+        },
+        "source_urls": [
+          "https://www.experienceegypt.eg/en/usefulinfo"
+        ]
+      }
+    ],
+    "nearby": {
+      "items": [
+        {
+          "text": {
+            "ar": "أماكن تانية في الدليل على بُعد لحد 40 كم من نقطة الخريطة، بالخط المستقيم مش مسافة المشي أو السواقة: الدير الأحمر (3.4 كم)؛ أخميم (11.0 كم). السماح بالزيارة والطريق محتاجين مراجعة منفصلة.",
+            "en": "Other catalog entries within 40 km of this map marker (straight line, not walking/driving distance): Red Monastery (3.4 km); Akhmim (11.0 km). Access and routes must be checked separately."
+          },
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/White_Monastery",
+            "https://www.sis.gov.eg/Story/68574/Sohag-Governorate",
+            "https://en.wikipedia.org/wiki/Red_Monastery",
+            "https://en.wikipedia.org/wiki/Akhmim"
+          ]
+        }
+      ]
+    },
+    "weather": {
+      "en": "Editorial choice for outdoor sightseeing in the cooler part of the year, based on the cited city table. Not a forecast.",
+      "ar": "اختيار تحريري للفسح الخارجية في الجزء الأبرد من السنة، بناءً على جدول المدينة. دي مش نشرة جو.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sohag"
+      ]
+    },
+    "reviewedAt": "2026-11-15"
+  },
+  "red-monastery": {
+    "history": {
+      "en": "Named after Saint Pshoi, the Red Monastery takes its common name from the red brick of its outer walls. It is architecturally related to the nearby White Monastery, but is a separate monastery with its own history.",
+      "ar": "الدير الأحمر منسوب للقديس بيشاي، واسمه الشائع جاي من الطوب الأحمر في حيطانه الخارجية. عمارته مرتبطة بالدير الأبيض القريب، لكنه دير منفصل وليه تاريخه الخاص.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Red_Monastery"
+      ]
+    },
+    "see": {
+      "en": "A historic Coptic monastery known for its surviving church decoration.",
+      "ar": "دير قبطي تاريخي معروف بزخارف كنيسته اللي لسه باقية.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Red_Monastery",
+        "https://www.sis.gov.eg/Story/68574/Sohag-Governorate"
+      ]
+    },
+    "wear": [
+      {
+        "text": {
+          "ar": "للخروج خد معاك حماية من الشمس وجزمة مريحة، واحترم تعليمات اللبس في أماكن العبادة.",
+          "en": "For outdoor visits, bring sun protection and comfortable shoes. Respect religious-site clothing requirements."
+        },
+        "source_urls": [
+          "https://www.experienceegypt.eg/en/usefulinfo"
+        ]
+      }
+    ],
+    "nearby": {
+      "items": [
+        {
+          "text": {
+            "ar": "أماكن تانية في الدليل على بُعد لحد 40 كم من نقطة الخريطة، بالخط المستقيم مش مسافة المشي أو السواقة: الدير الأبيض (3.4 كم)؛ أخميم (13.0 كم). السماح بالزيارة والطريق محتاجين مراجعة منفصلة.",
+            "en": "Other catalog entries within 40 km of this map marker (straight line, not walking/driving distance): White Monastery (3.4 km); Akhmim (13.0 km). Access and routes must be checked separately."
+          },
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Red_Monastery",
+            "https://www.sis.gov.eg/Story/68574/Sohag-Governorate",
+            "https://en.wikipedia.org/wiki/White_Monastery",
+            "https://en.wikipedia.org/wiki/Akhmim"
+          ]
+        }
+      ]
+    },
+    "weather": {
+      "en": "Editorial choice for outdoor sightseeing in the cooler part of the year, based on the cited city table. Not a forecast.",
+      "ar": "اختيار تحريري للفسح الخارجية في الجزء الأبرد من السنة، بناءً على جدول المدينة. دي مش نشرة جو.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sohag"
+      ]
+    },
+    "reviewedAt": "2026-11-15"
+  },
+  "dendera-temple-complex": {
+    "history": {
+      "en": "Dendera was a principal center of worship for Hathor. The surviving main temple belongs largely to the Ptolemaic period, while evidence points to earlier buildings on the site. The Hathor-headed columns and astronomical ceiling decoration connect its architecture with religious ideas.",
+      "ar": "دندرة كانت مركز رئيسي لعبادة حتحور. المعبد الرئيسي الباقي بيرجع أساسًا للعصر البطلمي، مع شواهد على مباني أقدم في نفس المكان. الأعمدة اللي عليها رؤوس حتحور والزخارف الفلكية في السقف بيربطوا العمارة بالأفكار الدينية.",
+      "sources": [
+        "https://egymonuments.gov.eg/en/monuments/temple-of-dendera"
+      ]
+    },
+    "see": {
+      "en": "A temple complex centered on the well-preserved temple of Hathor.",
+      "ar": "مجمع معابد، أهمه معبد حتحور اللي محتفظ بحالة أثرية مميزة.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Dendera_temple_complex",
+        "https://sis.gov.eg/Story/181555/Qena-governorate?lang=en-us"
+      ]
+    },
+    "wear": [
+      {
+        "text": {
+          "ar": "للخروج خد معاك حماية من الشمس وجزمة مريحة، واحترم تعليمات اللبس في أماكن العبادة.",
+          "en": "For outdoor visits, bring sun protection and comfortable shoes. Respect religious-site clothing requirements."
+        },
+        "source_urls": [
+          "https://www.experienceegypt.eg/en/usefulinfo"
+        ]
+      }
+    ],
+    "nearby": {
+      "items": [
+        {
+          "text": {
+            "ar": "أماكن تانية في الدليل على بُعد لحد 40 كم من نقطة الخريطة، بالخط المستقيم مش مسافة المشي أو السواقة: مدينة قنا (5.4 كم)؛ قفط (21.8 كم)؛ قوص (25.1 كم). السماح بالزيارة والطريق محتاجين مراجعة منفصلة.",
+            "en": "Other catalog entries within 40 km of this map marker (straight line, not walking/driving distance): Qena (5.4 km); Qift (21.8 km); Qus (25.1 km). Access and routes must be checked separately."
+          },
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Dendera_temple_complex",
+            "https://sis.gov.eg/Story/181555/Qena-governorate?lang=en-us",
+            "https://en.wikipedia.org/wiki/Qena",
+            "https://en.wikipedia.org/wiki/Qift",
+            "https://en.wikipedia.org/wiki/Qus"
+          ]
+        }
+      ]
+    },
+    "weather": {
+      "en": "Editorial choice for outdoor sightseeing in the cooler part of the year, based on the cited city table. Not a forecast.",
+      "ar": "اختيار تحريري للفسح الخارجية في الجزء الأبرد من السنة، بناءً على جدول المدينة. دي مش نشرة جو.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Qena"
+      ]
+    },
+    "reviewedAt": "2026-11-15"
+  },
+  "qena": {
+    "history": {
+      "en": "Qena was known in antiquity by names including Kaine and Maximianopolis. The modern governorate capital on the east bank of the Nile continues a regional urban history distinct from the temple complex at nearby Dendera.",
+      "ar": "قنا اتعرفت قديمًا بأسامي منها كايني ومكسيميانوبوليس. عاصمة المحافظة الحديثة على البر الشرقي للنيل مكملة تاريخ عمراني إقليمي، وده مختلف عن مجمع المعابد في دندرة القريبة.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Qena"
+      ]
+    },
+    "see": {
+      "en": "The governorate capital near the great bend in the Nile.",
+      "ar": "عاصمة المحافظة قرب انحناءة النيل الكبيرة.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Qena",
+        "https://sis.gov.eg/Story/181555/Qena-governorate?lang=en-us"
+      ]
+    },
+    "wear": [
+      {
+        "text": {
+          "ar": "للخروج خد معاك حماية من الشمس وجزمة مريحة، واحترم تعليمات اللبس في أماكن العبادة.",
+          "en": "For outdoor visits, bring sun protection and comfortable shoes. Respect religious-site clothing requirements."
+        },
+        "source_urls": [
+          "https://www.experienceegypt.eg/en/usefulinfo"
+        ]
+      }
+    ],
+    "nearby": {
+      "items": [
+        {
+          "text": {
+            "ar": "أماكن تانية في الدليل على بُعد لحد 40 كم من نقطة الخريطة، بالخط المستقيم مش مسافة المشي أو السواقة: معابد دندرة (5.4 كم)؛ قفط (21.5 كم)؛ قوص (26.4 كم). السماح بالزيارة والطريق محتاجين مراجعة منفصلة.",
+            "en": "Other catalog entries within 40 km of this map marker (straight line, not walking/driving distance): Dendera temple complex (5.4 km); Qift (21.5 km); Qus (26.4 km). Access and routes must be checked separately."
+          },
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Qena",
+            "https://sis.gov.eg/Story/181555/Qena-governorate?lang=en-us",
+            "https://en.wikipedia.org/wiki/Dendera_temple_complex",
+            "https://en.wikipedia.org/wiki/Qift",
+            "https://en.wikipedia.org/wiki/Qus"
+          ]
+        }
+      ]
+    },
+    "weather": {
+      "en": "Editorial choice for outdoor sightseeing in the cooler part of the year, based on the cited city table. Not a forecast.",
+      "ar": "اختيار تحريري للفسح الخارجية في الجزء الأبرد من السنة، بناءً على جدول المدينة. دي مش نشرة جو.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Qena"
+      ]
+    },
+    "reviewedAt": "2026-11-15"
+  },
+  "qift": {
+    "history": {
+      "en": "Ancient Coptos, now Qift, was a link between the Nile Valley and Eastern Desert routes. Its position mattered for trade, mining and journeys toward the Red Sea.",
+      "ar": "قفط، اللي اتعرفت قديمًا باسم قفطوس، كانت حلقة وصل بين وادي النيل وطرق الصحرا الشرقية. موقعها كان مهم للتجارة والتعدين والرحلات ناحية البحر الأحمر.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Qift"
+      ]
+    },
+    "see": {
+      "en": "A historic Nile-valley town once known as Coptos.",
+      "ar": "مدينة تاريخية في وادي النيل، اتعرفت قديمًا باسم قبطوس.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Qift",
+        "https://sis.gov.eg/Story/181555/Qena-governorate?lang=en-us"
+      ]
+    },
+    "wear": [
+      {
+        "text": {
+          "ar": "للخروج خد معاك حماية من الشمس وجزمة مريحة، واحترم تعليمات اللبس في أماكن العبادة.",
+          "en": "For outdoor visits, bring sun protection and comfortable shoes. Respect religious-site clothing requirements."
+        },
+        "source_urls": [
+          "https://www.experienceegypt.eg/en/usefulinfo"
+        ]
+      }
+    ],
+    "nearby": {
+      "items": [
+        {
+          "text": {
+            "ar": "أماكن تانية في الدليل على بُعد لحد 40 كم من نقطة الخريطة، بالخط المستقيم مش مسافة المشي أو السواقة: قوص (8.5 كم)؛ مدينة قنا (21.5 كم)؛ معابد دندرة (21.8 كم). السماح بالزيارة والطريق محتاجين مراجعة منفصلة.",
+            "en": "Other catalog entries within 40 km of this map marker (straight line, not walking/driving distance): Qus (8.5 km); Qena (21.5 km); Dendera temple complex (21.8 km). Access and routes must be checked separately."
+          },
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Qift",
+            "https://sis.gov.eg/Story/181555/Qena-governorate?lang=en-us",
+            "https://en.wikipedia.org/wiki/Qus",
+            "https://en.wikipedia.org/wiki/Qena",
+            "https://en.wikipedia.org/wiki/Dendera_temple_complex"
+          ]
+        }
+      ]
+    },
+    "weather": {
+      "en": "Editorial choice for outdoor sightseeing in the cooler part of the year, based on the cited city table. Not a forecast.",
+      "ar": "اختيار تحريري للفسح الخارجية في الجزء الأبرد من السنة، بناءً على جدول المدينة. دي مش نشرة جو.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Qena"
+      ]
+    },
+    "reviewedAt": "2026-11-15"
+  },
+  "qus": {
+    "see": {
+      "en": "A historic Upper Egyptian town with surviving Islamic heritage.",
+      "ar": "مدينة صعيدية تاريخية، فيها تراث إسلامي لسه باقي.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Qus",
+        "https://sis.gov.eg/Story/181555/Qena-governorate?lang=en-us"
+      ]
+    },
+    "buy": [
+      {
+        "text": {
+          "ar": "جراجوس في منطقة قوص مرتبطة بالخزف، والفركة من تراث الحرف الأوسع في قنا. وجود تقارير عن قفل المصنع معناه إن زيارة ورشة لازم تتراجع لوحدها؛ الكلام ده مش تأكيد مصنع مفتوح للزيارة.",
+          "en": "Garagous in the Qus area is associated with pottery, while Ferka weaving is part of Qena's wider craft heritage. Reporting about a factory closure means a workshop visit must be checked separately; this entry is not an invitation to an open factory."
+        },
+        "source_urls": [
+          "https://english.ahram.org.eg/NewsContent/32/99/552583/Heritage/Heritage-special/Treasures-of-Qena-NMEC-celebrates-memory-of-the-so.aspx"
+        ]
+      }
+    ],
+    "wear": [
+      {
+        "text": {
+          "ar": "للخروج خد معاك حماية من الشمس وجزمة مريحة، واحترم تعليمات اللبس في أماكن العبادة.",
+          "en": "For outdoor visits, bring sun protection and comfortable shoes. Respect religious-site clothing requirements."
+        },
+        "source_urls": [
+          "https://www.experienceegypt.eg/en/usefulinfo"
+        ]
+      }
+    ],
+    "nearby": {
+      "items": [
+        {
+          "text": {
+            "ar": "أماكن تانية في الدليل على بُعد لحد 40 كم من نقطة الخريطة، بالخط المستقيم مش مسافة المشي أو السواقة: قفط (8.5 كم)؛ معابد دندرة (25.1 كم)؛ مدينة قنا (26.4 كم). السماح بالزيارة والطريق محتاجين مراجعة منفصلة.",
+            "en": "Other catalog entries within 40 km of this map marker (straight line, not walking/driving distance): Qift (8.5 km); Dendera temple complex (25.1 km); Qena (26.4 km). Access and routes must be checked separately."
+          },
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Qus",
+            "https://sis.gov.eg/Story/181555/Qena-governorate?lang=en-us",
+            "https://en.wikipedia.org/wiki/Qift",
+            "https://en.wikipedia.org/wiki/Dendera_temple_complex",
+            "https://en.wikipedia.org/wiki/Qena"
+          ]
+        }
+      ]
+    },
+    "weather": {
+      "en": "Editorial choice for outdoor sightseeing in the cooler part of the year, based on the cited city table. Not a forecast.",
+      "ar": "اختيار تحريري للفسح الخارجية في الجزء الأبرد من السنة، بناءً على جدول المدينة. دي مش نشرة جو.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Qena"
+      ]
+    },
+    "reviewedAt": "2026-11-15",
+    "history": {
+      "en": "Qus was known in Graeco-Roman times as Apollonopolis Parva. Its position on routes toward the Red Sea helped it grow into an important medieval commercial center, linking the Nile Valley with wider trading networks.",
+      "ar": "قوص اتعرفت في العصرين اليوناني والروماني باسم أبولونوبوليس بارفا. موقعها على طرق البحر الأحمر ساعدها تبقى مركز تجاري مهم في العصور الوسطى، بيربط وادي النيل بشبكات تجارة أوسع.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Qus"
+      ]
+    }
+  },
+  "kharga-oasis": {
+    "history": {
+      "en": "Known in ancient sources as the Southern Oasis and later Oasis Magna, Kharga belongs to the long history of Egypt's Western Desert settlements. The modern town is the capital of New Valley Governorate, but the oasis is a much wider landscape.",
+      "ar": "الخارجة اتعرفت في مصادر قديمة بالواحة الجنوبية وبعد كده أواسيس ماجنا، وهي جزء من تاريخ الاستيطان الطويل في صحرا مصر الغربية. المدينة الحديثة عاصمة الوادي الجديد، لكن الواحة مساحة أوسع بكتير.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kharga_Oasis"
+      ]
+    },
+    "see": {
+      "en": "A major Western Desert oasis and the location of New Valley's capital.",
+      "ar": "واحة كبيرة في الصحراء الغربية، وفيها عاصمة الوادي الجديد.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kharga_Oasis",
+        "https://beta.sis.gov.eg/en/egypt/political-system/executive-authority/new-valley/"
+      ]
+    },
+    "buy": [
+      {
+        "text": {
+          "ar": "الحرف في القرى والأسواق المحلية بدليل الواحتين الرسمي بتشمل الفخار وسلال الخوص والكليم والقماش المنسوج. ده وصف إقليمي، مش وعد بنفس المعروض في كل محل في الخارجة.",
+          "en": "Local village and market crafts in the official joint-oases guide include pottery, palm-leaf baskets, kilim and woven cloth. Treat this as regional context, not a promise of the same stock in every Kharga shop."
+        },
+        "source_urls": [
+          "https://www.experienceegypt.eg/en/city/32/"
+        ]
+      }
+    ],
+    "wear": [
+      {
+        "text": {
+          "ar": "للخروج خد معاك حماية من الشمس وجزمة مريحة، واحترم تعليمات اللبس في أماكن العبادة.",
+          "en": "For outdoor visits, bring sun protection and comfortable shoes. Respect religious-site clothing requirements."
+        },
+        "source_urls": [
+          "https://www.experienceegypt.eg/en/usefulinfo"
+        ]
+      }
+    ],
+    "weather": {
+      "en": "Editorial choice for outdoor sightseeing in the cooler part of the year, based on the cited city table. Not a forecast.",
+      "ar": "اختيار تحريري للفسح الخارجية في الجزء الأبرد من السنة، بناءً على جدول المدينة. دي مش نشرة جو.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kharga_Oasis"
+      ]
+    },
+    "reviewedAt": "2026-11-15"
+  },
+  "dakhla-oasis": {
+    "see": {
+      "en": "A Western Desert oasis with historic settlements and archaeological sites.",
+      "ar": "واحة في الصحراء الغربية، فيها تجمعات تاريخية ومواقع أثرية.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Dakhla_Oasis",
+        "https://beta.sis.gov.eg/en/egypt/political-system/executive-authority/new-valley/"
+      ]
+    },
+    "buy": [
+      {
+        "text": {
+          "ar": "دليل الداخلة والخارجة الرسمي بيذكر الأسواق والقرى المحلية للفخار وسلال الخوص والكليم والقماش المنسوج. مفيش توثيق لمحل واحد أو جدول سوق يومي.",
+          "en": "The official Dakhla/Kharga guide identifies local markets and villages for pottery, palm-leaf baskets, kilim and woven cloth. No single shop or daily market schedule is verified."
+        },
+        "source_urls": [
+          "https://www.experienceegypt.eg/en/city/32/"
+        ]
+      }
+    ],
+    "wear": [
+      {
+        "text": {
+          "ar": "للخروج خد معاك حماية من الشمس وجزمة مريحة، واحترم تعليمات اللبس في أماكن العبادة.",
+          "en": "For outdoor visits, bring sun protection and comfortable shoes. Respect religious-site clothing requirements."
+        },
+        "source_urls": [
+          "https://www.experienceegypt.eg/en/usefulinfo"
+        ]
+      }
+    ],
+    "weather": {
+      "en": "Editorial choice for outdoor sightseeing in the cooler part of the year, based on the cited city table. Not a forecast.",
+      "ar": "اختيار تحريري للفسح الخارجية في الجزء الأبرد من السنة، بناءً على جدول المدينة. دي مش نشرة جو.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kharga_Oasis"
+      ]
+    },
+    "reviewedAt": "2026-11-15",
+    "history": {
+      "en": "Dakhla preserves multiple settlement layers, including Old Kingdom administration at Ayn Asil, the Roman temple of Deir el-Hagar and the historic mud-brick town of al-Qasr. The oasis is a group of settlements, not a single monument from one period.",
+      "ar": "الداخلة فيها طبقات سكن متعددة، منها الإدارة في عين أصيل في الدولة القديمة، ومعبد دير الحجر الروماني، ومدينة القصر التاريخية بالطوب اللبن. الواحة مجموعة تجمعات، مش أثر واحد من عصر واحد.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Dakhla_Oasis"
+      ]
+    }
+  },
+  "white-desert-national-park": {
+    "history": {
+      "en": "The White Desert was declared a protected area in 2002. Its chalk formations are the result of erosion by wind and sand, so the landscape's history is geological as well as part of Egypt's modern conservation story.",
+      "ar": "الصحرا البيضا اتعلنت محمية سنة 2002. تكويناتها الطباشيرية نتيجة النحت بالهوا والرمل، فتاريخ المنظر هنا جيولوجي وكمان جزء من حكاية حماية الطبيعة في مصر الحديثة.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/White_Desert_National_Park"
+      ]
+    },
+    "see": {
+      "en": "A protected desert landscape known for white chalk formations.",
+      "ar": "محمية صحراوية مشهورة بتكوينات الطباشير البيضاء.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/White_Desert_National_Park",
+        "https://beta.sis.gov.eg/en/egypt/political-system/executive-authority/new-valley/"
+      ]
+    },
+    "wear": [
+      {
+        "text": {
+          "ar": "للخروج خد معاك حماية من الشمس وجزمة مريحة، واحترم تعليمات اللبس في أماكن العبادة.",
+          "en": "For outdoor visits, bring sun protection and comfortable shoes. Respect religious-site clothing requirements."
+        },
+        "source_urls": [
+          "https://www.experienceegypt.eg/en/usefulinfo"
+        ]
+      }
+    ],
+    "nearby": {
+      "items": [
+        {
+          "text": {
+            "ar": "أماكن تانية في الدليل على بُعد لحد 40 كم من نقطة الخريطة، بالخط المستقيم مش مسافة المشي أو السواقة: الفرافرة (33.4 كم). السماح بالزيارة والطريق محتاجين مراجعة منفصلة.",
+            "en": "Other catalog entries within 40 km of this map marker (straight line, not walking/driving distance): Farafra, Egypt (33.4 km). Access and routes must be checked separately."
+          },
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/White_Desert_National_Park",
+            "https://beta.sis.gov.eg/en/egypt/political-system/executive-authority/new-valley/",
+            "https://en.wikipedia.org/wiki/Farafra,_Egypt"
+          ]
+        }
+      ]
+    },
+    "weather": {
+      "en": "Editorial choice for outdoor sightseeing in the cooler part of the year, based on the cited city table. Not a forecast.",
+      "ar": "اختيار تحريري للفسح الخارجية في الجزء الأبرد من السنة، بناءً على جدول المدينة. دي مش نشرة جو.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kharga_Oasis"
+      ]
+    },
+    "reviewedAt": "2026-11-15"
+  },
+  "siwa-oasis": {
+    "history": {
+      "en": "Siwa was known in antiquity for the oracle of Amun; Alexander the Great visited in 331 BC. The later fortified settlement of Shali adds a medieval layer to the oasis's story, alongside its enduring local craft and agricultural traditions.",
+      "ar": "سيوة اتعرفت قديمًا بوحي آمون، وزارها الإسكندر الأكبر سنة 331 قبل الميلاد. تجمع شالي المحصن اللي جه بعد كده بيضيف طبقة من العصور الوسطى لحكاية الواحة، جنب تقاليدها المحلية في الزراعة والحرف.",
+      "sources": [
+        "https://www.sis.gov.eg/Story/1145/Siwa?lang=en-us"
+      ]
+    },
+    "see": {
+      "en": "A Western Desert oasis known for its springs, salt lakes and distinctive cultural traditions.",
+      "ar": "واحة في الصحراء الغربية، معروفة بالعيون والبحيرات المالحة وتقاليدها الثقافية المميزة.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Siwa_Oasis",
+        "https://www.sis.gov.eg/Story/1145/Siwa?lang=en-us"
+      ]
+    },
+    "eat": [
+      {
+        "text": {
+          "ar": "لو عايز تجربة أكل سيوية موثقة، اسأل مضيف أو مطعم محلي عن أبو مردم، طريقة تسوية اللحمة والخضار اللي بيذكرها موقع السياحة. مفيش هنا تأكيد لمكان بعينه أو منيو حالي.",
+          "en": "For a documented Siwan food experience, ask a local host or restaurant about abou mardam, the slow-cooked meat-and-vegetable preparation described by the tourism board. A particular venue or current menu is not verified."
+        },
+        "source_urls": [
+          "https://www.experienceegypt.eg/it/attraction-details/271/cultura-berbera"
+        ]
+      }
+    ],
+    "buy": [
+      {
+        "text": {
+          "ar": "دليل سيوة الرسمي بيذكر الفخار والملابس المطرزة كحرف محلية. اسأل مين عمل القطعة وأصلها إيه، بدل ما نفترض إن كل حاجة في محل الهدايا سيوية.",
+          "en": "The official Siwa guide identifies pottery and embroidered garments as local craft categories. Look for the maker's explanation and clear provenance rather than treating all souvenir-shop goods as Siwan."
+        },
+        "source_urls": [
+          "https://www.sis.gov.eg/Story/1145/Siwa?lang=en-us"
+        ]
+      }
+    ],
+    "wear": [
+      {
+        "text": {
+          "ar": "للخروج خد معاك حماية من الشمس وجزمة مريحة، واحترم تعليمات اللبس في أماكن العبادة.",
+          "en": "For outdoor visits, bring sun protection and comfortable shoes. Respect religious-site clothing requirements."
+        },
+        "source_urls": [
+          "https://www.experienceegypt.eg/en/usefulinfo"
+        ]
+      }
+    ],
+    "weather": {
+      "en": "These months refer to a coast-focused holiday. For Siwa and desert walks, favor October-April instead; Marsa Matrouh coastal normals do not describe inland Siwa.",
+      "ar": "الشهور دي لرحلة هدفها الساحل. لسيوة والمشي في الصحرا، أكتوبر لأبريل أنسب؛ بيانات مرسى مطروح الساحلية مش وصف لجو سيوة.",
+      "sources": [
+        "https://www.nodc.noaa.gov/archive/arc0216/0253808/2.2/data/0-data/Region-1-WMO-Normals-9120/Egypt/CSV/MersaMatruh_62306.csv"
+      ]
+    },
+    "reviewedAt": "2026-11-15"
+  },
+  "el-alamein": {
+    "see": {
+      "en": "A Mediterranean town associated with major Second World War battles and memorial sites.",
+      "ar": "مدينة على المتوسط مرتبطة بمعارك كبيرة في الحرب العالمية التانية ومواقع تذكارية ليها.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/El_Alamein",
+        "https://www.sis.gov.eg/Story/1145/Siwa?lang=en-us"
+      ]
+    },
+    "wear": [
+      {
+        "text": {
+          "ar": "للخروج خد معاك حماية من الشمس وجزمة مريحة، واحترم تعليمات اللبس في أماكن العبادة.",
+          "en": "For outdoor visits, bring sun protection and comfortable shoes. Respect religious-site clothing requirements."
+        },
+        "source_urls": [
+          "https://www.experienceegypt.eg/en/usefulinfo"
+        ]
+      }
+    ],
+    "weather": {
+      "en": "These months refer to a coast-focused holiday. For Siwa and desert walks, favor October-April instead; Marsa Matrouh coastal normals do not describe inland Siwa.",
+      "ar": "الشهور دي لرحلة هدفها الساحل. لسيوة والمشي في الصحرا، أكتوبر لأبريل أنسب؛ بيانات مرسى مطروح الساحلية مش وصف لجو سيوة.",
+      "sources": [
+        "https://www.nodc.noaa.gov/archive/arc0216/0253808/2.2/data/0-data/Region-1-WMO-Normals-9120/Egypt/CSV/MersaMatruh_62306.csv"
+      ]
+    },
+    "reviewedAt": "2026-11-15",
+    "history": {
+      "en": "The battles fought around El Alamein in 1942 were a major turning point in the North African campaign of the Second World War. War cemeteries and memorials preserve that history. They are distinct from the later resort development and the separate New Alamein city.",
+      "ar": "معارك العلمين سنة 1942 كانت نقطة تحول مهمة في حملة شمال أفريقيا بالحرب العالمية التانية. المقابر والنصب العسكرية بتحفظ التاريخ ده. وهي غير تطوير المنتجعات اللي جه بعد كده ومدينة العلمين الجديدة المنفصلة.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/El_Alamein"
+      ]
+    }
+  },
+  "marsa-matrouh": {
+    "history": {
+      "en": "Marsa Matrouh served as a grain port in Roman times and later as a British military base. The Second World War brought fighting around the town, adding a major military-history layer to its much older coastal role.",
+      "ar": "مرسى مطروح كانت مينا للحبوب في العصر الروماني، وبعد كده قاعدة عسكرية بريطانية. الحرب العالمية التانية جابت معارك حوالين المدينة، فضافت فصل عسكري مهم لدورها الساحلي الأقدم.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Marsa_Matrouh"
+      ]
+    },
+    "see": {
+      "en": "The Mediterranean coastal capital of Matrouh Governorate.",
+      "ar": "عاصمة محافظة مطروح على ساحل البحر المتوسط.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Marsa_Matrouh",
+        "https://www.sis.gov.eg/Story/1145/Siwa?lang=en-us"
+      ]
+    },
+    "wear": [
+      {
+        "text": {
+          "ar": "للخروج خد معاك حماية من الشمس وجزمة مريحة، واحترم تعليمات اللبس في أماكن العبادة.",
+          "en": "For outdoor visits, bring sun protection and comfortable shoes. Respect religious-site clothing requirements."
+        },
+        "source_urls": [
+          "https://www.experienceegypt.eg/en/usefulinfo"
+        ]
+      }
+    ],
+    "weather": {
+      "en": "These months refer to a coast-focused holiday. For Siwa and desert walks, favor October-April instead; Marsa Matrouh coastal normals do not describe inland Siwa.",
+      "ar": "الشهور دي لرحلة هدفها الساحل. لسيوة والمشي في الصحرا، أكتوبر لأبريل أنسب؛ بيانات مرسى مطروح الساحلية مش وصف لجو سيوة.",
+      "sources": [
+        "https://www.nodc.noaa.gov/archive/arc0216/0253808/2.2/data/0-data/Region-1-WMO-Normals-9120/Egypt/CSV/MersaMatruh_62306.csv"
+      ]
+    },
+    "reviewedAt": "2026-11-15"
   }
 }

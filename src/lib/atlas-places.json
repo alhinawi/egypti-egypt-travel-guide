@@ -1,0 +1,800 @@
+[
+  {
+    "id": "banha",
+    "destination": "qalyubia",
+    "name": {
+      "en": "Banha",
+      "ar": "بنها"
+    },
+    "description": {
+      "ar": "عاصمة القليوبية على فرع دمياط من النيل.",
+      "en": "Qalyubia's capital on the Damietta branch of the Nile."
+    },
+    "category": "city",
+    "source": "https://en.wikipedia.org/wiki/Banha"
+  },
+  {
+    "id": "el-qanater-el-khayreya",
+    "destination": "qalyubia",
+    "name": {
+      "en": "El Qanater El Khayreya",
+      "ar": "القناطر الخيرية"
+    },
+    "description": {
+      "ar": "مدينة على النيل مرتبطة بالقناطر التاريخية عند بداية فرعيه.",
+      "en": "A Nile-side town associated with the historic Delta barrages."
+    },
+    "category": "city",
+    "source": "https://en.wikipedia.org/wiki/El_Qanater_El_Khayreya"
+  },
+  {
+    "id": "damietta",
+    "destination": "damietta",
+    "name": {
+      "en": "Damietta",
+      "ar": "مدينة دمياط"
+    },
+    "description": {
+      "ar": "مدينة ومينا تاريخية في الدلتا، معروفة بالأثاث وصناعات الأكل.",
+      "en": "A historic Nile-Delta port city known for furniture-making and food production."
+    },
+    "category": "city",
+    "source": "https://en.wikipedia.org/wiki/Damietta"
+  },
+  {
+    "id": "ras-el-barr",
+    "destination": "damietta",
+    "name": {
+      "en": "Ras el-Barr",
+      "ar": "رأس البر"
+    },
+    "description": {
+      "ar": "مصيف على المتوسط جنب مصب فرع دمياط.",
+      "en": "A Mediterranean summer resort beside the mouth of the Damietta Nile branch."
+    },
+    "category": "sea",
+    "source": "https://en.wikipedia.org/wiki/Ras_el-Barr"
+  },
+  {
+    "id": "amr-ibn-al-as-mosque-damietta",
+    "destination": "damietta",
+    "name": {
+      "en": "Amr ibn al-As Mosque (Damietta)",
+      "ar": "جامع عمرو بن العاص بدمياط"
+    },
+    "description": {
+      "ar": "جامع تاريخي في دمياط، معروف كمان باسم جامع أبو المعاطي.",
+      "en": "A historic Damietta mosque, also known as Abu'l-Ma'ati Mosque."
+    },
+    "category": "culture",
+    "source": "https://en.wikipedia.org/wiki/Amr_ibn_al-As_Mosque_(Damietta)"
+  },
+  {
+    "id": "mansoura-egypt",
+    "destination": "dakahlia",
+    "name": {
+      "en": "Mansoura, Egypt",
+      "ar": "المنصورة"
+    },
+    "description": {
+      "ar": "عاصمة الدقهلية على فرع دمياط من النيل.",
+      "en": "Dakahlia's capital beside the Damietta branch of the Nile."
+    },
+    "category": "city",
+    "source": "https://en.wikipedia.org/wiki/Mansoura,_Egypt"
+  },
+  {
+    "id": "zagazig",
+    "destination": "sharqia",
+    "name": {
+      "en": "Zagazig",
+      "ar": "الزقازيق"
+    },
+    "description": {
+      "ar": "عاصمة الشرقية، ومنها تقدر ترتب زيارة تل بسطة القريب.",
+      "en": "The capital of Sharqia and a base for reaching nearby Bubastis."
+    },
+    "category": "city",
+    "source": "https://en.wikipedia.org/wiki/Zagazig"
+  },
+  {
+    "id": "bubastis",
+    "destination": "sharqia",
+    "name": {
+      "en": "Bubastis",
+      "ar": "تل بسطة"
+    },
+    "description": {
+      "ar": "المدينة القديمة اللي ارتبطت بعبادة باستت.",
+      "en": "The ancient city associated with the cult of the goddess Bastet."
+    },
+    "category": "culture",
+    "source": "https://en.wikipedia.org/wiki/Bubastis"
+  },
+  {
+    "id": "tanis",
+    "destination": "sharqia",
+    "name": {
+      "en": "Tanis",
+      "ar": "صان الحجر"
+    },
+    "description": {
+      "ar": "مدينة قديمة مهمة في الدلتا، فيها بقايا معابد ومقابر ملكية.",
+      "en": "A major ancient Delta city with temple remains and royal burials."
+    },
+    "category": "culture",
+    "source": "https://en.wikipedia.org/wiki/Tanis"
+  },
+  {
+    "id": "bilbeis",
+    "destination": "sharqia",
+    "name": {
+      "en": "Bilbeis",
+      "ar": "بلبيس"
+    },
+    "description": {
+      "ar": "مدينة تاريخية في جنوب محافظة الشرقية.",
+      "en": "A historic town in the southern part of Sharqia."
+    },
+    "category": "city",
+    "source": "https://en.wikipedia.org/wiki/Bilbeis"
+  },
+  {
+    "id": "tanta",
+    "destination": "gharbia",
+    "name": {
+      "en": "Tanta",
+      "ar": "طنطا"
+    },
+    "description": {
+      "ar": "عاصمة الغربية، ومرتبطة بالتجارة والحلويات والجامع الأحمدي.",
+      "en": "Gharbia's capital, associated with commerce, sweets and the Ahmad al-Badawi Mosque."
+    },
+    "category": "city",
+    "source": "https://en.wikipedia.org/wiki/Tanta"
+  },
+  {
+    "id": "el-mahalla-el-kubra",
+    "destination": "gharbia",
+    "name": {
+      "en": "El Mahalla El Kubra",
+      "ar": "المحلة الكبرى"
+    },
+    "description": {
+      "ar": "مدينة كبيرة في الدلتا، مرتبطة بصناعة النسيج في مصر.",
+      "en": "A major Delta city closely associated with Egypt's textile industry."
+    },
+    "category": "city",
+    "source": "https://en.wikipedia.org/wiki/El_Mahalla_El_Kubra"
+  },
+  {
+    "id": "ahmad-al-badawi-mosque",
+    "destination": "gharbia",
+    "name": {
+      "en": "Ahmad al-Badawi Mosque",
+      "ar": "الجامع الأحمدي"
+    },
+    "description": {
+      "ar": "جامع وضريح مهم في طنطا مرتبط بالسيد أحمد البدوي.",
+      "en": "Tanta's major mosque and shrine associated with the Sufi figure Ahmad al-Badawi."
+    },
+    "category": "culture",
+    "source": "https://en.wikipedia.org/wiki/Ahmad_al-Badawi_Mosque"
+  },
+  {
+    "id": "samannud",
+    "destination": "gharbia",
+    "name": {
+      "en": "Samannud",
+      "ar": "سمنود"
+    },
+    "description": {
+      "ar": "مدينة في الدلتا جذورها قديمة، وليها تراث ديني من فترات تانية.",
+      "en": "A Delta town with ancient roots and later religious heritage."
+    },
+    "category": "city",
+    "source": "https://en.wikipedia.org/wiki/Samannud"
+  },
+  {
+    "id": "shibin-el-kom",
+    "destination": "monufia",
+    "name": {
+      "en": "Shibin El Kom",
+      "ar": "شبين الكوم"
+    },
+    "description": {
+      "ar": "العاصمة الإدارية لمحافظة المنوفية.",
+      "en": "The administrative capital of Monufia Governorate."
+    },
+    "category": "city",
+    "source": "https://en.wikipedia.org/wiki/Shibin_El_Kom"
+  },
+  {
+    "id": "menouf",
+    "destination": "monufia",
+    "name": {
+      "en": "Menouf",
+      "ar": "منوف"
+    },
+    "description": {
+      "ar": "المدينة التاريخية اللي اسم المنوفية جاي منها.",
+      "en": "The historic town from which Monufia takes its name."
+    },
+    "category": "city",
+    "source": "https://en.wikipedia.org/wiki/Menouf"
+  },
+  {
+    "id": "buto",
+    "destination": "kafr-el-sheikh",
+    "name": {
+      "en": "Buto",
+      "ar": "تل الفراعين"
+    },
+    "description": {
+      "ar": "موقع أثري لمدينة قديمة مهمة في شمال الدلتا.",
+      "en": "The archaeological site of an important ancient city in the northern Delta."
+    },
+    "category": "culture",
+    "source": "https://en.wikipedia.org/wiki/Buto"
+  },
+  {
+    "id": "lake-burullus",
+    "destination": "kafr-el-sheikh",
+    "name": {
+      "en": "Lake Burullus",
+      "ar": "بحيرة البرلس"
+    },
+    "description": {
+      "ar": "بحيرة ساحلية على المتوسط، مرتبطة بالصيد وبيئات الأراضي الرطبة.",
+      "en": "A Mediterranean coastal lagoon supporting fishing and wetland habitats."
+    },
+    "category": "nature",
+    "source": "https://en.wikipedia.org/wiki/Lake_Burullus"
+  },
+  {
+    "id": "fuwwah",
+    "destination": "kafr-el-sheikh",
+    "name": {
+      "en": "Fuwwah",
+      "ar": "فوه"
+    },
+    "description": {
+      "ar": "مدينة تاريخية على فرع رشيد من النيل.",
+      "en": "A historic town on the Rosetta branch of the Nile."
+    },
+    "category": "city",
+    "source": "https://en.wikipedia.org/wiki/Fuwwah"
+  },
+  {
+    "id": "rosetta",
+    "destination": "beheira",
+    "name": {
+      "en": "Rosetta",
+      "ar": "رشيد"
+    },
+    "description": {
+      "ar": "مدينة نهرية تاريخية مرتبطة ببيوت عثمانية وحجر رشيد.",
+      "en": "A historic river-port town associated with Ottoman houses and the Rosetta Stone."
+    },
+    "category": "city",
+    "source": "https://en.wikipedia.org/wiki/Rosetta"
+  },
+  {
+    "id": "wadi-el-natrun",
+    "destination": "beheira",
+    "name": {
+      "en": "Wadi El Natrun",
+      "ar": "وادي النطرون"
+    },
+    "description": {
+      "ar": "منخفض صحراوي معروف بأديرته القبطية اللي الحياة الرهبانية مستمرة فيها.",
+      "en": "A desert depression known for its living Coptic monasteries."
+    },
+    "category": "nature",
+    "source": "https://en.wikipedia.org/wiki/Wadi_El_Natrun"
+  },
+  {
+    "id": "damanhur",
+    "destination": "beheira",
+    "name": {
+      "en": "Damanhur",
+      "ar": "دمنهور"
+    },
+    "description": {
+      "ar": "عاصمة البحيرة وواحدة من مدنها الرئيسية.",
+      "en": "The capital and a principal city of Beheira Governorate."
+    },
+    "category": "city",
+    "source": "https://en.wikipedia.org/wiki/Damanhur"
+  },
+  {
+    "id": "monastery-of-saint-macarius-the-great",
+    "destination": "beheira",
+    "name": {
+      "en": "Monastery of Saint Macarius the Great",
+      "ar": "دير الأنبا مقار"
+    },
+    "description": {
+      "ar": "دير قبطي تاريخي في منطقة وادي النطرون.",
+      "en": "An ancient Coptic monastery in the Wadi El Natrun area."
+    },
+    "category": "culture",
+    "source": "https://en.wikipedia.org/wiki/Monastery_of_Saint_Macarius_the_Great"
+  },
+  {
+    "id": "port-said-lighthouse",
+    "destination": "port-said",
+    "name": {
+      "en": "Port Said Lighthouse",
+      "ar": "فنار بورسعيد"
+    },
+    "description": {
+      "ar": "فنار من القرن التسعتاشر مرتبط بفترة افتتاح قناة السويس.",
+      "en": "A nineteenth-century lighthouse associated with the opening era of the Suez Canal."
+    },
+    "category": "culture",
+    "source": "https://en.wikipedia.org/wiki/Port_Said_Lighthouse"
+  },
+  {
+    "id": "port-fuad",
+    "destination": "port-said",
+    "name": {
+      "en": "Port Fuad",
+      "ar": "بورفؤاد"
+    },
+    "description": {
+      "ar": "مدينة على الناحية الشرقية للقناة ضمن محافظة بورسعيد.",
+      "en": "The canal-side city on the eastern side of Port Said Governorate."
+    },
+    "category": "city",
+    "source": "https://en.wikipedia.org/wiki/Port_Fuad"
+  },
+  {
+    "id": "port-said",
+    "destination": "port-said",
+    "name": {
+      "en": "Port Said",
+      "ar": "بورسعيد"
+    },
+    "description": {
+      "ar": "مدينة ومينا على المتوسط عند المدخل الشمالي لقناة السويس.",
+      "en": "A Mediterranean port at the northern entrance to the Suez Canal."
+    },
+    "category": "city",
+    "source": "https://en.wikipedia.org/wiki/Port_Said"
+  },
+  {
+    "id": "suez",
+    "destination": "suez",
+    "name": {
+      "en": "Suez",
+      "ar": "مدينة السويس"
+    },
+    "description": {
+      "ar": "مدينة المواني عند رأس خليج السويس.",
+      "en": "The port city at the northern end of the Gulf of Suez."
+    },
+    "category": "city",
+    "source": "https://en.wikipedia.org/wiki/Suez"
+  },
+  {
+    "id": "ain-sokhna",
+    "destination": "suez",
+    "name": {
+      "en": "Ain Sokhna",
+      "ar": "العين السخنة"
+    },
+    "description": {
+      "ar": "وجهة بحر ومصايف على خليج السويس، وتبع محافظة السويس.",
+      "en": "A Gulf of Suez beach destination within Suez Governorate."
+    },
+    "category": "sea",
+    "source": "https://en.wikipedia.org/wiki/Ain_Sokhna"
+  },
+  {
+    "id": "suez-port",
+    "destination": "suez",
+    "name": {
+      "en": "Suez Port",
+      "ar": "ميناء السويس"
+    },
+    "description": {
+      "ar": "مينا عند منطقة المدخل الجنوبي لقناة السويس.",
+      "en": "A port at the southern approach to the Suez Canal."
+    },
+    "category": "city",
+    "source": "https://en.wikipedia.org/wiki/Suez_Port"
+  },
+  {
+    "id": "ismailia",
+    "destination": "ismailia",
+    "name": {
+      "en": "Ismailia",
+      "ar": "مدينة الإسماعيلية"
+    },
+    "description": {
+      "ar": "عاصمة المحافظة على القناة قرب بحيرة التمساح.",
+      "en": "The canal-side governorate capital near Lake Timsah."
+    },
+    "category": "city",
+    "source": "https://en.wikipedia.org/wiki/Ismailia"
+  },
+  {
+    "id": "lake-timsah",
+    "destination": "ismailia",
+    "name": {
+      "en": "Lake Timsah",
+      "ar": "بحيرة التمساح"
+    },
+    "description": {
+      "ar": "بحيرة على مسار قناة السويس جنب الإسماعيلية.",
+      "en": "A lake on the Suez Canal beside Ismailia."
+    },
+    "category": "nature",
+    "source": "https://en.wikipedia.org/wiki/Lake_Timsah"
+  },
+  {
+    "id": "great-bitter-lake",
+    "destination": "ismailia",
+    "name": {
+      "en": "Great Bitter Lake",
+      "ar": "البحيرة المرة الكبرى"
+    },
+    "description": {
+      "ar": "بحيرة كبيرة بتشكّل جزء من المجرى الملاحي لقناة السويس.",
+      "en": "A major lake forming part of the Suez Canal waterway."
+    },
+    "category": "nature",
+    "source": "https://en.wikipedia.org/wiki/Great_Bitter_Lake"
+  },
+  {
+    "id": "arish",
+    "destination": "north-sinai",
+    "name": {
+      "en": "Arish",
+      "ar": "العريش"
+    },
+    "description": {
+      "ar": "عاصمة شمال سيناء على ساحل البحر المتوسط.",
+      "en": "The capital of North Sinai on the Mediterranean coast."
+    },
+    "category": "city",
+    "source": "https://en.wikipedia.org/wiki/Arish"
+  },
+  {
+    "id": "lake-bardawil",
+    "destination": "north-sinai",
+    "name": {
+      "en": "Lake Bardawil",
+      "ar": "بحيرة البردويل"
+    },
+    "description": {
+      "ar": "بحيرة ساحلية ضحلة على شاطئ شمال سينا.",
+      "en": "A shallow coastal lagoon on the northern Sinai shore."
+    },
+    "category": "nature",
+    "source": "https://en.wikipedia.org/wiki/Lake_Bardawil"
+  },
+  {
+    "id": "wadi-al-hitan",
+    "destination": "fayoum",
+    "name": {
+      "en": "Wadi al Hitan",
+      "ar": "وادي الحيتان"
+    },
+    "description": {
+      "ar": "موقع حفريات ضمن تراث اليونسكو، بيوثق تطور الحيتان القديمة.",
+      "en": "A UNESCO World Heritage fossil landscape documenting the evolution of early whales."
+    },
+    "category": "nature",
+    "source": "https://en.wikipedia.org/wiki/Wadi_al_Hitan"
+  },
+  {
+    "id": "wadi-el-rayan",
+    "destination": "fayoum",
+    "name": {
+      "en": "Wadi El Rayan",
+      "ar": "وادي الريان"
+    },
+    "description": {
+      "ar": "منخفض صحراوي محمي، معروف ببحيراته والشلالات.",
+      "en": "A protected desert depression known for its lakes and waterfalls."
+    },
+    "category": "nature",
+    "source": "https://en.wikipedia.org/wiki/Wadi_El_Rayan"
+  },
+  {
+    "id": "meidum",
+    "destination": "beni-suef",
+    "name": {
+      "en": "Meidum",
+      "ar": "ميدوم"
+    },
+    "description": {
+      "ar": "منطقة هرم مبكر بشكله المميز، في شمال محافظة بني سويف.",
+      "en": "A distinctive early pyramid site in northern Beni Suef Governorate."
+    },
+    "category": "culture",
+    "source": "https://en.wikipedia.org/wiki/Meidum"
+  },
+  {
+    "id": "beni-suef",
+    "destination": "beni-suef",
+    "name": {
+      "en": "Beni Suef",
+      "ar": "مدينة بني سويف"
+    },
+    "description": {
+      "ar": "عاصمة المحافظة على النيل في شمال الصعيد.",
+      "en": "The governorate capital on the Nile in northern Upper Egypt."
+    },
+    "category": "city",
+    "source": "https://en.wikipedia.org/wiki/Beni_Suef"
+  },
+  {
+    "id": "sannur-cave",
+    "destination": "beni-suef",
+    "name": {
+      "en": "Sannur Cave",
+      "ar": "كهف سنور"
+    },
+    "description": {
+      "ar": "كهف في الحجر الجيري معروف بتكويناته المعدنية شرق النيل.",
+      "en": "A limestone cave known for its mineral formations east of the Nile."
+    },
+    "category": "nature",
+    "source": "https://en.wikipedia.org/wiki/Sannur_Cave"
+  },
+  {
+    "id": "beni-hasan",
+    "destination": "minya",
+    "name": {
+      "en": "Beni Hasan",
+      "ar": "بني حسن"
+    },
+    "description": {
+      "ar": "مقابر صخرية لكبار الأقاليم، فيها مناظر مرسومة وخصوصًا من الدولة الوسطى.",
+      "en": "Rock-cut elite tombs with painted scenes, especially from the Middle Kingdom."
+    },
+    "category": "culture",
+    "source": "https://en.wikipedia.org/wiki/Beni_Hasan"
+  },
+  {
+    "id": "amarna",
+    "destination": "minya",
+    "name": {
+      "en": "Amarna",
+      "ar": "تل العمارنة"
+    },
+    "description": {
+      "ar": "بقايا عاصمة أخناتون أخت آتون على البر الشرقي للنيل.",
+      "en": "The remains of Akhenaten's capital Akhetaten on the east bank of the Nile."
+    },
+    "category": "culture",
+    "source": "https://en.wikipedia.org/wiki/Amarna"
+  },
+  {
+    "id": "hermopolis",
+    "destination": "minya",
+    "name": {
+      "en": "Hermopolis",
+      "ar": "الأشمونين"
+    },
+    "description": {
+      "ar": "مدينة مصرية قديمة ومركز ديني من فترات لاحقة في منطقة المنيا.",
+      "en": "An ancient Egyptian city and later religious center in the Minya area."
+    },
+    "category": "culture",
+    "source": "https://en.wikipedia.org/wiki/Hermopolis"
+  },
+  {
+    "id": "asyut",
+    "destination": "asyut",
+    "name": {
+      "en": "Asyut",
+      "ar": "مدينة أسيوط"
+    },
+    "description": {
+      "ar": "مدينة كبيرة في الصعيد، ليها تاريخ طويل في التجارة الإقليمية.",
+      "en": "A major Upper Egyptian city with a long history of regional trade."
+    },
+    "category": "city",
+    "source": "https://en.wikipedia.org/wiki/Asyut"
+  },
+  {
+    "id": "deir-el-muharraq",
+    "destination": "asyut",
+    "name": {
+      "en": "Deir el-Muharraq",
+      "ar": "دير المحرق"
+    },
+    "description": {
+      "ar": "دير قبطي مهم قرب القوصية.",
+      "en": "An important Coptic monastery near El Qusiya."
+    },
+    "category": "city",
+    "source": "https://en.wikipedia.org/wiki/Deir_el-Muharraq"
+  },
+  {
+    "id": "abydos-egypt",
+    "destination": "sohag",
+    "name": {
+      "en": "Abydos, Egypt",
+      "ar": "أبيدوس"
+    },
+    "description": {
+      "ar": "منطقة دينية قديمة، فيها معبد سيتي الأول المشهور.",
+      "en": "An ancient sacred landscape including the celebrated temple of Seti I."
+    },
+    "category": "culture",
+    "source": "https://en.wikipedia.org/wiki/Abydos,_Egypt"
+  },
+  {
+    "id": "white-monastery",
+    "destination": "sohag",
+    "name": {
+      "en": "White Monastery",
+      "ar": "الدير الأبيض"
+    },
+    "description": {
+      "ar": "دير قبطي تاريخي مرتبط بالأنبا شنودة رئيس المتوحدين.",
+      "en": "A historic Coptic monastery associated with Shenoute."
+    },
+    "category": "culture",
+    "source": "https://en.wikipedia.org/wiki/White_Monastery"
+  },
+  {
+    "id": "red-monastery",
+    "destination": "sohag",
+    "name": {
+      "en": "Red Monastery",
+      "ar": "الدير الأحمر"
+    },
+    "description": {
+      "ar": "دير قبطي تاريخي معروف بزخارف كنيسته اللي لسه باقية.",
+      "en": "A historic Coptic monastery known for its surviving church decoration."
+    },
+    "category": "culture",
+    "source": "https://en.wikipedia.org/wiki/Red_Monastery"
+  },
+  {
+    "id": "dendera-temple-complex",
+    "destination": "qena",
+    "name": {
+      "en": "Dendera temple complex",
+      "ar": "معابد دندرة"
+    },
+    "description": {
+      "ar": "مجمع معابد، أهمه معبد حتحور اللي محتفظ بحالة أثرية مميزة.",
+      "en": "A temple complex centered on the well-preserved temple of Hathor."
+    },
+    "category": "culture",
+    "source": "https://en.wikipedia.org/wiki/Dendera_temple_complex"
+  },
+  {
+    "id": "qena",
+    "destination": "qena",
+    "name": {
+      "en": "Qena",
+      "ar": "مدينة قنا"
+    },
+    "description": {
+      "ar": "عاصمة المحافظة قرب انحناءة النيل الكبيرة.",
+      "en": "The governorate capital near the great bend in the Nile."
+    },
+    "category": "city",
+    "source": "https://en.wikipedia.org/wiki/Qena"
+  },
+  {
+    "id": "qift",
+    "destination": "qena",
+    "name": {
+      "en": "Qift",
+      "ar": "قفط"
+    },
+    "description": {
+      "ar": "مدينة تاريخية في وادي النيل، اتعرفت قديمًا باسم قبطوس.",
+      "en": "A historic Nile-valley town once known as Coptos."
+    },
+    "category": "city",
+    "source": "https://en.wikipedia.org/wiki/Qift"
+  },
+  {
+    "id": "qus",
+    "destination": "qena",
+    "name": {
+      "en": "Qus",
+      "ar": "قوص"
+    },
+    "description": {
+      "ar": "مدينة صعيدية تاريخية، فيها تراث إسلامي لسه باقي.",
+      "en": "A historic Upper Egyptian town with surviving Islamic heritage."
+    },
+    "category": "city",
+    "source": "https://en.wikipedia.org/wiki/Qus"
+  },
+  {
+    "id": "kharga-oasis",
+    "destination": "new-valley",
+    "name": {
+      "en": "Kharga Oasis",
+      "ar": "واحة الخارجة"
+    },
+    "description": {
+      "ar": "واحة كبيرة في الصحراء الغربية، وفيها عاصمة الوادي الجديد.",
+      "en": "A major Western Desert oasis and the location of New Valley's capital."
+    },
+    "category": "nature",
+    "source": "https://en.wikipedia.org/wiki/Kharga_Oasis"
+  },
+  {
+    "id": "dakhla-oasis",
+    "destination": "new-valley",
+    "name": {
+      "en": "Dakhla Oasis",
+      "ar": "واحة الداخلة"
+    },
+    "description": {
+      "ar": "واحة في الصحراء الغربية، فيها تجمعات تاريخية ومواقع أثرية.",
+      "en": "A Western Desert oasis with historic settlements and archaeological sites."
+    },
+    "category": "nature",
+    "source": "https://en.wikipedia.org/wiki/Dakhla_Oasis"
+  },
+  {
+    "id": "white-desert-national-park",
+    "destination": "new-valley",
+    "name": {
+      "en": "White Desert National Park",
+      "ar": "محمية الصحراء البيضاء"
+    },
+    "description": {
+      "ar": "محمية صحراوية مشهورة بتكوينات الطباشير البيضاء.",
+      "en": "A protected desert landscape known for white chalk formations."
+    },
+    "category": "nature",
+    "source": "https://en.wikipedia.org/wiki/White_Desert_National_Park"
+  },
+  {
+    "id": "siwa-oasis",
+    "destination": "matrouh",
+    "name": {
+      "en": "Siwa Oasis",
+      "ar": "واحة سيوة"
+    },
+    "description": {
+      "ar": "واحة في الصحراء الغربية، معروفة بالعيون والبحيرات المالحة وتقاليدها الثقافية المميزة.",
+      "en": "A Western Desert oasis known for its springs, salt lakes and distinctive cultural traditions."
+    },
+    "category": "nature",
+    "source": "https://en.wikipedia.org/wiki/Siwa_Oasis"
+  },
+  {
+    "id": "el-alamein",
+    "destination": "matrouh",
+    "name": {
+      "en": "El Alamein",
+      "ar": "العلمين"
+    },
+    "description": {
+      "ar": "مدينة على المتوسط مرتبطة بمعارك كبيرة في الحرب العالمية التانية ومواقع تذكارية ليها.",
+      "en": "A Mediterranean town associated with major Second World War battles and memorial sites."
+    },
+    "category": "culture",
+    "source": "https://en.wikipedia.org/wiki/El_Alamein"
+  },
+  {
+    "id": "marsa-matrouh",
+    "destination": "matrouh",
+    "name": {
+      "en": "Marsa Matrouh",
+      "ar": "مرسى مطروح"
+    },
+    "description": {
+      "ar": "عاصمة محافظة مطروح على ساحل البحر المتوسط.",
+      "en": "The Mediterranean coastal capital of Matrouh Governorate."
+    },
+    "category": "sea",
+    "source": "https://en.wikipedia.org/wiki/Marsa_Matrouh"
+  }
+]
