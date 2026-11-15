@@ -639,5 +639,689 @@
     "license": "CC BY-SA 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "changes": "No additional changes made. Source photograph may have its own processing.; resized and converted to WebP; layout crop"
+  },
+  "banha": {
+    "file": "governorate-qalyubia",
+    "alt": {
+      "en": "A street in Banha",
+      "ar": "شارع في بنها"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Banha-st.jpg",
+    "author": "Faris knight",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "el-qanater-el-khayreya": {
+    "file": "atlas-el-qanater-el-khayreya",
+    "alt": {
+      "en": "The historic barrages at El Qanater El Khayreya",
+      "ar": "القناطر التاريخية في القناطر الخيرية"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:%D9%83%D9%88%D8%A8%D8%B1%D9%8A_%D8%A7%D9%84%D9%82%D9%86%D8%A7%D8%B7%D8%B1_%D8%A7%D9%84%D8%AE%D9%8A%D8%B1%D9%8A%D8%A9.jpg",
+    "author": "Elghol",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "damietta": {
+    "file": "governorate-damietta",
+    "alt": {
+      "en": "Nile-side urban landscape in Damietta",
+      "ar": "العمران على النيل في دمياط"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:%D8%B7%D8%B1%D9%8A%D9%82_%D8%A5%D9%84%D9%89_%D9%85%D8%A8%D9%86%D9%89_%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A9_%D8%AF%D9%85%D9%8A%D8%A7%D8%B7.JPG",
+    "author": "Mohamed Eissa",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "ras-el-barr": {
+    "file": "atlas-ras-el-barr",
+    "alt": {
+      "en": "Ras El Bar lighthouse at night",
+      "ar": "فنار رأس البر بالليل"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:%D9%81%D9%86%D8%A7%D8%B1_%D8%B1%D8%A7%D8%B3_%D8%A7%D9%84%D8%A8%D8%B1_%D8%A8%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A9_%D8%AF%D9%85%D9%8A%D8%A7%D8%B7.jpg",
+    "author": "Mohamedwardany",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "amr-ibn-al-as-mosque-damietta": {
+    "file": "atlas-amr-ibn-al-as-mosque-damietta",
+    "alt": {
+      "en": "Facade of the Amr ibn al-As Mosque in Damietta",
+      "ar": "واجهة جامع عمرو بن العاص بدمياط"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:DumyatElAsMosqueFacade.jpg",
+    "author": "Roland Unger",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "mansoura-egypt": {
+    "file": "governorate-dakahlia",
+    "alt": {
+      "en": "A small boat at Mansoura",
+      "ar": "مركب صغير في المنصورة"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Mansoura,_Mansoura_Qism_2,_Mansoura,_Dakahlia_Governorate,_Egypt_-_panoramio_(1).jpg",
+    "author": "youssef_alam",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "zagazig": {
+    "file": "governorate-sharqia",
+    "alt": {
+      "en": "A waterway in Zagazig",
+      "ar": "مجرى مائي في الزقازيق"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Zagazig,_El-Hariry,_Qesm_Awal_AZ_Zagazig,_Ash_Sharqia_Governorate,_Egypt_-_panoramio_(1).jpg",
+    "author": "Ameer Attia",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "bubastis": {
+    "file": "atlas-bubastis",
+    "alt": {
+      "en": "The archaeological remains of Bubastis",
+      "ar": "الآثار الباقية في تل بسطة"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Bubastis_011.JPG",
+    "author": "Einsamer Schütze",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "tanis": {
+    "file": "atlas-tanis",
+    "alt": {
+      "en": "Ruins at Tanis",
+      "ar": "آثار صان الحجر"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Ruins_of_Tanis.jpg",
+    "author": "Original uploader was Markh at en.wikipedia",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "bilbeis": {
+    "file": "atlas-bilbeis",
+    "alt": {
+      "en": "A waterway and buildings in Bilbeis",
+      "ar": "مجرى مائي ومبانٍ في بلبيس"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Belbeis_(2).jpg",
+    "author": "The original uploader was Alfaris88 at Arabic Wikipedia .",
+    "license": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "tanta": {
+    "file": "governorate-gharbia",
+    "alt": {
+      "en": "Al Bahr Street in Tanta",
+      "ar": "شارع البحر في طنطا"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Tanta-1.jpg",
+    "author": "Faris knight",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "el-mahalla-el-kubra": {
+    "file": "atlas-el-mahalla-el-kubra",
+    "alt": {
+      "en": "A mural at the entrance to El Mahalla El Kubra",
+      "ar": "جدارية على مدخل المحلة الكبرى"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:El-Mahalla_El-Kubra-art.JPG",
+    "author": "Faris El-Gwely",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "ahmad-al-badawi-mosque": {
+    "file": "atlas-ahmad-al-badawi-mosque",
+    "alt": {
+      "en": "Shrine of Ahmad al-Badawi inside his mosque in Tanta, photographed in 2012",
+      "ar": "ضريح السيد أحمد البدوي جوه جامعه في طنطا، صورة سنة 2012"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Grave_of_Ahmad_al-Badawi.jpg",
+    "author": "Jonathan A.C. Brown",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "samannud": {
+    "file": "atlas-samannud",
+    "alt": {
+      "en": "The riverbank at Samannud",
+      "ar": "ضفة النيل في سمنود"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:SamannudNileBank.jpg",
+    "author": "Roland Unger",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "shibin-el-kom": {
+    "file": "governorate-monufia",
+    "alt": {
+      "en": "Omar Afandi Bridge in Shibin El Kom",
+      "ar": "كوبري عمر أفندي في شبين الكوم"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:%D9%83%D9%88%D8%A8%D8%B1%D9%8A_%D8%B9%D9%85%D8%B1_%D8%A7%D9%81%D9%86%D8%AF%D9%8A.jpg",
+    "author": "himoz: https://www.panoramio.com/user/1547621?with_photo_id=8875725",
+    "license": "FAL",
+    "licenseUrl": "http://artlibre.org/licence/lal/en",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "menouf": {
+    "file": "atlas-menouf",
+    "alt": {
+      "en": "A monument in Menouf",
+      "ar": "نصب تذكاري في منوف"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Menouf-1.jpg",
+    "author": "Faris knight",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "buto": {
+    "file": "governorate-kafr-el-sheikh",
+    "alt": {
+      "en": "Mud-brick remains at Buto near Desouk",
+      "ar": "بقايا مبانٍ بالطوب اللبن في تل الفراعين قرب دسوق"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Ruins_of_mudbrick_buildings_on_the_northern_mound_of_Buto-Desouk.jpg",
+    "author": "Faris knight",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "lake-burullus": {
+    "file": "atlas-lake-burullus",
+    "alt": {
+      "en": "A rainbow over Lake Burullus",
+      "ar": "قوس قزح فوق بحيرة البرلس"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Burullus_Lake-Nature001.jpg",
+    "author": "Ibrahimmaz",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "fuwwah": {
+    "file": "atlas-fuwwah",
+    "alt": {
+      "en": "Historic tarboosh-factory buildings in Fuwwah",
+      "ar": "مباني مصنع الطرابيش التاريخي في فوه"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:%D9%85%D8%B5%D9%86%D8%B9_%D8%B7%D8%B1%D8%A7%D8%A8%D9%8A%D8%B4_%D8%A7%D9%84%D9%85%D9%84%D9%83_%D9%85%D8%AD%D9%85%D8%AF_%D8%B9%D9%84%D9%89_%D8%A8%D8%A7%D8%B4%D8%A7.jpg",
+    "author": "Ayman salahe",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "rosetta": {
+    "file": "governorate-beheira",
+    "alt": {
+      "en": "A view over Rosetta and the museum garden",
+      "ar": "منظر لرشيد وجنينة المتحف"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:RashidNorth.jpg",
+    "author": "Roland Unger",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "wadi-el-natrun": {
+    "file": "atlas-wadi-el-natrun",
+    "alt": {
+      "en": "The Syriac Monastery in Wadi El Natrun",
+      "ar": "دير السريان في وادي النطرون"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Deir_as_Suriani.jpg",
+    "author": "Lumen roma",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "damanhur": {
+    "file": "atlas-damanhur",
+    "alt": {
+      "en": "Damanhur at night",
+      "ar": "دمنهور بالليل"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Damanhour_at_Night.jpg",
+    "author": "Mohammed Moussa",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "monastery-of-saint-macarius-the-great": {
+    "file": "atlas-monastery-of-saint-macarius-the-great",
+    "alt": {
+      "en": "The Monastery of Saint Macarius in Wadi El Natrun",
+      "ar": "دير الأنبا مقار في وادي النطرون"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Macarius_Kloster_BW_1.jpg",
+    "author": "Berthold Werner",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "port-said-lighthouse": {
+    "file": "governorate-port-said",
+    "alt": {
+      "en": "Port Said Lighthouse",
+      "ar": "فنار بورسعيد"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Egypt-IMG_0960.jpg",
+    "author": "Michael Tyler",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "port-fuad": {
+    "file": "atlas-port-fuad",
+    "alt": {
+      "en": "Port Fuad viewed from the Port Said side of the canal",
+      "ar": "بورفؤاد من ناحية بورسعيد على القناة"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Port_Fouad.JPG",
+    "author": "See below",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "port-said": {
+    "file": "atlas-port-said",
+    "alt": {
+      "en": "A street in historic Port Said",
+      "ar": "شارع في بورسعيد القديمة"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Port_Said,_Egypt,_Street.jpg",
+    "author": "Vyacheslav Argenberg",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "suez": {
+    "file": "governorate-suez",
+    "alt": {
+      "en": "A view of Suez from the water",
+      "ar": "منظر لمدينة السويس من الميه"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:EG-suez-20-bg-suez.jpg",
+    "author": "Balou46",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "ain-sokhna": {
+    "file": "atlas-ain-sokhna",
+    "alt": {
+      "en": "Porto Sokhna resort buildings",
+      "ar": "مباني منتجع بورتو السخنة"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Ain_sokhna_porto.jpg",
+    "author": "Ahmadpontymageed",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "suez-port": {
+    "file": "atlas-suez-port",
+    "alt": {
+      "en": "A ship docked at Suez Port, photographed in 2006",
+      "ar": "سفينة راسية في ميناء السويس، صورة سنة 2006"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Al_Salam_Carducci_82.JPG",
+    "author": "Amr Fayez (TheEgyptian)",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "ismailia": {
+    "file": "governorate-ismailia",
+    "alt": {
+      "en": "A canal-side view of Ismailia",
+      "ar": "منظر للإسماعيلية من ناحية القناة"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:EG-suez-13-bg-ismailia.jpg",
+    "author": "Balou46",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "lake-timsah": {
+    "file": "atlas-lake-timsah",
+    "alt": {
+      "en": "Ismailia beside Lake Timsah",
+      "ar": "الإسماعيلية على بحيرة التمساح"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Ismailia_and_Timsah_lake_-_panoramio.jpg",
+    "author": "Banja-Frans Mulder",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "great-bitter-lake": {
+    "file": "atlas-great-bitter-lake",
+    "alt": {
+      "en": "NASA orbital view of Great Bitter Lake",
+      "ar": "صورة مدارية من ناسا للبحيرة المرة الكبرى"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Great_Bitter_Lake,_Egypt.jpg",
+    "author": "This image was taken by the NASA Expedition 20 crew.",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "arish": {
+    "file": "governorate-north-sinai",
+    "alt": {
+      "en": "Palm trees beside the Mediterranean at El Arish",
+      "ar": "نخيل جنب المتوسط في العريش"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:%D9%86%D8%AE%D9%8A%D9%84_%D8%A7%D9%84%D8%B9%D8%B1%D9%8A%D8%B4.jpg",
+    "author": "Hesham Farouk Ragab",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "lake-bardawil": {
+    "file": "atlas-lake-bardawil",
+    "alt": {
+      "en": "NASA satellite image of Lake Bardawil",
+      "ar": "صورة من ناسا لبحيرة البردويل"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Egypt.A2003036.0840.jpg",
+    "author": "NASA",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "wadi-al-hitan": {
+    "file": "governorate-fayoum",
+    "alt": {
+      "en": "Whale fossils in Wadi El Hitan",
+      "ar": "حفريات حيتان في وادي الحيتان"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:The_whales_fossils_at_Wadi_El-Hitan,_Egypt_2017.jpg",
+    "author": "AhmedMosaad",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "wadi-el-rayan": {
+    "file": "atlas-wadi-el-rayan",
+    "alt": {
+      "en": "Wadi El Rayan's lake and desert landscape",
+      "ar": "البحيرة والطبيعة الصحراوية في وادي الريان"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Wadi_El-Rayyan,_Fayoum,_Egypt_(3).jpg",
+    "author": "Mohamed Ouda",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "meidum": {
+    "file": "governorate-beni-suef",
+    "alt": {
+      "en": "The pyramid at Meidum",
+      "ar": "هرم ميدوم"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Meidoum03.jpg",
+    "author": "Kurohito",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "beni-suef": {
+    "file": "atlas-beni-suef",
+    "alt": {
+      "en": "Beni Suef University buildings",
+      "ar": "مباني جامعة بني سويف"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Beni-Suef_University_main_bldg.jpg",
+    "author": "Ahmed Sayed Abdel-Moneim",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "sannur-cave": {
+    "file": "atlas-sannur-cave",
+    "alt": {
+      "en": "Inside Sannur Cave",
+      "ar": "من داخل كهف سنور"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Sannur_Cave.jpg",
+    "author": "Ayman F. Khalil",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "beni-hasan": {
+    "file": "governorate-minya",
+    "alt": {
+      "en": "Rock-cut tombs at Beni Hasan",
+      "ar": "مقابر بني حسن الصخرية"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Exterior_view_of_tombs_of_Khety_and_Barquet_III.JPG",
+    "author": "Markh at English Wikipedia",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "amarna": {
+    "file": "atlas-amarna",
+    "alt": {
+      "en": "The Small Aten Temple at Amarna",
+      "ar": "معبد آتون الصغير في تل العمارنة"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Small_aten_temple.jpg",
+    "author": "en:User:Markh",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "hermopolis": {
+    "file": "atlas-hermopolis",
+    "alt": {
+      "en": "Basilica remains at Hermopolis, El Ashmunein",
+      "ar": "بقايا البازيليكا في الأشمونين"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:AshmuneinBasilica.jpg",
+    "author": "Roland Unger",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "asyut": {
+    "file": "governorate-assiut",
+    "alt": {
+      "en": "Taggart Library at El Salam College in Assiut",
+      "ar": "مكتبة تاجارت في كلية السلام بأسيوط"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:AsyutSalamTaggatLibrary.jpg",
+    "author": "Roland Unger",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "deir-el-muharraq": {
+    "file": "atlas-deir-el-muharraq",
+    "alt": {
+      "en": "Garden and inner gate at Deir el-Muharraq",
+      "ar": "الجنينة والبوابة الداخلية في دير المحرق"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:DeirMuharraqMainGateInside.jpg",
+    "author": "Roland Unger",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "abydos-egypt": {
+    "file": "governorate-sohag",
+    "alt": {
+      "en": "The facade of Seti I's temple at Abydos",
+      "ar": "واجهة معبد سيتي الأول في أبيدوس"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:AbydosFacade.jpg",
+    "author": "Roland Unger",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "white-monastery": {
+    "file": "atlas-white-monastery",
+    "alt": {
+      "en": "The White Monastery courtyard",
+      "ar": "ساحة الدير الأبيض"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:WhiteMonasteryCourtEast.jpg",
+    "author": "Roland Unger",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "red-monastery": {
+    "file": "atlas-red-monastery",
+    "alt": {
+      "en": "The Red Monastery courtyard",
+      "ar": "ساحة الدير الأحمر"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:RedMonasteryCourt.jpg",
+    "author": "Roland Unger",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "dendera-temple-complex": {
+    "file": "governorate-qena",
+    "alt": {
+      "en": "Hathor's temple at Dendera",
+      "ar": "معبد حتحور في دندرة"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Dendera_7_977.PNG",
+    "author": "Ijanderson977",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "qena": {
+    "file": "atlas-qena",
+    "alt": {
+      "en": "A city street in Qena",
+      "ar": "شارع في مدينة قنا"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:%D9%82%D9%86%D8%A7_2013.jpg",
+    "author": "Ahmed Abd Elghafar",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "qift": {
+    "file": "atlas-qift",
+    "alt": {
+      "en": "A view in Qift",
+      "ar": "منظر في قفط"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Madinet_Qaft,_Qift,_Qena_Governorate,_Egypt_-_panoramio_(3).jpg",
+    "author": "Максим Улитин",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "qus": {
+    "file": "atlas-qus",
+    "alt": {
+      "en": "A Fatimid tomb beside the Amri Mosque at Qus",
+      "ar": "ضريح فاطمي جنب الجامع العمري في قوص"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:QusFatimidTomb.jpg",
+    "author": "Roland Unger",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "kharga-oasis": {
+    "file": "governorate-new-valley",
+    "alt": {
+      "en": "The Temple of Hibis in Kharga Oasis",
+      "ar": "معبد هيبس في واحة الخارجة"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Temple_of_Hibis.jpg",
+    "author": "ASartan",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "dakhla-oasis": {
+    "file": "atlas-dakhla-oasis",
+    "alt": {
+      "en": "The historic settlement landscape of Dakhla Oasis",
+      "ar": "منظر للتجمعات التاريخية في واحة الداخلة"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Dakhla_Oasis_view_(May_2007).jpg",
+    "author": "Vyacheslav Argenberg",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "white-desert-national-park": {
+    "file": "atlas-white-desert-national-park",
+    "alt": {
+      "en": "A chalk formation in the White Desert",
+      "ar": "تكوين طباشيري في الصحراء البيضاء"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Al_Farafrah,_New_Valley_Governorate,_Egypt_-_panoramio_(21).jpg",
+    "author": "L-BBE",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "siwa-oasis": {
+    "file": "governorate-matrouh",
+    "alt": {
+      "en": "Sunrise from Gebel Dakrour in Siwa",
+      "ar": "شروق من جبل الدكرور في سيوة"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:%D9%8A%D9%88%D9%85_%D8%AC%D8%AF%D9%8A%D8%AF.jpg",
+    "author": "Adelbayoumi",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "el-alamein": {
+    "file": "atlas-el-alamein",
+    "alt": {
+      "en": "Outdoor exhibits at El Alamein Military Museum",
+      "ar": "معروضات خارجية في متحف العلمين الحربي"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Museum_at_El_Alamein_-_Flickr_-_heatheronhertravels_(10).jpg",
+    "author": "Heather Cowper from Bristol, UK",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "changes": "Resized and converted to WebP; layout crop"
+  },
+  "marsa-matrouh": {
+    "file": "atlas-marsa-matrouh",
+    "alt": {
+      "en": "The coast at Marsa Matrouh",
+      "ar": "ساحل مرسى مطروح"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:20191112_165747jpg.jpg",
+    "author": "Imannaguib7",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Resized and converted to WebP; layout crop"
   }
 }

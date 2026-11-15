@@ -644,5 +644,692 @@
     "source_basis": [
       "https://egymonuments.gov.eg/en/monuments/bab-zuwayla/"
     ]
+  },
+  "banha": {
+    "governorate": "qalyubia",
+    "vibes": [
+      "city"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://en.wikipedia.org/wiki/Banha",
+      "https://sis.gov.eg/en/egypt/system-of-government/executive-authority/qalyubia/"
+    ]
+  },
+  "el-qanater-el-khayreya": {
+    "governorate": "qalyubia",
+    "vibes": [
+      "city"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://en.wikipedia.org/wiki/El_Qanater_El_Khayreya",
+      "https://sis.gov.eg/en/egypt/system-of-government/executive-authority/qalyubia/"
+    ]
+  },
+  "damietta": {
+    "governorate": "damietta",
+    "vibes": [
+      "city"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://en.wikipedia.org/wiki/Damietta",
+      "https://sis.gov.eg/Story/26537"
+    ]
+  },
+  "ras-el-barr": {
+    "governorate": "damietta",
+    "vibes": [
+      "sea",
+      "relaxing"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://en.wikipedia.org/wiki/Ras_el-Barr",
+      "https://sis.gov.eg/Story/26537"
+    ]
+  },
+  "amr-ibn-al-as-mosque-damietta": {
+    "governorate": "damietta",
+    "vibes": [
+      "historic"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://en.wikipedia.org/wiki/Amr_ibn_al-As_Mosque_(Damietta)",
+      "https://sis.gov.eg/Story/26537"
+    ]
+  },
+  "mansoura-egypt": {
+    "governorate": "dakahlia",
+    "vibes": [
+      "city"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://en.wikipedia.org/wiki/Mansoura,_Egypt",
+      "https://www.sis.gov.eg/Story/68563/Dakahlia-Governorate"
+    ]
+  },
+  "zagazig": {
+    "governorate": "sharqia",
+    "vibes": [
+      "city"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://en.wikipedia.org/wiki/Zagazig",
+      "https://www.sis.gov.eg/Story/68564?lang=en-us"
+    ]
+  },
+  "bubastis": {
+    "governorate": "sharqia",
+    "vibes": [
+      "historic"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://en.wikipedia.org/wiki/Bubastis",
+      "https://www.sis.gov.eg/Story/68564?lang=en-us"
+    ]
+  },
+  "tanis": {
+    "governorate": "sharqia",
+    "vibes": [
+      "historic"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://en.wikipedia.org/wiki/Tanis",
+      "https://www.sis.gov.eg/Story/68564?lang=en-us"
+    ]
+  },
+  "bilbeis": {
+    "governorate": "sharqia",
+    "vibes": [
+      "city"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://en.wikipedia.org/wiki/Bilbeis",
+      "https://www.sis.gov.eg/Story/68564?lang=en-us"
+    ]
+  },
+  "tanta": {
+    "governorate": "gharbia",
+    "vibes": [
+      "city"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://en.wikipedia.org/wiki/Tanta",
+      "https://sis.gov.eg/Story/181712/Gharbia-Governorate?lang=en-us"
+    ]
+  },
+  "el-mahalla-el-kubra": {
+    "governorate": "gharbia",
+    "vibes": [
+      "city"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://en.wikipedia.org/wiki/El_Mahalla_El_Kubra",
+      "https://sis.gov.eg/Story/181712/Gharbia-Governorate?lang=en-us"
+    ]
+  },
+  "ahmad-al-badawi-mosque": {
+    "governorate": "gharbia",
+    "vibes": [
+      "historic"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://en.wikipedia.org/wiki/Ahmad_al-Badawi_Mosque",
+      "https://sis.gov.eg/Story/181712/Gharbia-Governorate?lang=en-us"
+    ]
+  },
+  "samannud": {
+    "governorate": "gharbia",
+    "vibes": [
+      "city"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://en.wikipedia.org/wiki/Samannud",
+      "https://sis.gov.eg/Story/181712/Gharbia-Governorate?lang=en-us"
+    ]
+  },
+  "shibin-el-kom": {
+    "governorate": "monufia",
+    "vibes": [
+      "city"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://en.wikipedia.org/wiki/Shibin_El_Kom",
+      "https://sis.gov.eg/Story/180527/Menofia-Governorate?lang=en-us"
+    ]
+  },
+  "menouf": {
+    "governorate": "monufia",
+    "vibes": [
+      "city"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://en.wikipedia.org/wiki/Menouf",
+      "https://sis.gov.eg/Story/180527/Menofia-Governorate?lang=en-us"
+    ]
+  },
+  "buto": {
+    "governorate": "kafr-el-sheikh",
+    "vibes": [
+      "historic"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://en.wikipedia.org/wiki/Buto",
+      "https://sis.gov.eg/Story/180185/Kafr-El-Sheikh-Governorate?lang=en-us"
+    ]
+  },
+  "lake-burullus": {
+    "governorate": "kafr-el-sheikh",
+    "vibes": [
+      "nature"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://en.wikipedia.org/wiki/Lake_Burullus",
+      "https://sis.gov.eg/Story/180185/Kafr-El-Sheikh-Governorate?lang=en-us"
+    ]
+  },
+  "fuwwah": {
+    "governorate": "kafr-el-sheikh",
+    "vibes": [
+      "city"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://en.wikipedia.org/wiki/Fuwwah",
+      "https://sis.gov.eg/Story/180185/Kafr-El-Sheikh-Governorate?lang=en-us"
+    ]
+  },
+  "rosetta": {
+    "governorate": "beheira",
+    "vibes": [
+      "city"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://en.wikipedia.org/wiki/Rosetta",
+      "https://www.sis.gov.eg/Story/170578/Beheira-Governorate?lang=en-us"
+    ]
+  },
+  "wadi-el-natrun": {
+    "governorate": "beheira",
+    "vibes": [
+      "nature"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://en.wikipedia.org/wiki/Wadi_El_Natrun",
+      "https://www.sis.gov.eg/Story/170578/Beheira-Governorate?lang=en-us"
+    ]
+  },
+  "damanhur": {
+    "governorate": "beheira",
+    "vibes": [
+      "city"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://en.wikipedia.org/wiki/Damanhur",
+      "https://www.sis.gov.eg/Story/170578/Beheira-Governorate?lang=en-us"
+    ]
+  },
+  "monastery-of-saint-macarius-the-great": {
+    "governorate": "beheira",
+    "vibes": [
+      "historic"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://en.wikipedia.org/wiki/Monastery_of_Saint_Macarius_the_Great",
+      "https://www.sis.gov.eg/Story/170578/Beheira-Governorate?lang=en-us"
+    ]
+  },
+  "port-said-lighthouse": {
+    "governorate": "port-said",
+    "vibes": [
+      "historic"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://en.wikipedia.org/wiki/Port_Said_Lighthouse",
+      "https://sis.gov.eg/Story/68561/Port-Said-Governorate?lang=en-us"
+    ]
+  },
+  "port-fuad": {
+    "governorate": "port-said",
+    "vibes": [
+      "city"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://en.wikipedia.org/wiki/Port_Fuad",
+      "https://sis.gov.eg/Story/68561/Port-Said-Governorate?lang=en-us"
+    ]
+  },
+  "port-said": {
+    "governorate": "port-said",
+    "vibes": [
+      "city"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://en.wikipedia.org/wiki/Port_Said",
+      "https://sis.gov.eg/Story/68561/Port-Said-Governorate?lang=en-us"
+    ]
+  },
+  "suez": {
+    "governorate": "suez",
+    "vibes": [
+      "city"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://en.wikipedia.org/wiki/Suez",
+      "https://www.sis.gov.eg/Story/168167/Suez-Governorate?lang=en-us"
+    ]
+  },
+  "ain-sokhna": {
+    "governorate": "suez",
+    "vibes": [
+      "sea",
+      "relaxing"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://en.wikipedia.org/wiki/Ain_Sokhna",
+      "https://www.sis.gov.eg/Story/168167/Suez-Governorate?lang=en-us"
+    ]
+  },
+  "suez-port": {
+    "governorate": "suez",
+    "vibes": [
+      "city"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://en.wikipedia.org/wiki/Suez_Port",
+      "https://www.sis.gov.eg/Story/168167/Suez-Governorate?lang=en-us"
+    ]
+  },
+  "ismailia": {
+    "governorate": "ismailia",
+    "vibes": [
+      "city"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://en.wikipedia.org/wiki/Ismailia",
+      "https://www.sis.gov.eg/Story/172210/Ismailia-Governorate?lang=en-us"
+    ]
+  },
+  "lake-timsah": {
+    "governorate": "ismailia",
+    "vibes": [
+      "nature"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://en.wikipedia.org/wiki/Lake_Timsah",
+      "https://www.sis.gov.eg/Story/172210/Ismailia-Governorate?lang=en-us"
+    ]
+  },
+  "great-bitter-lake": {
+    "governorate": "ismailia",
+    "vibes": [
+      "nature"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://en.wikipedia.org/wiki/Great_Bitter_Lake",
+      "https://www.sis.gov.eg/Story/172210/Ismailia-Governorate?lang=en-us"
+    ]
+  },
+  "arish": {
+    "governorate": "north-sinai",
+    "vibes": [
+      "city"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://en.wikipedia.org/wiki/Arish",
+      "https://www.sis.gov.eg/Story/171927/North-Sinai?lang=en"
+    ]
+  },
+  "lake-bardawil": {
+    "governorate": "north-sinai",
+    "vibes": [
+      "nature"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://en.wikipedia.org/wiki/Lake_Bardawil",
+      "https://www.sis.gov.eg/Story/171927/North-Sinai?lang=en"
+    ]
+  },
+  "wadi-al-hitan": {
+    "governorate": "fayoum",
+    "vibes": [
+      "nature"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://en.wikipedia.org/wiki/Wadi_al_Hitan",
+      "https://www.sis.gov.eg/Story/68572"
+    ]
+  },
+  "wadi-el-rayan": {
+    "governorate": "fayoum",
+    "vibes": [
+      "nature"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://en.wikipedia.org/wiki/Wadi_El_Rayan",
+      "https://www.sis.gov.eg/Story/68572"
+    ]
+  },
+  "meidum": {
+    "governorate": "beni-suef",
+    "vibes": [
+      "historic"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://en.wikipedia.org/wiki/Meidum",
+      "https://beta.sis.gov.eg/en/egypt/political-system/executive-authority/beni-suef/"
+    ]
+  },
+  "beni-suef": {
+    "governorate": "beni-suef",
+    "vibes": [
+      "city"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://en.wikipedia.org/wiki/Beni_Suef",
+      "https://beta.sis.gov.eg/en/egypt/political-system/executive-authority/beni-suef/"
+    ]
+  },
+  "sannur-cave": {
+    "governorate": "beni-suef",
+    "vibes": [
+      "nature"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://en.wikipedia.org/wiki/Sannur_Cave",
+      "https://beta.sis.gov.eg/en/egypt/political-system/executive-authority/beni-suef/"
+    ]
+  },
+  "beni-hasan": {
+    "governorate": "minya",
+    "vibes": [
+      "historic"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://en.wikipedia.org/wiki/Beni_Hasan",
+      "https://tourism.minya.gov.eg/about-us"
+    ]
+  },
+  "amarna": {
+    "governorate": "minya",
+    "vibes": [
+      "historic"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://en.wikipedia.org/wiki/Amarna",
+      "https://tourism.minya.gov.eg/about-us"
+    ]
+  },
+  "hermopolis": {
+    "governorate": "minya",
+    "vibes": [
+      "historic"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://en.wikipedia.org/wiki/Hermopolis",
+      "https://tourism.minya.gov.eg/about-us"
+    ]
+  },
+  "asyut": {
+    "governorate": "asyut",
+    "vibes": [
+      "city"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://en.wikipedia.org/wiki/Asyut",
+      "https://www.sis.gov.eg/Story/180455/Assiut-Governorate?lang=en-us"
+    ]
+  },
+  "deir-el-muharraq": {
+    "governorate": "asyut",
+    "vibes": [
+      "city"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://en.wikipedia.org/wiki/Deir_el-Muharraq",
+      "https://www.sis.gov.eg/Story/180455/Assiut-Governorate?lang=en-us"
+    ]
+  },
+  "abydos-egypt": {
+    "governorate": "sohag",
+    "vibes": [
+      "historic"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://en.wikipedia.org/wiki/Abydos,_Egypt",
+      "https://www.sis.gov.eg/Story/68574/Sohag-Governorate"
+    ]
+  },
+  "white-monastery": {
+    "governorate": "sohag",
+    "vibes": [
+      "historic"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://en.wikipedia.org/wiki/White_Monastery",
+      "https://www.sis.gov.eg/Story/68574/Sohag-Governorate"
+    ]
+  },
+  "red-monastery": {
+    "governorate": "sohag",
+    "vibes": [
+      "historic"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://en.wikipedia.org/wiki/Red_Monastery",
+      "https://www.sis.gov.eg/Story/68574/Sohag-Governorate"
+    ]
+  },
+  "dendera-temple-complex": {
+    "governorate": "qena",
+    "vibes": [
+      "historic"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://en.wikipedia.org/wiki/Dendera_temple_complex",
+      "https://sis.gov.eg/Story/181555/Qena-governorate?lang=en-us"
+    ]
+  },
+  "qena": {
+    "governorate": "qena",
+    "vibes": [
+      "city"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://en.wikipedia.org/wiki/Qena",
+      "https://sis.gov.eg/Story/181555/Qena-governorate?lang=en-us"
+    ]
+  },
+  "qift": {
+    "governorate": "qena",
+    "vibes": [
+      "city"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://en.wikipedia.org/wiki/Qift",
+      "https://sis.gov.eg/Story/181555/Qena-governorate?lang=en-us"
+    ]
+  },
+  "qus": {
+    "governorate": "qena",
+    "vibes": [
+      "city"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://en.wikipedia.org/wiki/Qus",
+      "https://sis.gov.eg/Story/181555/Qena-governorate?lang=en-us"
+    ]
+  },
+  "kharga-oasis": {
+    "governorate": "new-valley",
+    "vibes": [
+      "nature"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://en.wikipedia.org/wiki/Kharga_Oasis",
+      "https://beta.sis.gov.eg/en/egypt/political-system/executive-authority/new-valley/"
+    ]
+  },
+  "dakhla-oasis": {
+    "governorate": "new-valley",
+    "vibes": [
+      "nature"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://en.wikipedia.org/wiki/Dakhla_Oasis",
+      "https://beta.sis.gov.eg/en/egypt/political-system/executive-authority/new-valley/"
+    ]
+  },
+  "white-desert-national-park": {
+    "governorate": "new-valley",
+    "vibes": [
+      "nature"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://en.wikipedia.org/wiki/White_Desert_National_Park",
+      "https://beta.sis.gov.eg/en/egypt/political-system/executive-authority/new-valley/"
+    ]
+  },
+  "siwa-oasis": {
+    "governorate": "matrouh",
+    "vibes": [
+      "nature"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://en.wikipedia.org/wiki/Siwa_Oasis",
+      "https://www.sis.gov.eg/Story/1145/Siwa?lang=en-us"
+    ]
+  },
+  "el-alamein": {
+    "governorate": "matrouh",
+    "vibes": [
+      "historic"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://en.wikipedia.org/wiki/El_Alamein",
+      "https://www.sis.gov.eg/Story/1145/Siwa?lang=en-us"
+    ]
+  },
+  "marsa-matrouh": {
+    "governorate": "matrouh",
+    "vibes": [
+      "sea",
+      "relaxing"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://en.wikipedia.org/wiki/Marsa_Matrouh",
+      "https://www.sis.gov.eg/Story/1145/Siwa?lang=en-us"
+    ]
   }
 }

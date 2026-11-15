@@ -13,3 +13,5 @@ export const placeMetadata=(place:Place)=>placeIndex[place.id];
 export type Source={url:string;label?:string;checkedAt?:string};
 export type ArticleSection={title?:Bilingual;body:Bilingual;sources:Source[];photoId?:string};
 export type PlaceArticle={history?:ArticleSection;see?:ArticleSection;nearby?:ArticleSection;buy?:ArticleSection;eat?:ArticleSection;wear?:ArticleSection;weather?:ArticleSection;forecastUrl?:string;nearbyPlaceIds?:string[]};
+
+export const placeArea=(p:Place)=>{const g=governorateById(placeIndex[p.id]?.governorate);return g?{name:g.name,path:"/governorates/"+g.id+"/"}:{name:{ar:p.destination,en:p.destination},path:"/destinations/"+p.destination+"/"}};
