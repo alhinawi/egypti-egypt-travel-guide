@@ -35,6 +35,12 @@ Set the D1 binding `DB` and apply `migrations/0001_initial.sql`. Set `APP_ORIGIN
 
 The `_routes.json` file restricts Function invocation to `/api/*`. Static pages remain directly served. The Hono worker also supports an assets fallback.
 
+## Admin dashboard and themes
+
+`/admin/` is a read-only control dashboard (overview, places status, themes, health checks, quick links). Access is checked on the server: the Google-signed-in account email must be in `ADMIN_EMAILS` (comma-separated, set in `wrangler.jsonc` vars or as a Pages variable). Everyone else gets 401 or 403 from `/api/admin/*`. No database change is needed.
+
+There are 18 themes in `src/lib/themes.ts`. After editing them run `node --import tsx scripts/gen-themes.mjs` to regenerate `src/app/themes.css`. `tests/themes.test.ts` checks text contrast for every theme. Theme choices are saved per device in localStorage (`egypti:theme` for the site, `egypti:admin-theme` for the dashboard).
+
 ## Deliberate limits
 
 - No payments, internal ticket checkout, hotel bookings, user reviews or AI assistant.

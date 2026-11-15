@@ -2,7 +2,7 @@ import {Hono} from 'hono';
 import {getCookie,setCookie,deleteCookie} from 'hono/cookie';
 import {SignJWT,jwtVerify,createRemoteJWKSet} from 'jose';
 import {places,itineraries} from '../src/lib/data';
-interface Env {DB:D1Database; ASSETS:Fetcher; APP_ORIGIN:string; GOOGLE_CLIENT_ID:string; GOOGLE_CLIENT_SECRET:string; AUTH_SECRET:string;}
+interface Env {DB:D1Database; ASSETS:Fetcher; APP_ORIGIN:string; GOOGLE_CLIENT_ID:string; GOOGLE_CLIENT_SECRET:string; AUTH_SECRET:string; ADMIN_EMAILS?:string;}
 const app=new Hono<{Bindings:Env;Variables:{user:{id:string,name:string,email:string,picture:string|null}|null;sessionHash:string}}>();
 const jwks=createRemoteJWKSet(new URL('https://www.googleapis.com/oauth2/v3/certs'));
 const itemIds=new Set([...places.map(p=>'place:'+p.id),...itineraries.map(p=>'trip:'+p.id)]);
@@ -66,7 +66,19 @@ app.get('/api/auth/google/callback',async c=>{
   setCookie(c,SESSION,session,{...cookieOptions,maxAge:30*86400});return c.redirect(c.env.APP_ORIGIN+'/?auth=success');
  }catch{return fail()}
 });
-app.get('/api/me',c=>c.json({user:c.get('user')}));
+const isAdmin=(c:{env:Env;get:(k:'user')=>{email:string}|null})=>{const u=c.get('user');if(!u)return false;const list=(c.env.ADMIN_EMAILS||'').split(',').map(x=>x.trim().toLowerCase()).filter(Boolean);return list.includes(u.email.toLowerCase())};
+const mask=(e:string)=>{const[a,d]=e.split('@');return (a.slice(0,2)||'*')+'***@'+(d||'')};
+app.get('/api/me',c=>c.json({user:c.get('user'),admin:isAdmin(c)}));
+app.use('/api/admin/*',async(c,next)=>{if(!c.get('user'))return c.json({error:'Sign in required'},401);if(!isAdmin(c))return c.json({error:'Admin only'},403);await next()});
+app.get('/api/admin/overview',async c=>{
+ const db=c.env.DB,now=Date.now(),week=now-7*86400000;
+ const one=async(sql:string,...b:unknown[])=>(await db.prepare(sql).bind(...b).first<{n:number}>())?.n??0;
+ const [users,newUsers,sessions,saves,savers]=await Promise.all([one('SELECT count(*) n FROM users'),one('SELECT count(*) n FROM users WHERE created_at>?',week),one('SELECT count(*) n FROM sessions WHERE expires_at>?',now),one('SELECT count(*) n FROM saved_items'),one('SELECT count(DISTINCT user_id) n FROM saved_items')]);
+ const top=await db.prepare('SELECT item_id,count(*) n FROM saved_items GROUP BY item_id ORDER BY n DESC,item_id LIMIT 8').all<{item_id:string;n:number}>();
+ const recent=await db.prepare('SELECT name,email,created_at FROM users ORDER BY created_at DESC LIMIT 6').all<{name:string;email:string;created_at:number}>();
+ let assets=false;try{assets=(await c.env.ASSETS.fetch(new Request(c.env.APP_ORIGIN+'/ar/'))).ok}catch{}
+ return c.json({counts:{users,newUsers,sessions,saves,savers},topSaved:top.results,recentUsers:recent.results.map(r=>({name:r.name,email:mask(r.email),createdAt:r.created_at})),health:{database:true,google:configured(c.env),authSecret:Boolean(c.env.AUTH_SECRET),origin:c.env.APP_ORIGIN,adminCount:(c.env.ADMIN_EMAILS||'').split(',').filter(x=>x.trim()).length,assets},generatedAt:now});
+});
 app.post('/api/auth/logout',async c=>{if(c.get('sessionHash'))await c.env.DB.prepare('DELETE FROM sessions WHERE token_hash=?').bind(c.get('sessionHash')).run();deleteCookie(c,SESSION,{...cookieOptions});return c.json({ok:true})});
 app.get('/api/saved',async c=>{const user=c.get('user');if(!user)return c.json({error:'Sign in required'},401);const result=await c.env.DB.prepare('SELECT item_id FROM saved_items WHERE user_id=? ORDER BY created_at DESC').bind(user.id).all<{item_id:string}>();return c.json({items:result.results.map(r=>r.item_id)})});
 app.put('/api/saved',async c=>{
