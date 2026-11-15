@@ -5,7 +5,7 @@ import{places,destinations,itineraries,categoryNames,checkedAt}from'@/lib/data';
 import{placePhotos,photoPath}from'@/lib/photos';
 import{mediaStatus}from'@/lib/media-status';
 import maps from'@/lib/maps.json';
-import{themes,isTheme,SITE_KEY,ADMIN_KEY,type Theme}from'@/lib/themes';
+import{themes,isTheme,SITE_KEY,ADMIN_KEY,DEFAULT_THEME,type Theme}from'@/lib/themes';
 import'../app/admin.css';
 type User={id:string;name:string;email:string;picture:string|null};
 type Overview={counts:{users:number;newUsers:number;sessions:number;saves:number;savers:number};topSaved:{item_id:string;n:number}[];recentUsers:{name:string;email:string;createdAt:number}[];health:{database:boolean;google:boolean;authSecret:boolean;origin:string;adminCount:number;assets:boolean};generatedAt:number};
@@ -17,8 +17,8 @@ const vars=(t:Theme)=>({'--page':t.page,'--paper':t.paper,'--ink':t.ink,'--muted
 const read=(k:string,d:string)=>{try{const v=localStorage.getItem(k);return isTheme(v)?v:d}catch{return d}};
 const label=(id:string)=>{const[k,v]=id.split(':');if(k==='place'){const p=places.find(x=>x.id===v);return p?p.name.ar:id}const t=itineraries.find(x=>x.id===v);return t?t.title.ar:id};
 export function Admin(){
- const[gate,setGate]=useState<Gate>('loading'),[user,setUser]=useState<User|null>(null),[data,setData]=useState<Overview|null>(null),[theme,setTheme]=useState('cairo-night'),[siteTheme,setSiteTheme]=useState('ivory'),[loadErr,setLoadErr]=useState(false);
- useEffect(()=>{setTheme(read(ADMIN_KEY,'cairo-night'));setSiteTheme(read(SITE_KEY,'ivory'))},[]);
+ const[gate,setGate]=useState<Gate>('loading'),[user,setUser]=useState<User|null>(null),[data,setData]=useState<Overview|null>(null),[theme,setTheme]=useState('cairo-night'),[siteTheme,setSiteTheme]=useState(DEFAULT_THEME),[loadErr,setLoadErr]=useState(false);
+ useEffect(()=>{setTheme(read(ADMIN_KEY,'cairo-night'));setSiteTheme(read(SITE_KEY,DEFAULT_THEME))},[]);
  const load=useCallback(async()=>{
   setLoadErr(false);
   try{
