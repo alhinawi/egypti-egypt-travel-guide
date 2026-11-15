@@ -76,5 +76,279 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
     "changes": "resized, WebP; card crop",
     "captured": "10 October 2017"
+  },
+  "grand-egyptian-museum": {
+    "file": "grand-egyptian-museum",
+    "alt": {
+      "ar": "البهو والسلالم داخل المتحف المصري الكبير",
+      "en": "Hall and stairs inside the Grand Egyptian Museum"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Grand_Egyptian_Museum_2025.jpg",
+    "author": "Amr F.Nagy",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "changes": "resized, WebP; card crop",
+    "captured": "Date 20 December 2025 (according to Exif data)"
+  },
+  "egyptian-museum": {
+    "file": "egyptian-museum",
+    "alt": {
+      "ar": "واجهة المتحف المصري بالتحرير",
+      "en": "Facade of the Egyptian Museum in Tahrir"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Facade_of_the_Egyptian_Museum,_Tahrir_Square,_Cairo,_Egypt1.jpg",
+    "author": "Diego Delso, delso.photo",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "changes": "resized, WebP; card crop",
+    "captured": "Date 25 September 2011"
+  },
+  "khayyamiyya": {
+    "file": "khayyamiyya",
+    "alt": {
+      "ar": "مشهد من شارع الخيامية بالقاهرة",
+      "en": "A view along Al-Khayyamiyya street in Cairo"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:View_from_Khayamiya_(Tentmakers)_Street_in_Cairo_15.jpg",
+    "author": "Mo Hany.Afife",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "changes": "resized, WebP; card crop",
+    "captured": "Date 23 May 2026, 16:15:32"
+  },
+  "wikalat-al-ghuri": {
+    "file": "wikalat-al-ghuri",
+    "alt": {
+      "ar": "واجهة وكالة الغوري من الشارع",
+      "en": "Street facade of Wikalat al-Ghuri"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Wikala_al-Ghuri_street_facade.jpg",
+    "author": "Casual Builder",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "changes": "resized, WebP; card crop",
+    "captured": "Date 3 August 2011, 08:31:18"
+  },
+  "bibliotheca": {
+    "file": "bibliotheca",
+    "alt": {
+      "ar": "التصميم الداخلي لمكتبة الإسكندرية",
+      "en": "Interior architecture of Bibliotheca Alexandrina"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Bibliotiqa_Alexandria_9_edited.jpg",
+    "author": "Original: Mono Abo-Abda Derivative work: Radomianin",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "changes": "resized, WebP; card crop",
+    "captured": "Date 10 March 2018, 14:43:26"
+  },
+  "montazah": {
+    "file": "montazah",
+    "alt": {
+      "ar": "الأشجار والممرات في حدائق المنتزه",
+      "en": "Trees and paths in Montazah Gardens"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Montazah_Garden_00_(62).JPG",
+    "author": "لا روسا",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "changes": "resized, WebP; card crop",
+    "captured": "Date 7 September 2015, 12:06:51"
+  },
+  "cavafy": {
+    "file": "cavafy",
+    "alt": {
+      "ar": "المبنى الذي يضم متحف كفافيس في الإسكندرية",
+      "en": "Building housing the Cavafy Museum in Alexandria"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:AlexCavafyHouse.jpg",
+    "author": "Roland Unger",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "changes": "resized, WebP; card crop",
+    "captured": "Date 31 August 2007"
+  },
+  "antoniadis": {
+    "file": "antoniadis",
+    "alt": {
+      "ar": "قصر أنطونيادس وسط الحدائق",
+      "en": "Antoniadis Palace and its gardens"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:GD-EG-Alex-Antoniadis03.JPG",
+    "author": "Gérard Ducher",
+    "license": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5/",
+    "changes": "resized, WebP; card crop",
+    "captured": ""
+  },
+  "valley-kings": {
+    "file": "valley-kings",
+    "alt": {
+      "ar": "مدخل مقبرة رمسيس الرابع KV2 في وادي الملوك",
+      "en": "Entrance to the tomb of Ramses IV, KV2, Valley of the Kings"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Entrance_of_Ramses_IV_tomb_in_the_Valley_of_the_Kings_(KV2).jpg",
+    "author": "Strike28",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "changes": "resized, WebP; card crop",
+    "captured": "Date 13 January 2023, 08:42:20"
+  },
+  "luxor-museum": {
+    "file": "luxor-museum",
+    "alt": {
+      "ar": "مبنى متحف الأقصر من الخارج",
+      "en": "Exterior of Luxor Museum"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Luxor_Museum_2010.jpg",
+    "author": "Michiel1972",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "changes": "resized, WebP; card crop",
+    "captured": ""
+  },
+  "elephantine": {
+    "file": "elephantine",
+    "alt": {
+      "ar": "بيوت ومراكب على جزيرة إلفنتين",
+      "en": "Houses and boats on Elephantine Island"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Aswan_Elephantine_Island_R02.jpg",
+    "author": "Marc Ryckaert",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "changes": "resized, WebP; card crop",
+    "captured": "Date 12 March 2012"
+  },
+  "nubian-museum": {
+    "file": "nubian-museum",
+    "alt": {
+      "ar": "قطع أثرية معروضة داخل متحف النوبة",
+      "en": "Objects displayed inside the Nubian Museum"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Nubian_Museum,_Aswan,_Egypt,_Horses,_Argenberg.jpg",
+    "author": "Vyacheslav Argenberg",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "changes": "resized, WebP; card crop",
+    "captured": "Date 23 May 2007, 19:30:45"
+  },
+  "eel-garden": {
+    "file": "eel-garden",
+    "alt": {
+      "ar": "ثعابين البحر في موقع إيل جاردن بدهب",
+      "en": "Garden eels at Eel Garden dive site in Dahab"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:CIMG2630_Galzins_Garden_Eel_at_Eel_Garden,_Dahab,_Egypt_(2693641328).jpg",
+    "author": "Tim Sheerman-Chase",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "changes": "resized, WebP; card crop",
+    "captured": "Date 9 July 2008, 13:09"
+  },
+  "lighthouse": {
+    "file": "lighthouse",
+    "alt": {
+      "ar": "الساحل عند منطقة اللايتهاوس بدهب",
+      "en": "Coast at the Lighthouse area of Dahab"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Lighthouse_Reef,_Masbat_Bay,_Dahab_2020-03-01-1.jpg",
+    "author": "Alexey Komarov",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "changes": "resized, WebP; card crop",
+    "captured": "Date Taken on 1 March 2020, 10:28:50"
+  },
+  "friday-market": {
+    "file": "friday-market",
+    "alt": {
+      "ar": "محلات سوق المسبط بدهب، صورة سياقية وليست لسوق الجمعة نفسه",
+      "en": "Shops at Masbat Market in Dahab, a contextual photo, not Friday Market itself"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Masbat_Market_(13620142683).jpg",
+    "author": "Jorge Láscar from Melbourne, Australia",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "changes": "resized, WebP; card crop",
+    "captured": "Date Taken on 9 September 2012, 19:16",
+    "contextual": true
+  },
+  "dahab-mountains": {
+    "file": "dahab-mountains",
+    "alt": {
+      "ar": "جبال دهب وقت الغروب من المدينة",
+      "en": "Dahab mountains at sunset, viewed from town"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Dahab_Mountain_Sunset.jpg",
+    "author": "Tim Sheerman-Chase",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "changes": "resized, WebP; card crop",
+    "captured": "Date 28 September 2009, 16:56:08"
+  },
+  "giftun": {
+    "file": "giftun",
+    "alt": {
+      "ar": "جزيرة الجفتون الصغيرة من البحر",
+      "en": "Small Giftun Island viewed from the sea"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Giftun_Soraya01.JPG",
+    "author": "user:vberger",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Giftun_Soraya01.JPG",
+    "changes": "resized, WebP; card crop",
+    "captured": "Date June 2007"
+  },
+  "hurghada-marina": {
+    "file": "hurghada-marina",
+    "alt": {
+      "ar": "مدخل مارينا الغردقة",
+      "en": "Entrance to Hurghada Marina"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Hurghada_Marina_007.jpg",
+    "author": "Amr F.Nagy",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "changes": "resized, WebP; card crop",
+    "captured": "Date 8 October 2026, 17:50:28"
+  },
+  "hurghada-museum": {
+    "file": "hurghada-museum",
+    "alt": {
+      "ar": "مدخل مبنى متحف الغردقة",
+      "en": "Entrance to the Hurghada Museum building"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Hurghada_Museum_building_in_September_2023.jpg",
+    "author": "Mosbatho",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "changes": "resized, WebP; card crop",
+    "captured": "Date September 2023"
+  },
+  "hurghada-markets": {
+    "file": "hurghada-markets",
+    "alt": {
+      "ar": "محل في أحد أسواق الغردقة",
+      "en": "A shop in a Hurghada bazaar"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Hurghada_bazaar_2011.jpeg",
+    "author": "Emara",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "changes": "resized, WebP; card crop",
+    "captured": "Date 3 September 2011, 01:42:43"
+  },
+  "hurghada-desert": {
+    "file": "hurghada-desert",
+    "alt": {
+      "ar": "رحلة بالجمال في صحراء الغردقة",
+      "en": "Camel excursion in the desert near Hurghada"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Hurghada_desert_by_Hatem_Moushir_46.JPG",
+    "author": "Hatem Moushir",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "changes": "resized, WebP; card crop",
+    "captured": "Date 29 September 2014, 16:21:40"
   }
 }
