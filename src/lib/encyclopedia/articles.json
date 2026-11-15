@@ -13569,8 +13569,8 @@
   },
   "banha": {
     "see": {
-      "en": "Qalyubia's capital on the Damietta branch of the Nile.",
-      "ar": "عاصمة القليوبية على فرع دمياط من النيل.",
+      "ar": "لفتك في بنها ممكن تتمحور حوالين المدينة على فرع دمياط، وشوارعها ومشهد الجامعة. الهيئة العامة للاستعلامات بتوثق كمان العثور على تابوت حجري منقوش في شارع فريد ندا؛ المعلومة دي عن تاريخ الاكتشاف، مش إعلان عن متحف مفتوح في نفس الشارع.",
+      "en": "Explore Banha through its setting on the Damietta branch, its streets and university surroundings. The State Information Service also records the discovery of an inscribed limestone sarcophagus on Farid Nada Street. That is an archaeological discovery record, not a claim that an open museum occupies the street.",
       "sources": [
         "https://en.wikipedia.org/wiki/Banha",
         "https://sis.gov.eg/en/egypt/system-of-government/executive-authority/qalyubia/"
@@ -13611,7 +13611,14 @@
         "https://en.wikipedia.org/wiki/Banha"
       ]
     },
-    "reviewedAt": "2026-11-15"
+    "reviewedAt": "2026-11-15",
+    "history": {
+      "ar": "حكاية بنها مرتبطة بالنيل وبشبكة المواصلات في الدلتا. المدينة على الضفة الشرقية لفرع دمياط، واتحولت لنقطة مهمة في خطوط السكة الحديد الخارجة من القاهرة. ناحية شمالها موقع أتريب القديم، وده موقع أثري مختلف عن شوارع المدينة الحديثة.",
+      "en": "Banha’s story connects the Nile with the Delta’s transport network. The city stands on the east bank of the Damietta branch and became an important junction for railway lines from Cairo. Ancient Athribis lies to its north, a separate archaeological site rather than another name for the modern city.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Banha"
+      ]
+    }
   },
   "el-qanater-el-khayreya": {
     "history": {
@@ -13721,11 +13728,10 @@
   },
   "ras-el-barr": {
     "see": {
-      "en": "A Mediterranean summer resort beside the mouth of the Damietta Nile branch.",
-      "ar": "مصيف على المتوسط جنب مصب فرع دمياط.",
+      "ar": "رأس البر شبه جزيرة بين فرع دمياط والبحر المتوسط. اللسان هو نقطة التقاء المجرى بالبحر، ودليل «ادرس في مصر» بيذكر كمان شارع النيل وشاطئ النخيل والمنارة الحمراء ضمن معالم المنطقة. ممكن تقرأ المكان من ناحيتين: واجهة النهر وواجهة البحر.",
+      "en": "Ras El Bar occupies a peninsula between the Damietta branch and the Mediterranean. The Lesan area marks the river’s meeting with the sea. The Study in Egypt directory also lists Nile Street, Palm Beach and the red lighthouse among local highlights. Think of the town as having both a riverfront and a seafront.",
       "sources": [
-        "https://en.wikipedia.org/wiki/Ras_el-Barr",
-        "https://sis.gov.eg/Story/26537"
+        "https://study-in-egypt.gov.eg/places/49"
       ]
     },
     "eat": [
@@ -14286,11 +14292,10 @@
   },
   "shibin-el-kom": {
     "see": {
-      "en": "The administrative capital of Monufia Governorate.",
-      "ar": "العاصمة الإدارية لمحافظة المنوفية.",
+      "ar": "بص للمدينة من خلال شوارع المركز ومحيط الجامعة والمشهد العمراني المرتبط بالمجرى المائي. صفحة المحافظة بتكمل الصورة بحكايات المنوفية وحرفها، بينما شبين نفسها هي المركز الإداري.",
+      "en": "Read the city through its central streets, university surroundings and waterside urban setting. The governorate profile adds the wider history and crafts of Monufia, while Shibin itself is its administrative center.",
       "sources": [
-        "https://en.wikipedia.org/wiki/Shibin_El_Kom",
-        "https://sis.gov.eg/Story/180527/Menofia-Governorate?lang=en-us"
+        "https://en.wikipedia.org/wiki/Shibin_El_Kom"
       ]
     },
     "wear": [
@@ -14328,7 +14333,14 @@
         "https://en.wikipedia.org/wiki/Shibin_El_Kom"
       ]
     },
-    "reviewedAt": "2026-11-15"
+    "reviewedAt": "2026-11-15",
+    "history": {
+      "ar": "شبين الكوم مدينة قديمة في الدلتا وعاصمة المنوفية. دورها الإداري والتعليمي بقى جزء أساسي من شخصيتها: فيها المصالح الحكومية الرئيسية وفروع جامعة المنوفية. وده بيخلي حكايتها أقرب لحياة مدينة جامعة ومركز خدمات، مش لموقع أثري واحد تقدر تختصرها فيه.",
+      "en": "Shibin El Kom is a long-established Delta city and Monufia’s capital. Administration and education are central to its identity, with major government offices and branches of Menoufia University. Its story is that of a working university and service city, rather than a place defined by one archaeological monument.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Shibin_El_Kom"
+      ]
+    }
   },
   "menouf": {
     "history": {
@@ -15271,7 +15283,14 @@
         "https://en.wikipedia.org/wiki/Arish"
       ]
     },
-    "reviewedAt": "2026-11-15"
+    "reviewedAt": "2026-11-15",
+    "history": {
+      "ar": "البردويل اتسجلت كموقع رامسار رقم 407 يوم 9 سبتمبر 1988. سجل الاتفاقية بيصف بحيرتين شديدتي الملوحة متصلتين، بجزر وألسنة أرضية، وليهم دور في تكاثر الأسماك وهجرة الطيور. الوصف البيئي في السجل تاريخي، وآخر ورقة معلومات منشورة فيه راجعة لسنة 1994.",
+      "en": "Bardawil was designated Ramsar site 407 on 9 September 1988. The convention’s register describes two interconnected hypersaline lagoons with islands and peninsulas, important for fish spawning and migrating birds. The register’s ecological account is historical: its latest published information sheet dates to 1994.",
+      "sources": [
+        "https://rsis.ramsar.org/ris/407"
+      ]
+    }
   },
   "wadi-al-hitan": {
     "history": {
@@ -28241,11 +28260,10 @@
   },
   "lake-manzala": {
     "see": {
-      "en": "A large brackish coastal lagoon shared by the northeastern Delta governorates.",
-      "ar": "بحيرة ساحلية كبيرة بمياه شروب، مشتركة بين أكتر من محافظة في شمال شرق الدلتا.",
+      "ar": "المنزلة بحيرة ساحلية شروب في شمال شرق الدلتا، ومشهدها مختلف عن الشاطئ البحري المفتوح. لفهمها بص للمياه الضحلة ومناطق الصيد وصلتها ببورسعيد ومسار قناة السويس. امتدادها أوسع من محافظة واحدة، ومقال الدقهلية هنا مجرد مدخل جغرافي ليها.",
+      "en": "Manzala is a brackish coastal lagoon in the northeastern Delta, a different landscape from an open-sea beach. Its shallow water, fishing areas and relationship with Port Said and the Suez Canal explain its setting. The lake crosses governorate boundaries; its Dakahlia listing is a geographic entry point, not a claim that it lies entirely within one governorate.",
       "sources": [
-        "https://en.wikipedia.org/wiki/Lake_Manzala",
-        "https://www.sis.gov.eg/Story/68563/Dakahlia-Governorate"
+        "https://en.wikipedia.org/wiki/Lake_Manzala"
       ]
     },
     "weather": {
@@ -28266,7 +28284,14 @@
         ]
       }
     ],
-    "reviewedAt": "2026-11-15"
+    "reviewedAt": "2026-11-15",
+    "history": {
+      "ar": "بحيرة المنزلة ليها حكاية مرتبطة بالصيد وتحولات الساحل وشق قناة السويس. بورسعيد اتأسست جنبها في القرن التاسع عشر لخدمة أعمال القناة والملاحة، واتحفر مجرى للسفن في البحيرة الضحلة. عمليات التجفيف والتلوث غيّرت مساحة البحيرة وبيئتها على مدار الزمن.",
+      "en": "Lake Manzala’s history links fishing, coastal change and the construction of the Suez Canal. Port Said developed beside it in the nineteenth century to support canal works and navigation, and a shipping channel was dug through the shallow lake. Drainage and pollution have changed the lagoon’s extent and ecology over time.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lake_Manzala"
+      ]
+    }
   },
   "meir-egypt": {
     "history": {
@@ -28374,11 +28399,10 @@
   },
   "talkha": {
     "see": {
-      "en": "A city on the Nile opposite Mansoura.",
-      "ar": "مدينة على النيل قصاد المنصورة.",
+      "ar": "طلخا على الضفة الغربية لفرع دمياط قدام المنصورة، والمدينتين بيكوّنوا تجمع عمراني على الناحيتين. مشهد النيل والجسر الحديدي اللي بيربطهم مدخل لفهم علاقة المدينتين، ومعاه أحياء زي السوق القديم والروضة.",
+      "en": "Talkha stands on the west bank of the Damietta branch opposite Mansoura, with the two forming a connected urban area. The river and railway bridge help explain their relationship, alongside neighborhoods such as the Old Market and Al Rawda.",
       "sources": [
-        "https://en.wikipedia.org/wiki/Talkha",
-        "https://www.sis.gov.eg/Story/68563/Dakahlia-Governorate"
+        "https://en.wikipedia.org/wiki/Talkha"
       ]
     },
     "weather": {
