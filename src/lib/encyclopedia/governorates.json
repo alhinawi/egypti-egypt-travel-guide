@@ -1,0 +1,245 @@
+[
+  {
+    "id": "cairo",
+    "name": {
+      "ar": "القاهرة",
+      "en": "Cairo"
+    },
+    "region": "greater-cairo",
+    "source": "https://assets.publishing.service.gov.uk/media/5a7e3c77ed915d74e33f0f0e/PCGN_Egypt_Admin_Structure.pdf"
+  },
+  {
+    "id": "giza",
+    "name": {
+      "ar": "الجيزة",
+      "en": "Giza"
+    },
+    "region": "greater-cairo",
+    "source": "https://assets.publishing.service.gov.uk/media/5a7e3c77ed915d74e33f0f0e/PCGN_Egypt_Admin_Structure.pdf"
+  },
+  {
+    "id": "alexandria",
+    "name": {
+      "ar": "الإسكندرية",
+      "en": "Alexandria"
+    },
+    "region": "mediterranean",
+    "source": "https://assets.publishing.service.gov.uk/media/5a7e3c77ed915d74e33f0f0e/PCGN_Egypt_Admin_Structure.pdf"
+  },
+  {
+    "id": "beheira",
+    "name": {
+      "ar": "البحيرة",
+      "en": "Beheira"
+    },
+    "region": "delta",
+    "source": "https://assets.publishing.service.gov.uk/media/5a7e3c77ed915d74e33f0f0e/PCGN_Egypt_Admin_Structure.pdf"
+  },
+  {
+    "id": "matrouh",
+    "name": {
+      "ar": "مطروح",
+      "en": "Matrouh"
+    },
+    "region": "western-desert",
+    "source": "https://assets.publishing.service.gov.uk/media/5a7e3c77ed915d74e33f0f0e/PCGN_Egypt_Admin_Structure.pdf"
+  },
+  {
+    "id": "dakahlia",
+    "name": {
+      "ar": "الدقهلية",
+      "en": "Dakahlia"
+    },
+    "region": "delta",
+    "source": "https://assets.publishing.service.gov.uk/media/5a7e3c77ed915d74e33f0f0e/PCGN_Egypt_Admin_Structure.pdf"
+  },
+  {
+    "id": "damietta",
+    "name": {
+      "ar": "دمياط",
+      "en": "Damietta"
+    },
+    "region": "delta",
+    "source": "https://assets.publishing.service.gov.uk/media/5a7e3c77ed915d74e33f0f0e/PCGN_Egypt_Admin_Structure.pdf"
+  },
+  {
+    "id": "gharbia",
+    "name": {
+      "ar": "الغربية",
+      "en": "Gharbia"
+    },
+    "region": "delta",
+    "source": "https://assets.publishing.service.gov.uk/media/5a7e3c77ed915d74e33f0f0e/PCGN_Egypt_Admin_Structure.pdf"
+  },
+  {
+    "id": "kafr-el-sheikh",
+    "name": {
+      "ar": "كفر الشيخ",
+      "en": "Kafr El Sheikh"
+    },
+    "region": "delta",
+    "source": "https://assets.publishing.service.gov.uk/media/5a7e3c77ed915d74e33f0f0e/PCGN_Egypt_Admin_Structure.pdf"
+  },
+  {
+    "id": "monufia",
+    "name": {
+      "ar": "المنوفية",
+      "en": "Monufia"
+    },
+    "region": "delta",
+    "source": "https://assets.publishing.service.gov.uk/media/5a7e3c77ed915d74e33f0f0e/PCGN_Egypt_Admin_Structure.pdf"
+  },
+  {
+    "id": "qalyubia",
+    "name": {
+      "ar": "القليوبية",
+      "en": "Qalyubia"
+    },
+    "region": "delta",
+    "source": "https://assets.publishing.service.gov.uk/media/5a7e3c77ed915d74e33f0f0e/PCGN_Egypt_Admin_Structure.pdf"
+  },
+  {
+    "id": "sharqia",
+    "name": {
+      "ar": "الشرقية",
+      "en": "Sharqia"
+    },
+    "region": "delta",
+    "source": "https://assets.publishing.service.gov.uk/media/5a7e3c77ed915d74e33f0f0e/PCGN_Egypt_Admin_Structure.pdf"
+  },
+  {
+    "id": "port-said",
+    "name": {
+      "ar": "بورسعيد",
+      "en": "Port Said"
+    },
+    "region": "canal",
+    "source": "https://assets.publishing.service.gov.uk/media/5a7e3c77ed915d74e33f0f0e/PCGN_Egypt_Admin_Structure.pdf"
+  },
+  {
+    "id": "ismailia",
+    "name": {
+      "ar": "الإسماعيلية",
+      "en": "Ismailia"
+    },
+    "region": "canal",
+    "source": "https://assets.publishing.service.gov.uk/media/5a7e3c77ed915d74e33f0f0e/PCGN_Egypt_Admin_Structure.pdf"
+  },
+  {
+    "id": "suez",
+    "name": {
+      "ar": "السويس",
+      "en": "Suez"
+    },
+    "region": "canal",
+    "source": "https://assets.publishing.service.gov.uk/media/5a7e3c77ed915d74e33f0f0e/PCGN_Egypt_Admin_Structure.pdf"
+  },
+  {
+    "id": "north-sinai",
+    "name": {
+      "ar": "شمال سيناء",
+      "en": "North Sinai"
+    },
+    "region": "sinai",
+    "source": "https://assets.publishing.service.gov.uk/media/5a7e3c77ed915d74e33f0f0e/PCGN_Egypt_Admin_Structure.pdf"
+  },
+  {
+    "id": "south-sinai",
+    "name": {
+      "ar": "جنوب سيناء",
+      "en": "South Sinai"
+    },
+    "region": "sinai",
+    "source": "https://assets.publishing.service.gov.uk/media/5a7e3c77ed915d74e33f0f0e/PCGN_Egypt_Admin_Structure.pdf"
+  },
+  {
+    "id": "red-sea",
+    "name": {
+      "ar": "البحر الأحمر",
+      "en": "Red Sea"
+    },
+    "region": "red-sea",
+    "source": "https://assets.publishing.service.gov.uk/media/5a7e3c77ed915d74e33f0f0e/PCGN_Egypt_Admin_Structure.pdf"
+  },
+  {
+    "id": "fayoum",
+    "name": {
+      "ar": "الفيوم",
+      "en": "Fayoum"
+    },
+    "region": "middle-egypt",
+    "source": "https://assets.publishing.service.gov.uk/media/5a7e3c77ed915d74e33f0f0e/PCGN_Egypt_Admin_Structure.pdf"
+  },
+  {
+    "id": "beni-suef",
+    "name": {
+      "ar": "بني سويف",
+      "en": "Beni Suef"
+    },
+    "region": "middle-egypt",
+    "source": "https://assets.publishing.service.gov.uk/media/5a7e3c77ed915d74e33f0f0e/PCGN_Egypt_Admin_Structure.pdf"
+  },
+  {
+    "id": "minya",
+    "name": {
+      "ar": "المنيا",
+      "en": "Minya"
+    },
+    "region": "middle-egypt",
+    "source": "https://assets.publishing.service.gov.uk/media/5a7e3c77ed915d74e33f0f0e/PCGN_Egypt_Admin_Structure.pdf"
+  },
+  {
+    "id": "asyut",
+    "name": {
+      "ar": "أسيوط",
+      "en": "Asyut"
+    },
+    "region": "upper-egypt",
+    "source": "https://assets.publishing.service.gov.uk/media/5a7e3c77ed915d74e33f0f0e/PCGN_Egypt_Admin_Structure.pdf"
+  },
+  {
+    "id": "sohag",
+    "name": {
+      "ar": "سوهاج",
+      "en": "Sohag"
+    },
+    "region": "upper-egypt",
+    "source": "https://assets.publishing.service.gov.uk/media/5a7e3c77ed915d74e33f0f0e/PCGN_Egypt_Admin_Structure.pdf"
+  },
+  {
+    "id": "qena",
+    "name": {
+      "ar": "قنا",
+      "en": "Qena"
+    },
+    "region": "upper-egypt",
+    "source": "https://assets.publishing.service.gov.uk/media/5a7e3c77ed915d74e33f0f0e/PCGN_Egypt_Admin_Structure.pdf"
+  },
+  {
+    "id": "luxor",
+    "name": {
+      "ar": "الأقصر",
+      "en": "Luxor"
+    },
+    "region": "upper-egypt",
+    "source": "https://assets.publishing.service.gov.uk/media/5a7e3c77ed915d74e33f0f0e/PCGN_Egypt_Admin_Structure.pdf"
+  },
+  {
+    "id": "aswan",
+    "name": {
+      "ar": "أسوان",
+      "en": "Aswan"
+    },
+    "region": "upper-egypt",
+    "source": "https://assets.publishing.service.gov.uk/media/5a7e3c77ed915d74e33f0f0e/PCGN_Egypt_Admin_Structure.pdf"
+  },
+  {
+    "id": "new-valley",
+    "name": {
+      "ar": "الوادي الجديد",
+      "en": "New Valley"
+    },
+    "region": "western-desert",
+    "source": "https://assets.publishing.service.gov.uk/media/5a7e3c77ed915d74e33f0f0e/PCGN_Egypt_Admin_Structure.pdf"
+  }
+]

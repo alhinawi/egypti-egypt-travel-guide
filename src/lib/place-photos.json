@@ -350,5 +350,294 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
     "changes": "resized, WebP; card crop",
     "captured": "Date 29 September 2014, 16:21:40"
+  },
+  "khan-el-khalili": {
+    "file": "khan-photo-1",
+    "alt": {
+      "en": "Shoppers in a covered bazaar lane",
+      "ar": "حركة الناس في حارة مسقوفة من السوق"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:The_Khan_el-Khalili_market_in_Cairo,_Egypt_(2743501345).jpg",
+    "author": "V Manninen from Funland",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "changes": "resized, converted to WebP; layout crop",
+    "captured": "2008-01-16 17:05"
+  },
+  "cairo-citadel": {
+    "file": "cairo-citadel",
+    "alt": {
+      "en": "Cairo's medieval hilltop citadel, with later mosques and museums.",
+      "ar": "قلعة القاهرة التاريخية فوق هضبة المقطم، وفيها جوامع ومتاحف اتضافت على مراحل."
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Flickr_-_HuTect_ShOts_-_Citadel_of_Salah_El.Din_and_Masjid_Muhammad_Ali_%D9%82%D9%84%D8%B9%D8%A9_%D8%B5%D9%84%D8%A7%D8%AD_%D8%A7%D9%84%D8%AF%D9%8A%D9%86_%D8%A7%D9%84%D8%A3%D9%8A%D9%88%D8%A8%D9%8A_%D9%88%D9%85%D8%B3%D8%AC%D8%AF_%D9%85%D8%AD%D9%85%D8%AF_%D8%B9%D9%84%D9%8A_-_Cairo_-_Egypt_-_17_04_2010_(4).jpg",
+    "author": "Ahmed Al.Badawy from Cairo, Egypt",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "changes": "resized, converted to WebP; layout crop"
+  },
+  "mosque-of-ibn-tulun": {
+    "file": "mosque-of-ibn-tulun",
+    "alt": {
+      "en": "A major surviving ninth-century mosque with a large arcaded courtyard.",
+      "ar": "جامع كبير من القرن التاسع، مشهور بصحنه الواسع وأروقته."
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Kairo_Ibn_Tulun_Moschee_BW_4.jpg",
+    "author": "User:Berthold Werner",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "changes": "resized, converted to WebP; layout crop"
+  },
+  "saqqara": {
+    "file": "saqqara",
+    "alt": {
+      "en": "An ancient burial landscape including Djoser's Step Pyramid.",
+      "ar": "منطقة جبانات أثرية فيها هرم زوسر المدرج."
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Saqqara_pyramid_ver_2.jpg",
+    "author": "Charles J. Sharp",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "changes": "resized, converted to WebP; layout crop"
+  },
+  "dahshur": {
+    "file": "dahshur",
+    "alt": {
+      "en": "A royal pyramid field including the Bent Pyramid and Red Pyramid.",
+      "ar": "منطقة أهرامات ملكية فيها الهرم المنحني والهرم الأحمر."
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Dahshur_-_Red_Pyramid_-_Tourist_policemen_on_camel.JPG",
+    "author": "Daniel Mayer",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "resized, converted to WebP; layout crop"
+  },
+  "bahariya-oasis": {
+    "file": "bahariya-oasis",
+    "alt": {
+      "en": "A Western Desert oasis belonging administratively to Giza Governorate.",
+      "ar": "واحة في الصحراء الغربية، وتبع محافظة الجيزة إداريًا."
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Bahariya-oasis.jpg",
+    "author": "Nomo michael hoefner / http://www.zwo5.de",
+    "license": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "changes": "resized, converted to WebP; layout crop"
+  },
+  "catacombs-of-kom-el-shoqafa": {
+    "file": "catacombs-of-kom-el-shoqafa",
+    "alt": {
+      "en": "Underground tombs combining Egyptian and Greco-Roman artistic traditions.",
+      "ar": "مقابر تحت الأرض بتجمع بين عناصر مصرية ويونانية ورومانية."
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:...Catacombsa.jpg",
+    "author": "Bilal Detailz",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "resized, converted to WebP; layout crop"
+  },
+  "kom-ombo-temple": {
+    "file": "kom-ombo-temple",
+    "alt": {
+      "en": "A distinctive double temple associated with Sobek and Haroeris.",
+      "ar": "معبد مزدوج ارتبط بسوبك وحورس الكبير."
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Kom_Ombo_Portal_04.jpg",
+    "author": "Olaf Tausch",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "changes": "resized, converted to WebP; layout crop"
+  },
+  "hurghada": {
+    "file": "hurghada",
+    "alt": {
+      "en": "The capital of Red Sea Governorate and a major coastal resort city.",
+      "ar": "عاصمة محافظة البحر الأحمر، ومدينة سياحية كبيرة على الساحل."
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Hurghada_Hotels_R03.jpg",
+    "author": "Marc Ryckaert",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "changes": "resized, converted to WebP; layout crop"
+  },
+  "el-gouna": {
+    "file": "el-gouna",
+    "alt": {
+      "en": "A purpose-built Red Sea resort town north of Hurghada.",
+      "ar": "مدينة ومنتجع سياحي على البحر الأحمر شمال الغردقة."
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:El_Gouna_,_Egypt.jpg",
+    "author": "Ahmed Eissa 424",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "resized, converted to WebP; layout crop"
+  },
+  "marsa-alam": {
+    "file": "marsa-alam",
+    "alt": {
+      "en": "A southern Red Sea coastal destination known for marine tourism.",
+      "ar": "وجهة على ساحل البحر الأحمر في الجنوب، معروفة بالسياحة البحرية."
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Carnelia_Beach,_Marsa_Alam_(2232052889).jpg",
+    "author": "Andrew A. Shenouda from Riyadh, Saudi Arabia",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "changes": "resized, converted to WebP; layout crop"
+  },
+  "wadi-el-gemal-national-park": {
+    "file": "wadi-el-gemal-national-park",
+    "alt": {
+      "en": "A protected area combining coastal, marine and Eastern Desert environments.",
+      "ar": "محمية بتجمع بيئات ساحلية وبحرية ومناطق من الصحراء الشرقية."
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Wadi_el_Gemal_National_Red_Sea.jpg",
+    "author": "Wusel007",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "changes": "resized, converted to WebP; layout crop"
+  },
+  "ras-muhammad-national-park": {
+    "file": "ras-muhammad-national-park",
+    "alt": {
+      "en": "A protected coastal and marine landscape at the southern end of Sinai.",
+      "ar": "محمية بحرية وساحلية عند الطرف الجنوبي من سينا."
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:%D8%A8%D9%88%D8%A7%D8%A8%D8%A7%D8%AA_%D9%85%D8%AD%D9%85%D9%8A%D9%87_%D8%B1%D8%A7%D8%B3_%D9%85%D8%AD%D9%85%D8%AF.png",
+    "author": "Mahmoud E. Abd El Aziz",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "resized, converted to WebP; layout crop"
+  },
+  "dahab": {
+    "file": "dahab",
+    "alt": {
+      "en": "A Gulf of Aqaba coastal town associated with diving, windsurfing and a slower pace.",
+      "ar": "مدينة على خليج العقبة معروفة بالغطس والويند سيرف وأجوائها الهادية."
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Dahab_-_Egypte_07-2012_(7614814042).jpg",
+    "author": "Grand Parc - Bordeaux, France from France",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "changes": "resized, converted to WebP; layout crop"
+  },
+  "saint-catherine-s-monastery": {
+    "file": "saint-catherine-s-monastery",
+    "alt": {
+      "en": "An ancient Christian monastery in the mountainous interior of South Sinai.",
+      "ar": "دير مسيحي تاريخي وسط جبال جنوب سيناء."
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Katharinenkloster_Sinai_BW_2.jpg",
+    "author": "Berthold Werner",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "changes": "resized, converted to WebP; layout crop"
+  },
+  "mount-sinai": {
+    "file": "mount-sinai",
+    "alt": {
+      "en": "A mountain traditionally associated with Moses and visited by hikers and pilgrims.",
+      "ar": "جبل مرتبط دينيًا بالنبي موسى، وبيزوره محبي المشي والزيارات الروحية."
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Mount_Sinai_from_the_southwest.jpg",
+    "author": "Gerd Eichmann",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "resized, converted to WebP; layout crop"
+  },
+  "al-muizz-street": {
+    "file": "al-muizz-street",
+    "alt": {
+      "en": "Al-Muizz street scene with Barquq complex and neighboring architecture",
+      "ar": "منظر من شارع المعز فيه مجموعة برقوق وعمارة مجاورة"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Al-Moez_interface.jpg",
+    "author": "Yasser.mahmoud",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "No additional changes made. Source photograph may have its own processing.; resized and converted to WebP; layout crop"
+  },
+  "qalawun-complex": {
+    "file": "qalawun-complex",
+    "alt": {
+      "en": "Qalawun complex and adjoining monuments along Al-Muizz",
+      "ar": "مجموعة قلاوون ومعالم مجاورة على شارع المعز"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Qalawun_Complex_morning.jpg",
+    "author": "Mohamed abdelzaher",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "No additional changes made. Source photograph may have its own processing.; resized and converted to WebP; layout crop"
+  },
+  "sultan-barquq-complex": {
+    "file": "sultan-barquq-complex",
+    "alt": {
+      "en": "Courtyard and prayer iwan in Sultan Barquq’s complex",
+      "ar": "الصحن وإيوان القبلة في مجموعة السلطان برقوق"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Barqouqy_mosque_-_Moez_street.jpg",
+    "author": "Moh hakem",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "No additional changes made. Source photograph may have its own processing.; resized and converted to WebP; layout crop"
+  },
+  "al-aqmar-mosque": {
+    "file": "al-aqmar-mosque",
+    "alt": {
+      "en": "Al-Aqmar Mosque entrance and minaret",
+      "ar": "مدخل جامع الأقمر ومئذنته"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Al-Aqmar_Mosque_-_entrance_and_minaret_Cairo_Egypt.jpg",
+    "author": "Radosław Botev",
+    "license": "CC BY 3.0 pl",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/pl/deed.en",
+    "changes": "No additional changes made. Source photograph may have its own processing.; resized and converted to WebP; layout crop"
+  },
+  "bayt-al-suhaymi": {
+    "file": "bayt-al-suhaymi",
+    "alt": {
+      "en": "The courtyard at Bayt al-Suhaymi",
+      "ar": "فناء بيت السحيمي"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:El_Suheimi_House_04.jpg",
+    "author": "Ahmedalbadawy",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "No additional changes made. Source photograph may have its own processing.; resized and converted to WebP; layout crop"
+  },
+  "bab-al-futuh": {
+    "file": "bab-al-futuh",
+    "alt": {
+      "en": "The rounded towers of Bab al-Futuh",
+      "ar": "برجا باب الفتوح الدائريان"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Cairo,_porte_settentrionali,_01.JPG",
+    "author": "Sailko",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "changes": "No additional changes made. Source photograph may have its own processing.; resized and converted to WebP; layout crop"
+  },
+  "bab-al-nasr": {
+    "file": "bab-al-nasr",
+    "alt": {
+      "en": "Bab al-Nasr’s square towers",
+      "ar": "برجا باب النصر المربعان"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Bab_al-Nasr_DSCF9983_(retouched).jpg",
+    "author": "R Prazeres",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Original Commons file is labeled retouched; no additional changes made.; resized and converted to WebP; layout crop"
+  },
+  "bab-zuweila": {
+    "file": "bab-zuweila",
+    "alt": {
+      "en": "Bab Zuweila with the later minarets above its towers",
+      "ar": "باب زويلة والمآذن اللي اتبنت بعده فوق برجيه"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Bab_Zuwayla_Cairo_12_0864.jpg",
+    "author": "JMCC1",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "changes": "No additional changes made. Source photograph may have its own processing.; resized and converted to WebP; layout crop"
   }
 }

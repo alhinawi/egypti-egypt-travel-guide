@@ -1,0 +1,648 @@
+{
+  "giza-pyramids": {
+    "governorate": "giza",
+    "vibes": [
+      "historic"
+    ],
+    "eras": [
+      "ancient-egypt"
+    ],
+    "classification": "editorial",
+    "source_basis": "existing cited place description"
+  },
+  "grand-egyptian-museum": {
+    "governorate": "giza",
+    "vibes": [
+      "museum",
+      "historic"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": "existing cited place description"
+  },
+  "egyptian-museum": {
+    "governorate": "cairo",
+    "vibes": [
+      "museum",
+      "historic"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": "existing cited place description"
+  },
+  "khayyamiyya": {
+    "governorate": "cairo",
+    "vibes": [
+      "crafts",
+      "historic",
+      "shopping"
+    ],
+    "eras": [
+      "islamic"
+    ],
+    "classification": "editorial",
+    "source_basis": "existing cited place description"
+  },
+  "wikalat-al-ghuri": {
+    "governorate": "cairo",
+    "vibes": [
+      "crafts",
+      "historic"
+    ],
+    "eras": [
+      "islamic"
+    ],
+    "classification": "editorial",
+    "source_basis": "existing cited place description"
+  },
+  "qaitbay": {
+    "governorate": "alexandria",
+    "vibes": [
+      "historic",
+      "sea"
+    ],
+    "eras": [
+      "islamic"
+    ],
+    "classification": "editorial",
+    "source_basis": "existing cited place description"
+  },
+  "bibliotheca": {
+    "governorate": "alexandria",
+    "vibes": [
+      "arts"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": "existing cited place description"
+  },
+  "montazah": {
+    "governorate": "alexandria",
+    "vibes": [
+      "gardens",
+      "relaxing"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": "existing cited place description"
+  },
+  "cavafy": {
+    "governorate": "alexandria",
+    "vibes": [
+      "arts"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": "existing cited place description"
+  },
+  "antoniadis": {
+    "governorate": "alexandria",
+    "vibes": [
+      "gardens",
+      "relaxing"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": "existing cited place description"
+  },
+  "menna-tt69": {
+    "governorate": "luxor",
+    "vibes": [
+      "historic"
+    ],
+    "eras": [
+      "ancient-egypt"
+    ],
+    "classification": "editorial",
+    "source_basis": "existing cited place description"
+  },
+  "karnak": {
+    "governorate": "luxor",
+    "vibes": [
+      "historic"
+    ],
+    "eras": [
+      "ancient-egypt"
+    ],
+    "classification": "editorial",
+    "source_basis": "existing cited place description"
+  },
+  "luxor-temple": {
+    "governorate": "luxor",
+    "vibes": [
+      "historic"
+    ],
+    "eras": [
+      "ancient-egypt"
+    ],
+    "classification": "editorial",
+    "source_basis": "existing cited place description"
+  },
+  "valley-kings": {
+    "governorate": "luxor",
+    "vibes": [
+      "historic"
+    ],
+    "eras": [
+      "ancient-egypt"
+    ],
+    "classification": "editorial",
+    "source_basis": "existing cited place description"
+  },
+  "hatshepsut": {
+    "governorate": "luxor",
+    "vibes": [
+      "historic"
+    ],
+    "eras": [
+      "ancient-egypt"
+    ],
+    "classification": "editorial",
+    "source_basis": "existing cited place description"
+  },
+  "luxor-museum": {
+    "governorate": "luxor",
+    "vibes": [
+      "museum",
+      "historic"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": "existing cited place description"
+  },
+  "philae": {
+    "governorate": "aswan",
+    "vibes": [
+      "historic"
+    ],
+    "eras": [
+      "ancient-egypt"
+    ],
+    "classification": "editorial",
+    "source_basis": "existing cited place description"
+  },
+  "elephantine": {
+    "governorate": "aswan",
+    "vibes": [
+      "nature",
+      "historic"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": "existing cited place description"
+  },
+  "nubian-museum": {
+    "governorate": "aswan",
+    "vibes": [
+      "museum",
+      "historic"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": "existing cited place description"
+  },
+  "unfinished-obelisk": {
+    "governorate": "aswan",
+    "vibes": [
+      "historic"
+    ],
+    "eras": [
+      "ancient-egypt"
+    ],
+    "classification": "editorial",
+    "source_basis": "existing cited place description"
+  },
+  "abu-simbel": {
+    "governorate": "aswan",
+    "vibes": [
+      "historic"
+    ],
+    "eras": [
+      "ancient-egypt"
+    ],
+    "classification": "editorial",
+    "source_basis": "existing cited place description"
+  },
+  "eel-garden": {
+    "governorate": "south-sinai",
+    "vibes": [
+      "sea",
+      "nature"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": "existing cited place description"
+  },
+  "lighthouse": {
+    "governorate": "south-sinai",
+    "vibes": [
+      "sea",
+      "nature"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": "existing cited place description"
+  },
+  "friday-market": {
+    "governorate": "south-sinai",
+    "vibes": [
+      "shopping"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": "existing cited place description"
+  },
+  "blue-lagoon": {
+    "governorate": "south-sinai",
+    "vibes": [
+      "sea",
+      "nature",
+      "relaxing"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": "existing cited place description"
+  },
+  "dahab-mountains": {
+    "governorate": "south-sinai",
+    "vibes": [
+      "nature",
+      "adventure"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": "existing cited place description"
+  },
+  "giftun": {
+    "governorate": "red-sea",
+    "vibes": [
+      "sea",
+      "nature"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": "existing cited place description"
+  },
+  "hurghada-marina": {
+    "governorate": "red-sea",
+    "vibes": [
+      "sea",
+      "city"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": "existing cited place description"
+  },
+  "hurghada-museum": {
+    "governorate": "red-sea",
+    "vibes": [
+      "museum",
+      "historic"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": "existing cited place description"
+  },
+  "hurghada-markets": {
+    "governorate": "red-sea",
+    "vibes": [
+      "shopping"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": "existing cited place description"
+  },
+  "hurghada-desert": {
+    "governorate": "red-sea",
+    "vibes": [
+      "nature",
+      "adventure"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": "existing cited place description"
+  },
+  "khan-el-khalili": {
+    "governorate": "cairo",
+    "vibes": [
+      "historic",
+      "shopping",
+      "crafts",
+      "foodie",
+      "lively"
+    ],
+    "eras": [
+      "islamic"
+    ],
+    "classification": "editorial",
+    "source_basis": [
+      "https://www.cairo.gov.eg/en/tourism/tourism-destinations/cultural/khan-al-khalili/",
+      "https://www.lonelyplanet.com/points-of-interest/khan-el-khalili/406432",
+      "https://cairo.gov.eg/en/culture/cairo-history/modern-landmarks/cairo-s-famous-coffeehouses/"
+    ]
+  },
+  "cairo-citadel": {
+    "governorate": "cairo",
+    "vibes": [
+      "historic"
+    ],
+    "eras": [
+      "islamic"
+    ],
+    "classification": "editorial",
+    "source_basis": [
+      "https://en.wikipedia.org/wiki/Cairo_Citadel",
+      "https://www.experienceegypt.eg/en/city/1/cairo-giza"
+    ]
+  },
+  "mosque-of-ibn-tulun": {
+    "governorate": "cairo",
+    "vibes": [
+      "historic"
+    ],
+    "eras": [
+      "islamic"
+    ],
+    "classification": "editorial",
+    "source_basis": [
+      "https://en.wikipedia.org/wiki/Mosque_of_Ibn_Tulun",
+      "https://www.experienceegypt.eg/en/city/1/cairo-giza"
+    ]
+  },
+  "saqqara": {
+    "governorate": "giza",
+    "vibes": [
+      "historic"
+    ],
+    "eras": [
+      "ancient-egypt"
+    ],
+    "classification": "editorial",
+    "source_basis": [
+      "https://en.wikipedia.org/wiki/Saqqara",
+      "https://www.experienceegypt.eg/en/city/1/cairo-giza"
+    ]
+  },
+  "dahshur": {
+    "governorate": "giza",
+    "vibes": [
+      "historic"
+    ],
+    "eras": [
+      "ancient-egypt"
+    ],
+    "classification": "editorial",
+    "source_basis": [
+      "https://en.wikipedia.org/wiki/Dahshur",
+      "https://www.experienceegypt.eg/en/city/1/cairo-giza"
+    ]
+  },
+  "bahariya-oasis": {
+    "governorate": "giza",
+    "vibes": [
+      "nature",
+      "adventure"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://en.wikipedia.org/wiki/Bahariya_Oasis",
+      "https://www.experienceegypt.eg/en/city/1/cairo-giza"
+    ]
+  },
+  "catacombs-of-kom-el-shoqafa": {
+    "governorate": "alexandria",
+    "vibes": [
+      "historic"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://en.wikipedia.org/wiki/Catacombs_of_Kom_El_Shoqafa",
+      "https://www.experienceegypt.eg/en/city/27/alexandria"
+    ]
+  },
+  "kom-ombo-temple": {
+    "governorate": "aswan",
+    "vibes": [
+      "historic"
+    ],
+    "eras": [
+      "ancient-egypt"
+    ],
+    "classification": "editorial",
+    "source_basis": [
+      "https://en.wikipedia.org/wiki/Temple_of_Kom_Ombo",
+      "https://www.experienceegypt.eg/en/city/9/aswan-abu-simbel"
+    ]
+  },
+  "hurghada": {
+    "governorate": "red-sea",
+    "vibes": [
+      "sea",
+      "relaxing"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://en.wikipedia.org/wiki/Hurghada",
+      "https://www.experienceegypt.eg/en/region/13/the-red-sea"
+    ]
+  },
+  "el-gouna": {
+    "governorate": "red-sea",
+    "vibes": [
+      "sea",
+      "relaxing"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://en.wikipedia.org/wiki/El_Gouna",
+      "https://www.experienceegypt.eg/en/region/13/the-red-sea"
+    ]
+  },
+  "marsa-alam": {
+    "governorate": "red-sea",
+    "vibes": [
+      "sea",
+      "relaxing"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://en.wikipedia.org/wiki/Marsa_Alam",
+      "https://www.experienceegypt.eg/en/region/13/the-red-sea"
+    ]
+  },
+  "wadi-el-gemal-national-park": {
+    "governorate": "red-sea",
+    "vibes": [
+      "nature",
+      "adventure"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://en.wikipedia.org/wiki/Wadi_El_Gemal_National_Park",
+      "https://www.experienceegypt.eg/en/region/13/the-red-sea"
+    ]
+  },
+  "ras-muhammad-national-park": {
+    "governorate": "south-sinai",
+    "vibes": [
+      "nature",
+      "adventure"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://en.wikipedia.org/wiki/Ras_Muhammad_National_Park",
+      "https://www.experienceegypt.eg/en/city/16/sharm-al-sheikh"
+    ]
+  },
+  "dahab": {
+    "governorate": "south-sinai",
+    "vibes": [
+      "sea",
+      "relaxing"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://en.wikipedia.org/wiki/Dahab",
+      "https://www.experienceegypt.eg/en/city/16/sharm-al-sheikh"
+    ]
+  },
+  "saint-catherine-s-monastery": {
+    "governorate": "south-sinai",
+    "vibes": [
+      "historic"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://en.wikipedia.org/wiki/Saint_Catherine%27s_Monastery",
+      "https://www.experienceegypt.eg/en/city/16/sharm-al-sheikh"
+    ]
+  },
+  "mount-sinai": {
+    "governorate": "south-sinai",
+    "vibes": [
+      "nature",
+      "adventure"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://en.wikipedia.org/wiki/Mount_Sinai",
+      "https://www.experienceegypt.eg/en/city/16/sharm-al-sheikh"
+    ]
+  },
+  "al-muizz-street": {
+    "governorate": "cairo",
+    "vibes": [
+      "historic",
+      "shopping",
+      "crafts"
+    ],
+    "eras": [
+      "islamic"
+    ],
+    "classification": "editorial",
+    "source_basis": [
+      "https://egymonuments.gov.eg/en/archaeological-sites/al-muizz-street/"
+    ]
+  },
+  "qalawun-complex": {
+    "governorate": "cairo",
+    "vibes": [
+      "historic"
+    ],
+    "eras": [
+      "islamic"
+    ],
+    "classification": "editorial",
+    "source_basis": [
+      "https://en.wikipedia.org/wiki/Qalawun_complex"
+    ]
+  },
+  "sultan-barquq-complex": {
+    "governorate": "cairo",
+    "vibes": [
+      "historic"
+    ],
+    "eras": [
+      "islamic"
+    ],
+    "classification": "editorial",
+    "source_basis": [
+      "https://egymonuments.gov.eg/en/monuments/madrasa-and-khanaqah-of-sultan-al-zahir-barquq"
+    ]
+  },
+  "al-aqmar-mosque": {
+    "governorate": "cairo",
+    "vibes": [
+      "historic"
+    ],
+    "eras": [
+      "islamic"
+    ],
+    "classification": "editorial",
+    "source_basis": [
+      "https://egymonuments.gov.eg/en/monuments/al-aqmar-mosque"
+    ]
+  },
+  "bayt-al-suhaymi": {
+    "governorate": "cairo",
+    "vibes": [
+      "historic"
+    ],
+    "eras": [
+      "islamic"
+    ],
+    "classification": "editorial",
+    "source_basis": [
+      "https://egymonuments.gov.eg/en/monuments/bayt-al-suhaymi-house-of-suhaymi"
+    ]
+  },
+  "bab-al-futuh": {
+    "governorate": "cairo",
+    "vibes": [
+      "historic"
+    ],
+    "eras": [
+      "islamic"
+    ],
+    "classification": "editorial",
+    "source_basis": [
+      "https://egymonuments.gov.eg/en/monuments/bab-al-futuh/"
+    ]
+  },
+  "bab-al-nasr": {
+    "governorate": "cairo",
+    "vibes": [
+      "historic"
+    ],
+    "eras": [
+      "islamic"
+    ],
+    "classification": "editorial",
+    "source_basis": [
+      "https://egymonuments.gov.eg/en/monuments/bab-al-nasr"
+    ]
+  },
+  "bab-zuweila": {
+    "governorate": "cairo",
+    "vibes": [
+      "historic"
+    ],
+    "eras": [
+      "islamic"
+    ],
+    "classification": "editorial",
+    "source_basis": [
+      "https://egymonuments.gov.eg/en/monuments/bab-zuwayla/"
+    ]
+  }
+}

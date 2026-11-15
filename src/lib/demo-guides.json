@@ -1,1 +1,54 @@
-[]
+[
+  {
+    "id": "nour",
+    "demo": true,
+    "name": {
+      "ar": "نور",
+      "en": "Nour"
+    },
+    "specialty": {
+      "ar": "القاهرة وحكاياتها",
+      "en": "Cairo stories"
+    },
+    "avatar": "/avatars/nour.svg"
+  },
+  {
+    "id": "omar",
+    "demo": true,
+    "name": {
+      "ar": "عمر",
+      "en": "Omar"
+    },
+    "specialty": {
+      "ar": "الأقصر وآثارها",
+      "en": "Luxor monuments"
+    },
+    "avatar": "/avatars/omar.svg"
+  },
+  {
+    "id": "layla",
+    "demo": true,
+    "name": {
+      "ar": "ليلى",
+      "en": "Layla"
+    },
+    "specialty": {
+      "ar": "أسوان والنيل",
+      "en": "Aswan and the Nile"
+    },
+    "avatar": "/avatars/layla.svg"
+  },
+  {
+    "id": "adam",
+    "demo": true,
+    "name": {
+      "ar": "آدم",
+      "en": "Adam"
+    },
+    "specialty": {
+      "ar": "إسكندرية والبحر",
+      "en": "Alexandria by the sea"
+    },
+    "avatar": "/avatars/adam.svg"
+  }
+]
