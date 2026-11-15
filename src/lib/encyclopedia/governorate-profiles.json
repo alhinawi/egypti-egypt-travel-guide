@@ -3296,8 +3296,62 @@
         "ar": "جدول مناخ مدينة من مصدر ثانوي؛ المصدر الأصلي وفترة المتوسط مش متحقق منهم بشكل مستقل"
       }
     },
-    "food_specialties": [],
-    "crafts": [],
+    "food_specialties": [
+      {
+        "name": {
+          "en": "Al-Amar apricots",
+          "ar": "مشمش العمار"
+        },
+        "description": {
+          "en": "Apricot growing in al-Amar, in Toukh district, is documented as a local crop and a short harvest season closely tied to village livelihoods.",
+          "ar": "زراعة المشمش في العمار بمركز طوخ موثقة كمحصول محلي وموسم قصير مرتبط برزق أهل القرية.",
+          "sources": [
+            "https://gate.ahram.org.eg/News/5178912.aspx"
+          ]
+        },
+        "sources": [
+          "https://gate.ahram.org.eg/News/5178912.aspx"
+        ],
+        "evidence_type": "documented_local_crop_or_food_production_not_live_menu",
+        "scope_note": "No current seller, stock or menu verified. Salted fish is documented as heritage only, not endorsed as safe."
+      }
+    ],
+    "crafts": [
+      {
+        "name": {
+          "en": "Reed musical-instrument making",
+          "ar": "صناعة آلات النفخ من الغاب"
+        },
+        "description": {
+          "en": "A feature from Shibin al-Qanater documents an intergenerational workshop tradition making nay, arghul and related reed instruments. It records the craft in 2015, not a currently verified visitor workshop.",
+          "ar": "تقرير من شبين القناطر بيوثق حرفة متوارثة لصناعة الناي والأرغول وآلات قريبة من الغاب. هو توثيق للحرفة سنة 2015، مش تأكيد لورشة مفتوحة للزيارة دلوقتي.",
+          "sources": [
+            "https://www.almasryalyoum.com/news/details/685644"
+          ]
+        },
+        "sources": [
+          "https://www.almasryalyoum.com/news/details/685644"
+        ],
+        "availability_note": "Documented craft production or display only; no exact maker, opening hours, current stock or visitor arrangements verified."
+      },
+      {
+        "name": {
+          "en": "Plant-stem shade structures and baskets in Mit Kenana",
+          "ar": "الشماسي والبرجولات والسلال في ميت كنانة"
+        },
+        "description": {
+          "en": "A local feature documents Mit Kenana makers shaping plant stems into baskets, shades, pergolas, bird cages and chairs. No botanical species identification is asserted here.",
+          "ar": "تقرير محلي بيوثق صناع في ميت كنانة بيشكلوا أعواد نباتية لسلال وشماسي وبرجولات وأقفاص وكراسي. هنا مفيش تأكيد لتحديد علمي لنوع النبات.",
+          "sources": [
+            "https://www.almasryalyoum.com/news/details/2781603"
+          ]
+        },
+        "sources": [
+          "https://www.almasryalyoum.com/news/details/2781603"
+        ],
+        "availability_note": "Documented craft production or display only; no exact maker, opening hours, current stock or visitor arrangements verified."
+      }
+    ],
     "festivals": [],
     "commemorations": [],
     "transport": {
@@ -4071,8 +4125,47 @@
         "ar": "جدول مناخ مدينة من مصدر ثانوي؛ المصدر الأصلي وفترة المتوسط مش متحقق منهم بشكل مستقل"
       }
     },
-    "food_specialties": [],
-    "crafts": [],
+    "food_specialties": [
+      {
+        "name": {
+          "en": "Nabaroh feseekh",
+          "ar": "فسيخ نبروه"
+        },
+        "description": {
+          "en": "Salted-mullet production is a documented part of Nabaroh's food-trade identity. This is cultural context, not a safety endorsement or recommendation of a seller. Reporting also documents enforcement against unsafe and untraceable products.",
+          "ar": "تمليح السمك البوري جزء موثق من هوية تجارة الأكل في نبروه. ده تعريف بتراث غذائي، مش ضمان سلامة أو ترشيح بائع. وفيه تقارير كمان عن ضبط منتجات غير مستوفية للاشتراطات أو مجهولة المصدر.",
+          "sources": [
+            "https://gate.ahram.org.eg/News/4246999.aspx",
+            "https://gate.ahram.org.eg/News/5149652.aspx"
+          ]
+        },
+        "sources": [
+          "https://gate.ahram.org.eg/News/4246999.aspx",
+          "https://gate.ahram.org.eg/News/5149652.aspx"
+        ],
+        "evidence_type": "documented_local_crop_or_food_production_not_live_menu",
+        "scope_note": "No current seller, stock or menu verified. Salted fish is documented as heritage only, not endorsed as safe."
+      }
+    ],
+    "crafts": [
+      {
+        "name": {
+          "en": "Reed baskets and screens of al-Qibab al-Sughra",
+          "ar": "سلال وسدد الغاب في القباب الصغرى"
+        },
+        "description": {
+          "en": "A 2025 local feature documents households in al-Qibab al-Sughra, in Dekernes district, making baskets and screens from natural reed.",
+          "ar": "تقرير محلي سنة 2025 بيوثق صناعة السلال والسدد من الغاب الطبيعي عند أسر في القباب الصغرى بمركز دكرنس.",
+          "sources": [
+            "https://www.elwatannews.com/news/details/8133831"
+          ]
+        },
+        "sources": [
+          "https://www.elwatannews.com/news/details/8133831"
+        ],
+        "availability_note": "Documented craft production or display only; no exact maker, opening hours, current stock or visitor arrangements verified."
+      }
+    ],
     "festivals": [],
     "commemorations": [
       {
@@ -4874,7 +4967,27 @@
       }
     ],
     "crafts": [],
-    "festivals": [],
+    "festivals": [
+      {
+        "name": {
+          "en": "Moulid of Ahmad al-Badawi in Tanta",
+          "ar": "مولد السيد أحمد البدوي في طنطا"
+        },
+        "description": {
+          "en": "Reporting from the 2025 celebration records dhikr circles, devotional singing and visitors coming from across Egypt. It supports the festival's cultural description, not the date of a future edition.",
+          "ar": "تغطية احتفال 2025 بتوثق حلقات الذكر والمديح وزوار جايين من محافظات مصر. ده بيسند وصف المولد ثقافيًا، مش مواعيد نسخة جاية.",
+          "sources": [
+            "https://gate.ahram.org.eg/News/5306182.aspx"
+          ]
+        },
+        "sources": [
+          "https://gate.ahram.org.eg/News/5306182.aspx"
+        ],
+        "dates": null,
+        "next_edition": null,
+        "status_note": "Documented tradition or past edition. No future date, venue access or ticket verified."
+      }
+    ],
     "commemorations": [],
     "transport": {
       "en": "Road and rail serve the wider Delta region. Plan the final connection for the specific town; this profile does not verify current train stops, fares or timetables.",
@@ -6082,7 +6195,61 @@
       }
     },
     "food_specialties": [],
-    "crafts": [],
+    "crafts": [
+      {
+        "name": {
+          "en": "Handwoven carpets and kilim in Rosetta",
+          "ar": "السجاد والكليم اليدوي في رشيد"
+        },
+        "description": {
+          "en": "Reporting in 2024 and 2026 documents a women's carpet-weaving project and related craft displays in Rosetta.",
+          "ar": "تقارير من 2024 و2026 بتوثق مشروع نسيج سجاد للستات وعروض حرف مرتبطة به في رشيد.",
+          "sources": [
+            "https://gate.ahram.org.eg/News/5672256.aspx",
+            "https://gate.ahram.org.eg/News/4814803.aspx"
+          ]
+        },
+        "sources": [
+          "https://gate.ahram.org.eg/News/5672256.aspx",
+          "https://gate.ahram.org.eg/News/4814803.aspx"
+        ],
+        "availability_note": "Documented craft production or display only; no exact maker, opening hours, current stock or visitor arrangements verified."
+      },
+      {
+        "name": {
+          "en": "Palm-leaf and frond work",
+          "ar": "شغل الخوص والجريد والسعف"
+        },
+        "description": {
+          "en": "A June 2026 report identifies palm-material crafts among the displays in Rosetta's museum garden.",
+          "ar": "تقرير من يونيو 2026 بيذكر شغل خامات النخيل ضمن الحرف المعروضة في الحديقة المتحفية برشيد.",
+          "sources": [
+            "https://gate.ahram.org.eg/News/5672256.aspx"
+          ]
+        },
+        "sources": [
+          "https://gate.ahram.org.eg/News/5672256.aspx"
+        ],
+        "availability_note": "Documented craft production or display only; no exact maker, opening hours, current stock or visitor arrangements verified."
+      },
+      {
+        "name": {
+          "en": "Leatherwork and pottery displays",
+          "ar": "عروض الجلد والفخار"
+        },
+        "description": {
+          "en": "The same museum-garden report documents leather goods and pottery among Rosetta's represented crafts. This establishes a dated craft display, not guaranteed daily sales.",
+          "ar": "نفس تقرير الحديقة المتحفية بيوثق مشغولات جلدية وفخار ضمن الحرف الممثلة في رشيد. ده بيثبت عرض حرفي بتاريخ محدد، مش بيع يومي مضمون.",
+          "sources": [
+            "https://gate.ahram.org.eg/News/5672256.aspx"
+          ]
+        },
+        "sources": [
+          "https://gate.ahram.org.eg/News/5672256.aspx"
+        ],
+        "availability_note": "Documented craft production or display only; no exact maker, opening hours, current stock or visitor arrangements verified."
+      }
+    ],
     "festivals": [],
     "commemorations": [],
     "transport": {
@@ -8475,8 +8642,45 @@
         "ar": "جدول مناخ مدينة من مصدر ثانوي؛ المصدر الأصلي وفترة المتوسط مش متحقق منهم بشكل مستقل"
       }
     },
-    "food_specialties": [],
-    "crafts": [],
+    "food_specialties": [
+      {
+        "name": {
+          "en": "Village bread and cheese",
+          "ar": "عيش وجبنة من إنتاج القرى"
+        },
+        "description": {
+          "en": "A Reuters feature documents women in a village near Beni Suef baking bread and selling it with locally made cheese. This is a local production story, not a claim of a unique governorate-wide recipe.",
+          "ar": "تقرير لرويترز بيوثق ستات في قرية قريبة من بني سويف بيخبزوا العيش وبيبيعوه مع جبنة معمولة محليًا. دي حكاية إنتاج محلي، مش ادعاء وصفة فريدة على مستوى المحافظة كلها.",
+          "sources": [
+            "https://gate.ahram.org.eg/News/2697180.aspx"
+          ]
+        },
+        "sources": [
+          "https://gate.ahram.org.eg/News/2697180.aspx"
+        ],
+        "evidence_type": "documented_local_crop_or_food_production_not_live_menu",
+        "scope_note": "No current seller, stock or menu verified. Salted fish is documented as heritage only, not endorsed as safe."
+      }
+    ],
+    "crafts": [
+      {
+        "name": {
+          "en": "Rural pottery traditions",
+          "ar": "الفخار في قرى بني سويف"
+        },
+        "description": {
+          "en": "A local report from Biba district records an intergenerational pottery-making and trading tradition, including water jars and cooking vessels. It also records the craft's decline rather than portraying it as universally thriving.",
+          "ar": "تقرير محلي من مركز ببا بيوثق حرفة الفخار وتجارته عبر أجيال، ومنها أواني المياه والطهي. والتقرير بيذكر تراجع الحرفة، مش بيصورها كأنها مزدهرة في كل مكان.",
+          "sources": [
+            "https://www.cairo24.com/1903875"
+          ]
+        },
+        "sources": [
+          "https://www.cairo24.com/1903875"
+        ],
+        "availability_note": "Documented in 2023; no individual maker or visitor workshop is recommended."
+      }
+    ],
     "festivals": [],
     "commemorations": [
       {
@@ -8894,8 +9098,46 @@
         "scope_note": "Not exclusive to this governorate. No named restaurant, current menu or seasonal stock verified."
       }
     ],
-    "crafts": [],
-    "festivals": [],
+    "crafts": [
+      {
+        "name": {
+          "en": "Palm-frond woodwork in al-Qayat",
+          "ar": "شغل جريد النخل في القيات"
+        },
+        "description": {
+          "en": "A 2017 report documents al-Qayat workers and researchers adapting palm-frond material into panels and household objects. This is a modern local materials initiative, not evidence of an unchanged ancient craft or an open factory.",
+          "ar": "تقرير سنة 2017 بيوثق شغل باحثين وعمال في القيات لتحويل جريد النخل لألواح وأدوات منزلية. دي مبادرة محلية حديثة للخامات، مش دليل حرفة ثابتة من زمان أو مصنع مفتوح للزيارة.",
+          "sources": [
+            "https://agri.ahram.org.eg/News/55687.aspx"
+          ]
+        },
+        "sources": [
+          "https://agri.ahram.org.eg/News/55687.aspx"
+        ],
+        "availability_note": "Documented craft production or display only; no exact maker, opening hours, current stock or visitor arrangements verified."
+      }
+    ],
+    "festivals": [
+      {
+        "name": {
+          "en": "Virgin Mary feast at Gabal al-Tayr",
+          "ar": "مولد العذراء في جبل الطير"
+        },
+        "description": {
+          "en": "A May 2026 report documents preparations for the annual celebration at the monastery in Samalut. A new edition requires a fresh date and access check.",
+          "ar": "تقرير من مايو 2026 بيوثق الاستعدادات للاحتفال السنوي في الدير بسمالوط. أي نسخة جديدة محتاجة مراجعة مواعيد وترتيبات الوصول من جديد.",
+          "sources": [
+            "https://gate.ahram.org.eg/News/5643697.aspx"
+          ]
+        },
+        "sources": [
+          "https://gate.ahram.org.eg/News/5643697.aspx"
+        ],
+        "dates": null,
+        "next_edition": null,
+        "status_note": "Documented tradition or past edition. No future date, venue access or ticket verified."
+      }
+    ],
     "commemorations": [],
     "transport": {
       "en": "Nile Valley rail and road connections are the usual regional gateways. Local transfers to tombs, temples and monasteries should be arranged separately; current services are not verified here.",
@@ -9358,7 +9600,27 @@
         "availability_note": "A documented tradition or production sector, not a promise of a currently open shop."
       }
     ],
-    "festivals": [],
+    "festivals": [
+      {
+        "name": {
+          "en": "Virgin Mary celebrations at Durunka",
+          "ar": "احتفالات العذراء في درنكة"
+        },
+        "description": {
+          "en": "UNESCO identifies Durunka among the places holding celebrations connected with the Journey of the Holy Family. The wider festival tradition was inscribed in 2022. This is the recognition of a living tradition, not verification of any future program.",
+          "ar": "اليونسكو بتذكر درنكة ضمن الأماكن اللي فيها احتفالات مرتبطة برحلة العائلة المقدسة. التقليد الاحتفالي الأوسع اتسجل سنة 2022. ده اعتراف بتراث حي، مش تأكيد لبرنامج احتفال جاي.",
+          "sources": [
+            "https://ich.unesco.org/en/RL/festivals-related-to-the-journey-of-the-holy-family-in-egypt-01700"
+          ]
+        },
+        "sources": [
+          "https://ich.unesco.org/en/RL/festivals-related-to-the-journey-of-the-holy-family-in-egypt-01700"
+        ],
+        "dates": null,
+        "next_edition": null,
+        "status_note": "Documented tradition or past edition. No future date, venue access or ticket verified."
+      }
+    ],
     "commemorations": [
       {
         "month_day": "04-18",
@@ -10177,7 +10439,26 @@
         "ar": "جدول مناخ مدينة من مصدر ثانوي؛ المصدر الأصلي وفترة المتوسط مش متحقق منهم بشكل مستقل"
       }
     },
-    "food_specialties": [],
+    "food_specialties": [
+      {
+        "name": {
+          "en": "Sugarcane molasses",
+          "ar": "العسل الأسود"
+        },
+        "description": {
+          "en": "Reporting on traditional sugarcane processing identifies Qena, alongside Minya, among areas where molasses production matters to local livelihoods. It is a shared Upper Egyptian product, not exclusive to Qena.",
+          "ar": "تقارير عن تصنيع قصب السكر بالطرق التقليدية بتذكر قنا، جنب المنيا، ضمن المناطق اللي إنتاج العسل الأسود مهم فيها لرزق الناس. هو منتج صعيدي مشترك، مش حكر على قنا.",
+          "sources": [
+            "https://www.middleeasteye.net/discover/egypt-sugar-cane-molasses-making-pictures"
+          ]
+        },
+        "sources": [
+          "https://www.middleeasteye.net/discover/egypt-sugar-cane-molasses-making-pictures"
+        ],
+        "evidence_type": "documented_local_crop_or_food_production_not_live_menu",
+        "scope_note": "No current seller, stock or menu verified. Salted fish is documented as heritage only, not endorsed as safe."
+      }
+    ],
     "crafts": [
       {
         "name": {
