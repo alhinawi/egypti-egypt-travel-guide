@@ -1552,5 +1552,303 @@
       "https://egymonuments.gov.eg/monuments/baron-empain-palace",
       "https://en.wikipedia.org/wiki/Baron_Empain_Palace"
     ]
+  },
+  "museum-islamic-art": {
+    "governorate": "cairo",
+    "vibes": [
+      "museum",
+      "historic"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://egymonuments.gov.eg/en/museums/museum-of-islamic-art/",
+      "https://en.wikipedia.org/wiki/Museum_of_Islamic_Art,_Cairo"
+    ]
+  },
+  "gayer-anderson-museum": {
+    "governorate": "cairo",
+    "vibes": [
+      "museum",
+      "historic"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://egymonuments.gov.eg/en/museums/gayer-anderson-museum/",
+      "https://en.wikipedia.org/wiki/Gayer-Anderson_Museum"
+    ]
+  },
+  "petrified-forest-cairo": {
+    "governorate": "cairo",
+    "vibes": [
+      "nature"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://cairo.gov.eg/en/tourism/tourism-destinations/nature-reserves/"
+    ]
+  },
+  "great-pyramid-khufu": {
+    "governorate": "giza",
+    "vibes": [
+      "historic"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://egymonuments.gov.eg/en/monuments/the-great-pyramid/",
+      "https://egymonuments.gov.eg/archaeological-sites/giza-plateau/",
+      "https://en.wikipedia.org/wiki/Great_Pyramid_of_Giza"
+    ]
+  },
+  "khafre-pyramid": {
+    "governorate": "giza",
+    "vibes": [
+      "historic"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://egymonuments.gov.eg/en/monuments/pyramid-complex-of-khafre-khefren/",
+      "https://egymonuments.gov.eg/archaeological-sites/giza-plateau/",
+      "https://en.wikipedia.org/wiki/Pyramid_of_Khafre"
+    ]
+  },
+  "bent-pyramid": {
+    "governorate": "giza",
+    "vibes": [
+      "historic"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://egymonuments.gov.eg/en/monuments/the-bent-pyramid/",
+      "https://egymonuments.gov.eg/en/archaeological-sites/dahshur/",
+      "https://en.wikipedia.org/wiki/Bent_Pyramid"
+    ]
+  },
+  "red-pyramid": {
+    "governorate": "giza",
+    "vibes": [
+      "historic"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://egymonuments.gov.eg/en/monuments/the-red-pyramid/",
+      "https://egymonuments.gov.eg/en/archaeological-sites/dahshur/",
+      "https://en.wikipedia.org/wiki/Red_Pyramid"
+    ]
+  },
+  "djoser-step-pyramid": {
+    "governorate": "giza",
+    "vibes": [
+      "historic"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://egymonuments.gov.eg/en/monuments/the-step-pyramid-complex-of-djoser/",
+      "https://egymonuments.gov.eg/archaeological-sites/saqqara/",
+      "https://en.wikipedia.org/wiki/Pyramid_of_Djoser"
+    ]
+  },
+  "menkaure-pyramid": {
+    "governorate": "giza",
+    "vibes": [
+      "historic"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://egymonuments.gov.eg/en/monuments/pyramid-complex-of-menkaure/",
+      "https://egymonuments.gov.eg/archaeological-sites/giza-plateau/",
+      "https://en.wikipedia.org/wiki/Pyramid_of_Menkaure"
+    ]
+  },
+  "great-sphinx": {
+    "governorate": "giza",
+    "vibes": [
+      "historic"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://egymonuments.gov.eg/en/monuments/the-great-sphinx/",
+      "https://egymonuments.gov.eg/archaeological-sites/giza-plateau/",
+      "https://en.wikipedia.org/wiki/Great_Sphinx_of_Giza"
+    ]
+  },
+  "serapeum-saqqara": {
+    "governorate": "giza",
+    "vibes": [
+      "historic"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://egymonuments.gov.eg/en/monuments/serapeum/",
+      "https://egymonuments.gov.eg/archaeological-sites/saqqara/",
+      "https://en.wikipedia.org/wiki/Serapeum_of_Saqqara"
+    ]
+  },
+  "memphis-mit-rahina": {
+    "governorate": "giza",
+    "vibes": [
+      "historic"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://egymonuments.gov.eg/en/world-heritage/memphis-and-its-necropolis/",
+      "https://en.wikipedia.org/wiki/Memphis%2C_Egypt",
+      "https://en.wikipedia.org/wiki/Memphis,_Egypt"
+    ]
+  },
+  "shubra-el-kheima": {
+    "governorate": "qalyubia",
+    "vibes": [
+      "city"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://en.wikipedia.org/wiki/Shubra_El_Kheima",
+      "https://sis.gov.eg/en/egypt/system-of-government/executive-authority/qalyubia/"
+    ]
+  },
+  "hawara": {
+    "governorate": "fayoum",
+    "vibes": [
+      "historic"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://en.wikipedia.org/wiki/Hawara",
+      "https://www.sis.gov.eg/Story/68572"
+    ]
+  },
+  "lake-manzala": {
+    "governorate": "dakahlia",
+    "vibes": [
+      "nature"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://en.wikipedia.org/wiki/Lake_Manzala",
+      "https://www.sis.gov.eg/Story/68563/Dakahlia-Governorate"
+    ]
+  },
+  "meir-egypt": {
+    "governorate": "asyut",
+    "vibes": [
+      "historic"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://en.wikipedia.org/wiki/Meir,_Egypt",
+      "https://www.sis.gov.eg/Story/180455/Assiut-Governorate?lang=en-us"
+    ]
+  },
+  "tuna-el-gebel": {
+    "governorate": "minya",
+    "vibes": [
+      "historic"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://en.wikipedia.org/wiki/Tuna_el-Gebel",
+      "https://tourism.minya.gov.eg/about-us"
+    ]
+  },
+  "talkha": {
+    "governorate": "dakahlia",
+    "vibes": [
+      "city"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://en.wikipedia.org/wiki/Talkha",
+      "https://www.sis.gov.eg/Story/68563/Dakahlia-Governorate"
+    ]
+  },
+  "baltim": {
+    "governorate": "kafr-el-sheikh",
+    "vibes": [
+      "sea"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://en.wikipedia.org/wiki/Baltim",
+      "https://sis.gov.eg/Story/180185/Kafr-El-Sheikh-Governorate?lang=en-us"
+    ]
+  },
+  "faiyum-oasis": {
+    "governorate": "fayoum",
+    "vibes": [
+      "nature"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://en.wikipedia.org/wiki/Faiyum_Oasis",
+      "https://www.sis.gov.eg/Story/68572"
+    ]
+  },
+  "heracleopolis-magna": {
+    "governorate": "beni-suef",
+    "vibes": [
+      "historic"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://en.wikipedia.org/wiki/Heracleopolis_Magna",
+      "https://beta.sis.gov.eg/en/egypt/political-system/executive-authority/beni-suef/"
+    ]
+  },
+  "akhmim": {
+    "governorate": "sohag",
+    "vibes": [
+      "historic"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://en.wikipedia.org/wiki/Akhmim",
+      "https://www.sis.gov.eg/Story/68574/Sohag-Governorate"
+    ]
+  },
+  "ezbet-el-borg": {
+    "governorate": "damietta",
+    "vibes": [
+      "city"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://en.wikipedia.org/wiki/Ezbet_El_Borg",
+      "https://sis.gov.eg/Story/26537"
+    ]
+  },
+  "farafra-egypt": {
+    "governorate": "new-valley",
+    "vibes": [
+      "city"
+    ],
+    "eras": [],
+    "classification": "editorial",
+    "source_basis": [
+      "https://en.wikipedia.org/wiki/Farafra,_Egypt",
+      "https://beta.sis.gov.eg/en/egypt/political-system/executive-authority/new-valley/"
+    ]
   }
 }

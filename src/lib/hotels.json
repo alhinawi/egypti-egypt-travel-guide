@@ -3472,6 +3472,126 @@
           }
         }
       ]
+    },
+    "menkaure-pyramid": {
+      "place_coordinate_note": null,
+      "hotels": [
+        {
+          "wikidata_id": "Q1355271",
+          "name_en": "Mena House",
+          "name_ar": "مينا هاوس",
+          "name_ar_status": "from Wikidata label",
+          "distance_km_straight_line": 1.51,
+          "map_url": "https://www.openstreetmap.org/?mlat=29.98555556&mlon=31.13277778#map=17/29.98555556/31.13277778",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q1355271",
+          "official_website": null,
+          "coords": [
+            29.98556,
+            31.13278
+          ],
+          "photo": {
+            "src": "/photos/places/giza-ov-31-780.webp",
+            "commons_page": "https://www.flickr.com/photos/81402356@N00/2411112348",
+            "license": "CC BY-SA 2.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/2.0/deed.en",
+            "author": "MichaelTyler",
+            "alt": {
+              "en": "Historic pyramid view from Mena House, under former Oberoi branding; not a room-view guarantee",
+              "ar": "منظر تاريخي للأهرامات من مينا هاوس وقت إدارة أوبروي السابقة؛ مش ضمان لإطلالة أي أوضة"
+            }
+          }
+        }
+      ]
+    },
+    "great-sphinx": {
+      "place_coordinate_note": null,
+      "hotels": [
+        {
+          "wikidata_id": "Q1355271",
+          "name_en": "Mena House",
+          "name_ar": "مينا هاوس",
+          "name_ar_status": "from Wikidata label",
+          "distance_km_straight_line": 1.24,
+          "map_url": "https://www.openstreetmap.org/?mlat=29.98555556&mlon=31.13277778#map=17/29.98555556/31.13277778",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q1355271",
+          "official_website": null,
+          "coords": [
+            29.98556,
+            31.13278
+          ],
+          "photo": {
+            "src": "/photos/places/giza-ov-31-780.webp",
+            "commons_page": "https://www.flickr.com/photos/81402356@N00/2411112348",
+            "license": "CC BY-SA 2.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/2.0/deed.en",
+            "author": "MichaelTyler",
+            "alt": {
+              "en": "Historic pyramid view from Mena House, under former Oberoi branding; not a room-view guarantee",
+              "ar": "منظر تاريخي للأهرامات من مينا هاوس وقت إدارة أوبروي السابقة؛ مش ضمان لإطلالة أي أوضة"
+            }
+          }
+        }
+      ]
+    },
+    "great-pyramid-khufu": {
+      "place_coordinate_note": null,
+      "hotels": [
+        {
+          "wikidata_id": "Q1355271",
+          "name_en": "Mena House",
+          "name_ar": "مينا هاوس",
+          "name_ar_status": "from Wikidata label",
+          "distance_km_straight_line": 0.73,
+          "map_url": "https://www.openstreetmap.org/?mlat=29.98555556&mlon=31.13277778#map=17/29.98555556/31.13277778",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q1355271",
+          "official_website": null,
+          "coords": [
+            29.98556,
+            31.13278
+          ],
+          "photo": {
+            "src": "/photos/places/giza-ov-31-780.webp",
+            "commons_page": "https://www.flickr.com/photos/81402356@N00/2411112348",
+            "license": "CC BY-SA 2.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/2.0/deed.en",
+            "author": "MichaelTyler",
+            "alt": {
+              "en": "Historic pyramid view from Mena House, under former Oberoi branding; not a room-view guarantee",
+              "ar": "منظر تاريخي للأهرامات من مينا هاوس وقت إدارة أوبروي السابقة؛ مش ضمان لإطلالة أي أوضة"
+            }
+          }
+        }
+      ]
+    },
+    "khafre-pyramid": {
+      "place_coordinate_note": null,
+      "hotels": [
+        {
+          "wikidata_id": "Q1355271",
+          "name_en": "Mena House",
+          "name_ar": "مينا هاوس",
+          "name_ar_status": "from Wikidata label",
+          "distance_km_straight_line": 1.08,
+          "map_url": "https://www.openstreetmap.org/?mlat=29.98555556&mlon=31.13277778#map=17/29.98555556/31.13277778",
+          "wikidata_url": "https://www.wikidata.org/wiki/Q1355271",
+          "official_website": null,
+          "coords": [
+            29.98556,
+            31.13278
+          ],
+          "photo": {
+            "src": "/photos/places/giza-ov-31-780.webp",
+            "commons_page": "https://www.flickr.com/photos/81402356@N00/2411112348",
+            "license": "CC BY-SA 2.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/2.0/deed.en",
+            "author": "MichaelTyler",
+            "alt": {
+              "en": "Historic pyramid view from Mena House, under former Oberoi branding; not a room-view guarantee",
+              "ar": "منظر تاريخي للأهرامات من مينا هاوس وقت إدارة أوبروي السابقة؛ مش ضمان لإطلالة أي أوضة"
+            }
+          }
+        }
+      ]
     }
   }
 }
