@@ -58,3 +58,5 @@ OAuth uses state, nonce, PKCE S256, Google ID-token signature/audience/issuer ve
 Photos are real, archival destination images. They do not guarantee present access. Cropped, resized and recompressed derivatives remain under each image's original license. Credits and license links are listed on the About page and in `ASSET_CREDITS.md`.
 
 Noto Sans Arabic is licensed under the SIL Open Font License. A subset is bundled for fast loading; the font license is included in `public/fonts/OFL.txt`.
+
+Production ADMIN_EMAILS is configured as a Pages secret allowlist. Do not duplicate it under vars; keep existing production secrets when deploying. No allowlist means admin access is denied.
