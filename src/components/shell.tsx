@@ -1,10 +1,10 @@
 'use client';
 import Link from'next/link';import{usePathname}from'next/navigation';import{useState,useEffect,useRef}from'react';
 import{Globe2,Compass,Map,Bookmark,Route,ArrowUpRight,X,Menu,LogOut,UserRound,ChevronDown,Info,ArrowLeft,Sun,Moon,Waves,Mountain,Scan,ShieldCheck}from'lucide-react';
-import{themes,isTheme,SITE_KEY}from'@/lib/themes';import{GuideProvider,useGuide,t}from'./guide-provider';import type{Lang}from'@/lib/data';
+import{themes,isTheme,SITE_KEY,DEFAULT_THEME}from'@/lib/themes';import{GuideProvider,useGuide,t}from'./guide-provider';import type{Lang}from'@/lib/data';
 export function Shell({children,lang}:{children:React.ReactNode;lang?:Lang}){return <GuideProvider lang={lang}><Chrome>{children}</Chrome></GuideProvider>}
 function Chrome({children}:{children:React.ReactNode}){
- const{lang,user,admin,google,logout}=useGuide(),path=usePathname(),[languageOpen,setLanguageOpen]=useState(false),[menu,setMenu]=useState(false),[profile,setProfile]=useState(false),[theme,setTheme]=useState('ivory');
+ const{lang,user,admin,google,logout}=useGuide(),path=usePathname(),[languageOpen,setLanguageOpen]=useState(false),[menu,setMenu]=useState(false),[profile,setProfile]=useState(false),[theme,setTheme]=useState(DEFAULT_THEME);
  const drawer=useRef<HTMLDialogElement>(null),profileDialog=useRef<HTMLDialogElement>(null);
  useEffect(()=>{const saved=localStorage.getItem(SITE_KEY);if(isTheme(saved)){setTheme(saved);document.documentElement.dataset.theme=saved}},[]);
  useEffect(()=>{const el=drawer.current;if(!el)return;if(menu){el.showModal();el.scrollTop=0;el.querySelector<HTMLButtonElement>('.drawer-head button')?.focus({preventScroll:true});document.body.style.overflow='hidden'}else{el.close();document.body.style.overflow=''}return()=>{document.body.style.overflow=''}},[menu]);

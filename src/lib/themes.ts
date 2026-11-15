@@ -2,10 +2,10 @@ export interface Theme{id:string;ar:string;en:string;dark:boolean;mood:string;pa
 const T=(id:string,ar:string,en:string,dark:boolean,mood:string,c:string):Theme=>{const[page,paper,ink,muted,accent,tint,line,sun,deep]=c.split(' ');return{id,ar,en,dark,mood,page,paper,ink,muted,accent,tint,line,sun,deep}};
 // Token order: page paper ink muted accent tint line sun deep. Every pair is checked by tests/themes.test.ts.
 export const themes:Theme[]=[
-T('ivory','عاجي','Ivory',false,'هادي ونضيف','#f5f7f6 #ffffff #102c38 #60747d #125366 #e6f0f0 #d8e4e5 #f5c46d #0b2936'),
+T('ivory','عاجي','Ivory',false,'هادي ونضيف','#f5f7f6 #ffffff #102c38 #4e626b #125366 #e6f0f0 #d8e4e5 #f5c46d #0b2936'),
 T('night','ليلي','Night',true,'مريح بالليل','#071c29 #102d3b #f3f6ef #aec6cd #8fdfdd #173c49 #315562 #ffcc83 #03141f'),
-T('sand','رملي','Sand',false,'دافي زي الصحرا','#f6eee4 #fffbf3 #4e2c24 #896858 #ab5138 #efddc9 #dbc6b3 #ffd390 #542b25'),
-T('nile','نيلي','Nile',false,'هادي زي النيل','#e9f5f4 #f9ffff #073e4d #4b7b83 #007c83 #cde9e5 #a5d3d2 #f4cf7e #044650'),
+T('sand','رملي','Sand',false,'دافي زي الصحرا','#f6eee4 #fffbf3 #4e2c24 #705344 #ab5138 #efddc9 #dbc6b3 #ffd390 #542b25'),
+T('nile','نيلي','Nile',false,'هادي زي النيل','#e9f5f4 #f9ffff #073e4d #36646c #00696e #cde9e5 #a5d3d2 #f4cf7e #044650'),
 T('papyrus','بردي','Papyrus',false,'ورق قديم دافي','#f1ead2 #fbf6e4 #3b3118 #695b36 #7a5a12 #e7dcb5 #d3c593 #e8b64a #3a2d0e'),
 T('lapis','لازورد','Lapis',false,'أزرق ملكي','#eaeefa #fafbff #16224d #505c89 #2a3f9e #d9e0f5 #b8c3e6 #f0c05a #0e1840'),
 T('emerald','زمرد','Emerald',false,'أخضر عميق','#e8f3ec #f9fffb #10382a #466858 #0b6e4f #d2e8db #a9cfba #e9c46a #07261c'),
@@ -24,3 +24,5 @@ T('dusk','غروب','Dusk',true,'بني دافي ليلي','#221512 #31201b #f8e
 export const themeIds=themes.map(t=>t.id);
 export const isTheme=(id:unknown):id is string=>typeof id==='string'&&themeIds.includes(id);
 export const SITE_KEY='egypti:theme',ADMIN_KEY='egypti:admin-theme';
+
+export const DEFAULT_THEME='papyrus';
