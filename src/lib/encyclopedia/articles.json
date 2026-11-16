@@ -4216,7 +4216,39 @@
         }
       ],
       "scope": "regional"
-    }
+    },
+    "buy_note": {
+      "ar": "أفكار تسوّق في مدينة الأقصر بعيد عن المزار نفسه. الدليل المطبوع بيسند أنواع المعروضات، مش مواعيد محلات أو مخزون أو أسعار حالية.",
+      "en": "Luxor-city shopping ideas, separate from the attraction. The printed guide supports categories, not current shop hours, stock or prices."
+    },
+    "buy": [
+      {
+        "name": {
+          "en": "Spices and incense in Luxor's souq",
+          "ar": "توابل وبخور في سوق الأقصر"
+        },
+        "note": {
+          "en": "The official city guide describes spices, perfumes and incense in Luxor's main souq near Luxor Temple. That is a separate city-market visit, not a claim about goods inside Karnak or Luxor Museum.",
+          "ar": "دليل المدينة الرسمي بيذكر التوابل والعطور والبخور في سوق الأقصر الرئيسي ناحية معبد الأقصر. دي زيارة سوق منفصلة في المدينة، مش ادعاء عن معروض جوّه الكرنك أو متحف الأقصر."
+        },
+        "source_urls": [
+          "https://www.experienceegypt.eg/files/Luxor-Eng.pdf"
+        ]
+      },
+      {
+        "name": {
+          "en": "Souvenir textiles and jewellery",
+          "ar": "منسوجات وحُلي كهدايا"
+        },
+        "note": {
+          "en": "Clothing, jewellery and souvenirs are categories described in the guide's souq coverage. Compare materials and workmanship, and ask about provenance rather than assuming a souvenir is locally handmade.",
+          "ar": "الملابس والحُلي والهدايا أنواع معروضات مذكورة في وصف الأسواق بالدليل. قارن الخامة والشغل، واسأل عن الأصل بدل ما تفترض إن أي تذكار شغل يدوي محلي."
+        },
+        "source_urls": [
+          "https://www.experienceegypt.eg/files/Luxor-Eng.pdf"
+        ]
+      }
+    ]
   },
   "luxor-temple": {
     "see": {
@@ -4721,7 +4753,26 @@
         }
       ],
       "scope": "regional"
-    }
+    },
+    "buy_note": {
+      "ar": "فكرة لتسوّق منفصل في البر الغربي، مش جزء من تذكرة المقبرة أو المعبد ولا محل متأكدين منه جوّه الأثر.",
+      "en": "A separate West Bank shopping idea, not part of tomb or temple admission and not a verified shop inside the monument."
+    },
+    "buy": [
+      {
+        "name": {
+          "en": "Alabaster craftwork",
+          "ar": "أوعية وفازات ومنحوتات ألباستر"
+        },
+        "note": {
+          "en": "The official Luxor guide describes alabaster workshops around the West Bank necropolis. Ask what stone a piece is made from, whether it is hand-carved and how it will be packed. Do not infer material or technique from appearance alone.",
+          "ar": "دليل الأقصر الرسمي بيذكر ورش الألباستر حوالين منطقة الجبانة في البر الغربي. اسأل القطعة من حجر إيه، محفورة يدوي ولا لأ، وهتتغلّف إزاي. متحكمش على الخامة أو طريقة الشغل من الشكل بس."
+        },
+        "source_urls": [
+          "https://www.experienceegypt.eg/files/Luxor-Eng.pdf"
+        ]
+      }
+    ]
   },
   "philae": {
     "see": {
@@ -4880,7 +4931,39 @@
         }
       ],
       "scope": "regional"
-    }
+    },
+    "buy_note": {
+      "ar": "أفكار لحِرف في منطقة أسوان، مش محل متأكدين منه في المزار ده ولا وعد بمعروض جوّه المتحف أو المحجر أو موقع الجزيرة.",
+      "en": "Aswan-area craft ideas, not a verified shop at this attraction or a promise of goods inside the museum, quarry or island site."
+    },
+    "buy": [
+      {
+        "name": {
+          "en": "Palm-leaf and palm-branch craftwork",
+          "ar": "مشغولات الخوص وجريد النخل"
+        },
+        "note": {
+          "en": "UNESCO identifies palm-leaf and palm-branch work among Aswan's traditional crafts. Ask about the maker and material; this is not a guarantee that every market item was made locally.",
+          "ar": "اليونسكو بتذكر شغل الخوص وجريد النخل ضمن حِرف أسوان التقليدية. اسأل عن الصانع والخامة؛ ده مش ضمان إن كل حاجة في السوق معمولة محليًا."
+        },
+        "source_urls": [
+          "https://www.unesco.org/en/creative-cities/aswan"
+        ]
+      },
+      {
+        "name": {
+          "en": "Beadwork and embroidered textiles",
+          "ar": "شغل خرز ومنسوجات مطرزة"
+        },
+        "note": {
+          "en": "Beadwork, needlework and tablecloth production are also documented in UNESCO's Aswan craft profile. Compare the stitching, finish and maker's explanation rather than relying on an authenticity label alone.",
+          "ar": "ملف اليونسكو عن حِرف أسوان بيوثّق شغل الخرز والتطريز وإنتاج المفارش كمان. قارن الغرز والتشطيب وشرح الصانع بدل ما تعتمد على كلمة أصلي لوحدها."
+        },
+        "source_urls": [
+          "https://www.unesco.org/en/creative-cities/aswan"
+        ]
+      }
+    ]
   },
   "abu-simbel": {
     "see": {
@@ -5198,7 +5281,39 @@
         }
       ],
       "scope": "regional"
-    }
+    },
+    "buy_note": {
+      "ar": "أفكار لحِرف في منطقة أسوان، مش محل متأكدين منه في المزار ده ولا وعد بمعروض جوّه المتحف أو المحجر أو موقع الجزيرة.",
+      "en": "Aswan-area craft ideas, not a verified shop at this attraction or a promise of goods inside the museum, quarry or island site."
+    },
+    "buy": [
+      {
+        "name": {
+          "en": "Palm-leaf and palm-branch craftwork",
+          "ar": "مشغولات الخوص وجريد النخل"
+        },
+        "note": {
+          "en": "UNESCO identifies palm-leaf and palm-branch work among Aswan's traditional crafts. Ask about the maker and material; this is not a guarantee that every market item was made locally.",
+          "ar": "اليونسكو بتذكر شغل الخوص وجريد النخل ضمن حِرف أسوان التقليدية. اسأل عن الصانع والخامة؛ ده مش ضمان إن كل حاجة في السوق معمولة محليًا."
+        },
+        "source_urls": [
+          "https://www.unesco.org/en/creative-cities/aswan"
+        ]
+      },
+      {
+        "name": {
+          "en": "Beadwork and embroidered textiles",
+          "ar": "شغل خرز ومنسوجات مطرزة"
+        },
+        "note": {
+          "en": "Beadwork, needlework and tablecloth production are also documented in UNESCO's Aswan craft profile. Compare the stitching, finish and maker's explanation rather than relying on an authenticity label alone.",
+          "ar": "ملف اليونسكو عن حِرف أسوان بيوثّق شغل الخرز والتطريز وإنتاج المفارش كمان. قارن الغرز والتشطيب وشرح الصانع بدل ما تعتمد على كلمة أصلي لوحدها."
+        },
+        "source_urls": [
+          "https://www.unesco.org/en/creative-cities/aswan"
+        ]
+      }
+    ]
   },
   "kom-ombo-temple": {
     "see": {
@@ -6438,7 +6553,26 @@
       "sources": [
         "https://www.nodc.noaa.gov/archive/arc0216/0253808/2.2/data/0-data/Region-1-WMO-Normals-9120/Egypt/CSV/SharmElSheikhAP_62460.csv"
       ]
-    }
+    },
+    "buy_note": {
+      "ar": "فكرة لحرفة في منطقة سانت كاترين، مش تأكيد محل جوّه الدير أو زيارة ورشة متاحة.",
+      "en": "A craft lead for the Saint Catherine area, not a claim of a shop inside the monastery or a verified workshop visit."
+    },
+    "buy": [
+      {
+        "name": {
+          "en": "Bedouin embroidered textiles",
+          "ar": "منسوجات بتطريز بدوي"
+        },
+        "note": {
+          "en": "Ahram's heritage reporting documents women's embroidery in Saint Catherine and the Fan Sina craft project. Ask about the maker, handwork and materials when comparing a piece.",
+          "ar": "تقارير الأهرام التراثية بتوثّق تطريز الستات في سانت كاترين ومشروع فن سينا للحِرف. اسأل عن الصانعة والشغل اليدوي والخامة وإنت بتقارن القطع."
+        },
+        "source_urls": [
+          "https://english.ahram.org.eg/News/547087.aspx"
+        ]
+      }
+    ]
   },
   "mount-sinai": {
     "see": {
@@ -8311,7 +8445,26 @@
           ]
         }
       ]
-    }
+    },
+    "buy_note": {
+      "ar": "فكرة لتسوّق منفصل في البر الغربي، مش جزء من تذكرة المقبرة أو المعبد ولا محل متأكدين منه جوّه الأثر.",
+      "en": "A separate West Bank shopping idea, not part of tomb or temple admission and not a verified shop inside the monument."
+    },
+    "buy": [
+      {
+        "name": {
+          "en": "Alabaster craftwork",
+          "ar": "أوعية وفازات ومنحوتات ألباستر"
+        },
+        "note": {
+          "en": "The official Luxor guide describes alabaster workshops around the West Bank necropolis. Ask what stone a piece is made from, whether it is hand-carved and how it will be packed. Do not infer material or technique from appearance alone.",
+          "ar": "دليل الأقصر الرسمي بيذكر ورش الألباستر حوالين منطقة الجبانة في البر الغربي. اسأل القطعة من حجر إيه، محفورة يدوي ولا لأ، وهتتغلّف إزاي. متحكمش على الخامة أو طريقة الشغل من الشكل بس."
+        },
+        "source_urls": [
+          "https://www.experienceegypt.eg/files/Luxor-Eng.pdf"
+        ]
+      }
+    ]
   },
   "luxor-museum": {
     "wear": [
@@ -8472,7 +8625,39 @@
           ]
         }
       ]
-    }
+    },
+    "buy_note": {
+      "ar": "أفكار تسوّق في مدينة الأقصر بعيد عن المزار نفسه. الدليل المطبوع بيسند أنواع المعروضات، مش مواعيد محلات أو مخزون أو أسعار حالية.",
+      "en": "Luxor-city shopping ideas, separate from the attraction. The printed guide supports categories, not current shop hours, stock or prices."
+    },
+    "buy": [
+      {
+        "name": {
+          "en": "Spices and incense in Luxor's souq",
+          "ar": "توابل وبخور في سوق الأقصر"
+        },
+        "note": {
+          "en": "The official city guide describes spices, perfumes and incense in Luxor's main souq near Luxor Temple. That is a separate city-market visit, not a claim about goods inside Karnak or Luxor Museum.",
+          "ar": "دليل المدينة الرسمي بيذكر التوابل والعطور والبخور في سوق الأقصر الرئيسي ناحية معبد الأقصر. دي زيارة سوق منفصلة في المدينة، مش ادعاء عن معروض جوّه الكرنك أو متحف الأقصر."
+        },
+        "source_urls": [
+          "https://www.experienceegypt.eg/files/Luxor-Eng.pdf"
+        ]
+      },
+      {
+        "name": {
+          "en": "Souvenir textiles and jewellery",
+          "ar": "منسوجات وحُلي كهدايا"
+        },
+        "note": {
+          "en": "Clothing, jewellery and souvenirs are categories described in the guide's souq coverage. Compare materials and workmanship, and ask about provenance rather than assuming a souvenir is locally handmade.",
+          "ar": "الملابس والحُلي والهدايا أنواع معروضات مذكورة في وصف الأسواق بالدليل. قارن الخامة والشغل، واسأل عن الأصل بدل ما تفترض إن أي تذكار شغل يدوي محلي."
+        },
+        "source_urls": [
+          "https://www.experienceegypt.eg/files/Luxor-Eng.pdf"
+        ]
+      }
+    ]
   },
   "nubian-museum": {
     "wear": [
@@ -8630,7 +8815,39 @@
           ]
         }
       ]
-    }
+    },
+    "buy_note": {
+      "ar": "أفكار لحِرف في منطقة أسوان، مش محل متأكدين منه في المزار ده ولا وعد بمعروض جوّه المتحف أو المحجر أو موقع الجزيرة.",
+      "en": "Aswan-area craft ideas, not a verified shop at this attraction or a promise of goods inside the museum, quarry or island site."
+    },
+    "buy": [
+      {
+        "name": {
+          "en": "Palm-leaf and palm-branch craftwork",
+          "ar": "مشغولات الخوص وجريد النخل"
+        },
+        "note": {
+          "en": "UNESCO identifies palm-leaf and palm-branch work among Aswan's traditional crafts. Ask about the maker and material; this is not a guarantee that every market item was made locally.",
+          "ar": "اليونسكو بتذكر شغل الخوص وجريد النخل ضمن حِرف أسوان التقليدية. اسأل عن الصانع والخامة؛ ده مش ضمان إن كل حاجة في السوق معمولة محليًا."
+        },
+        "source_urls": [
+          "https://www.unesco.org/en/creative-cities/aswan"
+        ]
+      },
+      {
+        "name": {
+          "en": "Beadwork and embroidered textiles",
+          "ar": "شغل خرز ومنسوجات مطرزة"
+        },
+        "note": {
+          "en": "Beadwork, needlework and tablecloth production are also documented in UNESCO's Aswan craft profile. Compare the stitching, finish and maker's explanation rather than relying on an authenticity label alone.",
+          "ar": "ملف اليونسكو عن حِرف أسوان بيوثّق شغل الخرز والتطريز وإنتاج المفارش كمان. قارن الغرز والتشطيب وشرح الصانع بدل ما تعتمد على كلمة أصلي لوحدها."
+        },
+        "source_urls": [
+          "https://www.unesco.org/en/creative-cities/aswan"
+        ]
+      }
+    ]
   },
   "unfinished-obelisk": {
     "wear": [
@@ -8788,7 +9005,39 @@
           ]
         }
       ]
-    }
+    },
+    "buy_note": {
+      "ar": "أفكار لحِرف في منطقة أسوان، مش محل متأكدين منه في المزار ده ولا وعد بمعروض جوّه المتحف أو المحجر أو موقع الجزيرة.",
+      "en": "Aswan-area craft ideas, not a verified shop at this attraction or a promise of goods inside the museum, quarry or island site."
+    },
+    "buy": [
+      {
+        "name": {
+          "en": "Palm-leaf and palm-branch craftwork",
+          "ar": "مشغولات الخوص وجريد النخل"
+        },
+        "note": {
+          "en": "UNESCO identifies palm-leaf and palm-branch work among Aswan's traditional crafts. Ask about the maker and material; this is not a guarantee that every market item was made locally.",
+          "ar": "اليونسكو بتذكر شغل الخوص وجريد النخل ضمن حِرف أسوان التقليدية. اسأل عن الصانع والخامة؛ ده مش ضمان إن كل حاجة في السوق معمولة محليًا."
+        },
+        "source_urls": [
+          "https://www.unesco.org/en/creative-cities/aswan"
+        ]
+      },
+      {
+        "name": {
+          "en": "Beadwork and embroidered textiles",
+          "ar": "شغل خرز ومنسوجات مطرزة"
+        },
+        "note": {
+          "en": "Beadwork, needlework and tablecloth production are also documented in UNESCO's Aswan craft profile. Compare the stitching, finish and maker's explanation rather than relying on an authenticity label alone.",
+          "ar": "ملف اليونسكو عن حِرف أسوان بيوثّق شغل الخرز والتطريز وإنتاج المفارش كمان. قارن الغرز والتشطيب وشرح الصانع بدل ما تعتمد على كلمة أصلي لوحدها."
+        },
+        "source_urls": [
+          "https://www.unesco.org/en/creative-cities/aswan"
+        ]
+      }
+    ]
   },
   "eel-garden": {
     "wear": [
@@ -9240,7 +9489,39 @@
           ]
         }
       ]
-    }
+    },
+    "buy_note": {
+      "ar": "أفكار تخص السوق من دليل السياحة. اتأكد من المكان والمواعيد الحالية؛ اسم السوق لوحده مش تأكيد لمواعيد الفتح.",
+      "en": "Market-specific ideas from the tourism guide. Confirm the current venue and schedule; the name alone does not verify opening times."
+    },
+    "buy": [
+      {
+        "name": {
+          "en": "Local artisan goods",
+          "ar": "شغل الحِرفيين المحليين"
+        },
+        "note": {
+          "en": "The tourism authority identifies local artisan work at Dahab's Friday Market. Ask who made a piece and which materials were used rather than assuming every item is locally handmade.",
+          "ar": "هيئة السياحة بتذكر شغل الحِرفيين المحليين في سوق الجمعة بدهب. اسأل مين عمل القطعة والخامات المستخدمة، بدل ما تفترض إن كل المعروض شغل يدوي محلي."
+        },
+        "source_urls": [
+          "https://www.experienceegypt.eg/en/city/33/dahab"
+        ]
+      },
+      {
+        "name": {
+          "en": "Home-cooked snacks and baked goods",
+          "ar": "أكل بيتي ومخبوزات"
+        },
+        "note": {
+          "en": "Home-cooked snacks and baked goods are also described in the official market guide. Ask about ingredients and storage before buying; no particular stall or daily stock is verified here.",
+          "ar": "الدليل الرسمي بيذكر أكل بيتي ومخبوزات كمان. اسأل عن المكونات وطريقة الحفظ قبل الشراء؛ مفيش فرش بعينه أو معروض يومي اتأكدنا منه هنا."
+        },
+        "source_urls": [
+          "https://www.experienceegypt.eg/en/city/33/dahab"
+        ]
+      }
+    ]
   },
   "blue-lagoon": {
     "wear": [
@@ -15081,7 +15362,40 @@
     "eat_note": {
       "ar": "أفكار أكل على مستوى المحافظة، مش منيو في المكان ده ولا ضمان توفره عنده. بعض الأكلات مصرية عامة ومش حصرية للمحافظة.",
       "en": "Governorate-level food ideas, not an on-site menu or a guarantee of availability. Some dishes are national staples, not unique to this governorate."
-    }
+    },
+    "buy_note": {
+      "ar": "أفكار من صناعة النسيج المحلية. المصادر فيها وصف المنتجين لمنتجاتهم؛ مفيش وعد بمحل أو سعر أو توفر للبيع بالتجزئة.",
+      "en": "Local textile-industry ideas. Sources include producers' own product descriptions; no shop, price or retail availability is promised."
+    },
+    "buy": [
+      {
+        "name": {
+          "en": "Cotton towels and bath textiles",
+          "ar": "فوط ومنسوجات حمّام قطنية"
+        },
+        "note": {
+          "en": "Mahalla's textile producers describe towels, bathrobes and other home textiles. Compare the fibre-content label, size and finish; a city name on its own is not proof of a particular cotton grade.",
+          "ar": "منتجين النسيج في المحلة بيذكروا الفوط والبرانس ومنسوجات البيت ضمن شغلهم. قارن بيان الخامة والمقاس والتشطيب؛ اسم المدينة لوحده مش إثبات لدرجة قطن معيّنة."
+        },
+        "source_urls": [
+          "https://ech-eg.com/product/112",
+          "https://zahretelmehalla.com/index.php/2017/12/01/about-us/"
+        ]
+      },
+      {
+        "name": {
+          "en": "Bed linen and household textiles",
+          "ar": "ملايات ومنسوجات للبيت"
+        },
+        "note": {
+          "en": "The MEHALLA brand lists sheets, pillowcases and other home furnishings. This supports the product category, not a verified retail outlet, factory tour or current stock.",
+          "ar": "علامة MEHALLA بتذكر الملايات وأكياس المخدات ومنسوجات بيت تانية. ده بيسند نوع المنتج، مش محل بيع بالتجزئة أو زيارة مصنع أو مخزون حالي متأكدين منه."
+        },
+        "source_urls": [
+          "https://ech-eg.com/product/112"
+        ]
+      }
+    ]
   },
   "ahmad-al-badawi-mosque": {
     "see": {
@@ -31471,7 +31785,40 @@
     "eat_note": {
       "ar": "أفكار أكل على مستوى المحافظة، مش منيو في المكان ده ولا ضمان توفره عنده. بعض الأكلات مصرية عامة ومش حصرية للمحافظة.",
       "en": "Governorate-level food ideas, not an on-site menu or a guarantee of availability. Some dishes are national staples, not unique to this governorate."
-    }
+    },
+    "buy_note": {
+      "ar": "فكرة لحرفة في قرية تونس، مش محل جوّه كل مزار في الفيوم. رتّب أي زيارة ورشة بشكل منفصل.",
+      "en": "A regional craft idea in Tunis Village, not an on-site shop at every Fayoum attraction. Arrange any workshop visit separately."
+    },
+    "buy": [
+      {
+        "name": {
+          "en": "Tunis Village pottery",
+          "ar": "فخار قرية تونس"
+        },
+        "note": {
+          "en": "Fayoum's tourism guide describes the pottery school and workshops in Tunis Village. Cups, bowls and painted plates are documented in independent workshop coverage. Ask who made the piece and how it should be packed.",
+          "ar": "دليل سياحة الفيوم بيحكي عن مدرسة الفخار والورش في قرية تونس. تغطية مستقلة للورش بتذكر الكوبايات والأطباق والأوعية المرسومة. اسأل مين عمل القطعة وإزاي تتغلّف للنقل."
+        },
+        "source_urls": [
+          "http://www.visitfayoum.net/wherego_en.aspx",
+          "https://vanillatravels.net/tunis-village-pottery-workshops/"
+        ]
+      },
+      {
+        "name": {
+          "en": "Decorative ceramics",
+          "ar": "خزف للزينة"
+        },
+        "note": {
+          "en": "Compare the glaze and finish, and ask whether the piece is intended for decoration or food contact. A painted surface does not by itself establish that a ceramic is suitable for food use.",
+          "ar": "قارن الطلاء والتشطيب، واسأل القطعة للزينة ولا للاستخدام مع الأكل. السطح المرسوم لوحده مش إثبات إن الخزف مناسب للأكل."
+        },
+        "source_urls": [
+          "http://www.visitfayoum.net/wherego_en.aspx"
+        ]
+      }
+    ]
   },
   "heracleopolis-magna": {
     "history": {
