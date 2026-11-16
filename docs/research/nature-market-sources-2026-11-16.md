@@ -1,6 +1,6 @@
 # Nature and market sections, 2026-11-16
 
-Six existing sparse entries gain bilingual what-to-see sections. Their lack of a dated history is not patched with a fictional origin story. No route, dive depth, access schedule, price, safety rating or guaranteed wildlife sighting is introduced. The prior article sections and all photos remain unchanged.
+Seven existing sparse entries gain bilingual what-to-see sections. Their lack of a dated history is not patched with a fictional origin story. No route, dive depth, access schedule, price, safety rating or guaranteed wildlife sighting is introduced. The prior article sections and all photos remain unchanged.
 
 ## Sources and scope
 
@@ -22,4 +22,8 @@ Six existing sparse entries gain bilingual what-to-see sections. Their lack of a
 
 ## Outcome
 
-153/154 entries now have what-to-see sections; Blue Lagoon remains the gap. History coverage stays honestly at 146/154. Both languages use Latin digits and cite the same sources. Tests check all 12 enriched language routes, photos, citations, no captions/overflow and anchor alignment at 390px.
+154/154 entries now have what-to-see sections, including Blue Lagoon after exact-source confirmation. History coverage stays honestly at 146/154. Both languages use Latin digits and cite the same sources. Tests check all 14 enriched language routes, photos, citations, no captions/overflow and anchor alignment at 390px.
+
+## Blue Lagoon exact-source follow-up
+
+https://www.experienceegypt.eg/en/attraction-details/14/the-blue-lagoon returned only a title, so it was not used as substantive evidence. https://ecoegyptexperiences.com/protected-areas/abu-galum-protected-area/ identifies the Blue Lagoon as a natural saltwater pool in Abu Galum with mountain surroundings. https://www.undp.org/egypt/stories/preserving-egypts-natural-and-cultural-heritage-embracing-egypts-local-tribal-communities-and-protected-areas documents a Muzeina fishing family living there and explains the Eco Egypt campaign partnership with the Egyptian environment authorities. These two sources support the new section without extending general reserve facts into claims about particular lagoon wildlife or access.

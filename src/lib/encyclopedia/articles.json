@@ -9031,7 +9031,7 @@
         ]
       }
     ],
-    "reviewedAt": "2026-11-15",
+    "reviewedAt": "2026-11-16",
     "eat_note": {
       "ar": "أفكار أكل على مستوى المحافظة، مش منيو في المكان ده ولا ضمان توفره عنده. بعض الأكلات مصرية عامة ومش حصرية للمحافظة.",
       "en": "Governorate-level food ideas, not an on-site menu or a guarantee of availability. Some dishes are national staples, not unique to this governorate."
@@ -9144,6 +9144,14 @@
       ],
       "source_urls": [
         "https://www.nodc.noaa.gov/archive/arc0216/0253808/2.2/data/0-data/Region-1-WMO-Normals-9120/Egypt/CSV/SharmElSheikhAP_62460.csv"
+      ]
+    },
+    "see": {
+      "ar": "البلو لاجون بحيرة مالحة طبيعية في منطقة محمية أبو جالوم، محاطة بمشهد جبلي. دليل إيكو إيجيبت بيحطها ضمن بيئة المحمية اللي بتجمع البحر والشعاب والجبال، مش مجرد شاطئ منفصل. برنامج الأمم المتحدة الإنمائي بيوثق كمان حياة أسرة صيادين من المزينة عند اللاجون؛ فالمكان بيجمع مشهد طبيعي مع مجتمع عايش على الساحل، مش مساحة فاضية من السكان.",
+      "en": "The Blue Lagoon is a natural saltwater lagoon in the Abu Galum Protected Area, set against a mountain landscape. Eco Egypt places it within the reserve's linked marine and mountain environment, rather than treating it as an isolated beach. UNDP also documents a Muzeina fishing family living at the lagoon: the scene includes a coastal community as well as a natural landscape, not an empty wilderness.",
+      "source_urls": [
+        "https://ecoegyptexperiences.com/protected-areas/abu-galum-protected-area/",
+        "https://www.undp.org/egypt/stories/preserving-egypts-natural-and-cultural-heritage-embracing-egypts-local-tribal-communities-and-protected-areas"
       ]
     }
   },
