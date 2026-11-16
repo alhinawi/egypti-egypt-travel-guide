@@ -82,5 +82,5 @@ html{--page:#f5f7f6;--paper:#fff;--ink:#102c38;--muted:#60747d;--accent:#125366;
 
 .profile-photo-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,240px),1fr));gap:16px}.profile-photo-grid img{width:100%;height:240px;object-fit:cover;border-radius:14px}
 
-/* Keep article and governorate anchors clear of the sticky site header. */
-.article-accordion[id],.profile-section[id]{scroll-margin-top:90px}
+/* Add a small gap to the root 85px sticky-header anchor offset. */
+.article-accordion[id],.profile-section[id]{scroll-margin-top:5px}
