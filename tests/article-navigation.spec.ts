@@ -1,0 +1,34 @@
+import{test,expect}from'@playwright/test';
+import articles from'../src/lib/encyclopedia/articles.json';
+for(const lang of ['ar','en'])for(const width of [390,1280])test(`article section navigation ${lang} ${width}`,async({page})=>{
+ await page.setViewportSize({width,height:900});
+ await page.goto(`/${lang}/places/khan-el-khalili/`);
+ const weather=page.locator('#article-weather');
+ await expect(weather).not.toHaveAttribute('open','');
+ await page.locator('.article-jump-links a[href="#article-weather"]').focus();
+ await page.keyboard.press('Enter');
+ await expect(weather).toHaveAttribute('open','');
+ await expect(weather.locator('summary')).toBeFocused();
+ await expect(weather.locator('tbody tr')).toHaveCount(12);
+ await weather.locator('summary').press('Enter');
+ await expect(weather).not.toHaveAttribute('open','');
+ await page.locator('.article-jump-links a[href="#article-weather"]').click();
+ await expect(weather).toHaveAttribute('open','');
+ await page.reload();
+ await expect(weather).toHaveAttribute('open','');
+ await expect(weather.locator('summary')).toBeFocused();
+ await expect.poll(async()=>weather.evaluate(el=>el.getBoundingClientRect().top)).toBeGreaterThanOrEqual(70);
+ await expect.poll(async()=>weather.evaluate(el=>el.getBoundingClientRect().top)).toBeLessThan(220);
+ await page.locator('.article-jump-links a[href="#article-eat"]').click();
+ await expect(page.locator('#article-eat')).toHaveAttribute('open','');
+ await weather.locator('summary').evaluate(el=>(el.parentElement as HTMLDetailsElement).open=false);
+ await page.goBack();
+ await expect(weather).toHaveAttribute('open','');
+ expect(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth)).toBe(true);
+ await page.emulateMedia({reducedMotion:'reduce'});
+ await weather.locator('summary').evaluate(el=>scrollTo(0,el.getBoundingClientRect().top+scrollY-95));
+ await page.screenshot({path:`/downloads/egypti-b15-navigation-${lang}-${width}.png`});
+});
+test('unrecognized fragment does not open an unrelated section',async({page})=>{await page.goto('/en/places/khan-el-khalili/#not-a-section');await expect(page.locator('#article-weather')).not.toHaveAttribute('open','');await expect(page.locator('#article-history')).toHaveAttribute('open','');});
+
+for(const lang of ['ar','en'])test(`all place weather deep links ${lang}`,async({page})=>{test.setTimeout(180000);await page.setViewportSize({width:390,height:900});await page.emulateMedia({reducedMotion:'reduce'});for(const id of Object.keys(articles)){await page.goto(`/${lang}/places/${id}/#article-weather`);await expect(page.locator('#article-weather'),id).toHaveAttribute('open','');await expect(page.locator('#article-weather summary'),id).toBeFocused();expect(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth),id).toBe(true);}});

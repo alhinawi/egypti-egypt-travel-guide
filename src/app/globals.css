@@ -84,3 +84,9 @@ html{--page:#f5f7f6;--paper:#fff;--ink:#102c38;--muted:#60747d;--accent:#125366;
 
 /* Add a small gap to the root 85px sticky-header anchor offset. */
 .article-accordion[id],.profile-section[id]{scroll-margin-top:5px}
+
+/* Article summaries keep native keyboard controls and a clear expanded state. */
+.article-accordion>summary:focus-visible{outline:3px solid var(--accent);outline-offset:-4px;border-radius:12px}
+.article-accordion>summary>svg:last-child{transition:transform .18s ease}
+.article-accordion[open]>summary>svg:last-child{transform:rotate(45deg)}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}.article-accordion>summary>svg:last-child{transition:none}}
