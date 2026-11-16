@@ -7744,7 +7744,7 @@
         ]
       }
     ],
-    "reviewedAt": "2026-11-15",
+    "reviewedAt": "2026-11-16",
     "eat_note": {
       "ar": "أفكار أكل على مستوى المحافظة، مش منيو في المكان ده ولا ضمان توفره عنده. بعض الأكلات مصرية عامة ومش حصرية للمحافظة.",
       "en": "Governorate-level food ideas, not an on-site menu or a guarantee of availability. Some dishes are national staples, not unique to this governorate."
@@ -7867,6 +7867,20 @@
       ],
       "source_urls": [
         "https://www.nodc.noaa.gov/archive/arc0216/0253808/2.2/data/0-data/Region-1-WMO-Normals-9120/Egypt/CSV/AlexandriaNouzha_62318.csv"
+      ]
+    },
+    "history": {
+      "ar": "الشاعر اليوناني السكندري قسطنطين كفافيس انتقل للشقة دي سنة 1907. بعد وفاته اتغير استخدام المكان، ولحد ما افتتح فيه متحف كفافيس يوم 16 نوفمبر 1992. مؤسسة أوناسيس بدأت مشروع ترميم البيت بالتعاون مع المؤسسة الهيلينية للثقافة في 2022، والبيت رجع بتصميم عرض جديد في مايو 2024. الحكاية هنا عن شقة عاش وكتب فيها شاعر مرتبط بالإسكندرية، مش مجرد مجموعة تذكارات منفصلة عن المدينة.",
+      "en": "The Alexandrian Greek poet C. P. Cavafy moved into this apartment in 1907. The rooms had other uses after his death before the Cavafy Museum opened here on 16 November 1992. The Onassis Foundation began restoring the house with the Hellenic Foundation for Culture in 2022, and a redesigned presentation followed in May 2024. This is the story of a home where a poet lived and wrote in dialogue with Alexandria, rather than a collection detached from the city.",
+      "source_urls": [
+        "https://www.onassis.org/initiatives/cavafy-archive/cavafys-house-in-alexandria"
+      ]
+    },
+    "see": {
+      "ar": "ابدأ بعلاقة كفافيس بالإسكندرية: العرض بيربط حياته وأعماله بخريطة لمواقع من المدينة في عشرينيات القرن العشرين. أقسام تانية بتتناول العائلة والمراسلات والأرشيف وانتشار شعره بالترجمة. الصالون إعادة تكوين لجو غرفة الاستقبال، وبعض أثاثه نسخ من أثاث الشاعر؛ مش كل قطعة معروضة من مقتنياته الأصلية.",
+      "en": "Start with Cavafy’s relationship with Alexandria: the exhibition connects his life and writing with a map of city landmarks in the 1920s. Other sections explore family, correspondence, archives and the translation of his poetry. The salon recreates the atmosphere of his reception room and includes replica furniture; not every displayed object is one of his original possessions.",
+      "source_urls": [
+        "https://www.onassis.org/initiatives/cavafy-archive/cavafys-house-in-alexandria"
       ]
     }
   },
@@ -7882,7 +7896,7 @@
         ]
       }
     ],
-    "reviewedAt": "2026-11-15",
+    "reviewedAt": "2026-11-16",
     "eat_note": {
       "ar": "أفكار أكل على مستوى المحافظة، مش منيو في المكان ده ولا ضمان توفره عنده. بعض الأكلات مصرية عامة ومش حصرية للمحافظة.",
       "en": "Governorate-level food ideas, not an on-site menu or a guarantee of availability. Some dishes are national staples, not unique to this governorate."
@@ -8006,6 +8020,20 @@
       "source_urls": [
         "https://www.nodc.noaa.gov/archive/arc0216/0253808/2.2/data/0-data/Region-1-WMO-Normals-9120/Egypt/CSV/AlexandriaNouzha_62318.csv"
       ]
+    },
+    "history": {
+      "ar": "جون أنطونيادس، المنحدر من جزيرة ليمنوس اليونانية، طوّر ملكية بقصر وحديقة في الإسكندرية خلال القرن التاسع عشر. وبعد انتقالها لبلدية الإسكندرية بتبرع من آخر ملاكها أنطوني أنطونيادس، استُخدم القصر لاستضافة ضيوف رسميين. مكتبة الإسكندرية بتوثق كمان حفلات الحدائق ومعارض الزهور اللي كانت بتتعمل في الثلاثينيات والأربعينيات؛ فالمكان جزء من تاريخ الحياة الاجتماعية للمدينة، مش خضرة وبس.",
+      "en": "John Antoniadis, who came from the Greek island of Lemnos, developed a villa and garden estate in nineteenth-century Alexandria. After the estate was donated to the municipality by its last owner, Antony Antoniadis, the villa served as a guest house for visiting dignitaries. The Bibliotheca Alexandrina also records garden parties and flower shows in the 1930s and 1940s. The place belongs to the city’s social history as well as its landscape.",
+      "source_urls": [
+        "https://www.bibalex.org/food/venue.html"
+      ]
+    },
+    "see": {
+      "ar": "الحديقة والقصر موجودين ناحية المدخل الجنوبي للإسكندرية ضمن نطاق أخضر أوسع بيضم حدائق النزهة والزهور وحدائق الحيوان والنبات. المسارات والأشجار والتماثيل بتديك طريقة تقرأ بيها تصميم الحديقة. خلي بالك من الفرق بين التنزه في الحدائق والدخول للقصر نفسه؛ وصف تاريخ المبنى مش معناه إن غرفه داخلة في الزيارة.",
+      "en": "The garden and villa stand near Alexandria’s southern entrance within a wider green area that includes the Nouzha, Flower, zoological and botanical gardens. Paths, trees and statues offer a way to read the garden’s design. Keep a walk through the grounds separate from a visit inside the villa: the building’s history does not establish access to its rooms.",
+      "source_urls": [
+        "https://www.bibalex.org/food/venue.html"
+      ]
     }
   },
   "menna-tt69": {
@@ -8020,7 +8048,7 @@
         ]
       }
     ],
-    "reviewedAt": "2026-11-15",
+    "reviewedAt": "2026-11-16",
     "eat_note": {
       "ar": "أفكار أكل على مستوى المحافظة، مش منيو في المكان ده ولا ضمان توفره عنده. بعض الأكلات مصرية عامة ومش حصرية للمحافظة.",
       "en": "Governorate-level food ideas, not an on-site menu or a guarantee of availability. Some dishes are national staples, not unique to this governorate."
@@ -8133,6 +8161,20 @@
       ],
       "source_urls": [
         "https://www.nodc.noaa.gov/archive/arc0216/0253808/2.2/data/0-data/Region-1-WMO-Normals-9120/Egypt/CSV/Luxor_62405.csv"
+      ]
+    },
+    "history": {
+      "ar": "مقبرة مننا TT69 منحوتة في جبانة طيبة بالبر الغربي للأقصر، وبتنتمي للأسرة 18. الألقاب المكتوبة فيها بتعرّف مننا ككاتب ومشرف على حقول تابعة للملك ومعبد آمون رع، مش كملك. دراسة مركز البحوث الأمريكي بترجح زمن أمنحتب الثالث من أسلوب الرسوم والعمارة. بين 2007 و2009، مشروع مشترك شارك فيه المركز وجامعة ولاية جورجيا وثّق الرسوم وعالج مشاكل الملح وتقشر الألوان والترميمات الأقدم.",
+      "en": "Menna’s tomb TT69 is cut into the Theban necropolis on Luxor’s West Bank and belongs to the 18th Dynasty. His titles identify him as a scribe and overseer of fields belonging to the king and the temple of Amun-Re, not a king. ARCE’s study supports a date in the reign of Amenhotep III through the paintings and architecture. From 2007 to 2009, a project involving ARCE and Georgia State University documented the decoration and treated salt damage, flaking paint and earlier repairs.",
+      "source_urls": [
+        "https://arce.org/project/tomb-menna-tt69-theban-necropolis/"
+      ]
+    },
+    "see": {
+      "ar": "ركز على مشاهد قياس الحقول وتسجيل المحصول والعمل الزراعي؛ دي مرتبطة بوظيفة صاحب المقبرة. زوجته حنوت تاوي حاضرة في مشاهد كتير، وفيه كمان مشهد وزن القلب قدام أوزير. السقف المزخرف بالأشكال المتعرجة والأصفر القوي جزء من الصورة؛ الزيارة هنا فرصة تتأمل الرسم وتفاصيله بدل ما تدور على مبنى ضخم.",
+      "en": "Look for scenes of measuring fields, recording harvests and agricultural work, all linked to the tomb owner’s duties. His wife Henuttawy appears repeatedly, and a scene shows the weighing of the heart before Osiris. The zigzag ceiling decoration and strong yellow pigment are part of the experience: this is a place for looking closely at painting rather than seeking a monumental building.",
+      "source_urls": [
+        "https://arce.org/project/tomb-menna-tt69-theban-necropolis/"
       ]
     }
   },
@@ -8148,7 +8190,7 @@
         ]
       }
     ],
-    "reviewedAt": "2026-11-15",
+    "reviewedAt": "2026-11-16",
     "eat_note": {
       "ar": "أفكار أكل على مستوى المحافظة، مش منيو في المكان ده ولا ضمان توفره عنده. بعض الأكلات مصرية عامة ومش حصرية للمحافظة.",
       "en": "Governorate-level food ideas, not an on-site menu or a guarantee of availability. Some dishes are national staples, not unique to this governorate."
@@ -8262,6 +8304,21 @@
       "source_urls": [
         "https://www.nodc.noaa.gov/archive/arc0216/0253808/2.2/data/0-data/Region-1-WMO-Normals-9120/Egypt/CSV/Luxor_62405.csv"
       ]
+    },
+    "history": {
+      "ar": "متحف الأقصر افتتح سنة 1975 على كورنيش النيل، ومجموعته مرتبطة باكتشافات طيبة القديمة والمنطقة حواليها. خبيئة تماثيل معبد الأقصر المكتشفة سنة 1989 أضافت فصل مهم لحكايته، واتوسع العرض بعد كده، ومنه قاعة مجد طيبة اللي افتتحت سنة 2004. المتحف بيكمّل زيارة المعابد من خلال القطع اللي خرجت من مواقعها وسياقها التاريخي.",
+      "en": "Luxor Museum opened on the Nile Corniche in 1975, with a collection rooted in discoveries from ancient Thebes and the surrounding area. Statues discovered in the Luxor Temple cache in 1989 added an important chapter, and later expansion included the Glory of Thebes hall opened in 2004. The museum complements the temples through objects recovered from their archaeological setting.",
+      "source_urls": [
+        "https://www.sis.gov.eg/Story/189745/Luxor-museum?lang=en-us"
+      ]
+    },
+    "see": {
+      "ar": "تابع الفرق بين التماثيل الملكية والقطع المرتبطة بالحياة اليومية، وبعدها بص لكتل التلاتات المنقوشة اللي كانت جزء من معبد لأخناتون في شرق الكرنك. مجموعة خبيئة معبد الأقصر بتربط العرض بمكان اكتشاف محدد، وقطع عصر الدولة الحديثة بتكمل حكاية طيبة خارج حدود معبد واحد.",
+      "en": "Compare royal sculpture with objects of everyday life, then look for the carved talatat blocks that once formed part of an Akhenaten temple at eastern Karnak. The Luxor Temple cache connects the displays with a specific discovery site, while New Kingdom objects broaden the story of Thebes beyond any single temple.",
+      "source_urls": [
+        "https://www.sis.gov.eg/Story/189745/Luxor-museum?lang=en-us",
+        "https://www.sis.gov.eg/Story/117682/Luxor-Museum?lang=en-us"
+      ]
     }
   },
   "nubian-museum": {
@@ -8276,7 +8333,7 @@
         ]
       }
     ],
-    "reviewedAt": "2026-11-15",
+    "reviewedAt": "2026-11-16",
     "eat_note": {
       "ar": "أفكار أكل على مستوى المحافظة، مش منيو في المكان ده ولا ضمان توفره عنده. بعض الأكلات مصرية عامة ومش حصرية للمحافظة.",
       "en": "Governorate-level food ideas, not an on-site menu or a guarantee of availability. Some dishes are national staples, not unique to this governorate."
@@ -8390,6 +8447,20 @@
       "source_urls": [
         "https://www.nodc.noaa.gov/archive/arc0216/0253808/2.2/data/0-data/Region-1-WMO-Normals-9120/Egypt/CSV/Asswan_62414.csv"
       ]
+    },
+    "history": {
+      "ar": "فكرة متحف النوبة مرتبطة بالحملة الدولية لإنقاذ آثار النوبة اللي أطلقتها اليونسكو بطلب من الحكومة المصرية سنة 1960. التخطيط للمتحف بدأ في أوائل الثمانينيات، وافتتح سنة 1997. المعماري محمود الحكيم صمّم المبنى بالحجر الرملي المحلي والجرانيت الوردي، وشارك بيدرو راميريز فاسكيز في التصميم الداخلي. الهدف مش عرض الآثار لوحدها، لكن كمان تاريخ النوبة وثقافتها وعلاقتها ببيئتها.",
+      "en": "The Nubia Museum grew from the international campaign to save Nubian monuments launched by UNESCO at the Egyptian government’s request in 1960. Planning began in the early 1980s and the museum opened in 1997. Architect Mahmoud Al-Hakim designed the building with local sandstone and pink granite, with Pedro Ramirez Vazquez responsible for its interior. Its purpose extends beyond antiquities to Nubian history, culture and environment.",
+      "source_urls": [
+        "https://egymonuments.gov.eg/en/museums/nubia-museum"
+      ]
+    },
+    "see": {
+      "ar": "اقرأ العرض كحكاية للنوبة عبر الزمن، من القطع الأثرية للمشاهد اللي بتعرض الحرف والتقاليد المحلية. تصميم الحديقة الخارجية فيه مجرى مائي بيرمز للنيل وقنوات بتوضح علاقته بالقرية، ومعاه نموذج لبيت نوبي. النموذج وسيلة شرح للحياة اليومية، مش بيت أثري منقول بنفسه من قرية قديمة.",
+      "en": "Read the displays as a history of Nubia through time, from archaeological objects to scenes presenting crafts and local traditions. The outdoor garden uses a waterway symbolizing the Nile and channels showing its relationship with village life, alongside a reconstructed Nubian house. The reconstruction explains daily life; it is not itself an ancient house relocated from a village.",
+      "source_urls": [
+        "https://egymonuments.gov.eg/en/museums/nubia-museum"
+      ]
     }
   },
   "unfinished-obelisk": {
@@ -8404,7 +8475,7 @@
         ]
       }
     ],
-    "reviewedAt": "2026-11-15",
+    "reviewedAt": "2026-11-16",
     "eat_note": {
       "ar": "أفكار أكل على مستوى المحافظة، مش منيو في المكان ده ولا ضمان توفره عنده. بعض الأكلات مصرية عامة ومش حصرية للمحافظة.",
       "en": "Governorate-level food ideas, not an on-site menu or a guarantee of availability. Some dishes are national staples, not unique to this governorate."
@@ -8517,6 +8588,20 @@
       ],
       "source_urls": [
         "https://www.nodc.noaa.gov/archive/arc0216/0253808/2.2/data/0-data/Region-1-WMO-Normals-9120/Egypt/CSV/Asswan_62414.csv"
+      ]
+    },
+    "history": {
+      "ar": "المسلة الناقصة فضلت في محجرها بأسوان بعدما ظهرت شروخ وعيوب في الحجر أثناء العمل. وزارة السياحة والآثار بتنسب التكليف بيها على سبيل الترجيح لحتشبسوت ولمعبد آمون بالكرنك؛ النسبة دي مش حقيقة محسومة. لو كانت اكتملت كان ارتفاعها هيقارب 42 متر ووزنها 1168 طن. اللي وصلنا هنا مشروع اتوقف، وده بيخلّي المكان شاهد على صناعة المسلات نفسها.",
+      "en": "The Unfinished Obelisk remained in its Aswan quarry after fissures and flaws appeared in the stone during work. The Ministry of Tourism and Antiquities describes a commission by Hatshepsut for the temple of Amun at Karnak as a belief rather than a certainty. If completed, it would have stood about 42 metres high and weighed 1,168 tonnes. What survives is an abandoned project that helps explain the making of obelisks.",
+      "source_urls": [
+        "https://egymonuments.gov.eg/monuments/the-unfinished-obelisk"
+      ]
+    },
+    "see": {
+      "ar": "بص لعلاقة جسم المسلة بالصخر اللي حواليها، وللشروخ اللي منعت اكتمالها. المسلات كانت بتتقطع من قطعة حجر واحدة، وبيرتبط شكلها ورأسها الهرمي برموز الشمس والخلق في مصر القديمة. المحجر هنا هو موضوع الزيارة، مش قاعدة لمسلة كانت واقفة واتكسرت بعد كده.",
+      "en": "Look at how the obelisk remains connected to the surrounding rock and at the fissures that stopped its completion. Obelisks were cut from a single piece of stone, and their form and pyramidal tip were linked with solar and creation symbolism. The quarry is the subject here, not a pedestal for an obelisk that once stood and later fell.",
+      "source_urls": [
+        "https://egymonuments.gov.eg/monuments/the-unfinished-obelisk"
       ]
     }
   },
