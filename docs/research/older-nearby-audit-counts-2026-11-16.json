@@ -1,0 +1,18 @@
+{
+  "nearby": {
+    "reviewed": 117,
+    "text_rewritten": 68,
+    "structured_revised": 48,
+    "no_suggestions_preserved": 1,
+    "numeric_item_distances_removed": 192
+  },
+  "hotels": {
+    "collections": 56,
+    "legacy_attraction_centers": 52,
+    "missing_attraction_centers": 4,
+    "hotel_references": 129,
+    "numeric_hotel_distances_withdrawn": 129,
+    "unique_hotel_points": 34,
+    "multiple_source_points": 6
+  }
+}

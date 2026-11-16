@@ -1,0 +1,892 @@
+[
+  {
+    "wikidata_id": "Q111999097",
+    "source_url": "https://www.wikidata.org/wiki/Q111999097",
+    "catalog_name": "Nour El Gourna",
+    "current_label": "Nour El Gourna",
+    "description": "hotel in Egypt",
+    "catalog_coordinates": [
+      25.72346,
+      32.60559
+    ],
+    "current_coordinates": [
+      25.72346,
+      32.60559
+    ],
+    "coordinate_difference_m": 0.0,
+    "nondeprecated_coordinate_claims": 1,
+    "all_current_coordinates": [
+      [
+        25.72346,
+        32.60559
+      ]
+    ],
+    "closest_current_claim_difference_m": 0.0,
+    "status": "single-source-point",
+    "source_checked_at": "2026-11-16"
+  },
+  {
+    "wikidata_id": "Q111857726",
+    "source_url": "https://www.wikidata.org/wiki/Q111857726",
+    "catalog_name": "New Memnon Hotel",
+    "current_label": "New Memnon Hotel",
+    "description": "hotel in Luxor, Egypt",
+    "catalog_coordinates": [
+      25.71971,
+      32.61108
+    ],
+    "current_coordinates": [
+      25.71971,
+      32.61108
+    ],
+    "coordinate_difference_m": 0.0,
+    "nondeprecated_coordinate_claims": 1,
+    "all_current_coordinates": [
+      [
+        25.71971,
+        32.61108
+      ]
+    ],
+    "closest_current_claim_difference_m": 0.0,
+    "status": "single-source-point",
+    "source_checked_at": "2026-11-16"
+  },
+  {
+    "wikidata_id": "Q1355271",
+    "source_url": "https://www.wikidata.org/wiki/Q1355271",
+    "catalog_name": "Mena House",
+    "current_label": "Mena House",
+    "description": "hotel",
+    "catalog_coordinates": [
+      29.98556,
+      31.13278
+    ],
+    "current_coordinates": [
+      29.98555556,
+      31.13277778
+    ],
+    "coordinate_difference_m": 0.54,
+    "nondeprecated_coordinate_claims": 1,
+    "all_current_coordinates": [
+      [
+        29.98555556,
+        31.13277778
+      ]
+    ],
+    "closest_current_claim_difference_m": 0.538,
+    "status": "single-source-point",
+    "source_checked_at": "2026-11-16"
+  },
+  {
+    "wikidata_id": "Q111400507",
+    "source_url": "https://www.wikidata.org/wiki/Q111400507",
+    "catalog_name": "Pyramids Park Resort Cairo",
+    "current_label": "Pyramids Park Resort Cairo",
+    "description": "hotel in Egypt",
+    "catalog_coordinates": [
+      29.99979,
+      31.11621
+    ],
+    "current_coordinates": [
+      29.999794,
+      31.11621
+    ],
+    "coordinate_difference_m": 0.44,
+    "nondeprecated_coordinate_claims": 1,
+    "all_current_coordinates": [
+      [
+        29.999794,
+        31.11621
+      ]
+    ],
+    "closest_current_claim_difference_m": 0.445,
+    "status": "single-source-point",
+    "source_checked_at": "2026-11-16"
+  },
+  {
+    "wikidata_id": "Q54887660",
+    "source_url": "https://www.wikidata.org/wiki/Q54887660",
+    "catalog_name": "Nile Ritz Carlton",
+    "current_label": "Nile Ritz Carlton",
+    "description": "hotel in Cairo, Egypt",
+    "catalog_coordinates": [
+      30.04608,
+      31.23256
+    ],
+    "current_coordinates": [
+      30.04608,
+      31.23256
+    ],
+    "coordinate_difference_m": 0.0,
+    "nondeprecated_coordinate_claims": 1,
+    "all_current_coordinates": [
+      [
+        30.04608,
+        31.23256
+      ]
+    ],
+    "closest_current_claim_difference_m": 0.0,
+    "status": "single-source-point",
+    "source_checked_at": "2026-11-16"
+  },
+  {
+    "wikidata_id": "Q47429618",
+    "source_url": "https://www.wikidata.org/wiki/Q47429618",
+    "catalog_name": "Steigenberger Hotel El Tahrir Cairo",
+    "current_label": "Steigenberger Hotel El Tahrir Cairo",
+    "description": "hotel in Cairo",
+    "catalog_coordinates": [
+      30.04732,
+      31.23567
+    ],
+    "current_coordinates": [
+      30.047318,
+      31.235665
+    ],
+    "coordinate_difference_m": 0.53,
+    "nondeprecated_coordinate_claims": 1,
+    "all_current_coordinates": [
+      [
+        30.047318,
+        31.235665
+      ]
+    ],
+    "closest_current_claim_difference_m": 0.53,
+    "status": "single-source-point",
+    "source_checked_at": "2026-11-16"
+  },
+  {
+    "wikidata_id": "Q8024637",
+    "source_url": "https://www.wikidata.org/wiki/Q8024637",
+    "catalog_name": "Windsor Hotel",
+    "current_label": "Windsor Hotel",
+    "description": "building in Egypt",
+    "catalog_coordinates": [
+      30.05298,
+      31.24504
+    ],
+    "current_coordinates": [
+      30.052977,
+      31.245038
+    ],
+    "coordinate_difference_m": 0.39,
+    "nondeprecated_coordinate_claims": 1,
+    "all_current_coordinates": [
+      [
+        30.052977,
+        31.245038
+      ]
+    ],
+    "closest_current_claim_difference_m": 0.385,
+    "status": "single-source-point",
+    "source_checked_at": "2026-11-16"
+  },
+  {
+    "wikidata_id": "Q12231151",
+    "source_url": "https://www.wikidata.org/wiki/Q12231151",
+    "catalog_name": "Windsor Palace Hotel",
+    "current_label": "Windsor Palace Hotel",
+    "description": "hotel in Alexandria, Egypt",
+    "catalog_coordinates": [
+      31.20046,
+      29.89675
+    ],
+    "current_coordinates": [
+      31.20046,
+      29.89675
+    ],
+    "coordinate_difference_m": 0.0,
+    "nondeprecated_coordinate_claims": 1,
+    "all_current_coordinates": [
+      [
+        31.20046,
+        29.89675
+      ]
+    ],
+    "closest_current_claim_difference_m": 0.0,
+    "status": "single-source-point",
+    "source_checked_at": "2026-11-16"
+  },
+  {
+    "wikidata_id": "Q5056137",
+    "source_url": "https://www.wikidata.org/wiki/Q5056137",
+    "catalog_name": "Cecil Hotel",
+    "current_label": "Cecil Hotel",
+    "description": "hotel in Alexandria, Egypt",
+    "catalog_coordinates": [
+      31.2008,
+      29.8984
+    ],
+    "current_coordinates": [
+      31.2008,
+      29.8984
+    ],
+    "coordinate_difference_m": 0.0,
+    "nondeprecated_coordinate_claims": 1,
+    "all_current_coordinates": [
+      [
+        31.2008,
+        29.8984
+      ]
+    ],
+    "closest_current_claim_difference_m": 0.0,
+    "status": "single-source-point",
+    "source_checked_at": "2026-11-16"
+  },
+  {
+    "wikidata_id": "Q110285078",
+    "source_url": "https://www.wikidata.org/wiki/Q110285078",
+    "catalog_name": "Triomphe Hotel",
+    "current_label": "Triomphe Hotel",
+    "description": "hotel in Alexandria, Egypt",
+    "catalog_coordinates": [
+      31.2002,
+      29.8982
+    ],
+    "current_coordinates": [
+      31.2002,
+      29.8982
+    ],
+    "coordinate_difference_m": 0.0,
+    "nondeprecated_coordinate_claims": 1,
+    "all_current_coordinates": [
+      [
+        31.2002,
+        29.8982
+      ]
+    ],
+    "closest_current_claim_difference_m": 0.0,
+    "status": "single-source-point",
+    "source_checked_at": "2026-11-16"
+  },
+  {
+    "wikidata_id": "Q63985038",
+    "source_url": "https://www.wikidata.org/wiki/Q63985038",
+    "catalog_name": "Paradise Inn Metropole Hotel",
+    "current_label": "Paradise Inn Metropole Hotel",
+    "description": "hotel in Alexandria, Egypt",
+    "catalog_coordinates": [
+      31.20095,
+      29.90023
+    ],
+    "current_coordinates": [
+      31.200949,
+      29.900232
+    ],
+    "coordinate_difference_m": 0.22,
+    "nondeprecated_coordinate_claims": 1,
+    "all_current_coordinates": [
+      [
+        31.200949,
+        29.900232
+      ]
+    ],
+    "closest_current_claim_difference_m": 0.22,
+    "status": "single-source-point",
+    "source_checked_at": "2026-11-16"
+  },
+  {
+    "wikidata_id": "Q63990925",
+    "source_url": "https://www.wikidata.org/wiki/Q63990925",
+    "catalog_name": "Palestine Montaza",
+    "current_label": "Palestine Montaza",
+    "description": "hotel in Alexandria, Egypt",
+    "catalog_coordinates": [
+      31.28828,
+      30.01805
+    ],
+    "current_coordinates": [
+      31.288281,
+      30.018052
+    ],
+    "coordinate_difference_m": 0.22,
+    "nondeprecated_coordinate_claims": 1,
+    "all_current_coordinates": [
+      [
+        31.288281,
+        30.018052
+      ]
+    ],
+    "closest_current_claim_difference_m": 0.22,
+    "status": "single-source-point",
+    "source_checked_at": "2026-11-16"
+  },
+  {
+    "wikidata_id": "Q12232992",
+    "source_url": "https://www.wikidata.org/wiki/Q12232992",
+    "catalog_name": "El-Salamlek Palace",
+    "current_label": "El-Salamlek Palace",
+    "description": null,
+    "catalog_coordinates": [
+      31.28684,
+      30.0214
+    ],
+    "current_coordinates": [
+      31.286837,
+      30.021402
+    ],
+    "coordinate_difference_m": 0.38,
+    "nondeprecated_coordinate_claims": 1,
+    "all_current_coordinates": [
+      [
+        31.286837,
+        30.021402
+      ]
+    ],
+    "closest_current_claim_difference_m": 0.384,
+    "status": "single-source-point",
+    "source_checked_at": "2026-11-16"
+  },
+  {
+    "wikidata_id": "Q110570690",
+    "source_url": "https://www.wikidata.org/wiki/Q110570690",
+    "catalog_name": "Rezeiky Hotel Luxor",
+    "current_label": "Rezeiky Hotel Luxor",
+    "description": "hotel and camp in Luxor, Egypt",
+    "catalog_coordinates": [
+      25.71085,
+      32.64891
+    ],
+    "current_coordinates": [
+      25.71085,
+      32.64891
+    ],
+    "coordinate_difference_m": 0.0,
+    "nondeprecated_coordinate_claims": 1,
+    "all_current_coordinates": [
+      [
+        25.71085,
+        32.64891
+      ]
+    ],
+    "closest_current_claim_difference_m": 0.0,
+    "status": "single-source-point",
+    "source_checked_at": "2026-11-16"
+  },
+  {
+    "wikidata_id": "Q110487835",
+    "source_url": "https://www.wikidata.org/wiki/Q110487835",
+    "catalog_name": "Susanna Hotel",
+    "current_label": "Susanna Hotel",
+    "description": "hotel in Luxor, Egypt",
+    "catalog_coordinates": [
+      25.70142,
+      32.642
+    ],
+    "current_coordinates": null,
+    "coordinate_difference_m": null,
+    "nondeprecated_coordinate_claims": 2,
+    "all_current_coordinates": [
+      [
+        25.700967,
+        32.641754
+      ],
+      [
+        25.70142,
+        32.642
+      ]
+    ],
+    "closest_current_claim_difference_m": 0.0,
+    "status": "multiple-source-points",
+    "source_checked_at": "2026-11-16"
+  },
+  {
+    "wikidata_id": "Q7085427",
+    "source_url": "https://www.wikidata.org/wiki/Q7085427",
+    "catalog_name": "Winter Palace",
+    "current_label": "Mandarin Oriental Winter Palace",
+    "description": "building in Egypt",
+    "catalog_coordinates": [
+      25.69672,
+      32.63716
+    ],
+    "current_coordinates": [
+      25.696718690334052,
+      32.63716072324775
+    ],
+    "coordinate_difference_m": 0.16,
+    "nondeprecated_coordinate_claims": 1,
+    "all_current_coordinates": [
+      [
+        25.696718690334052,
+        32.63716072324775
+      ]
+    ],
+    "closest_current_claim_difference_m": 0.163,
+    "status": "single-source-point",
+    "source_checked_at": "2026-11-16"
+  },
+  {
+    "wikidata_id": "Q110514990",
+    "source_url": "https://www.wikidata.org/wiki/Q110514990",
+    "catalog_name": "Sonesta St. George Hotel",
+    "current_label": "Sonesta St. George Hotel",
+    "description": "hotel in Luxor, Egypt",
+    "catalog_coordinates": [
+      25.68836,
+      32.63185
+    ],
+    "current_coordinates": [
+      25.68836,
+      32.631851
+    ],
+    "coordinate_difference_m": 0.1,
+    "nondeprecated_coordinate_claims": 1,
+    "all_current_coordinates": [
+      [
+        25.68836,
+        32.631851
+      ]
+    ],
+    "closest_current_claim_difference_m": 0.1,
+    "status": "single-source-point",
+    "source_checked_at": "2026-11-16"
+  },
+  {
+    "wikidata_id": "Q105219383",
+    "source_url": "https://www.wikidata.org/wiki/Q105219383",
+    "catalog_name": "Basma Hotel",
+    "current_label": "Basma Hotel",
+    "description": "hotel building in Aswan, Egypt",
+    "catalog_coordinates": [
+      24.07806,
+      32.88767
+    ],
+    "current_coordinates": null,
+    "coordinate_difference_m": null,
+    "nondeprecated_coordinate_claims": 2,
+    "all_current_coordinates": [
+      [
+        24.078136,
+        32.887187
+      ],
+      [
+        24.07806,
+        32.88767
+      ]
+    ],
+    "closest_current_claim_difference_m": 0.0,
+    "status": "multiple-source-points",
+    "source_checked_at": "2026-11-16"
+  },
+  {
+    "wikidata_id": "Q105259668",
+    "source_url": "https://www.wikidata.org/wiki/Q105259668",
+    "catalog_name": "Pyramisa Island Aswan",
+    "current_label": "Pyramisa Island Aswan",
+    "description": "hotel in Aswan, Egypt",
+    "catalog_coordinates": [
+      24.0801,
+      32.88013
+    ],
+    "current_coordinates": null,
+    "coordinate_difference_m": null,
+    "nondeprecated_coordinate_claims": 2,
+    "all_current_coordinates": [
+      [
+        24.078949,
+        32.879806
+      ],
+      [
+        24.0801,
+        32.88013
+      ]
+    ],
+    "closest_current_claim_difference_m": 0.0,
+    "status": "multiple-source-points",
+    "source_checked_at": "2026-11-16"
+  },
+  {
+    "wikidata_id": "Q1283262",
+    "source_url": "https://www.wikidata.org/wiki/Q1283262",
+    "catalog_name": "Old Cataract",
+    "current_label": "Mandarin Oriental Old Cataract",
+    "description": "hotel in Aswan, Egypt",
+    "catalog_coordinates": [
+      24.08231,
+      32.88732
+    ],
+    "current_coordinates": [
+      24.082314,
+      32.887318
+    ],
+    "coordinate_difference_m": 0.49,
+    "nondeprecated_coordinate_claims": 1,
+    "all_current_coordinates": [
+      [
+        24.082314,
+        32.887318
+      ]
+    ],
+    "closest_current_claim_difference_m": 0.489,
+    "status": "single-source-point",
+    "source_checked_at": "2026-11-16"
+  },
+  {
+    "wikidata_id": "Q111999167",
+    "source_url": "https://www.wikidata.org/wiki/Q111999167",
+    "catalog_name": "The Mango Guest House",
+    "current_label": "The Mango Guest House",
+    "description": "hotel in Aswan Daraw, Egypt",
+    "catalog_coordinates": [
+      24.08942,
+      32.8891
+    ],
+    "current_coordinates": [
+      24.08942,
+      32.8891
+    ],
+    "coordinate_difference_m": 0.0,
+    "nondeprecated_coordinate_claims": 1,
+    "all_current_coordinates": [
+      [
+        24.08942,
+        32.8891
+      ]
+    ],
+    "closest_current_claim_difference_m": 0.0,
+    "status": "single-source-point",
+    "source_checked_at": "2026-11-16"
+  },
+  {
+    "wikidata_id": "Q105064101",
+    "source_url": "https://www.wikidata.org/wiki/Q105064101",
+    "catalog_name": "Mövenpick Resort Aswan",
+    "current_label": "Mövenpick Resort Aswan",
+    "description": "hotel in Aswan, Egypt",
+    "catalog_coordinates": [
+      24.09314,
+      32.89195
+    ],
+    "current_coordinates": null,
+    "coordinate_difference_m": null,
+    "nondeprecated_coordinate_claims": 2,
+    "all_current_coordinates": [
+      [
+        24.093514,
+        32.891672
+      ],
+      [
+        24.09314,
+        32.89195
+      ]
+    ],
+    "closest_current_claim_difference_m": 0.0,
+    "status": "multiple-source-points",
+    "source_checked_at": "2026-11-16"
+  },
+  {
+    "wikidata_id": "Q105257906",
+    "source_url": "https://www.wikidata.org/wiki/Q105257906",
+    "catalog_name": "Philae Hotel",
+    "current_label": "Philae Hotel",
+    "description": "hotel in Aswan, Egypt",
+    "catalog_coordinates": [
+      24.08917,
+      32.89456
+    ],
+    "current_coordinates": null,
+    "coordinate_difference_m": null,
+    "nondeprecated_coordinate_claims": 2,
+    "all_current_coordinates": [
+      [
+        24.089167,
+        32.894556
+      ],
+      [
+        24.08896,
+        32.89424
+      ]
+    ],
+    "closest_current_claim_difference_m": 0.526,
+    "status": "multiple-source-points",
+    "source_checked_at": "2026-11-16"
+  },
+  {
+    "wikidata_id": "Q111857804",
+    "source_url": "https://www.wikidata.org/wiki/Q111857804",
+    "catalog_name": "Seti Abu Simbel Lake Resort",
+    "current_label": "Seti Abu Simbel Lake Resort",
+    "description": "hotel in Abu Simbel, Egypt",
+    "catalog_coordinates": [
+      22.33825,
+      31.61422
+    ],
+    "current_coordinates": [
+      22.33825,
+      31.61422
+    ],
+    "coordinate_difference_m": 0.0,
+    "nondeprecated_coordinate_claims": 1,
+    "all_current_coordinates": [
+      [
+        22.33825,
+        31.61422
+      ]
+    ],
+    "closest_current_claim_difference_m": 0.0,
+    "status": "single-source-point",
+    "source_checked_at": "2026-11-16"
+  },
+  {
+    "wikidata_id": "Q113587854",
+    "source_url": "https://www.wikidata.org/wiki/Q113587854",
+    "catalog_name": "Eskaleh Nubian Ecolodge",
+    "current_label": "Eskaleh Nubian Ecolodge",
+    "description": "hotel in Abu Simbel, Egypt",
+    "catalog_coordinates": [
+      22.34681,
+      31.61869
+    ],
+    "current_coordinates": [
+      22.346811,
+      31.618695
+    ],
+    "coordinate_difference_m": 0.53,
+    "nondeprecated_coordinate_claims": 1,
+    "all_current_coordinates": [
+      [
+        22.346811,
+        31.618695
+      ]
+    ],
+    "closest_current_claim_difference_m": 0.526,
+    "status": "single-source-point",
+    "source_checked_at": "2026-11-16"
+  },
+  {
+    "wikidata_id": "Q111857821",
+    "source_url": "https://www.wikidata.org/wiki/Q111857821",
+    "catalog_name": "Coral Coast Hotel",
+    "current_label": "Coral Coast Hotel",
+    "description": "hotel in Dahab, Egypt",
+    "catalog_coordinates": [
+      28.50361,
+      34.51964
+    ],
+    "current_coordinates": [
+      28.50361,
+      34.51964
+    ],
+    "coordinate_difference_m": 0.0,
+    "nondeprecated_coordinate_claims": 1,
+    "all_current_coordinates": [
+      [
+        28.50361,
+        34.51964
+      ]
+    ],
+    "closest_current_claim_difference_m": 0.0,
+    "status": "single-source-point",
+    "source_checked_at": "2026-11-16"
+  },
+  {
+    "wikidata_id": "Q111857819",
+    "source_url": "https://www.wikidata.org/wiki/Q111857819",
+    "catalog_name": "Blue Beach Club",
+    "current_label": "Blue Beach Club",
+    "description": "hotel in Dahab, Egypt",
+    "catalog_coordinates": [
+      28.50182,
+      34.51954
+    ],
+    "current_coordinates": [
+      28.50182,
+      34.51954
+    ],
+    "coordinate_difference_m": 0.0,
+    "nondeprecated_coordinate_claims": 1,
+    "all_current_coordinates": [
+      [
+        28.50182,
+        34.51954
+      ]
+    ],
+    "closest_current_claim_difference_m": 0.0,
+    "status": "single-source-point",
+    "source_checked_at": "2026-11-16"
+  },
+  {
+    "wikidata_id": "Q111857817",
+    "source_url": "https://www.wikidata.org/wiki/Q111857817",
+    "catalog_name": "Ali Baba Hotel",
+    "current_label": "Ali Baba Hotel",
+    "description": "hotel in Dahab, Egypt",
+    "catalog_coordinates": [
+      28.49774,
+      34.51707
+    ],
+    "current_coordinates": [
+      28.49774,
+      34.51707
+    ],
+    "coordinate_difference_m": 0.0,
+    "nondeprecated_coordinate_claims": 1,
+    "all_current_coordinates": [
+      [
+        28.49774,
+        34.51707
+      ]
+    ],
+    "closest_current_claim_difference_m": 0.0,
+    "status": "single-source-point",
+    "source_checked_at": "2026-11-16"
+  },
+  {
+    "wikidata_id": "Q111111130",
+    "source_url": "https://www.wikidata.org/wiki/Q111111130",
+    "catalog_name": "Dahab Plaza Hotel",
+    "current_label": "Dahab Plaza Hotel",
+    "description": "hotel in Dahab",
+    "catalog_coordinates": [
+      28.49508,
+      34.51498
+    ],
+    "current_coordinates": null,
+    "coordinate_difference_m": null,
+    "nondeprecated_coordinate_claims": 2,
+    "all_current_coordinates": [
+      [
+        28.4950846,
+        34.5149847
+      ],
+      [
+        28.49487,
+        34.51519
+      ]
+    ],
+    "closest_current_claim_difference_m": 0.687,
+    "status": "multiple-source-points",
+    "source_checked_at": "2026-11-16"
+  },
+  {
+    "wikidata_id": "Q111400556",
+    "source_url": "https://www.wikidata.org/wiki/Q111400556",
+    "catalog_name": "Arabella Azur Resort",
+    "current_label": "Arabella Azur Resort",
+    "description": "hotel in Hurghada, Egypt",
+    "catalog_coordinates": [
+      27.23986,
+      33.84683
+    ],
+    "current_coordinates": [
+      27.23986,
+      33.84683
+    ],
+    "coordinate_difference_m": 0.0,
+    "nondeprecated_coordinate_claims": 1,
+    "all_current_coordinates": [
+      [
+        27.23986,
+        33.84683
+      ]
+    ],
+    "closest_current_claim_difference_m": 0.0,
+    "status": "single-source-point",
+    "source_checked_at": "2026-11-16"
+  },
+  {
+    "wikidata_id": "Q111400550",
+    "source_url": "https://www.wikidata.org/wiki/Q111400550",
+    "catalog_name": "Sunny Days Palma De Mirette Resort & Spa",
+    "current_label": "Sunny Days Palma De Mirette Resort & Spa - Families and Couples Only",
+    "description": "hotel in Hurghada, Egypt",
+    "catalog_coordinates": [
+      27.24496,
+      33.8429
+    ],
+    "current_coordinates": [
+      27.24496,
+      33.8429
+    ],
+    "coordinate_difference_m": 0.0,
+    "nondeprecated_coordinate_claims": 1,
+    "all_current_coordinates": [
+      [
+        27.24496,
+        33.8429
+      ]
+    ],
+    "closest_current_claim_difference_m": 0.0,
+    "status": "single-source-point",
+    "source_checked_at": "2026-11-16"
+  },
+  {
+    "wikidata_id": "Q111400545",
+    "source_url": "https://www.wikidata.org/wiki/Q111400545",
+    "catalog_name": "Seagull Beach Resort",
+    "current_label": "Seagull Beach Resort - Families and Couples Only",
+    "description": "hotel in Hurghada, Egypt",
+    "catalog_coordinates": [
+      27.21603,
+      33.83931
+    ],
+    "current_coordinates": [
+      27.21603,
+      33.83931
+    ],
+    "coordinate_difference_m": 0.0,
+    "nondeprecated_coordinate_claims": 1,
+    "all_current_coordinates": [
+      [
+        27.21603,
+        33.83931
+      ]
+    ],
+    "closest_current_claim_difference_m": 0.0,
+    "status": "single-source-point",
+    "source_checked_at": "2026-11-16"
+  },
+  {
+    "wikidata_id": "Q18509281",
+    "source_url": "https://www.wikidata.org/wiki/Q18509281",
+    "catalog_name": "Swiss Inn Resort Hurghada",
+    "current_label": "Hilton Hurghada Resort",
+    "description": "hotel in Hurghada, Egypt",
+    "catalog_coordinates": [
+      27.15875,
+      33.82569
+    ],
+    "current_coordinates": [
+      27.15875,
+      33.825694444444
+    ],
+    "coordinate_difference_m": 0.44,
+    "nondeprecated_coordinate_claims": 1,
+    "all_current_coordinates": [
+      [
+        27.15875,
+        33.825694444444
+      ]
+    ],
+    "closest_current_claim_difference_m": 0.44,
+    "status": "single-source-point",
+    "source_checked_at": "2026-11-16"
+  },
+  {
+    "wikidata_id": "Q111400547",
+    "source_url": "https://www.wikidata.org/wiki/Q111400547",
+    "catalog_name": "Hurghada Marriott Beach Resort",
+    "current_label": "Hurghada Marriott Beach Resort",
+    "description": "hotel in Hurghada, Egypt",
+    "catalog_coordinates": [
+      27.19734,
+      33.84429
+    ],
+    "current_coordinates": [
+      27.19734,
+      33.84429
+    ],
+    "coordinate_difference_m": 0.0,
+    "nondeprecated_coordinate_claims": 1,
+    "all_current_coordinates": [
+      [
+        27.19734,
+        33.84429
+      ]
+    ],
+    "closest_current_claim_difference_m": 0.0,
+    "status": "single-source-point",
+    "source_checked_at": "2026-11-16"
+  }
+]

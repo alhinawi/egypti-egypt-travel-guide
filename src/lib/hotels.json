@@ -1,12 +1,13 @@
 {
   "generated": "2026-11-15",
-  "schema": "place_id -> {place_center, nearest_town_fallback?, place_coordinate_note?, hotels[]}. distance_km_straight_line = haversine between Wikidata hotel coordinates and place coordinate (Nominatim/Wikidata). photo.thumb_url = 640px Wikimedia Commons thumbnail; show license + author + commons_page as attribution.",
+  "schema": "Hotel collections are destination-area reading suggestions, not a nearest-place ranking. stay_area labels the lodging town. Hotel coords/map links are representative Wikidata points checked on coordinate_checked_at, not verified entrances. distance_km_straight_line is null until both attraction origin and hotel endpoint have a usable verified basis. Legacy place_center values are retained only as unverified references. Photo attribution remains in the credits page.",
   "places": {
     "menna-tt69": {
       "place_center": {
         "lat": 25.732,
         "lon": 32.6076,
-        "basis": "osm"
+        "basis": "osm",
+        "verification_status": "legacy-reference-not-a-verified-entrance"
       },
       "place_coordinate_note": null,
       "hotels": [
@@ -15,7 +16,7 @@
           "name_en": "Nour El Gourna",
           "name_ar": null,
           "name_ar_status": "not found in Wikidata/OSM - show English only or add manually",
-          "distance_km_straight_line": 1.0,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=25.72346&mlon=32.60559#map=17/25.72346/32.60559",
           "wikidata_url": "https://www.wikidata.org/wiki/Q111999097",
           "official_website": null,
@@ -23,14 +24,16 @@
             25.72346,
             32.60559
           ],
-          "photo": null
+          "photo": null,
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         },
         {
           "wikidata_id": "Q111857726",
           "name_en": "New Memnon Hotel",
           "name_ar": null,
           "name_ar_status": "not found in Wikidata/OSM - show English only or add manually",
-          "distance_km_straight_line": 1.4,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=25.71971&mlon=32.61108#map=17/25.71971/32.61108",
           "wikidata_url": "https://www.wikidata.org/wiki/Q111857726",
           "official_website": null,
@@ -38,15 +41,23 @@
             25.71971,
             32.61108
           ],
-          "photo": null
+          "photo": null,
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         }
-      ]
+      ],
+      "stay_area": {
+        "en": "Luxor",
+        "ar": "الأقصر"
+      },
+      "distance_status": "not-published-unverified-attraction-origin"
     },
     "giza-pyramids": {
       "place_center": {
         "lat": 29.9791647,
         "lon": 31.1342133,
-        "basis": "هرم خوفو, شارع ابو الهول السياحي, نزلة البطران, الجيزة, 12125, مصر"
+        "basis": "هرم خوفو, شارع ابو الهول السياحي, نزلة البطران, الجيزة, 12125, مصر",
+        "verification_status": "legacy-reference-not-a-verified-entrance"
       },
       "place_coordinate_note": null,
       "hotels": [
@@ -55,7 +66,7 @@
           "name_en": "Mena House",
           "name_ar": "مينا هاوس",
           "name_ar_status": "from Wikidata label",
-          "distance_km_straight_line": 0.7,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=29.98555556&mlon=31.13277778#map=17/29.98555556/31.13277778",
           "wikidata_url": "https://www.wikidata.org/wiki/Q1355271",
           "official_website": null,
@@ -72,14 +83,16 @@
             "author": "Gerhard Haubold",
             "visually_checked": true,
             "src": "/photos/hotels/Q1355271.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         },
         {
           "wikidata_id": "Q111400507",
           "name_en": "Pyramids Park Resort Cairo",
           "name_ar": null,
           "name_ar_status": "not found in Wikidata/OSM - show English only or add manually",
-          "distance_km_straight_line": 2.9,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=29.999794&mlon=31.11621#map=17/29.999794/31.11621",
           "wikidata_url": "https://www.wikidata.org/wiki/Q111400507",
           "official_website": null,
@@ -96,15 +109,23 @@
             "author": "mcfr",
             "visually_checked": true,
             "src": "/photos/hotels/Q111400507.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         }
-      ]
+      ],
+      "stay_area": {
+        "en": "Giza",
+        "ar": "الجيزة"
+      },
+      "distance_status": "not-published-unverified-attraction-origin"
     },
     "grand-egyptian-museum": {
       "place_center": {
         "lat": 29.9945754,
         "lon": 31.1190738,
-        "basis": "المتحف المصري الكبير, طريق القاهرة, الاسكندرية الصحراوي, كفرة نصار, ال"
+        "basis": "المتحف المصري الكبير, طريق القاهرة, الاسكندرية الصحراوي, كفرة نصار, ال",
+        "verification_status": "legacy-reference-not-a-verified-entrance"
       },
       "place_coordinate_note": null,
       "hotels": [
@@ -113,7 +134,7 @@
           "name_en": "Pyramids Park Resort Cairo",
           "name_ar": null,
           "name_ar_status": "not found in Wikidata/OSM - show English only or add manually",
-          "distance_km_straight_line": 0.6,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=29.999794&mlon=31.11621#map=17/29.999794/31.11621",
           "wikidata_url": "https://www.wikidata.org/wiki/Q111400507",
           "official_website": null,
@@ -130,14 +151,16 @@
             "author": "mcfr",
             "visually_checked": true,
             "src": "/photos/hotels/Q111400507.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         },
         {
           "wikidata_id": "Q1355271",
           "name_en": "Mena House",
           "name_ar": "مينا هاوس",
           "name_ar_status": "from Wikidata label",
-          "distance_km_straight_line": 1.7,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=29.98555556&mlon=31.13277778#map=17/29.98555556/31.13277778",
           "wikidata_url": "https://www.wikidata.org/wiki/Q1355271",
           "official_website": null,
@@ -154,15 +177,23 @@
             "author": "Gerhard Haubold",
             "visually_checked": true,
             "src": "/photos/hotels/Q1355271.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         }
-      ]
+      ],
+      "stay_area": {
+        "en": "Giza",
+        "ar": "الجيزة"
+      },
+      "distance_status": "not-published-unverified-attraction-origin"
     },
     "egyptian-museum": {
       "place_center": {
         "lat": 30.04778,
         "lon": 31.23333,
-        "basis": "wd"
+        "basis": "wd",
+        "verification_status": "legacy-reference-not-a-verified-entrance"
       },
       "place_coordinate_note": null,
       "hotels": [
@@ -171,7 +202,7 @@
           "name_en": "Nile Ritz Carlton",
           "name_ar": "نايل ريتز كارلتون",
           "name_ar_status": "from Wikidata label",
-          "distance_km_straight_line": 0.2,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=30.04608&mlon=31.23256#map=17/30.04608/31.23256",
           "wikidata_url": "https://www.wikidata.org/wiki/Q54887660",
           "official_website": null,
@@ -188,14 +219,16 @@
             "author": "Mark Muehlhaeusler",
             "visually_checked": true,
             "src": "/photos/hotels/Q54887660.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         },
         {
           "wikidata_id": "Q47429618",
           "name_en": "Steigenberger Hotel El Tahrir Cairo",
           "name_ar": "فندق شتيجنبرجر التحرير القاهرة",
           "name_ar_status": "from Wikidata label",
-          "distance_km_straight_line": 0.2,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=30.047318&mlon=31.235665#map=17/30.047318/31.235665",
           "wikidata_url": "https://www.wikidata.org/wiki/Q47429618",
           "official_website": null,
@@ -212,15 +245,23 @@
             "author": "Roland Unger",
             "visually_checked": true,
             "src": "/photos/hotels/Q47429618.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         }
-      ]
+      ],
+      "stay_area": {
+        "en": "Cairo",
+        "ar": "القاهرة"
+      },
+      "distance_status": "not-published-unverified-attraction-origin"
     },
     "khayyamiyya": {
       "place_center": {
         "lat": 30.042025,
         "lon": 31.257551,
-        "basis": "Archnet https://www.archnet.org/sites/2385"
+        "basis": "Archnet https://www.archnet.org/sites/2385",
+        "verification_status": "legacy-reference-not-a-verified-entrance"
       },
       "place_coordinate_note": "place coordinate approximate",
       "hotels": [
@@ -229,7 +270,7 @@
           "name_en": "Windsor Hotel",
           "name_ar": "فندق وندسور",
           "name_ar_status": "from Wikidata label",
-          "distance_km_straight_line": 1.7,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=30.052977&mlon=31.245038#map=17/30.052977/31.245038",
           "wikidata_url": "https://www.wikidata.org/wiki/Q8024637",
           "official_website": "http://www.windsorcairo.com/",
@@ -246,14 +287,16 @@
             "author": "Gaynor Barton",
             "visually_checked": true,
             "src": "/photos/hotels/Q8024637.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         },
         {
           "wikidata_id": "Q47429618",
           "name_en": "Steigenberger Hotel El Tahrir Cairo",
           "name_ar": "فندق شتيجنبرجر التحرير القاهرة",
           "name_ar_status": "from Wikidata label",
-          "distance_km_straight_line": 2.4,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=30.047318&mlon=31.235665#map=17/30.047318/31.235665",
           "wikidata_url": "https://www.wikidata.org/wiki/Q47429618",
           "official_website": null,
@@ -270,15 +313,23 @@
             "author": "Roland Unger",
             "visually_checked": true,
             "src": "/photos/hotels/Q47429618.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         }
-      ]
+      ],
+      "stay_area": {
+        "en": "Cairo",
+        "ar": "القاهرة"
+      },
+      "distance_status": "not-published-unverified-attraction-origin"
     },
     "wikalat-al-ghuri": {
       "place_center": {
         "lat": 30.047866,
         "lon": 31.262161,
-        "basis": "wd"
+        "basis": "wd",
+        "verification_status": "legacy-reference-not-a-verified-entrance"
       },
       "place_coordinate_note": null,
       "hotels": [
@@ -287,7 +338,7 @@
           "name_en": "Windsor Hotel",
           "name_ar": "فندق وندسور",
           "name_ar_status": "from Wikidata label",
-          "distance_km_straight_line": 1.7,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=30.052977&mlon=31.245038#map=17/30.052977/31.245038",
           "wikidata_url": "https://www.wikidata.org/wiki/Q8024637",
           "official_website": "http://www.windsorcairo.com/",
@@ -304,14 +355,16 @@
             "author": "Gaynor Barton",
             "visually_checked": true,
             "src": "/photos/hotels/Q8024637.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         },
         {
           "wikidata_id": "Q47429618",
           "name_en": "Steigenberger Hotel El Tahrir Cairo",
           "name_ar": "فندق شتيجنبرجر التحرير القاهرة",
           "name_ar_status": "from Wikidata label",
-          "distance_km_straight_line": 2.6,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=30.047318&mlon=31.235665#map=17/30.047318/31.235665",
           "wikidata_url": "https://www.wikidata.org/wiki/Q47429618",
           "official_website": null,
@@ -328,15 +381,23 @@
             "author": "Roland Unger",
             "visually_checked": true,
             "src": "/photos/hotels/Q47429618.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         }
-      ]
+      ],
+      "stay_area": {
+        "en": "Cairo",
+        "ar": "القاهرة"
+      },
+      "distance_status": "not-published-unverified-attraction-origin"
     },
     "qaitbay": {
       "place_center": {
         "lat": 31.2136787,
         "lon": 29.8854132,
-        "basis": "قلعة قايتباي, شارع قلعه قايتباى, السيالة شرق, الإسكندرية, 21556, مصر"
+        "basis": "قلعة قايتباي, شارع قلعه قايتباى, السيالة شرق, الإسكندرية, 21556, مصر",
+        "verification_status": "legacy-reference-not-a-verified-entrance"
       },
       "place_coordinate_note": null,
       "hotels": [
@@ -345,7 +406,7 @@
           "name_en": "Windsor Palace Hotel",
           "name_ar": "فندق ويندسور",
           "name_ar_status": "from Wikidata label",
-          "distance_km_straight_line": 1.8,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=31.20046&mlon=29.89675#map=17/31.20046/29.89675",
           "wikidata_url": "https://www.wikidata.org/wiki/Q12231151",
           "official_website": null,
@@ -362,14 +423,16 @@
             "author": "Nehal21",
             "visually_checked": true,
             "src": "/photos/hotels/Q12231151.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         },
         {
           "wikidata_id": "Q5056137",
           "name_en": "Cecil Hotel",
           "name_ar": "فندق سيسل",
           "name_ar_status": "from Wikidata label",
-          "distance_km_straight_line": 1.9,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=31.2008&mlon=29.8984#map=17/31.2008/29.8984",
           "wikidata_url": "https://www.wikidata.org/wiki/Q5056137",
           "official_website": null,
@@ -386,14 +449,16 @@
             "author": "Roland Unger",
             "visually_checked": true,
             "src": "/photos/hotels/Q5056137.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         },
         {
           "wikidata_id": "Q110285078",
           "name_en": "Triomphe Hotel",
           "name_ar": "فندق النصر",
           "name_ar_status": "from Wikidata label",
-          "distance_km_straight_line": 1.9,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=31.2002&mlon=29.8982#map=17/31.2002/29.8982",
           "wikidata_url": "https://www.wikidata.org/wiki/Q110285078",
           "official_website": null,
@@ -410,15 +475,23 @@
             "author": "Marsupium",
             "visually_checked": true,
             "src": "/photos/hotels/Q110285078.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         }
-      ]
+      ],
+      "stay_area": {
+        "en": "Alexandria",
+        "ar": "الإسكندرية"
+      },
+      "distance_status": "not-published-unverified-attraction-origin"
     },
     "bibliotheca": {
       "place_center": {
         "lat": 31.2086605,
         "lon": 29.9089329,
-        "basis": "مكتبة الإسكندرية, شارع بورسعيد, الشاطبى, الإسكندرية, 21526, مصر"
+        "basis": "مكتبة الإسكندرية, شارع بورسعيد, الشاطبى, الإسكندرية, 21526, مصر",
+        "verification_status": "legacy-reference-not-a-verified-entrance"
       },
       "place_coordinate_note": null,
       "hotels": [
@@ -427,7 +500,7 @@
           "name_en": "Paradise Inn Metropole Hotel",
           "name_ar": "فندق باردايس إن لو متروبول",
           "name_ar_status": "from Wikidata label",
-          "distance_km_straight_line": 1.2,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=31.200949&mlon=29.900232#map=17/31.200949/29.900232",
           "wikidata_url": "https://www.wikidata.org/wiki/Q63985038",
           "official_website": null,
@@ -444,14 +517,16 @@
             "author": "Roland Unger",
             "visually_checked": true,
             "src": "/photos/hotels/Q63985038.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         },
         {
           "wikidata_id": "Q5056137",
           "name_en": "Cecil Hotel",
           "name_ar": "فندق سيسل",
           "name_ar_status": "from Wikidata label",
-          "distance_km_straight_line": 1.3,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=31.2008&mlon=29.8984#map=17/31.2008/29.8984",
           "wikidata_url": "https://www.wikidata.org/wiki/Q5056137",
           "official_website": null,
@@ -468,14 +543,16 @@
             "author": "Roland Unger",
             "visually_checked": true,
             "src": "/photos/hotels/Q5056137.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         },
         {
           "wikidata_id": "Q110285078",
           "name_en": "Triomphe Hotel",
           "name_ar": "فندق النصر",
           "name_ar_status": "from Wikidata label",
-          "distance_km_straight_line": 1.4,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=31.2002&mlon=29.8982#map=17/31.2002/29.8982",
           "wikidata_url": "https://www.wikidata.org/wiki/Q110285078",
           "official_website": null,
@@ -492,15 +569,23 @@
             "author": "Marsupium",
             "visually_checked": true,
             "src": "/photos/hotels/Q110285078.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         }
-      ]
+      ],
+      "stay_area": {
+        "en": "Alexandria",
+        "ar": "الإسكندرية"
+      },
+      "distance_status": "not-published-unverified-attraction-origin"
     },
     "montazah": {
       "place_center": {
         "lat": 31.2886,
         "lon": 30.0159,
-        "basis": "wd"
+        "basis": "wd",
+        "verification_status": "legacy-reference-not-a-verified-entrance"
       },
       "place_coordinate_note": null,
       "hotels": [
@@ -509,7 +594,7 @@
           "name_en": "Palestine Montaza",
           "name_ar": "فندق فلسطين المنتزة",
           "name_ar_status": "from Wikidata label",
-          "distance_km_straight_line": 0.2,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=31.288281&mlon=30.018052#map=17/31.288281/30.018052",
           "wikidata_url": "https://www.wikidata.org/wiki/Q63990925",
           "official_website": null,
@@ -526,14 +611,16 @@
             "author": "Mina.maher.aziz",
             "visually_checked": true,
             "src": "/photos/hotels/Q63990925.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         },
         {
           "wikidata_id": "Q12232992",
           "name_en": "El-Salamlek Palace",
           "name_ar": "قصر السلاملك",
           "name_ar_status": "from Wikidata label",
-          "distance_km_straight_line": 0.6,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=31.286837&mlon=30.021402#map=17/31.286837/30.021402",
           "wikidata_url": "https://www.wikidata.org/wiki/Q12232992",
           "official_website": null,
@@ -550,15 +637,23 @@
             "author": "Dennis G. Jarvis",
             "visually_checked": true,
             "src": "/photos/hotels/Q12232992.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         }
-      ]
+      ],
+      "stay_area": {
+        "en": "Alexandria",
+        "ar": "الإسكندرية"
+      },
+      "distance_status": "not-published-unverified-attraction-origin"
     },
     "cavafy": {
       "place_center": {
         "lat": 31.1976064,
         "lon": 29.9012293,
-        "basis": "متحف كڤافيس, شارع شرم الشيخ, المسله شرق, الإسكندرية, 21521, مصر"
+        "basis": "متحف كڤافيس, شارع شرم الشيخ, المسله شرق, الإسكندرية, 21521, مصر",
+        "verification_status": "legacy-reference-not-a-verified-entrance"
       },
       "place_coordinate_note": null,
       "hotels": [
@@ -567,7 +662,7 @@
           "name_en": "Paradise Inn Metropole Hotel",
           "name_ar": "فندق باردايس إن لو متروبول",
           "name_ar_status": "from Wikidata label",
-          "distance_km_straight_line": 0.4,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=31.200949&mlon=29.900232#map=17/31.200949/29.900232",
           "wikidata_url": "https://www.wikidata.org/wiki/Q63985038",
           "official_website": null,
@@ -584,14 +679,16 @@
             "author": "Roland Unger",
             "visually_checked": true,
             "src": "/photos/hotels/Q63985038.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         },
         {
           "wikidata_id": "Q110285078",
           "name_en": "Triomphe Hotel",
           "name_ar": "فندق النصر",
           "name_ar_status": "from Wikidata label",
-          "distance_km_straight_line": 0.4,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=31.2002&mlon=29.8982#map=17/31.2002/29.8982",
           "wikidata_url": "https://www.wikidata.org/wiki/Q110285078",
           "official_website": null,
@@ -608,14 +705,16 @@
             "author": "Marsupium",
             "visually_checked": true,
             "src": "/photos/hotels/Q110285078.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         },
         {
           "wikidata_id": "Q5056137",
           "name_en": "Cecil Hotel",
           "name_ar": "فندق سيسل",
           "name_ar_status": "from Wikidata label",
-          "distance_km_straight_line": 0.4,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=31.2008&mlon=29.8984#map=17/31.2008/29.8984",
           "wikidata_url": "https://www.wikidata.org/wiki/Q5056137",
           "official_website": null,
@@ -632,15 +731,23 @@
             "author": "Roland Unger",
             "visually_checked": true,
             "src": "/photos/hotels/Q5056137.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         }
-      ]
+      ],
+      "stay_area": {
+        "en": "Alexandria",
+        "ar": "الإسكندرية"
+      },
+      "distance_status": "not-published-unverified-attraction-origin"
     },
     "antoniadis": {
       "place_center": {
         "lat": 31.2,
         "lon": 29.94,
-        "basis": "approx"
+        "basis": "approx",
+        "verification_status": "legacy-reference-not-a-verified-entrance"
       },
       "place_coordinate_note": "place coordinate approximate (not found in a source); distances are rough",
       "hotels": [
@@ -649,7 +756,7 @@
           "name_en": "Paradise Inn Metropole Hotel",
           "name_ar": "فندق باردايس إن لو متروبول",
           "name_ar_status": "from Wikidata label",
-          "distance_km_straight_line": 3.8,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=31.200949&mlon=29.900232#map=17/31.200949/29.900232",
           "wikidata_url": "https://www.wikidata.org/wiki/Q63985038",
           "official_website": null,
@@ -666,14 +773,16 @@
             "author": "Roland Unger",
             "visually_checked": true,
             "src": "/photos/hotels/Q63985038.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         },
         {
           "wikidata_id": "Q5056137",
           "name_en": "Cecil Hotel",
           "name_ar": "فندق سيسل",
           "name_ar_status": "from Wikidata label",
-          "distance_km_straight_line": 4.0,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=31.2008&mlon=29.8984#map=17/31.2008/29.8984",
           "wikidata_url": "https://www.wikidata.org/wiki/Q5056137",
           "official_website": null,
@@ -690,14 +799,16 @@
             "author": "Roland Unger",
             "visually_checked": true,
             "src": "/photos/hotels/Q5056137.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         },
         {
           "wikidata_id": "Q110285078",
           "name_en": "Triomphe Hotel",
           "name_ar": "فندق النصر",
           "name_ar_status": "from Wikidata label",
-          "distance_km_straight_line": 4.0,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=31.2002&mlon=29.8982#map=17/31.2002/29.8982",
           "wikidata_url": "https://www.wikidata.org/wiki/Q110285078",
           "official_website": null,
@@ -714,15 +825,23 @@
             "author": "Marsupium",
             "visually_checked": true,
             "src": "/photos/hotels/Q110285078.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         }
-      ]
+      ],
+      "stay_area": {
+        "en": "Alexandria",
+        "ar": "الإسكندرية"
+      },
+      "distance_status": "not-published-unverified-attraction-origin"
     },
     "karnak": {
       "place_center": {
         "lat": 25.7101358,
         "lon": 32.6501364,
-        "basis": "Karnak Temples & Luxor Temple, طريق الكباش, الكرنك القديم, الأقصر, 816"
+        "basis": "Karnak Temples & Luxor Temple, طريق الكباش, الكرنك القديم, الأقصر, 816",
+        "verification_status": "legacy-reference-not-a-verified-entrance"
       },
       "place_coordinate_note": null,
       "hotels": [
@@ -731,7 +850,7 @@
           "name_en": "Rezeiky Hotel Luxor",
           "name_ar": "الرزيقي كامب وفندق",
           "name_ar_status": "from Wikidata label",
-          "distance_km_straight_line": 0.1,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=25.71085&mlon=32.64891#map=17/25.71085/32.64891",
           "wikidata_url": "https://www.wikidata.org/wiki/Q110570690",
           "official_website": "https://rezeikycamp.com/",
@@ -748,14 +867,16 @@
             "author": "Chabe01",
             "visually_checked": true,
             "src": "/photos/hotels/Q110570690.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         },
         {
           "wikidata_id": "Q110487835",
           "name_en": "Susanna Hotel",
           "name_ar": "فندق سوزانا",
           "name_ar_status": "from Wikidata label",
-          "distance_km_straight_line": 1.3,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=25.70142&mlon=32.642#map=17/25.70142/32.642",
           "wikidata_url": "https://www.wikidata.org/wiki/Q110487835",
           "official_website": null,
@@ -772,14 +893,16 @@
             "author": "Chabe01",
             "visually_checked": true,
             "src": "/photos/hotels/Q110487835.webp"
-          }
+          },
+          "coordinate_status": "multiple-source-points",
+          "coordinate_checked_at": "2026-11-16"
         },
         {
           "wikidata_id": "Q7085427",
           "name_en": "Winter Palace",
           "name_ar": null,
           "name_ar_status": "from Wikidata label",
-          "distance_km_straight_line": 2.0,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=25.69671869&mlon=32.637160723#map=17/25.69671869/32.637160723",
           "wikidata_url": "https://www.wikidata.org/wiki/Q7085427",
           "official_website": null,
@@ -796,15 +919,23 @@
             "author": "Marc Ryckaert",
             "visually_checked": true,
             "src": "/photos/hotels/Q7085427.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         }
-      ]
+      ],
+      "stay_area": {
+        "en": "Luxor",
+        "ar": "الأقصر"
+      },
+      "distance_status": "not-published-unverified-attraction-origin"
     },
     "luxor-temple": {
       "place_center": {
         "lat": 25.699525,
         "lon": 32.6390695,
-        "basis": "معبد الأقصر, طريق الكباش, الكرنك القديم, الأقصر, 81693, مصر"
+        "basis": "معبد الأقصر, طريق الكباش, الكرنك القديم, الأقصر, 81693, مصر",
+        "verification_status": "legacy-reference-not-a-verified-entrance"
       },
       "place_coordinate_note": null,
       "hotels": [
@@ -813,7 +944,7 @@
           "name_en": "Susanna Hotel",
           "name_ar": "فندق سوزانا",
           "name_ar_status": "from Wikidata label",
-          "distance_km_straight_line": 0.4,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=25.70142&mlon=32.642#map=17/25.70142/32.642",
           "wikidata_url": "https://www.wikidata.org/wiki/Q110487835",
           "official_website": null,
@@ -830,14 +961,16 @@
             "author": "Chabe01",
             "visually_checked": true,
             "src": "/photos/hotels/Q110487835.webp"
-          }
+          },
+          "coordinate_status": "multiple-source-points",
+          "coordinate_checked_at": "2026-11-16"
         },
         {
           "wikidata_id": "Q7085427",
           "name_en": "Winter Palace",
           "name_ar": null,
           "name_ar_status": "from Wikidata label",
-          "distance_km_straight_line": 0.4,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=25.69671869&mlon=32.637160723#map=17/25.69671869/32.637160723",
           "wikidata_url": "https://www.wikidata.org/wiki/Q7085427",
           "official_website": null,
@@ -854,14 +987,16 @@
             "author": "Marc Ryckaert",
             "visually_checked": true,
             "src": "/photos/hotels/Q7085427.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         },
         {
           "wikidata_id": "Q110514990",
           "name_en": "Sonesta St. George Hotel",
           "name_ar": "فندق سونستا سان جورج",
           "name_ar_status": "from Wikidata label",
-          "distance_km_straight_line": 1.4,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=25.68836&mlon=32.631851#map=17/25.68836/32.631851",
           "wikidata_url": "https://www.wikidata.org/wiki/Q110514990",
           "official_website": "https://www.sonesta.com/eg/luxor/sonesta-st-george-hotel-luxor",
@@ -878,15 +1013,23 @@
             "author": "Marc Ryckaert",
             "visually_checked": true,
             "src": "/photos/hotels/Q110514990.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         }
-      ]
+      ],
+      "stay_area": {
+        "en": "Luxor",
+        "ar": "الأقصر"
+      },
+      "distance_status": "not-published-unverified-attraction-origin"
     },
     "valley-kings": {
       "place_center": {
         "lat": 25.7404899,
         "lon": 32.6017581,
-        "basis": "وادي الملوك, مدينه القرنة الجديدة, الأقصر, مصر"
+        "basis": "وادي الملوك, مدينه القرنة الجديدة, الأقصر, مصر",
+        "verification_status": "legacy-reference-not-a-verified-entrance"
       },
       "place_coordinate_note": null,
       "hotels": [
@@ -895,7 +1038,7 @@
           "name_en": "Nour El Gourna",
           "name_ar": null,
           "name_ar_status": "not found in Wikidata/OSM - show English only or add manually",
-          "distance_km_straight_line": 1.9,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=25.72346&mlon=32.60559#map=17/25.72346/32.60559",
           "wikidata_url": "https://www.wikidata.org/wiki/Q111999097",
           "official_website": null,
@@ -903,14 +1046,16 @@
             25.72346,
             32.60559
           ],
-          "photo": null
+          "photo": null,
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         },
         {
           "wikidata_id": "Q111857726",
           "name_en": "New Memnon Hotel",
           "name_ar": null,
           "name_ar_status": "not found in Wikidata/OSM - show English only or add manually",
-          "distance_km_straight_line": 2.5,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=25.71971&mlon=32.61108#map=17/25.71971/32.61108",
           "wikidata_url": "https://www.wikidata.org/wiki/Q111857726",
           "official_website": null,
@@ -918,15 +1063,23 @@
             25.71971,
             32.61108
           ],
-          "photo": null
+          "photo": null,
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         }
-      ]
+      ],
+      "stay_area": {
+        "en": "Luxor",
+        "ar": "الأقصر"
+      },
+      "distance_status": "not-published-unverified-attraction-origin"
     },
     "hatshepsut": {
       "place_center": {
         "lat": 25.738056,
         "lon": 32.606944,
-        "basis": "wd"
+        "basis": "wd",
+        "verification_status": "legacy-reference-not-a-verified-entrance"
       },
       "place_coordinate_note": null,
       "hotels": [
@@ -935,7 +1088,7 @@
           "name_en": "Nour El Gourna",
           "name_ar": null,
           "name_ar_status": "not found in Wikidata/OSM - show English only or add manually",
-          "distance_km_straight_line": 1.6,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=25.72346&mlon=32.60559#map=17/25.72346/32.60559",
           "wikidata_url": "https://www.wikidata.org/wiki/Q111999097",
           "official_website": null,
@@ -943,14 +1096,16 @@
             25.72346,
             32.60559
           ],
-          "photo": null
+          "photo": null,
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         },
         {
           "wikidata_id": "Q111857726",
           "name_en": "New Memnon Hotel",
           "name_ar": null,
           "name_ar_status": "not found in Wikidata/OSM - show English only or add manually",
-          "distance_km_straight_line": 2.1,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=25.71971&mlon=32.61108#map=17/25.71971/32.61108",
           "wikidata_url": "https://www.wikidata.org/wiki/Q111857726",
           "official_website": null,
@@ -958,15 +1113,23 @@
             25.71971,
             32.61108
           ],
-          "photo": null
+          "photo": null,
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         }
-      ]
+      ],
+      "stay_area": {
+        "en": "Luxor",
+        "ar": "الأقصر"
+      },
+      "distance_status": "not-published-unverified-attraction-origin"
     },
     "luxor-museum": {
       "place_center": {
         "lat": 25.7076634,
         "lon": 32.644489,
-        "basis": "Luxor Museum, شارع متحف الاقصر, مدينه الاقصر, الأقصر, 81693, مصر"
+        "basis": "Luxor Museum, شارع متحف الاقصر, مدينه الاقصر, الأقصر, 81693, مصر",
+        "verification_status": "legacy-reference-not-a-verified-entrance"
       },
       "place_coordinate_note": null,
       "hotels": [
@@ -975,7 +1138,7 @@
           "name_en": "Rezeiky Hotel Luxor",
           "name_ar": "الرزيقي كامب وفندق",
           "name_ar_status": "from Wikidata label",
-          "distance_km_straight_line": 0.6,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=25.71085&mlon=32.64891#map=17/25.71085/32.64891",
           "wikidata_url": "https://www.wikidata.org/wiki/Q110570690",
           "official_website": "https://rezeikycamp.com/",
@@ -992,14 +1155,16 @@
             "author": "Chabe01",
             "visually_checked": true,
             "src": "/photos/hotels/Q110570690.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         },
         {
           "wikidata_id": "Q110487835",
           "name_en": "Susanna Hotel",
           "name_ar": "فندق سوزانا",
           "name_ar_status": "from Wikidata label",
-          "distance_km_straight_line": 0.7,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=25.70142&mlon=32.642#map=17/25.70142/32.642",
           "wikidata_url": "https://www.wikidata.org/wiki/Q110487835",
           "official_website": null,
@@ -1016,14 +1181,16 @@
             "author": "Chabe01",
             "visually_checked": true,
             "src": "/photos/hotels/Q110487835.webp"
-          }
+          },
+          "coordinate_status": "multiple-source-points",
+          "coordinate_checked_at": "2026-11-16"
         },
         {
           "wikidata_id": "Q7085427",
           "name_en": "Winter Palace",
           "name_ar": null,
           "name_ar_status": "from Wikidata label",
-          "distance_km_straight_line": 1.4,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=25.69671869&mlon=32.637160723#map=17/25.69671869/32.637160723",
           "wikidata_url": "https://www.wikidata.org/wiki/Q7085427",
           "official_website": null,
@@ -1040,15 +1207,23 @@
             "author": "Marc Ryckaert",
             "visually_checked": true,
             "src": "/photos/hotels/Q7085427.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         }
-      ]
+      ],
+      "stay_area": {
+        "en": "Luxor",
+        "ar": "الأقصر"
+      },
+      "distance_status": "not-published-unverified-attraction-origin"
     },
     "philae": {
       "place_center": {
         "lat": 24.021528,
         "lon": 32.884167,
-        "basis": "wd"
+        "basis": "wd",
+        "verification_status": "legacy-reference-not-a-verified-entrance"
       },
       "nearest_town_fallback": true,
       "place_coordinate_note": "island temple, no hotels; options are Aswan hotels",
@@ -1058,7 +1233,7 @@
           "name_en": "Basma Hotel",
           "name_ar": "فندق بسمة",
           "name_ar_status": "from Wikidata label",
-          "distance_km_straight_line": 6.3,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=24.07806&mlon=32.88767#map=17/24.07806/32.88767",
           "wikidata_url": "https://www.wikidata.org/wiki/Q105219383",
           "official_website": null,
@@ -1075,14 +1250,16 @@
             "author": "jokertrekker",
             "visually_checked": true,
             "src": "/photos/hotels/Q105219383.webp"
-          }
+          },
+          "coordinate_status": "multiple-source-points",
+          "coordinate_checked_at": "2026-11-16"
         },
         {
           "wikidata_id": "Q105259668",
           "name_en": "Pyramisa Island Aswan",
           "name_ar": "منتجع اند سبا بيراميزا جزيرة ايزيس أسوان",
           "name_ar_status": "from Wikidata label",
-          "distance_km_straight_line": 6.5,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=24.0801&mlon=32.88013#map=17/24.0801/32.88013",
           "wikidata_url": "https://www.wikidata.org/wiki/Q105259668",
           "official_website": null,
@@ -1099,14 +1276,16 @@
             "author": "Marc Ryckaert (MJJR)",
             "visually_checked": true,
             "src": "/photos/hotels/Q105259668.webp"
-          }
+          },
+          "coordinate_status": "multiple-source-points",
+          "coordinate_checked_at": "2026-11-16"
         },
         {
           "wikidata_id": "Q1283262",
           "name_en": "Old Cataract",
           "name_ar": null,
           "name_ar_status": "from Wikidata label",
-          "distance_km_straight_line": 6.8,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=24.082314&mlon=32.887318#map=17/24.082314/32.887318",
           "wikidata_url": "https://www.wikidata.org/wiki/Q1283262",
           "official_website": null,
@@ -1123,15 +1302,23 @@
             "author": "DAVID HOLT",
             "visually_checked": true,
             "src": "/photos/hotels/Q1283262.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         }
-      ]
+      ],
+      "stay_area": {
+        "en": "Aswan",
+        "ar": "أسوان"
+      },
+      "distance_status": "not-published-unverified-attraction-origin"
     },
     "elephantine": {
       "place_center": {
         "lat": 24.0910553,
         "lon": 32.890111,
-        "basis": "جزيرة ألفنتين, Siou, أسوان, مصر"
+        "basis": "جزيرة ألفنتين, Siou, أسوان, مصر",
+        "verification_status": "legacy-reference-not-a-verified-entrance"
       },
       "place_coordinate_note": null,
       "hotels": [
@@ -1140,7 +1327,7 @@
           "name_en": "The Mango Guest House",
           "name_ar": null,
           "name_ar_status": "not found in Wikidata/OSM - show English only or add manually",
-          "distance_km_straight_line": 0.2,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=24.08942&mlon=32.8891#map=17/24.08942/32.8891",
           "wikidata_url": "https://www.wikidata.org/wiki/Q111999167",
           "official_website": null,
@@ -1157,14 +1344,16 @@
             "author": "Vladimir Mironov 1984",
             "visually_checked": true,
             "src": "/photos/hotels/Q111999167.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         },
         {
           "wikidata_id": "Q105064101",
           "name_en": "Mövenpick Resort Aswan",
           "name_ar": "منتجع موفنبيك أسوان",
           "name_ar_status": "from Wikidata label",
-          "distance_km_straight_line": 0.3,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=24.09314&mlon=32.89195#map=17/24.09314/32.89195",
           "wikidata_url": "https://www.wikidata.org/wiki/Q105064101",
           "official_website": null,
@@ -1181,14 +1370,16 @@
             "author": "Marc Ryckaert (MJJR)",
             "visually_checked": true,
             "src": "/photos/hotels/Q105064101.webp"
-          }
+          },
+          "coordinate_status": "multiple-source-points",
+          "coordinate_checked_at": "2026-11-16"
         },
         {
           "wikidata_id": "Q105257906",
           "name_en": "Philae Hotel",
           "name_ar": "فبدق فيلة",
           "name_ar_status": "from Wikidata label",
-          "distance_km_straight_line": 0.5,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=24.089167&mlon=32.894556#map=17/24.089167/32.894556",
           "wikidata_url": "https://www.wikidata.org/wiki/Q105257906",
           "official_website": null,
@@ -1205,15 +1396,23 @@
             "author": "Karen Green",
             "visually_checked": true,
             "src": "/photos/hotels/Q105257906.webp"
-          }
+          },
+          "coordinate_status": "multiple-source-points",
+          "coordinate_checked_at": "2026-11-16"
         }
-      ]
+      ],
+      "stay_area": {
+        "en": "Aswan",
+        "ar": "أسوان"
+      },
+      "distance_status": "not-published-unverified-attraction-origin"
     },
     "nubian-museum": {
       "place_center": {
         "lat": 24.0794855,
         "lon": 32.8891534,
-        "basis": "متحف النوبة, شارع الفنادق, نجع المحطة, أسوان, 81529, مصر"
+        "basis": "متحف النوبة, شارع الفنادق, نجع المحطة, أسوان, 81529, مصر",
+        "verification_status": "legacy-reference-not-a-verified-entrance"
       },
       "place_coordinate_note": null,
       "hotels": [
@@ -1222,7 +1421,7 @@
           "name_en": "Basma Hotel",
           "name_ar": "فندق بسمة",
           "name_ar_status": "from Wikidata label",
-          "distance_km_straight_line": 0.2,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=24.07806&mlon=32.88767#map=17/24.07806/32.88767",
           "wikidata_url": "https://www.wikidata.org/wiki/Q105219383",
           "official_website": null,
@@ -1239,14 +1438,16 @@
             "author": "jokertrekker",
             "visually_checked": true,
             "src": "/photos/hotels/Q105219383.webp"
-          }
+          },
+          "coordinate_status": "multiple-source-points",
+          "coordinate_checked_at": "2026-11-16"
         },
         {
           "wikidata_id": "Q1283262",
           "name_en": "Old Cataract",
           "name_ar": null,
           "name_ar_status": "from Wikidata label",
-          "distance_km_straight_line": 0.4,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=24.082314&mlon=32.887318#map=17/24.082314/32.887318",
           "wikidata_url": "https://www.wikidata.org/wiki/Q1283262",
           "official_website": null,
@@ -1263,14 +1464,16 @@
             "author": "DAVID HOLT",
             "visually_checked": true,
             "src": "/photos/hotels/Q1283262.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         },
         {
           "wikidata_id": "Q105259668",
           "name_en": "Pyramisa Island Aswan",
           "name_ar": "منتجع اند سبا بيراميزا جزيرة ايزيس أسوان",
           "name_ar_status": "from Wikidata label",
-          "distance_km_straight_line": 0.9,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=24.0801&mlon=32.88013#map=17/24.0801/32.88013",
           "wikidata_url": "https://www.wikidata.org/wiki/Q105259668",
           "official_website": null,
@@ -1287,15 +1490,23 @@
             "author": "Marc Ryckaert (MJJR)",
             "visually_checked": true,
             "src": "/photos/hotels/Q105259668.webp"
-          }
+          },
+          "coordinate_status": "multiple-source-points",
+          "coordinate_checked_at": "2026-11-16"
         }
-      ]
+      ],
+      "stay_area": {
+        "en": "Aswan",
+        "ar": "أسوان"
+      },
+      "distance_status": "not-published-unverified-attraction-origin"
     },
     "unfinished-obelisk": {
       "place_center": {
         "lat": 24.0769125,
         "lon": 32.8954118,
-        "basis": "مسلة ناقصةال, شارع شرق البندر, عبد الحفيظ ابو قديس, أسوان, 81511, مصر"
+        "basis": "مسلة ناقصةال, شارع شرق البندر, عبد الحفيظ ابو قديس, أسوان, 81511, مصر",
+        "verification_status": "legacy-reference-not-a-verified-entrance"
       },
       "place_coordinate_note": null,
       "hotels": [
@@ -1304,7 +1515,7 @@
           "name_en": "Basma Hotel",
           "name_ar": "فندق بسمة",
           "name_ar_status": "from Wikidata label",
-          "distance_km_straight_line": 0.8,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=24.07806&mlon=32.88767#map=17/24.07806/32.88767",
           "wikidata_url": "https://www.wikidata.org/wiki/Q105219383",
           "official_website": null,
@@ -1321,14 +1532,16 @@
             "author": "jokertrekker",
             "visually_checked": true,
             "src": "/photos/hotels/Q105219383.webp"
-          }
+          },
+          "coordinate_status": "multiple-source-points",
+          "coordinate_checked_at": "2026-11-16"
         },
         {
           "wikidata_id": "Q1283262",
           "name_en": "Old Cataract",
           "name_ar": null,
           "name_ar_status": "from Wikidata label",
-          "distance_km_straight_line": 1.0,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=24.082314&mlon=32.887318#map=17/24.082314/32.887318",
           "wikidata_url": "https://www.wikidata.org/wiki/Q1283262",
           "official_website": null,
@@ -1345,14 +1558,16 @@
             "author": "DAVID HOLT",
             "visually_checked": true,
             "src": "/photos/hotels/Q1283262.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         },
         {
           "wikidata_id": "Q105257906",
           "name_en": "Philae Hotel",
           "name_ar": "فبدق فيلة",
           "name_ar_status": "from Wikidata label",
-          "distance_km_straight_line": 1.4,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=24.089167&mlon=32.894556#map=17/24.089167/32.894556",
           "wikidata_url": "https://www.wikidata.org/wiki/Q105257906",
           "official_website": null,
@@ -1369,15 +1584,23 @@
             "author": "Karen Green",
             "visually_checked": true,
             "src": "/photos/hotels/Q105257906.webp"
-          }
+          },
+          "coordinate_status": "multiple-source-points",
+          "coordinate_checked_at": "2026-11-16"
         }
-      ]
+      ],
+      "stay_area": {
+        "en": "Aswan",
+        "ar": "أسوان"
+      },
+      "distance_status": "not-published-unverified-attraction-origin"
     },
     "abu-simbel": {
       "place_center": {
         "lat": 22.3371195,
         "lon": 31.6257973,
-        "basis": "معبدا أبو سمبل, شارع المعبد, مدينة أبو سمبل, أسوان, 81525, مصر"
+        "basis": "معبدا أبو سمبل, شارع المعبد, مدينة أبو سمبل, أسوان, 81525, مصر",
+        "verification_status": "legacy-reference-not-a-verified-entrance"
       },
       "place_coordinate_note": "only 2 hotel entries found; no photo found",
       "hotels": [
@@ -1386,7 +1609,7 @@
           "name_en": "Seti Abu Simbel Lake Resort",
           "name_ar": "سيتى أبو سمبل ريزورت",
           "name_ar_status": "from Wikidata label",
-          "distance_km_straight_line": 1.2,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=22.33825&mlon=31.61422#map=17/22.33825/31.61422",
           "wikidata_url": "https://www.wikidata.org/wiki/Q111857804",
           "official_website": "https://www.setiabusimbel.com/",
@@ -1394,14 +1617,16 @@
             22.33825,
             31.61422
           ],
-          "photo": null
+          "photo": null,
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         },
         {
           "wikidata_id": "Q113587854",
           "name_en": "Eskaleh Nubian Ecolodge",
           "name_ar": null,
           "name_ar_status": "not found in Wikidata/OSM - show English only or add manually",
-          "distance_km_straight_line": 1.3,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=22.346811&mlon=31.618695#map=17/22.346811/31.618695",
           "wikidata_url": "https://www.wikidata.org/wiki/Q113587854",
           "official_website": null,
@@ -1409,15 +1634,23 @@
             22.34681,
             31.61869
           ],
-          "photo": null
+          "photo": null,
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         }
-      ]
+      ],
+      "stay_area": {
+        "en": "Abu Simbel",
+        "ar": "أبو سمبل"
+      },
+      "distance_status": "not-published-unverified-attraction-origin"
     },
     "eel-garden": {
       "place_center": {
         "lat": 28.5053487,
         "lon": 34.5212322,
-        "basis": "Eel Garden, شارع المنيل, عصلة, دهب, جنوب سيناء, 45214, مصر"
+        "basis": "Eel Garden, شارع المنيل, عصلة, دهب, جنوب سيناء, 45214, مصر",
+        "verification_status": "legacy-reference-not-a-verified-entrance"
       },
       "place_coordinate_note": null,
       "hotels": [
@@ -1426,7 +1659,7 @@
           "name_en": "Coral Coast Hotel",
           "name_ar": null,
           "name_ar_status": "not found in Wikidata/OSM - show English only or add manually",
-          "distance_km_straight_line": 0.2,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=28.50361&mlon=34.51964#map=17/28.50361/34.51964",
           "wikidata_url": "https://www.wikidata.org/wiki/Q111857821",
           "official_website": null,
@@ -1443,14 +1676,16 @@
             "author": "Tim Sheerman-Chase",
             "visually_checked": true,
             "src": "/photos/hotels/Q111857821.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         },
         {
           "wikidata_id": "Q111857819",
           "name_en": "Blue Beach Club",
           "name_ar": null,
           "name_ar_status": "not found in Wikidata/OSM - show English only or add manually",
-          "distance_km_straight_line": 0.4,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=28.50182&mlon=34.51954#map=17/28.50182/34.51954",
           "wikidata_url": "https://www.wikidata.org/wiki/Q111857819",
           "official_website": null,
@@ -1467,14 +1702,16 @@
             "author": "pepanos",
             "visually_checked": true,
             "src": "/photos/hotels/Q111857819.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         },
         {
           "wikidata_id": "Q111857817",
           "name_en": "Ali Baba Hotel",
           "name_ar": null,
           "name_ar_status": "not found in Wikidata/OSM - show English only or add manually",
-          "distance_km_straight_line": 0.9,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=28.49774&mlon=34.51707#map=17/28.49774/34.51707",
           "wikidata_url": "https://www.wikidata.org/wiki/Q111857817",
           "official_website": null,
@@ -1491,15 +1728,23 @@
             "author": "Hanc Tomasz",
             "visually_checked": true,
             "src": "/photos/hotels/Q111857817.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         }
-      ]
+      ],
+      "stay_area": {
+        "en": "Dahab",
+        "ar": "دهب"
+      },
+      "distance_status": "not-published-unverified-attraction-origin"
     },
     "lighthouse": {
       "place_center": {
         "lat": 28.5341659,
         "lon": 34.5162863,
-        "basis": "LightHouse, Masbat, دهب, جنوب سيناء, مصر"
+        "basis": "LightHouse, Masbat, دهب, جنوب سيناء, مصر",
+        "verification_status": "legacy-reference-not-a-verified-entrance"
       },
       "place_coordinate_note": null,
       "hotels": [
@@ -1508,7 +1753,7 @@
           "name_en": "Coral Coast Hotel",
           "name_ar": null,
           "name_ar_status": "not found in Wikidata/OSM - show English only or add manually",
-          "distance_km_straight_line": 3.4,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=28.50361&mlon=34.51964#map=17/28.50361/34.51964",
           "wikidata_url": "https://www.wikidata.org/wiki/Q111857821",
           "official_website": null,
@@ -1525,14 +1770,16 @@
             "author": "Tim Sheerman-Chase",
             "visually_checked": true,
             "src": "/photos/hotels/Q111857821.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         },
         {
           "wikidata_id": "Q111857819",
           "name_en": "Blue Beach Club",
           "name_ar": null,
           "name_ar_status": "not found in Wikidata/OSM - show English only or add manually",
-          "distance_km_straight_line": 3.6,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=28.50182&mlon=34.51954#map=17/28.50182/34.51954",
           "wikidata_url": "https://www.wikidata.org/wiki/Q111857819",
           "official_website": null,
@@ -1549,15 +1796,23 @@
             "author": "pepanos",
             "visually_checked": true,
             "src": "/photos/hotels/Q111857819.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         }
-      ]
+      ],
+      "stay_area": {
+        "en": "Dahab",
+        "ar": "دهب"
+      },
+      "distance_status": "not-published-unverified-attraction-origin"
     },
     "friday-market": {
       "place_center": {
         "lat": 28.5062141,
         "lon": 34.5196403,
-        "basis": "Friday market, شارع المنيل, عصلة, دهب, جنوب سيناء, 45214, مصر"
+        "basis": "Friday market, شارع المنيل, عصلة, دهب, جنوب سيناء, 45214, مصر",
+        "verification_status": "legacy-reference-not-a-verified-entrance"
       },
       "place_coordinate_note": null,
       "hotels": [
@@ -1566,7 +1821,7 @@
           "name_en": "Coral Coast Hotel",
           "name_ar": null,
           "name_ar_status": "not found in Wikidata/OSM - show English only or add manually",
-          "distance_km_straight_line": 0.3,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=28.50361&mlon=34.51964#map=17/28.50361/34.51964",
           "wikidata_url": "https://www.wikidata.org/wiki/Q111857821",
           "official_website": null,
@@ -1583,14 +1838,16 @@
             "author": "Tim Sheerman-Chase",
             "visually_checked": true,
             "src": "/photos/hotels/Q111857821.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         },
         {
           "wikidata_id": "Q111857819",
           "name_en": "Blue Beach Club",
           "name_ar": null,
           "name_ar_status": "not found in Wikidata/OSM - show English only or add manually",
-          "distance_km_straight_line": 0.5,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=28.50182&mlon=34.51954#map=17/28.50182/34.51954",
           "wikidata_url": "https://www.wikidata.org/wiki/Q111857819",
           "official_website": null,
@@ -1607,14 +1864,16 @@
             "author": "pepanos",
             "visually_checked": true,
             "src": "/photos/hotels/Q111857819.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         },
         {
           "wikidata_id": "Q111857817",
           "name_en": "Ali Baba Hotel",
           "name_ar": null,
           "name_ar_status": "not found in Wikidata/OSM - show English only or add manually",
-          "distance_km_straight_line": 1.0,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=28.49774&mlon=34.51707#map=17/28.49774/34.51707",
           "wikidata_url": "https://www.wikidata.org/wiki/Q111857817",
           "official_website": null,
@@ -1631,15 +1890,23 @@
             "author": "Hanc Tomasz",
             "visually_checked": true,
             "src": "/photos/hotels/Q111857817.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         }
-      ]
+      ],
+      "stay_area": {
+        "en": "Dahab",
+        "ar": "دهب"
+      },
+      "distance_status": "not-published-unverified-attraction-origin"
     },
     "blue-lagoon": {
       "place_center": {
         "lat": 28.53,
         "lon": 34.51,
-        "basis": "approx"
+        "basis": "approx",
+        "verification_status": "legacy-reference-not-a-verified-entrance"
       },
       "place_coordinate_note": "place coordinate approximate; hotels are Dahab-town options, label as nearest town",
       "hotels": [
@@ -1648,7 +1915,7 @@
           "name_en": "Coral Coast Hotel",
           "name_ar": null,
           "name_ar_status": "not found in Wikidata/OSM - show English only or add manually",
-          "distance_km_straight_line": 3.1,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=28.50361&mlon=34.51964#map=17/28.50361/34.51964",
           "wikidata_url": "https://www.wikidata.org/wiki/Q111857821",
           "official_website": null,
@@ -1665,14 +1932,16 @@
             "author": "Tim Sheerman-Chase",
             "visually_checked": true,
             "src": "/photos/hotels/Q111857821.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         },
         {
           "wikidata_id": "Q111857819",
           "name_en": "Blue Beach Club",
           "name_ar": null,
           "name_ar_status": "not found in Wikidata/OSM - show English only or add manually",
-          "distance_km_straight_line": 3.3,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=28.50182&mlon=34.51954#map=17/28.50182/34.51954",
           "wikidata_url": "https://www.wikidata.org/wiki/Q111857819",
           "official_website": null,
@@ -1689,14 +1958,16 @@
             "author": "pepanos",
             "visually_checked": true,
             "src": "/photos/hotels/Q111857819.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         },
         {
           "wikidata_id": "Q111857817",
           "name_en": "Ali Baba Hotel",
           "name_ar": null,
           "name_ar_status": "not found in Wikidata/OSM - show English only or add manually",
-          "distance_km_straight_line": 3.7,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=28.49774&mlon=34.51707#map=17/28.49774/34.51707",
           "wikidata_url": "https://www.wikidata.org/wiki/Q111857817",
           "official_website": null,
@@ -1713,15 +1984,23 @@
             "author": "Hanc Tomasz",
             "visually_checked": true,
             "src": "/photos/hotels/Q111857817.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         }
-      ]
+      ],
+      "stay_area": {
+        "en": "Dahab",
+        "ar": "دهب"
+      },
+      "distance_status": "not-published-unverified-attraction-origin"
     },
     "dahab-mountains": {
       "place_center": {
         "lat": 28.4963633,
         "lon": 34.5145652,
-        "basis": "دهب, جنوب سيناء, 55555, مصر"
+        "basis": "دهب, جنوب سيناء, 55555, مصر",
+        "verification_status": "legacy-reference-not-a-verified-entrance"
       },
       "place_coordinate_note": null,
       "hotels": [
@@ -1730,7 +2009,7 @@
           "name_en": "Dahab Plaza Hotel",
           "name_ar": null,
           "name_ar_status": "not found in Wikidata/OSM - show English only or add manually",
-          "distance_km_straight_line": 0.1,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=28.4950846&mlon=34.5149847#map=17/28.4950846/34.5149847",
           "wikidata_url": "https://www.wikidata.org/wiki/Q111111130",
           "official_website": null,
@@ -1747,14 +2026,16 @@
             "author": "emadsinai",
             "visually_checked": true,
             "src": "/photos/hotels/Q111111130.webp"
-          }
+          },
+          "coordinate_status": "multiple-source-points",
+          "coordinate_checked_at": "2026-11-16"
         },
         {
           "wikidata_id": "Q111857817",
           "name_en": "Ali Baba Hotel",
           "name_ar": null,
           "name_ar_status": "not found in Wikidata/OSM - show English only or add manually",
-          "distance_km_straight_line": 0.3,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=28.49774&mlon=34.51707#map=17/28.49774/34.51707",
           "wikidata_url": "https://www.wikidata.org/wiki/Q111857817",
           "official_website": null,
@@ -1771,14 +2052,16 @@
             "author": "Hanc Tomasz",
             "visually_checked": true,
             "src": "/photos/hotels/Q111857817.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         },
         {
           "wikidata_id": "Q111857819",
           "name_en": "Blue Beach Club",
           "name_ar": null,
           "name_ar_status": "not found in Wikidata/OSM - show English only or add manually",
-          "distance_km_straight_line": 0.8,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=28.50182&mlon=34.51954#map=17/28.50182/34.51954",
           "wikidata_url": "https://www.wikidata.org/wiki/Q111857819",
           "official_website": null,
@@ -1795,15 +2078,23 @@
             "author": "pepanos",
             "visually_checked": true,
             "src": "/photos/hotels/Q111857819.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         }
-      ]
+      ],
+      "stay_area": {
+        "en": "Dahab",
+        "ar": "دهب"
+      },
+      "distance_status": "not-published-unverified-attraction-origin"
     },
     "giftun": {
       "place_center": {
         "lat": 27.2238304,
         "lon": 33.9269401,
-        "basis": "جزيرة جفتون الكبير, الغردقة, البحر الأحمر, مصر"
+        "basis": "جزيرة جفتون الكبير, الغردقة, البحر الأحمر, مصر",
+        "verification_status": "legacy-reference-not-a-verified-entrance"
       },
       "nearest_town_fallback": true,
       "place_coordinate_note": "islands have no hotels; options are Hurghada mainland hotels",
@@ -1813,7 +2104,7 @@
           "name_en": "Arabella Azur Resort",
           "name_ar": null,
           "name_ar_status": "not found in Wikidata/OSM - show English only or add manually",
-          "distance_km_straight_line": 8.1,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=27.23986&mlon=33.84683#map=17/27.23986/33.84683",
           "wikidata_url": "https://www.wikidata.org/wiki/Q111400556",
           "official_website": null,
@@ -1830,14 +2121,16 @@
             "author": "Tanya Dedyukhina",
             "visually_checked": true,
             "src": "/photos/hotels/Q111400556.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         },
         {
           "wikidata_id": "Q111400550",
           "name_en": "Sunny Days Palma De Mirette Resort & Spa",
           "name_ar": null,
           "name_ar_status": "not found in Wikidata/OSM - show English only or add manually",
-          "distance_km_straight_line": 8.6,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=27.24496&mlon=33.8429#map=17/27.24496/33.8429",
           "wikidata_url": "https://www.wikidata.org/wiki/Q111400550",
           "official_website": null,
@@ -1854,15 +2147,23 @@
             "author": "Tanya Dedyukhina",
             "visually_checked": true,
             "src": "/photos/hotels/Q111400550.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         }
-      ]
+      ],
+      "stay_area": {
+        "en": "Hurghada",
+        "ar": "الغردقة"
+      },
+      "distance_status": "not-published-unverified-attraction-origin"
     },
     "hurghada-marina": {
       "place_center": {
         "lat": 27.2436353,
         "lon": 33.8488682,
-        "basis": "Marina, شارع البحر, السقاله, Arabia, الغردقة, البحر الأحمر, 84935, مصر"
+        "basis": "Marina, شارع البحر, السقاله, Arabia, الغردقة, البحر الأحمر, 84935, مصر",
+        "verification_status": "legacy-reference-not-a-verified-entrance"
       },
       "place_coordinate_note": null,
       "hotels": [
@@ -1871,7 +2172,7 @@
           "name_en": "Arabella Azur Resort",
           "name_ar": null,
           "name_ar_status": "not found in Wikidata/OSM - show English only or add manually",
-          "distance_km_straight_line": 0.5,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=27.23986&mlon=33.84683#map=17/27.23986/33.84683",
           "wikidata_url": "https://www.wikidata.org/wiki/Q111400556",
           "official_website": null,
@@ -1888,14 +2189,16 @@
             "author": "Tanya Dedyukhina",
             "visually_checked": true,
             "src": "/photos/hotels/Q111400556.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         },
         {
           "wikidata_id": "Q111400550",
           "name_en": "Sunny Days Palma De Mirette Resort & Spa",
           "name_ar": null,
           "name_ar_status": "not found in Wikidata/OSM - show English only or add manually",
-          "distance_km_straight_line": 0.6,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=27.24496&mlon=33.8429#map=17/27.24496/33.8429",
           "wikidata_url": "https://www.wikidata.org/wiki/Q111400550",
           "official_website": null,
@@ -1912,14 +2215,16 @@
             "author": "Tanya Dedyukhina",
             "visually_checked": true,
             "src": "/photos/hotels/Q111400550.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         },
         {
           "wikidata_id": "Q111400545",
           "name_en": "Seagull Beach Resort",
           "name_ar": null,
           "name_ar_status": "not found in Wikidata/OSM - show English only or add manually",
-          "distance_km_straight_line": 3.2,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=27.21603&mlon=33.83931#map=17/27.21603/33.83931",
           "wikidata_url": "https://www.wikidata.org/wiki/Q111400545",
           "official_website": null,
@@ -1936,15 +2241,23 @@
             "author": "1089hruskapetr",
             "visually_checked": true,
             "src": "/photos/hotels/Q111400545.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         }
-      ]
+      ],
+      "stay_area": {
+        "en": "Hurghada",
+        "ar": "الغردقة"
+      },
+      "distance_status": "not-published-unverified-attraction-origin"
     },
     "hurghada-museum": {
       "place_center": {
         "lat": 27.1595408,
         "lon": 33.8212732,
-        "basis": "Hurghada Museum, شارع النصر, القرى السياحية, Sakkala, الهضبة, البحر ال"
+        "basis": "Hurghada Museum, شارع النصر, القرى السياحية, Sakkala, الهضبة, البحر ال",
+        "verification_status": "legacy-reference-not-a-verified-entrance"
       },
       "place_coordinate_note": null,
       "hotels": [
@@ -1953,7 +2266,7 @@
           "name_en": "Swiss Inn Resort Hurghada",
           "name_ar": null,
           "name_ar_status": "not found in Wikidata/OSM - show English only or add manually",
-          "distance_km_straight_line": 0.4,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=27.15875&mlon=33.825694444#map=17/27.15875/33.825694444",
           "wikidata_url": "https://www.wikidata.org/wiki/Q18509281",
           "official_website": "https://swissinn.net/hotels/index.php?lang=Hurghada",
@@ -1971,15 +2284,23 @@
             "visually_checked": true,
             "src": "/photos/hotels/Q18509281.webp"
           },
-          "current_name_source": "https://swissinn.net/hotels/index.php?lang=Hurghada"
+          "current_name_source": "https://swissinn.net/hotels/index.php?lang=Hurghada",
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         }
-      ]
+      ],
+      "stay_area": {
+        "en": "Hurghada",
+        "ar": "الغردقة"
+      },
+      "distance_status": "not-published-unverified-attraction-origin"
     },
     "hurghada-markets": {
       "place_center": {
         "lat": 27.2195584,
         "lon": 33.8320656,
-        "basis": "Sakkala, الهضبة, البحر الأحمر, 84512, مصر"
+        "basis": "Sakkala, الهضبة, البحر الأحمر, 84512, مصر",
+        "verification_status": "legacy-reference-not-a-verified-entrance"
       },
       "place_coordinate_note": null,
       "hotels": [
@@ -1988,7 +2309,7 @@
           "name_en": "Seagull Beach Resort",
           "name_ar": null,
           "name_ar_status": "not found in Wikidata/OSM - show English only or add manually",
-          "distance_km_straight_line": 0.8,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=27.21603&mlon=33.83931#map=17/27.21603/33.83931",
           "wikidata_url": "https://www.wikidata.org/wiki/Q111400545",
           "official_website": null,
@@ -2005,14 +2326,16 @@
             "author": "1089hruskapetr",
             "visually_checked": true,
             "src": "/photos/hotels/Q111400545.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         },
         {
           "wikidata_id": "Q111400556",
           "name_en": "Arabella Azur Resort",
           "name_ar": null,
           "name_ar_status": "not found in Wikidata/OSM - show English only or add manually",
-          "distance_km_straight_line": 2.7,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=27.23986&mlon=33.84683#map=17/27.23986/33.84683",
           "wikidata_url": "https://www.wikidata.org/wiki/Q111400556",
           "official_website": null,
@@ -2029,14 +2352,16 @@
             "author": "Tanya Dedyukhina",
             "visually_checked": true,
             "src": "/photos/hotels/Q111400556.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         },
         {
           "wikidata_id": "Q111400547",
           "name_en": "Hurghada Marriott Beach Resort",
           "name_ar": "منتجع ماريوت بيتش الغردقة",
           "name_ar_status": "from Wikidata label",
-          "distance_km_straight_line": 2.8,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=27.19734&mlon=33.84429#map=17/27.19734/33.84429",
           "wikidata_url": "https://www.wikidata.org/wiki/Q111400547",
           "official_website": "https://www.marriott.com/en-us/hotels/hrgeg-hurghada-marriott-beach-resort/overview/",
@@ -2053,15 +2378,23 @@
             "author": "Hassan Gaafar",
             "visually_checked": true,
             "src": "/photos/hotels/Q111400547.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         }
-      ]
+      ],
+      "stay_area": {
+        "en": "Hurghada",
+        "ar": "الغردقة"
+      },
+      "distance_status": "not-published-unverified-attraction-origin"
     },
     "hurghada-desert": {
       "place_center": {
         "lat": 27.222556,
         "lon": 33.8307062,
-        "basis": "الغردقة, البحر الأحمر, 84512, مصر"
+        "basis": "الغردقة, البحر الأحمر, 84512, مصر",
+        "verification_status": "legacy-reference-not-a-verified-entrance"
       },
       "place_coordinate_note": null,
       "hotels": [
@@ -2070,7 +2403,7 @@
           "name_en": "Seagull Beach Resort",
           "name_ar": null,
           "name_ar_status": "not found in Wikidata/OSM - show English only or add manually",
-          "distance_km_straight_line": 1.1,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=27.21603&mlon=33.83931#map=17/27.21603/33.83931",
           "wikidata_url": "https://www.wikidata.org/wiki/Q111400545",
           "official_website": null,
@@ -2087,14 +2420,16 @@
             "author": "1089hruskapetr",
             "visually_checked": true,
             "src": "/photos/hotels/Q111400545.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         },
         {
           "wikidata_id": "Q111400556",
           "name_en": "Arabella Azur Resort",
           "name_ar": null,
           "name_ar_status": "not found in Wikidata/OSM - show English only or add manually",
-          "distance_km_straight_line": 2.5,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=27.23986&mlon=33.84683#map=17/27.23986/33.84683",
           "wikidata_url": "https://www.wikidata.org/wiki/Q111400556",
           "official_website": null,
@@ -2111,14 +2446,16 @@
             "author": "Tanya Dedyukhina",
             "visually_checked": true,
             "src": "/photos/hotels/Q111400556.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         },
         {
           "wikidata_id": "Q111400550",
           "name_en": "Sunny Days Palma De Mirette Resort & Spa",
           "name_ar": null,
           "name_ar_status": "not found in Wikidata/OSM - show English only or add manually",
-          "distance_km_straight_line": 2.8,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=27.24496&mlon=33.8429#map=17/27.24496/33.8429",
           "wikidata_url": "https://www.wikidata.org/wiki/Q111400550",
           "official_website": null,
@@ -2135,15 +2472,23 @@
             "author": "Tanya Dedyukhina",
             "visually_checked": true,
             "src": "/photos/hotels/Q111400550.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         }
-      ]
+      ],
+      "stay_area": {
+        "en": "Hurghada",
+        "ar": "الغردقة"
+      },
+      "distance_status": "not-published-unverified-attraction-origin"
     },
     "khan-el-khalili": {
       "place_center": {
         "lat": 30.0475,
         "lon": 31.262222,
-        "basis": "Wikidata representative bazaar point"
+        "basis": "Wikidata representative bazaar point",
+        "verification_status": "legacy-reference-not-a-verified-entrance"
       },
       "place_coordinate_note": null,
       "hotels": [
@@ -2152,7 +2497,7 @@
           "name_en": "Windsor Hotel",
           "name_ar": "فندق وندسور",
           "name_ar_status": "from Wikidata label",
-          "distance_km_straight_line": 1.76,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=30.052977&mlon=31.245038#map=17/30.052977/31.245038",
           "wikidata_url": "https://www.wikidata.org/wiki/Q8024637",
           "official_website": "http://www.windsorcairo.com/",
@@ -2169,14 +2514,16 @@
             "author": "Gaynor Barton",
             "visually_checked": true,
             "src": "/photos/hotels/Q8024637.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         },
         {
           "wikidata_id": "Q47429618",
           "name_en": "Steigenberger Hotel El Tahrir Cairo",
           "name_ar": "فندق شتيجنبرجر التحرير القاهرة",
           "name_ar_status": "from Wikidata label",
-          "distance_km_straight_line": 2.56,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=30.047318&mlon=31.235665#map=17/30.047318/31.235665",
           "wikidata_url": "https://www.wikidata.org/wiki/Q47429618",
           "official_website": null,
@@ -2193,14 +2540,16 @@
             "author": "Roland Unger",
             "visually_checked": true,
             "src": "/photos/hotels/Q47429618.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         },
         {
           "wikidata_id": "Q54887660",
           "name_en": "Nile Ritz Carlton",
           "name_ar": "نايل ريتز كارلتون",
           "name_ar_status": "from Wikidata label",
-          "distance_km_straight_line": 2.86,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=30.04608&mlon=31.23256#map=17/30.04608/31.23256",
           "wikidata_url": "https://www.wikidata.org/wiki/Q54887660",
           "official_website": null,
@@ -2217,16 +2566,24 @@
             "author": "Mark Muehlhaeusler",
             "visually_checked": true,
             "src": "/photos/hotels/Q54887660.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         }
-      ]
+      ],
+      "stay_area": {
+        "en": "Cairo",
+        "ar": "القاهرة"
+      },
+      "distance_status": "not-published-unverified-attraction-origin"
     },
     "al-muizz-street": {
       "place_center": {
         "lat": 30.0467,
         "lon": 31.26,
         "note": "Representative source coordinate, not a verified visitor entrance.",
-        "source": "Wikidata P625"
+        "source": "Wikidata P625",
+        "verification_status": "legacy-reference-not-a-verified-entrance"
       },
       "place_coordinate_note": "Representative source coordinate, not a verified entrance.",
       "hotels": [
@@ -2235,7 +2592,7 @@
           "name_en": "Windsor Hotel",
           "name_ar": "فندق وندسور",
           "name_ar_status": "from Wikidata label",
-          "distance_km_straight_line": 1.6,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=30.052977&mlon=31.245038#map=17/30.052977/31.245038",
           "wikidata_url": "https://www.wikidata.org/wiki/Q8024637",
           "official_website": "http://www.windsorcairo.com/",
@@ -2252,14 +2609,16 @@
             "author": "Gaynor Barton",
             "visually_checked": true,
             "src": "/photos/hotels/Q8024637.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         },
         {
           "wikidata_id": "Q47429618",
           "name_en": "Steigenberger Hotel El Tahrir Cairo",
           "name_ar": "فندق شتيجنبرجر التحرير القاهرة",
           "name_ar_status": "from Wikidata label",
-          "distance_km_straight_line": 2.3,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=30.047318&mlon=31.235665#map=17/30.047318/31.235665",
           "wikidata_url": "https://www.wikidata.org/wiki/Q47429618",
           "official_website": null,
@@ -2276,14 +2635,16 @@
             "author": "Roland Unger",
             "visually_checked": true,
             "src": "/photos/hotels/Q47429618.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         },
         {
           "wikidata_id": "Q54887660",
           "name_en": "Nile Ritz Carlton",
           "name_ar": "نايل ريتز كارلتون",
           "name_ar_status": "from Wikidata label",
-          "distance_km_straight_line": 2.6,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=30.04608&mlon=31.23256#map=17/30.04608/31.23256",
           "wikidata_url": "https://www.wikidata.org/wiki/Q54887660",
           "official_website": null,
@@ -2300,16 +2661,24 @@
             "author": "Mark Muehlhaeusler",
             "visually_checked": true,
             "src": "/photos/hotels/Q54887660.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         }
-      ]
+      ],
+      "stay_area": {
+        "en": "Cairo",
+        "ar": "القاهرة"
+      },
+      "distance_status": "not-published-unverified-attraction-origin"
     },
     "qalawun-complex": {
       "place_center": {
         "lat": 30.0495,
         "lon": 31.261,
         "note": "Representative source coordinate, not a verified visitor entrance.",
-        "source": "Wikidata P625"
+        "source": "Wikidata P625",
+        "verification_status": "legacy-reference-not-a-verified-entrance"
       },
       "place_coordinate_note": "Representative source coordinate, not a verified entrance.",
       "hotels": [
@@ -2318,7 +2687,7 @@
           "name_en": "Windsor Hotel",
           "name_ar": "فندق وندسور",
           "name_ar_status": "from Wikidata label",
-          "distance_km_straight_line": 1.6,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=30.052977&mlon=31.245038#map=17/30.052977/31.245038",
           "wikidata_url": "https://www.wikidata.org/wiki/Q8024637",
           "official_website": "http://www.windsorcairo.com/",
@@ -2335,14 +2704,16 @@
             "author": "Gaynor Barton",
             "visually_checked": true,
             "src": "/photos/hotels/Q8024637.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         },
         {
           "wikidata_id": "Q47429618",
           "name_en": "Steigenberger Hotel El Tahrir Cairo",
           "name_ar": "فندق شتيجنبرجر التحرير القاهرة",
           "name_ar_status": "from Wikidata label",
-          "distance_km_straight_line": 2.5,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=30.047318&mlon=31.235665#map=17/30.047318/31.235665",
           "wikidata_url": "https://www.wikidata.org/wiki/Q47429618",
           "official_website": null,
@@ -2359,14 +2730,16 @@
             "author": "Roland Unger",
             "visually_checked": true,
             "src": "/photos/hotels/Q47429618.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         },
         {
           "wikidata_id": "Q54887660",
           "name_en": "Nile Ritz Carlton",
           "name_ar": "نايل ريتز كارلتون",
           "name_ar_status": "from Wikidata label",
-          "distance_km_straight_line": 2.8,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=30.04608&mlon=31.23256#map=17/30.04608/31.23256",
           "wikidata_url": "https://www.wikidata.org/wiki/Q54887660",
           "official_website": null,
@@ -2383,16 +2756,24 @@
             "author": "Mark Muehlhaeusler",
             "visually_checked": true,
             "src": "/photos/hotels/Q54887660.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         }
-      ]
+      ],
+      "stay_area": {
+        "en": "Cairo",
+        "ar": "القاهرة"
+      },
+      "distance_status": "not-published-unverified-attraction-origin"
     },
     "sultan-barquq-complex": {
       "place_center": {
         "lat": 30.05016667,
         "lon": 31.26125,
         "note": "Representative source coordinate, not a verified visitor entrance.",
-        "source": "Wikidata P625"
+        "source": "Wikidata P625",
+        "verification_status": "legacy-reference-not-a-verified-entrance"
       },
       "place_coordinate_note": "Representative source coordinate, not a verified entrance.",
       "hotels": [
@@ -2401,7 +2782,7 @@
           "name_en": "Windsor Hotel",
           "name_ar": "فندق وندسور",
           "name_ar_status": "from Wikidata label",
-          "distance_km_straight_line": 1.6,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=30.052977&mlon=31.245038#map=17/30.052977/31.245038",
           "wikidata_url": "https://www.wikidata.org/wiki/Q8024637",
           "official_website": "http://www.windsorcairo.com/",
@@ -2418,14 +2799,16 @@
             "author": "Gaynor Barton",
             "visually_checked": true,
             "src": "/photos/hotels/Q8024637.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         },
         {
           "wikidata_id": "Q47429618",
           "name_en": "Steigenberger Hotel El Tahrir Cairo",
           "name_ar": "فندق شتيجنبرجر التحرير القاهرة",
           "name_ar_status": "from Wikidata label",
-          "distance_km_straight_line": 2.5,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=30.047318&mlon=31.235665#map=17/30.047318/31.235665",
           "wikidata_url": "https://www.wikidata.org/wiki/Q47429618",
           "official_website": null,
@@ -2442,14 +2825,16 @@
             "author": "Roland Unger",
             "visually_checked": true,
             "src": "/photos/hotels/Q47429618.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         },
         {
           "wikidata_id": "Q54887660",
           "name_en": "Nile Ritz Carlton",
           "name_ar": "نايل ريتز كارلتون",
           "name_ar_status": "from Wikidata label",
-          "distance_km_straight_line": 2.8,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=30.04608&mlon=31.23256#map=17/30.04608/31.23256",
           "wikidata_url": "https://www.wikidata.org/wiki/Q54887660",
           "official_website": null,
@@ -2466,16 +2851,24 @@
             "author": "Mark Muehlhaeusler",
             "visually_checked": true,
             "src": "/photos/hotels/Q54887660.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         }
-      ]
+      ],
+      "stay_area": {
+        "en": "Cairo",
+        "ar": "القاهرة"
+      },
+      "distance_status": "not-published-unverified-attraction-origin"
     },
     "al-aqmar-mosque": {
       "place_center": {
         "lat": 30.0517,
         "lon": 31.2619,
         "note": "Representative source coordinate, not a verified visitor entrance.",
-        "source": "Wikidata P625"
+        "source": "Wikidata P625",
+        "verification_status": "legacy-reference-not-a-verified-entrance"
       },
       "place_coordinate_note": "Representative source coordinate, not a verified entrance.",
       "hotels": [
@@ -2484,7 +2877,7 @@
           "name_en": "Windsor Hotel",
           "name_ar": "فندق وندسور",
           "name_ar_status": "from Wikidata label",
-          "distance_km_straight_line": 1.6,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=30.052977&mlon=31.245038#map=17/30.052977/31.245038",
           "wikidata_url": "https://www.wikidata.org/wiki/Q8024637",
           "official_website": "http://www.windsorcairo.com/",
@@ -2501,14 +2894,16 @@
             "author": "Gaynor Barton",
             "visually_checked": true,
             "src": "/photos/hotels/Q8024637.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         },
         {
           "wikidata_id": "Q47429618",
           "name_en": "Steigenberger Hotel El Tahrir Cairo",
           "name_ar": "فندق شتيجنبرجر التحرير القاهرة",
           "name_ar_status": "from Wikidata label",
-          "distance_km_straight_line": 2.6,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=30.047318&mlon=31.235665#map=17/30.047318/31.235665",
           "wikidata_url": "https://www.wikidata.org/wiki/Q47429618",
           "official_website": null,
@@ -2525,14 +2920,16 @@
             "author": "Roland Unger",
             "visually_checked": true,
             "src": "/photos/hotels/Q47429618.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         },
         {
           "wikidata_id": "Q54887660",
           "name_en": "Nile Ritz Carlton",
           "name_ar": "نايل ريتز كارلتون",
           "name_ar_status": "from Wikidata label",
-          "distance_km_straight_line": 2.9,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=30.04608&mlon=31.23256#map=17/30.04608/31.23256",
           "wikidata_url": "https://www.wikidata.org/wiki/Q54887660",
           "official_website": null,
@@ -2549,16 +2946,24 @@
             "author": "Mark Muehlhaeusler",
             "visually_checked": true,
             "src": "/photos/hotels/Q54887660.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         }
-      ]
+      ],
+      "stay_area": {
+        "en": "Cairo",
+        "ar": "القاهرة"
+      },
+      "distance_status": "not-published-unverified-attraction-origin"
     },
     "bayt-al-suhaymi": {
       "place_center": {
         "lat": 30.0522,
         "lon": 31.2625,
         "note": "Representative source coordinate, not a verified visitor entrance.",
-        "source": "Wikidata P625"
+        "source": "Wikidata P625",
+        "verification_status": "legacy-reference-not-a-verified-entrance"
       },
       "place_coordinate_note": "Representative source coordinate, not a verified entrance.",
       "hotels": [
@@ -2567,7 +2972,7 @@
           "name_en": "Windsor Hotel",
           "name_ar": "فندق وندسور",
           "name_ar_status": "from Wikidata label",
-          "distance_km_straight_line": 1.7,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=30.052977&mlon=31.245038#map=17/30.052977/31.245038",
           "wikidata_url": "https://www.wikidata.org/wiki/Q8024637",
           "official_website": "http://www.windsorcairo.com/",
@@ -2584,14 +2989,16 @@
             "author": "Gaynor Barton",
             "visually_checked": true,
             "src": "/photos/hotels/Q8024637.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         },
         {
           "wikidata_id": "Q47429618",
           "name_en": "Steigenberger Hotel El Tahrir Cairo",
           "name_ar": "فندق شتيجنبرجر التحرير القاهرة",
           "name_ar_status": "from Wikidata label",
-          "distance_km_straight_line": 2.6,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=30.047318&mlon=31.235665#map=17/30.047318/31.235665",
           "wikidata_url": "https://www.wikidata.org/wiki/Q47429618",
           "official_website": null,
@@ -2608,14 +3015,16 @@
             "author": "Roland Unger",
             "visually_checked": true,
             "src": "/photos/hotels/Q47429618.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         },
         {
           "wikidata_id": "Q54887660",
           "name_en": "Nile Ritz Carlton",
           "name_ar": "نايل ريتز كارلتون",
           "name_ar_status": "from Wikidata label",
-          "distance_km_straight_line": 3.0,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=30.04608&mlon=31.23256#map=17/30.04608/31.23256",
           "wikidata_url": "https://www.wikidata.org/wiki/Q54887660",
           "official_website": null,
@@ -2632,16 +3041,24 @@
             "author": "Mark Muehlhaeusler",
             "visually_checked": true,
             "src": "/photos/hotels/Q54887660.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         }
-      ]
+      ],
+      "stay_area": {
+        "en": "Cairo",
+        "ar": "القاهرة"
+      },
+      "distance_status": "not-published-unverified-attraction-origin"
     },
     "bab-al-futuh": {
       "place_center": {
         "lat": 30.0555,
         "lon": 31.2634,
         "note": "Representative source coordinate, not a verified visitor entrance.",
-        "source": "Wikidata P625"
+        "source": "Wikidata P625",
+        "verification_status": "legacy-reference-not-a-verified-entrance"
       },
       "place_coordinate_note": "Representative source coordinate, not a verified entrance.",
       "hotels": [
@@ -2650,7 +3067,7 @@
           "name_en": "Windsor Hotel",
           "name_ar": "فندق وندسور",
           "name_ar_status": "from Wikidata label",
-          "distance_km_straight_line": 1.8,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=30.052977&mlon=31.245038#map=17/30.052977/31.245038",
           "wikidata_url": "https://www.wikidata.org/wiki/Q8024637",
           "official_website": "http://www.windsorcairo.com/",
@@ -2667,14 +3084,16 @@
             "author": "Gaynor Barton",
             "visually_checked": true,
             "src": "/photos/hotels/Q8024637.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         },
         {
           "wikidata_id": "Q47429618",
           "name_en": "Steigenberger Hotel El Tahrir Cairo",
           "name_ar": "فندق شتيجنبرجر التحرير القاهرة",
           "name_ar_status": "from Wikidata label",
-          "distance_km_straight_line": 2.8,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=30.047318&mlon=31.235665#map=17/30.047318/31.235665",
           "wikidata_url": "https://www.wikidata.org/wiki/Q47429618",
           "official_website": null,
@@ -2691,14 +3110,16 @@
             "author": "Roland Unger",
             "visually_checked": true,
             "src": "/photos/hotels/Q47429618.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         },
         {
           "wikidata_id": "Q54887660",
           "name_en": "Nile Ritz Carlton",
           "name_ar": "نايل ريتز كارلتون",
           "name_ar_status": "from Wikidata label",
-          "distance_km_straight_line": 3.1,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=30.04608&mlon=31.23256#map=17/30.04608/31.23256",
           "wikidata_url": "https://www.wikidata.org/wiki/Q54887660",
           "official_website": null,
@@ -2715,16 +3136,24 @@
             "author": "Mark Muehlhaeusler",
             "visually_checked": true,
             "src": "/photos/hotels/Q54887660.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         }
-      ]
+      ],
+      "stay_area": {
+        "en": "Cairo",
+        "ar": "القاهرة"
+      },
+      "distance_status": "not-published-unverified-attraction-origin"
     },
     "bab-al-nasr": {
       "place_center": {
         "lat": 30.0542,
         "lon": 31.2647,
         "note": "Representative source coordinate, not a verified visitor entrance.",
-        "source": "Wikidata P625"
+        "source": "Wikidata P625",
+        "verification_status": "legacy-reference-not-a-verified-entrance"
       },
       "place_coordinate_note": "Representative source coordinate, not a verified entrance.",
       "hotels": [
@@ -2733,7 +3162,7 @@
           "name_en": "Windsor Hotel",
           "name_ar": "فندق وندسور",
           "name_ar_status": "from Wikidata label",
-          "distance_km_straight_line": 1.9,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=30.052977&mlon=31.245038#map=17/30.052977/31.245038",
           "wikidata_url": "https://www.wikidata.org/wiki/Q8024637",
           "official_website": "http://www.windsorcairo.com/",
@@ -2750,14 +3179,16 @@
             "author": "Gaynor Barton",
             "visually_checked": true,
             "src": "/photos/hotels/Q8024637.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         },
         {
           "wikidata_id": "Q47429618",
           "name_en": "Steigenberger Hotel El Tahrir Cairo",
           "name_ar": "فندق شتيجنبرجر التحرير القاهرة",
           "name_ar_status": "from Wikidata label",
-          "distance_km_straight_line": 2.9,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=30.047318&mlon=31.235665#map=17/30.047318/31.235665",
           "wikidata_url": "https://www.wikidata.org/wiki/Q47429618",
           "official_website": null,
@@ -2774,14 +3205,16 @@
             "author": "Roland Unger",
             "visually_checked": true,
             "src": "/photos/hotels/Q47429618.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         },
         {
           "wikidata_id": "Q54887660",
           "name_en": "Nile Ritz Carlton",
           "name_ar": "نايل ريتز كارلتون",
           "name_ar_status": "from Wikidata label",
-          "distance_km_straight_line": 3.2,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=30.04608&mlon=31.23256#map=17/30.04608/31.23256",
           "wikidata_url": "https://www.wikidata.org/wiki/Q54887660",
           "official_website": null,
@@ -2798,16 +3231,24 @@
             "author": "Mark Muehlhaeusler",
             "visually_checked": true,
             "src": "/photos/hotels/Q54887660.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         }
-      ]
+      ],
+      "stay_area": {
+        "en": "Cairo",
+        "ar": "القاهرة"
+      },
+      "distance_status": "not-published-unverified-attraction-origin"
     },
     "bab-zuweila": {
       "place_center": {
         "lat": 30.0428,
         "lon": 31.2578,
         "note": "Representative source coordinate, not a verified visitor entrance.",
-        "source": "Wikidata P625"
+        "source": "Wikidata P625",
+        "verification_status": "legacy-reference-not-a-verified-entrance"
       },
       "place_coordinate_note": "Representative source coordinate, not a verified entrance.",
       "hotels": [
@@ -2816,7 +3257,7 @@
           "name_en": "Windsor Hotel",
           "name_ar": "فندق وندسور",
           "name_ar_status": "from Wikidata label",
-          "distance_km_straight_line": 1.7,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=30.052977&mlon=31.245038#map=17/30.052977/31.245038",
           "wikidata_url": "https://www.wikidata.org/wiki/Q8024637",
           "official_website": "http://www.windsorcairo.com/",
@@ -2833,14 +3274,16 @@
             "author": "Gaynor Barton",
             "visually_checked": true,
             "src": "/photos/hotels/Q8024637.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         },
         {
           "wikidata_id": "Q47429618",
           "name_en": "Steigenberger Hotel El Tahrir Cairo",
           "name_ar": "فندق شتيجنبرجر التحرير القاهرة",
           "name_ar_status": "from Wikidata label",
-          "distance_km_straight_line": 2.2,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=30.047318&mlon=31.235665#map=17/30.047318/31.235665",
           "wikidata_url": "https://www.wikidata.org/wiki/Q47429618",
           "official_website": null,
@@ -2857,14 +3300,16 @@
             "author": "Roland Unger",
             "visually_checked": true,
             "src": "/photos/hotels/Q47429618.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         },
         {
           "wikidata_id": "Q54887660",
           "name_en": "Nile Ritz Carlton",
           "name_ar": "نايل ريتز كارلتون",
           "name_ar_status": "from Wikidata label",
-          "distance_km_straight_line": 2.5,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=30.04608&mlon=31.23256#map=17/30.04608/31.23256",
           "wikidata_url": "https://www.wikidata.org/wiki/Q54887660",
           "official_website": null,
@@ -2881,16 +3326,24 @@
             "author": "Mark Muehlhaeusler",
             "visually_checked": true,
             "src": "/photos/hotels/Q54887660.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         }
-      ]
+      ],
+      "stay_area": {
+        "en": "Cairo",
+        "ar": "القاهرة"
+      },
+      "distance_status": "not-published-unverified-attraction-origin"
     },
     "cairo-citadel": {
       "place_center": {
         "lat": 30.0294,
         "lon": 31.2614,
         "note": "Representative source coordinate, not a verified visitor entrance.",
-        "source": "Wikidata P625"
+        "source": "Wikidata P625",
+        "verification_status": "legacy-reference-not-a-verified-entrance"
       },
       "place_coordinate_note": null,
       "hotels": [
@@ -2899,7 +3352,7 @@
           "name_en": "Windsor Hotel",
           "name_ar": "فندق وندسور",
           "name_ar_status": "from Wikidata label",
-          "distance_km_straight_line": 3.06,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=30.052977&mlon=31.245038#map=17/30.052977/31.245038",
           "wikidata_url": "https://www.wikidata.org/wiki/Q8024637",
           "official_website": "http://www.windsorcairo.com/",
@@ -2916,14 +3369,16 @@
             "author": "Gaynor Barton",
             "visually_checked": true,
             "src": "/photos/hotels/Q8024637.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         },
         {
           "wikidata_id": "Q47429618",
           "name_en": "Steigenberger Hotel El Tahrir Cairo",
           "name_ar": "فندق شتيجنبرجر التحرير القاهرة",
           "name_ar_status": "from Wikidata label",
-          "distance_km_straight_line": 3.18,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=30.047318&mlon=31.235665#map=17/30.047318/31.235665",
           "wikidata_url": "https://www.wikidata.org/wiki/Q47429618",
           "official_website": null,
@@ -2940,16 +3395,24 @@
             "author": "Roland Unger",
             "visually_checked": true,
             "src": "/photos/hotels/Q47429618.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         }
-      ]
+      ],
+      "stay_area": {
+        "en": "Cairo",
+        "ar": "القاهرة"
+      },
+      "distance_status": "not-published-unverified-attraction-origin"
     },
     "muhammad-ali-mosque": {
       "place_center": {
         "lat": 30.028611111111,
         "lon": 31.259722222222,
         "note": "Representative source coordinate, not a verified visitor entrance.",
-        "source": "Wikidata P625"
+        "source": "Wikidata P625",
+        "verification_status": "legacy-reference-not-a-verified-entrance"
       },
       "place_coordinate_note": null,
       "hotels": [
@@ -2958,7 +3421,7 @@
           "name_en": "Windsor Hotel",
           "name_ar": "فندق وندسور",
           "name_ar_status": "from Wikidata label",
-          "distance_km_straight_line": 3.06,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=30.052977&mlon=31.245038#map=17/30.052977/31.245038",
           "wikidata_url": "https://www.wikidata.org/wiki/Q8024637",
           "official_website": "http://www.windsorcairo.com/",
@@ -2975,14 +3438,16 @@
             "author": "Gaynor Barton",
             "visually_checked": true,
             "src": "/photos/hotels/Q8024637.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         },
         {
           "wikidata_id": "Q47429618",
           "name_en": "Steigenberger Hotel El Tahrir Cairo",
           "name_ar": "فندق شتيجنبرجر التحرير القاهرة",
           "name_ar_status": "from Wikidata label",
-          "distance_km_straight_line": 3.11,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=30.047318&mlon=31.235665#map=17/30.047318/31.235665",
           "wikidata_url": "https://www.wikidata.org/wiki/Q47429618",
           "official_website": null,
@@ -2999,16 +3464,24 @@
             "author": "Roland Unger",
             "visually_checked": true,
             "src": "/photos/hotels/Q47429618.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         }
-      ]
+      ],
+      "stay_area": {
+        "en": "Cairo",
+        "ar": "القاهرة"
+      },
+      "distance_status": "not-published-unverified-attraction-origin"
     },
     "sultan-hassan-mosque": {
       "place_center": {
         "lat": 30.0319,
         "lon": 31.2567,
         "note": "Representative source coordinate, not a verified visitor entrance.",
-        "source": "Wikidata P625"
+        "source": "Wikidata P625",
+        "verification_status": "legacy-reference-not-a-verified-entrance"
       },
       "place_coordinate_note": null,
       "hotels": [
@@ -3017,7 +3490,7 @@
           "name_en": "Windsor Hotel",
           "name_ar": "فندق وندسور",
           "name_ar_status": "from Wikidata label",
-          "distance_km_straight_line": 2.6,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=30.052977&mlon=31.245038#map=17/30.052977/31.245038",
           "wikidata_url": "https://www.wikidata.org/wiki/Q8024637",
           "official_website": "http://www.windsorcairo.com/",
@@ -3034,14 +3507,16 @@
             "author": "Gaynor Barton",
             "visually_checked": true,
             "src": "/photos/hotels/Q8024637.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         },
         {
           "wikidata_id": "Q47429618",
           "name_en": "Steigenberger Hotel El Tahrir Cairo",
           "name_ar": "فندق شتيجنبرجر التحرير القاهرة",
           "name_ar_status": "from Wikidata label",
-          "distance_km_straight_line": 2.65,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=30.047318&mlon=31.235665#map=17/30.047318/31.235665",
           "wikidata_url": "https://www.wikidata.org/wiki/Q47429618",
           "official_website": null,
@@ -3058,16 +3533,24 @@
             "author": "Roland Unger",
             "visually_checked": true,
             "src": "/photos/hotels/Q47429618.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         }
-      ]
+      ],
+      "stay_area": {
+        "en": "Cairo",
+        "ar": "القاهرة"
+      },
+      "distance_status": "not-published-unverified-attraction-origin"
     },
     "al-rifai-mosque": {
       "place_center": {
         "lat": 30.032777777778,
         "lon": 31.256666666667,
         "note": "Representative source coordinate, not a verified visitor entrance.",
-        "source": "Wikidata P625"
+        "source": "Wikidata P625",
+        "verification_status": "legacy-reference-not-a-verified-entrance"
       },
       "place_coordinate_note": null,
       "hotels": [
@@ -3076,7 +3559,7 @@
           "name_en": "Windsor Hotel",
           "name_ar": "فندق وندسور",
           "name_ar_status": "from Wikidata label",
-          "distance_km_straight_line": 2.51,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=30.052977&mlon=31.245038#map=17/30.052977/31.245038",
           "wikidata_url": "https://www.wikidata.org/wiki/Q8024637",
           "official_website": "http://www.windsorcairo.com/",
@@ -3093,14 +3576,16 @@
             "author": "Gaynor Barton",
             "visually_checked": true,
             "src": "/photos/hotels/Q8024637.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         },
         {
           "wikidata_id": "Q47429618",
           "name_en": "Steigenberger Hotel El Tahrir Cairo",
           "name_ar": "فندق شتيجنبرجر التحرير القاهرة",
           "name_ar_status": "from Wikidata label",
-          "distance_km_straight_line": 2.59,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=30.047318&mlon=31.235665#map=17/30.047318/31.235665",
           "wikidata_url": "https://www.wikidata.org/wiki/Q47429618",
           "official_website": null,
@@ -3117,16 +3602,24 @@
             "author": "Roland Unger",
             "visually_checked": true,
             "src": "/photos/hotels/Q47429618.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         }
-      ]
+      ],
+      "stay_area": {
+        "en": "Cairo",
+        "ar": "القاهرة"
+      },
+      "distance_status": "not-published-unverified-attraction-origin"
     },
     "mosque-of-ibn-tulun": {
       "place_center": {
         "lat": 30.02875,
         "lon": 31.249528,
         "note": "Representative source coordinate, not a verified visitor entrance.",
-        "source": "Wikidata P625"
+        "source": "Wikidata P625",
+        "verification_status": "legacy-reference-not-a-verified-entrance"
       },
       "place_coordinate_note": null,
       "hotels": [
@@ -3135,7 +3628,7 @@
           "name_en": "Steigenberger Hotel El Tahrir Cairo",
           "name_ar": "فندق شتيجنبرجر التحرير القاهرة",
           "name_ar_status": "from Wikidata label",
-          "distance_km_straight_line": 2.46,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=30.047318&mlon=31.235665#map=17/30.047318/31.235665",
           "wikidata_url": "https://www.wikidata.org/wiki/Q47429618",
           "official_website": null,
@@ -3152,14 +3645,16 @@
             "author": "Roland Unger",
             "visually_checked": true,
             "src": "/photos/hotels/Q47429618.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         },
         {
           "wikidata_id": "Q54887660",
           "name_en": "Nile Ritz Carlton",
           "name_ar": "نايل ريتز كارلتون",
           "name_ar_status": "from Wikidata label",
-          "distance_km_straight_line": 2.53,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=30.04608&mlon=31.23256#map=17/30.04608/31.23256",
           "wikidata_url": "https://www.wikidata.org/wiki/Q54887660",
           "official_website": null,
@@ -3176,16 +3671,24 @@
             "author": "Mark Muehlhaeusler",
             "visually_checked": true,
             "src": "/photos/hotels/Q54887660.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         }
-      ]
+      ],
+      "stay_area": {
+        "en": "Cairo",
+        "ar": "القاهرة"
+      },
+      "distance_status": "not-published-unverified-attraction-origin"
     },
     "al-azhar-mosque": {
       "place_center": {
         "lat": 30.045726,
         "lon": 31.262696,
         "note": "Representative source coordinate, not a verified visitor entrance.",
-        "source": "Wikidata P625"
+        "source": "Wikidata P625",
+        "verification_status": "legacy-reference-not-a-verified-entrance"
       },
       "place_coordinate_note": null,
       "hotels": [
@@ -3194,7 +3697,7 @@
           "name_en": "Windsor Hotel",
           "name_ar": "فندق وندسور",
           "name_ar_status": "from Wikidata label",
-          "distance_km_straight_line": 1.88,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=30.052977&mlon=31.245038#map=17/30.052977/31.245038",
           "wikidata_url": "https://www.wikidata.org/wiki/Q8024637",
           "official_website": "http://www.windsorcairo.com/",
@@ -3211,16 +3714,24 @@
             "author": "Gaynor Barton",
             "visually_checked": true,
             "src": "/photos/hotels/Q8024637.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         }
-      ]
+      ],
+      "stay_area": {
+        "en": "Cairo",
+        "ar": "القاهرة"
+      },
+      "distance_status": "not-published-unverified-attraction-origin"
     },
     "al-hussein-mosque": {
       "place_center": {
         "lat": 30.0478,
         "lon": 31.2631,
         "note": "Representative source coordinate, not a verified visitor entrance.",
-        "source": "Wikidata P625"
+        "source": "Wikidata P625",
+        "verification_status": "legacy-reference-not-a-verified-entrance"
       },
       "place_coordinate_note": null,
       "hotels": [
@@ -3229,7 +3740,7 @@
           "name_en": "Windsor Hotel",
           "name_ar": "فندق وندسور",
           "name_ar_status": "from Wikidata label",
-          "distance_km_straight_line": 1.83,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=30.052977&mlon=31.245038#map=17/30.052977/31.245038",
           "wikidata_url": "https://www.wikidata.org/wiki/Q8024637",
           "official_website": "http://www.windsorcairo.com/",
@@ -3246,16 +3757,24 @@
             "author": "Gaynor Barton",
             "visually_checked": true,
             "src": "/photos/hotels/Q8024637.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         }
-      ]
+      ],
+      "stay_area": {
+        "en": "Cairo",
+        "ar": "القاهرة"
+      },
+      "distance_status": "not-published-unverified-attraction-origin"
     },
     "abdeen-palace": {
       "place_center": {
         "lat": 30.0417,
         "lon": 31.2483,
         "note": "Representative source coordinate, not a verified visitor entrance.",
-        "source": "Wikidata P625"
+        "source": "Wikidata P625",
+        "verification_status": "legacy-reference-not-a-verified-entrance"
       },
       "place_coordinate_note": null,
       "hotels": [
@@ -3264,7 +3783,7 @@
           "name_en": "Windsor Hotel",
           "name_ar": "فندق وندسور",
           "name_ar_status": "from Wikidata label",
-          "distance_km_straight_line": 1.29,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=30.052977&mlon=31.245038#map=17/30.052977/31.245038",
           "wikidata_url": "https://www.wikidata.org/wiki/Q8024637",
           "official_website": "http://www.windsorcairo.com/",
@@ -3281,14 +3800,16 @@
             "author": "Gaynor Barton",
             "visually_checked": true,
             "src": "/photos/hotels/Q8024637.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         },
         {
           "wikidata_id": "Q47429618",
           "name_en": "Steigenberger Hotel El Tahrir Cairo",
           "name_ar": "فندق شتيجنبرجر التحرير القاهرة",
           "name_ar_status": "from Wikidata label",
-          "distance_km_straight_line": 1.37,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=30.047318&mlon=31.235665#map=17/30.047318/31.235665",
           "wikidata_url": "https://www.wikidata.org/wiki/Q47429618",
           "official_website": null,
@@ -3305,16 +3826,24 @@
             "author": "Roland Unger",
             "visually_checked": true,
             "src": "/photos/hotels/Q47429618.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         }
-      ]
+      ],
+      "stay_area": {
+        "en": "Cairo",
+        "ar": "القاهرة"
+      },
+      "distance_status": "not-published-unverified-attraction-origin"
     },
     "cairo-tower": {
       "place_center": {
         "lat": 30.04583333,
         "lon": 31.22444444,
         "note": "Representative source coordinate, not a verified visitor entrance.",
-        "source": "Wikidata P625"
+        "source": "Wikidata P625",
+        "verification_status": "legacy-reference-not-a-verified-entrance"
       },
       "place_coordinate_note": null,
       "hotels": [
@@ -3323,7 +3852,7 @@
           "name_en": "Nile Ritz Carlton",
           "name_ar": "نايل ريتز كارلتون",
           "name_ar_status": "from Wikidata label",
-          "distance_km_straight_line": 0.78,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=30.04608&mlon=31.23256#map=17/30.04608/31.23256",
           "wikidata_url": "https://www.wikidata.org/wiki/Q54887660",
           "official_website": null,
@@ -3340,14 +3869,16 @@
             "author": "Mark Muehlhaeusler",
             "visually_checked": true,
             "src": "/photos/hotels/Q54887660.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         },
         {
           "wikidata_id": "Q47429618",
           "name_en": "Steigenberger Hotel El Tahrir Cairo",
           "name_ar": "فندق شتيجنبرجر التحرير القاهرة",
           "name_ar_status": "from Wikidata label",
-          "distance_km_straight_line": 1.09,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=30.047318&mlon=31.235665#map=17/30.047318/31.235665",
           "wikidata_url": "https://www.wikidata.org/wiki/Q47429618",
           "official_website": null,
@@ -3364,16 +3895,24 @@
             "author": "Roland Unger",
             "visually_checked": true,
             "src": "/photos/hotels/Q47429618.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         }
-      ]
+      ],
+      "stay_area": {
+        "en": "Cairo",
+        "ar": "القاهرة"
+      },
+      "distance_status": "not-published-unverified-attraction-origin"
     },
     "al-azhar-park": {
       "place_center": {
         "lat": 30.0405,
         "lon": 31.2646,
         "note": "Representative source coordinate, not a verified visitor entrance.",
-        "source": "Wikidata P625"
+        "source": "Wikidata P625",
+        "verification_status": "legacy-reference-not-a-verified-entrance"
       },
       "place_coordinate_note": null,
       "hotels": [
@@ -3382,7 +3921,7 @@
           "name_en": "Windsor Hotel",
           "name_ar": "فندق وندسور",
           "name_ar_status": "from Wikidata label",
-          "distance_km_straight_line": 2.34,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=30.052977&mlon=31.245038#map=17/30.052977/31.245038",
           "wikidata_url": "https://www.wikidata.org/wiki/Q8024637",
           "official_website": "http://www.windsorcairo.com/",
@@ -3399,16 +3938,24 @@
             "author": "Gaynor Barton",
             "visually_checked": true,
             "src": "/photos/hotels/Q8024637.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         }
-      ]
+      ],
+      "stay_area": {
+        "en": "Cairo",
+        "ar": "القاهرة"
+      },
+      "distance_status": "not-published-unverified-attraction-origin"
     },
     "wadi-degla": {
       "place_center": {
         "lat": 29.949722222222,
         "lon": 31.379722222222,
         "note": "Representative source coordinate, not a verified visitor entrance.",
-        "source": "Wikidata P625"
+        "source": "Wikidata P625",
+        "verification_status": "legacy-reference-not-a-verified-entrance"
       },
       "place_coordinate_note": null,
       "hotels": [
@@ -3417,7 +3964,7 @@
           "name_en": "Windsor Hotel",
           "name_ar": "فندق وندسور",
           "name_ar_status": "from Wikidata label",
-          "distance_km_straight_line": 17.32,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=30.052977&mlon=31.245038#map=17/30.052977/31.245038",
           "wikidata_url": "https://www.wikidata.org/wiki/Q8024637",
           "official_website": "http://www.windsorcairo.com/",
@@ -3434,16 +3981,24 @@
             "author": "Gaynor Barton",
             "visually_checked": true,
             "src": "/photos/hotels/Q8024637.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         }
-      ]
+      ],
+      "stay_area": {
+        "en": "Cairo",
+        "ar": "القاهرة"
+      },
+      "distance_status": "not-published-unverified-attraction-origin"
     },
     "baron-empain-palace": {
       "place_center": {
         "lat": 30.086667,
         "lon": 31.330278,
         "note": "Representative source coordinate, not a verified visitor entrance.",
-        "source": "Wikidata P625"
+        "source": "Wikidata P625",
+        "verification_status": "legacy-reference-not-a-verified-entrance"
       },
       "place_coordinate_note": null,
       "hotels": [
@@ -3452,7 +4007,7 @@
           "name_en": "Windsor Hotel",
           "name_ar": "فندق وندسور",
           "name_ar_status": "from Wikidata label",
-          "distance_km_straight_line": 9.02,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=30.052977&mlon=31.245038#map=17/30.052977/31.245038",
           "wikidata_url": "https://www.wikidata.org/wiki/Q8024637",
           "official_website": "http://www.windsorcairo.com/",
@@ -3469,9 +4024,16 @@
             "author": "Gaynor Barton",
             "visually_checked": true,
             "src": "/photos/hotels/Q8024637.webp"
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         }
-      ]
+      ],
+      "stay_area": {
+        "en": "Cairo",
+        "ar": "القاهرة"
+      },
+      "distance_status": "not-published-unverified-attraction-origin"
     },
     "menkaure-pyramid": {
       "place_coordinate_note": null,
@@ -3481,7 +4043,7 @@
           "name_en": "Mena House",
           "name_ar": "مينا هاوس",
           "name_ar_status": "from Wikidata label",
-          "distance_km_straight_line": 1.51,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=29.98555556&mlon=31.13277778#map=17/29.98555556/31.13277778",
           "wikidata_url": "https://www.wikidata.org/wiki/Q1355271",
           "official_website": null,
@@ -3499,9 +4061,16 @@
               "en": "Historic pyramid view from Mena House, under former Oberoi branding; not a room-view guarantee",
               "ar": "منظر تاريخي للأهرامات من مينا هاوس وقت إدارة أوبروي السابقة؛ مش ضمان لإطلالة أي أوضة"
             }
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         }
-      ]
+      ],
+      "stay_area": {
+        "en": "Giza",
+        "ar": "الجيزة"
+      },
+      "distance_status": "not-published-unverified-attraction-origin"
     },
     "great-sphinx": {
       "place_coordinate_note": null,
@@ -3511,7 +4080,7 @@
           "name_en": "Mena House",
           "name_ar": "مينا هاوس",
           "name_ar_status": "from Wikidata label",
-          "distance_km_straight_line": 1.24,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=29.98555556&mlon=31.13277778#map=17/29.98555556/31.13277778",
           "wikidata_url": "https://www.wikidata.org/wiki/Q1355271",
           "official_website": null,
@@ -3529,9 +4098,16 @@
               "en": "Historic pyramid view from Mena House, under former Oberoi branding; not a room-view guarantee",
               "ar": "منظر تاريخي للأهرامات من مينا هاوس وقت إدارة أوبروي السابقة؛ مش ضمان لإطلالة أي أوضة"
             }
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         }
-      ]
+      ],
+      "stay_area": {
+        "en": "Giza",
+        "ar": "الجيزة"
+      },
+      "distance_status": "not-published-unverified-attraction-origin"
     },
     "great-pyramid-khufu": {
       "place_coordinate_note": null,
@@ -3541,7 +4117,7 @@
           "name_en": "Mena House",
           "name_ar": "مينا هاوس",
           "name_ar_status": "from Wikidata label",
-          "distance_km_straight_line": 0.73,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=29.98555556&mlon=31.13277778#map=17/29.98555556/31.13277778",
           "wikidata_url": "https://www.wikidata.org/wiki/Q1355271",
           "official_website": null,
@@ -3559,9 +4135,16 @@
               "en": "Historic pyramid view from Mena House, under former Oberoi branding; not a room-view guarantee",
               "ar": "منظر تاريخي للأهرامات من مينا هاوس وقت إدارة أوبروي السابقة؛ مش ضمان لإطلالة أي أوضة"
             }
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         }
-      ]
+      ],
+      "stay_area": {
+        "en": "Giza",
+        "ar": "الجيزة"
+      },
+      "distance_status": "not-published-unverified-attraction-origin"
     },
     "khafre-pyramid": {
       "place_coordinate_note": null,
@@ -3571,7 +4154,7 @@
           "name_en": "Mena House",
           "name_ar": "مينا هاوس",
           "name_ar_status": "from Wikidata label",
-          "distance_km_straight_line": 1.08,
+          "distance_km_straight_line": null,
           "map_url": "https://www.openstreetmap.org/?mlat=29.98555556&mlon=31.13277778#map=17/29.98555556/31.13277778",
           "wikidata_url": "https://www.wikidata.org/wiki/Q1355271",
           "official_website": null,
@@ -3589,9 +4172,16 @@
               "en": "Historic pyramid view from Mena House, under former Oberoi branding; not a room-view guarantee",
               "ar": "منظر تاريخي للأهرامات من مينا هاوس وقت إدارة أوبروي السابقة؛ مش ضمان لإطلالة أي أوضة"
             }
-          }
+          },
+          "coordinate_status": "single-source-point",
+          "coordinate_checked_at": "2026-11-16"
         }
-      ]
+      ],
+      "stay_area": {
+        "en": "Giza",
+        "ar": "الجيزة"
+      },
+      "distance_status": "not-published-unverified-attraction-origin"
     }
   }
 }
