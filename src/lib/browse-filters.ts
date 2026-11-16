@@ -1,0 +1,4 @@
+export type BrowseFilters={q:string;governorate:string;vibe:string;category:string;era:string;region:string};
+export const emptyFilters:BrowseFilters={q:'',governorate:'',vibe:'',category:'',era:'',region:''};
+export function readBrowseFilters(search:string,defaults:BrowseFilters):BrowseFilters{const params=new URLSearchParams(search);return Object.fromEntries(Object.entries(defaults).map(([key,value])=>[key,params.has(key)?params.get(key)!:value])) as BrowseFilters}
+export function writeBrowseFilters(url:string,filters:BrowseFilters,defaults:BrowseFilters):string{const next=new URL(url);for(const key of Object.keys(filters) as (keyof BrowseFilters)[]){if(filters[key]===defaults[key])next.searchParams.delete(key);else next.searchParams.set(key,filters[key])}next.searchParams.delete('destination');return next.pathname+next.search+next.hash}
