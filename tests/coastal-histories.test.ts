@@ -1,0 +1,4 @@
+import{test}from'node:test';import assert from'node:assert/strict';import articles from'../src/lib/encyclopedia/articles.json';
+const ids=['hurghada-museum','hurghada-marina','giftun','marsa-alam','ras-el-barr'] as const;
+test('five coastal stories are bilingual with source provenance',()=>{for(const id of ids){const h=articles[id].history;assert.ok(h.en.length>300);assert.ok(h.ar.length>250);assert.ok(h.source_urls.length);assert.equal(articles[id].reviewedAt,'2026-11-16');assert.doesNotMatch(h.ar,/[٠-٩۰-۹]/)}});
+test('modern and conservation histories are distinguished from ancient monuments',()=>{assert.match(articles['hurghada-museum'].history.en,/29 February 2020/);assert.match(articles['hurghada-marina'].history.en,/2008/);assert.match(articles.giftun.history.en,/2004 conservation campaign/);assert.match(articles['ras-el-barr'].history.en,/Watani/);assert.doesNotMatch(articles['marsa-alam'].history.en,/Twenty years|20 years/)});

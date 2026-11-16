@@ -5798,7 +5798,7 @@
         "https://www.nodc.noaa.gov/archive/arc0216/0253808/2.2/data/0-data/Region-1-WMO-Normals-9120/Egypt/CSV/HurghadaAP_62463.csv"
       ]
     },
-    "reviewedAt": "2026-11-15",
+    "reviewedAt": "2026-11-16",
     "map": {
       "lat": 25.06666667,
       "lon": 34.9,
@@ -5819,7 +5819,15 @@
           "https://www.experienceegypt.eg/en/region/13/the-red-sea"
         ]
       }
-    ]
+    ],
+    "history": {
+      "ar": "دليل محافظة البحر الأحمر بيوصف أصل مرسى علم كقرية صيد صغيرة قبل توسع السياحة. المدينة على الحافة اللي بتقابل فيها الصحراء الشرقية البحر، وحكايتها مرتبطة بالصيد والتعدين وبمجتمعات العبابدة والبشارية في جنوب المحافظة. مع نمو المنتجعات والغطس اتسعت المدينة وجذبت ناس للشغل من مناطق مختلفة في مصر، مع بقاء البيئة البحرية محور مهم لهويتها.",
+      "en": "The Red Sea Governorate guide describes Marsa Alam as a small fishing village before tourism expanded. The town stands where the Eastern Desert meets the sea, and its story connects fishing and mining with the Ababda and Bishariya communities of the southern governorate. Resort and diving development brought growth and workers from elsewhere in Egypt, while the marine environment remained central to its identity.",
+      "source_urls": [
+        "http://www.redsea.gov.eg/t/Marsa%20Alam/HistroyPage.aspx",
+        "https://www.experienceegypt.eg/en/city/21/marsa-alam-"
+      ]
+    }
   },
   "wadi-el-gemal-national-park": {
     "see": {
@@ -9257,7 +9265,7 @@
         ]
       }
     ],
-    "reviewedAt": "2026-11-15",
+    "reviewedAt": "2026-11-16",
     "eat_note": {
       "ar": "أفكار أكل على مستوى المحافظة، مش منيو في المكان ده ولا ضمان توفره عنده. بعض الأكلات مصرية عامة ومش حصرية للمحافظة.",
       "en": "Governorate-level food ideas, not an on-site menu or a guarantee of availability. Some dishes are national staples, not unique to this governorate."
@@ -9370,6 +9378,22 @@
       ],
       "source_urls": [
         "https://www.nodc.noaa.gov/archive/arc0216/0253808/2.2/data/0-data/Region-1-WMO-Normals-9120/Egypt/CSV/HurghadaAP_62463.csv"
+      ]
+    },
+    "history": {
+      "ar": "من حكايات الجفتون المهمة حملة الحفاظ عليها سنة 2004. جمعية هيبكا بتوثق إزاي اتجمعت مراكب غطس ومؤيدين واعتراضات على مشروع سياحي كبير في الجزيرة، وانتهت الحملة بالحفاظ على وضع المحمية. دي حكاية حديثة عن حماية بيئة البحر، مش تاريخ مبنى أثري: قيمة الجزر مرتبطة بالشعاب والكائنات البحرية ومناطق تعشيش السلاحف الخضراء.",
+      "en": "A defining modern chapter for Giftun was the 2004 conservation campaign. HEPCA records how dive boats, supporters and a petition opposed a large tourism development on the island, with the campaign ending in the protectorate status being retained. This is a story of marine conservation rather than an ancient monument: the islands matter for their reefs, marine life and green-turtle nesting grounds.",
+      "source_urls": [
+        "https://www.hepca.org/projects/conservation/fight-for-giftun",
+        "http://www.redsea.gov.eg/t/Hurghada/Giftun4t.aspx"
+      ]
+    },
+    "see": {
+      "ar": "بص للجفتون كمنظومة واحدة: يابسة صحراوية فاتحة محاطة بالبحر، وتحت الميه شعاب وكائنات بحرية. دليل محافظة البحر الأحمر بيربط الزيارة برحلة مركب وسنوركلينج، وهيبكا بتشرح أهمية الشعاب وتعشيش السلاحف. جمال الشاطئ جزء من الصورة، لكن الحكاية الأكبر هي البيئة اللي بتربط الجزيرة بالميه حواليها.",
+      "en": "Read Giftun as a connected landscape: pale desert island, surrounding sea, then reefs and marine life below the surface. The Red Sea Governorate guide describes boat and snorkelling excursions, while HEPCA explains the importance of the reefs and turtle nesting grounds. The beach is one part of the scene; the larger subject is the environment linking the island to the water around it.",
+      "source_urls": [
+        "https://www.hepca.org/projects/conservation/fight-for-giftun",
+        "http://www.redsea.gov.eg/t/Hurghada/Giftun4t.aspx"
       ]
     }
   },
@@ -9385,7 +9409,7 @@
         ]
       }
     ],
-    "reviewedAt": "2026-11-15",
+    "reviewedAt": "2026-11-16",
     "eat_note": {
       "ar": "أفكار أكل على مستوى المحافظة، مش منيو في المكان ده ولا ضمان توفره عنده. بعض الأكلات مصرية عامة ومش حصرية للمحافظة.",
       "en": "Governorate-level food ideas, not an on-site menu or a guarantee of availability. Some dishes are national staples, not unique to this governorate."
@@ -9499,6 +9523,20 @@
       "source_urls": [
         "https://www.nodc.noaa.gov/archive/arc0216/0253808/2.2/data/0-data/Region-1-WMO-Normals-9120/Egypt/CSV/HurghadaAP_62463.csv"
       ]
+    },
+    "history": {
+      "ar": "مارينا الغردقة مشروع حديث على واجهة السقالة البحرية، مش ميناء أثري. الموقع الرسمي بيذكر إن البناء بدأ في أوائل الألفينات وإن المارينا بدأت التشغيل رسميا سنة 2008. المشروع جمع مرسى اليخوت مع ممشى ومحلات ومطاعم، وأضاف للمدينة مساحة خروج على البحر خارج حدود الفنادق. تاريخه جزء من نمو الغردقة كمدينة سياحة بحرية حديثة.",
+      "en": "Hurghada Marina is a modern waterfront development in Sakkala, rather than an ancient harbour. Its official website dates construction to the early 2000s and the start of formal operations to 2008. The development brings yacht berths together with a boulevard, shops and restaurants, adding a waterfront outing beyond the hotels. Its story belongs to Hurghada's growth as a modern Red Sea resort city.",
+      "source_urls": [
+        "https://hurghada-marina.com/"
+      ]
+    },
+    "see": {
+      "ar": "ابدأ بالممشى المواجه لليخوت وشوف العلاقة بين الرصيف والمباني والمحلات حواليه. المارينا في منطقة السقالة، فالمشهد هنا واجهة بحرية متخططة للخروج والمطاعم، مختلف عن زيارة شاطئ أو شعاب مرجانية. ركز على حركة المرسى ومنظر القوارب وتفاصيل الواجهة؛ ده المدخل الأساسي لفهم المكان كمشروع مدينة حديث.",
+      "en": "Start with the boulevard facing the yacht berths and notice how the quayside, buildings and outlets fit together. In Sakkala, this is a waterfront designed for strolling and dining, a different experience from a beach or coral reef. The boats, harbour activity and planned frontage are the main subjects to look at, and help explain the place as a modern urban development.",
+      "source_urls": [
+        "https://hurghada-marina.com/"
+      ]
     }
   },
   "hurghada-museum": {
@@ -9513,7 +9551,7 @@
         ]
       }
     ],
-    "reviewedAt": "2026-11-15",
+    "reviewedAt": "2026-11-16",
     "eat_note": {
       "ar": "أفكار أكل على مستوى المحافظة، مش منيو في المكان ده ولا ضمان توفره عنده. بعض الأكلات مصرية عامة ومش حصرية للمحافظة.",
       "en": "Governorate-level food ideas, not an on-site menu or a guarantee of availability. Some dishes are national staples, not unique to this governorate."
@@ -9626,6 +9664,22 @@
       ],
       "source_urls": [
         "https://www.nodc.noaa.gov/archive/arc0216/0253808/2.2/data/0-data/Region-1-WMO-Normals-9120/Egypt/CSV/HurghadaAP_62463.csv"
+      ]
+    },
+    "history": {
+      "ar": "متحف الغردقة اتفتح يوم 29 فبراير 2020 كأول متحف آثار في محافظة البحر الأحمر. اتعمل بشراكة بين الدولة والقطاع الخاص، مع مسؤولية وزارة السياحة والآثار عن المجموعة الأثرية وإدارتها وحمايتها. فكرته تربط إجازة البحر بتاريخ مصر، بمعروضات من عصور مصر القديمة والعصرين اليوناني والروماني، وصولا للتراث اليهودي والمسيحي والإسلامي والعصر الحديث.",
+      "en": "Hurghada Museum opened on 29 February 2020 as the first archaeological museum in the Red Sea Governorate. It was created through a public-private partnership, with the Ministry of Tourism and Antiquities responsible for the archaeological collection, its management and protection. Its purpose links a seaside holiday with Egyptian history, spanning ancient Egypt, the Greek and Roman periods, Jewish, Christian and Islamic heritage, and the modern era.",
+      "source_urls": [
+        "https://egymonuments.gov.eg/en/news/hurghada-museum-1/",
+        "https://english.ahram.org.eg/News/364380.aspx"
+      ]
+    },
+    "see": {
+      "ar": "تغطية الافتتاح بتشرح إن محور العرض هو «الجمال والرفاهية». بص لتفاصيل الحياة اليومية زي أدوات التجميل والعطور والحلي وإكسسوارات الشعر، وبعدها المعروضات المرتبطة بالموسيقى والصيد وصناعة الأثاث. تنوع القطع بيساعدك تقارن بين استخدام الزينة والراحة عبر العصور، بدل ما تبقى الزيارة مجرد مرور على أسماء الملوك.",
+      "en": "Opening coverage describes the exhibition theme as \"Beauty and Luxury\". Look for everyday-life objects connected with cosmetics, perfume, jewellery and hair accessories, then displays about music, hunting and furniture. These themes offer a way to compare personal adornment and comfort across periods, rather than treating the visit only as a sequence of rulers and dates.",
+      "source_urls": [
+        "https://egymonuments.gov.eg/en/news/hurghada-museum-1/",
+        "https://english.ahram.org.eg/News/364380.aspx"
       ]
     }
   },
@@ -13865,7 +13919,15 @@
         "https://en.wikipedia.org/wiki/Damietta"
       ]
     },
-    "reviewedAt": "2026-11-15"
+    "reviewedAt": "2026-11-16",
+    "history": {
+      "ar": "حكاية رأس البر كمصيف بدأت قبل العمارات والفنادق الحديثة. تقرير تاريخي في جريدة وطني بيوصف عشش الصيادين المصنوعة من البوص، وبعدها عشش المصيف اللي كانت بتتعمل في بداية الصيف وتتلم في نهايته. مع تطور المكان ظهرت الفنادق والبيوت الدائمة بدل المساكن الموسمية. موقعه عند مصب فرع دمياط فضل هو الرابط بين حياة الصيد وفسح البحر والنهر.",
+      "en": "Ras El Bar's resort story began before its modern hotels and apartment buildings. A historical feature in Watani describes fishermen's reed shelters and later seasonal holiday huts, assembled for summer and removed at its end. Hotels and permanent houses gradually changed that seasonal settlement. Its position at the mouth of the Damietta branch remains the link between fishing life and outings on the river and the Mediterranean.",
+      "source_urls": [
+        "https://en.wataninet.com/features/tourism/ras-al-barr-resort/7703/",
+        "https://study-in-egypt.gov.eg/places/49"
+      ]
+    }
   },
   "amr-ibn-al-as-mosque-damietta": {
     "history": {
