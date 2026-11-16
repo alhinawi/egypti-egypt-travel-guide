@@ -1,0 +1,4 @@
+import{test}from'node:test';import assert from'node:assert/strict';import articles from'../src/lib/encyclopedia/articles.json';
+const ids=['blue-lagoon','eel-garden','lighthouse','friday-market','dahab-mountains','hurghada-markets','hurghada-desert'] as const;
+test('nature and market entries gain sourced bilingual observation sections without fabricated history',()=>{for(const id of ids){const a=articles[id];assert.ok(a.see.en.length>300);assert.ok(a.see.ar.length>250);assert.ok(a.see.source_urls.length);assert.ok(!('history'in a));assert.doesNotMatch(a.see.ar,/[٠-٩۰-۹]/)}});
+test('reef sites and broad landscapes are not mistaken for buildings',()=>{assert.match(articles['eel-garden'].see.en,/rather than a park/);assert.match(articles.lighthouse.see.en,/modern additions/);assert.match(articles['dahab-mountains'].see.en,/rather than one specifically named summit/);assert.match(articles['hurghada-desert'].see.en,/rather than one archaeological landmark/)});
