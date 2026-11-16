@@ -13804,13 +13804,34 @@
         "https://en.wikipedia.org/wiki/Banha"
       ]
     },
-    "reviewedAt": "2026-11-15",
+    "reviewedAt": "2026-11-16",
     "history": {
       "ar": "حكاية بنها مرتبطة بالنيل وبشبكة المواصلات في الدلتا. المدينة على الضفة الشرقية لفرع دمياط، واتحولت لنقطة مهمة في خطوط السكة الحديد الخارجة من القاهرة. ناحية شمالها موقع أتريب القديم، وده موقع أثري مختلف عن شوارع المدينة الحديثة.",
       "en": "Banha’s story connects the Nile with the Delta’s transport network. The city stands on the east bank of the Damietta branch and became an important junction for railway lines from Cairo. Ancient Athribis lies to its north, a separate archaeological site rather than another name for the modern city.",
       "sources": [
         "https://en.wikipedia.org/wiki/Banha"
       ]
+    },
+    "eat": [
+      {
+        "name": {
+          "en": "Qalyubia strawberries",
+          "ar": "فراولة القليوبية"
+        },
+        "note": {
+          "en": "The governorate leads Egypt’s strawberry production, harvested roughly from December into spring. In season you will find fresh berries in local markets; out of season they are mostly frozen or exported.",
+          "ar": "القليوبية في مقدمة محافظات مصر في زراعة الفراولة، والحصاد من ديسمبر تقريبًا لحد الربيع. في الموسم هتلاقي فراولة طازة في الأسواق، وبره الموسم أغلبها مجمدة أو للتصدير."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://www.gomhuriaonline.com/1010991"
+        ]
+      }
+    ],
+    "eat_note": {
+      "ar": "أفكار أكل على مستوى المحافظة، مش منيو في المكان ده ولا ضمان توفره عنده. بعض الأكلات مصرية عامة ومش حصرية للمحافظة.",
+      "en": "Governorate-level food ideas, not an on-site menu or a guarantee of availability. Some dishes are national staples, not unique to this governorate."
     }
   },
   "el-qanater-el-khayreya": {
@@ -13864,7 +13885,28 @@
         "https://en.wikipedia.org/wiki/Banha"
       ]
     },
-    "reviewedAt": "2026-11-15"
+    "reviewedAt": "2026-11-16",
+    "eat": [
+      {
+        "name": {
+          "en": "Qalyubia strawberries",
+          "ar": "فراولة القليوبية"
+        },
+        "note": {
+          "en": "The governorate leads Egypt’s strawberry production, harvested roughly from December into spring. In season you will find fresh berries in local markets; out of season they are mostly frozen or exported.",
+          "ar": "القليوبية في مقدمة محافظات مصر في زراعة الفراولة، والحصاد من ديسمبر تقريبًا لحد الربيع. في الموسم هتلاقي فراولة طازة في الأسواق، وبره الموسم أغلبها مجمدة أو للتصدير."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://www.gomhuriaonline.com/1010991"
+        ]
+      }
+    ],
+    "eat_note": {
+      "ar": "أفكار أكل على مستوى المحافظة، مش منيو في المكان ده ولا ضمان توفره عنده. بعض الأكلات مصرية عامة ومش حصرية للمحافظة.",
+      "en": "Governorate-level food ideas, not an on-site menu or a guarantee of availability. Some dishes are national staples, not unique to this governorate."
+    }
   },
   "damietta": {
     "history": {
@@ -13917,7 +13959,43 @@
         "https://en.wikipedia.org/wiki/Damietta"
       ]
     },
-    "reviewedAt": "2026-11-15"
+    "reviewedAt": "2026-11-16",
+    "eat": [
+      {
+        "name": {
+          "en": "Domiati cheese",
+          "ar": "جبنة دمياطية"
+        },
+        "note": {
+          "en": "Egypt’s most common white cheese is named after Damietta. It is a soft, salty cheese eaten fresh or aged in brine.",
+          "ar": "أشهر جبنة بيضاء في مصر متسمّية على اسم دمياط. جبنة طرية مالحة بتتاكل طازة أو متخزنة في محلول ملحي."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Domiati"
+        ]
+      },
+      {
+        "name": {
+          "en": "Fish and sardines of Ezbet El-Borg",
+          "ar": "أسماك وسردين عزبة البرج"
+        },
+        "note": {
+          "en": "Ezbet El-Borg hosts Egypt’s largest fishing-boat fleet and a sardine-canning tradition, so fish is the everyday table of the area.",
+          "ar": "عزبة البرج فيها أكبر أسطول مراكب صيد في مصر وصناعة تعليب سردين معروفة، فالسمك هو أكل البيت اليومي في المنطقة."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Ezbet_El_Borg"
+        ]
+      }
+    ],
+    "eat_note": {
+      "ar": "أفكار أكل على مستوى المحافظة، مش منيو في المكان ده ولا ضمان توفره عنده. بعض الأكلات مصرية عامة ومش حصرية للمحافظة.",
+      "en": "Governorate-level food ideas, not an on-site menu or a guarantee of availability. Some dishes are national staples, not unique to this governorate."
+    }
   },
   "ras-el-barr": {
     "see": {
@@ -14034,7 +14112,43 @@
         "https://en.wikipedia.org/wiki/Damietta"
       ]
     },
-    "reviewedAt": "2026-11-15"
+    "reviewedAt": "2026-11-16",
+    "eat": [
+      {
+        "name": {
+          "en": "Domiati cheese",
+          "ar": "جبنة دمياطية"
+        },
+        "note": {
+          "en": "Egypt’s most common white cheese is named after Damietta. It is a soft, salty cheese eaten fresh or aged in brine.",
+          "ar": "أشهر جبنة بيضاء في مصر متسمّية على اسم دمياط. جبنة طرية مالحة بتتاكل طازة أو متخزنة في محلول ملحي."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Domiati"
+        ]
+      },
+      {
+        "name": {
+          "en": "Fish and sardines of Ezbet El-Borg",
+          "ar": "أسماك وسردين عزبة البرج"
+        },
+        "note": {
+          "en": "Ezbet El-Borg hosts Egypt’s largest fishing-boat fleet and a sardine-canning tradition, so fish is the everyday table of the area.",
+          "ar": "عزبة البرج فيها أكبر أسطول مراكب صيد في مصر وصناعة تعليب سردين معروفة، فالسمك هو أكل البيت اليومي في المنطقة."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Ezbet_El_Borg"
+        ]
+      }
+    ],
+    "eat_note": {
+      "ar": "أفكار أكل على مستوى المحافظة، مش منيو في المكان ده ولا ضمان توفره عنده. بعض الأكلات مصرية عامة ومش حصرية للمحافظة.",
+      "en": "Governorate-level food ideas, not an on-site menu or a guarantee of availability. Some dishes are national staples, not unique to this governorate."
+    }
   },
   "mansoura-egypt": {
     "history": {
@@ -14085,7 +14199,43 @@
         "https://en.wikipedia.org/wiki/Mansoura,_Egypt"
       ]
     },
-    "reviewedAt": "2026-11-15"
+    "reviewedAt": "2026-11-16",
+    "eat": [
+      {
+        "name": {
+          "en": "Lake Manzala fish",
+          "ar": "أسماك بحيرة المنزلة"
+        },
+        "note": {
+          "en": "Mullet and tilapia from the lake shape the local table; official reporting tracks the lake’s recovering fish varieties.",
+          "ar": "البوري والبلطي من البحيرة أساس الأكل في المنطقة، والتقارير الرسمية بترجع تنوع أسماك البحيرة بعد التطوير."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://www.elwatannews.com/news/details/2804590"
+        ]
+      },
+      {
+        "name": {
+          "en": "Mansoura-style breakfast",
+          "ar": "فطار منصوري"
+        },
+        "note": {
+          "en": "Local food guides single out generous foul-and-falafel breakfast spreads as a point of pride in the city.",
+          "ar": "الأدلة المحلية بتفتخر بفطار الفول والطعمية بسفرته الكبيرة في المنصورة كنقطة تميز للمدينة."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://sceneeats.com/Spots/9-Must-Try-Restaurants-When-Visiting-Mansoura"
+        ]
+      }
+    ],
+    "eat_note": {
+      "ar": "أفكار أكل على مستوى المحافظة، مش منيو في المكان ده ولا ضمان توفره عنده. بعض الأكلات مصرية عامة ومش حصرية للمحافظة.",
+      "en": "Governorate-level food ideas, not an on-site menu or a guarantee of availability. Some dishes are national staples, not unique to this governorate."
+    }
   },
   "zagazig": {
     "history": {
@@ -14137,7 +14287,43 @@
         "https://en.wikipedia.org/wiki/Zagazig"
       ]
     },
-    "reviewedAt": "2026-11-15"
+    "reviewedAt": "2026-11-16",
+    "eat": [
+      {
+        "name": {
+          "en": "Duck and chicken dishes",
+          "ar": "أطباق البط والفراخ"
+        },
+        "note": {
+          "en": "Household poultry raising is common in Sharqia, and duck and chicken anchor family tables, especially on occasions.",
+          "ar": "تربية الطيور في البيوت منتشرة في الشرقية، والبط والفراخ أساس سفرة البيت خصوصًا في المناسبات."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://www.almasryalyoum.com/news/details/2848828"
+        ]
+      },
+      {
+        "name": {
+          "en": "Mahshi of all kinds",
+          "ar": "محشي بأنواعه"
+        },
+        "note": {
+          "en": "Stuffed vegetables are a standard companion to the poultry dishes on Sharqia tables.",
+          "ar": "المحشي بأنواعه رفيق أساسي لأطباق الطيور على سفرة الشرقاوية."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://www.almasryalyoum.com/news/details/2848828"
+        ]
+      }
+    ],
+    "eat_note": {
+      "ar": "أفكار أكل على مستوى المحافظة، مش منيو في المكان ده ولا ضمان توفره عنده. بعض الأكلات مصرية عامة ومش حصرية للمحافظة.",
+      "en": "Governorate-level food ideas, not an on-site menu or a guarantee of availability. Some dishes are national staples, not unique to this governorate."
+    }
   },
   "bubastis": {
     "history": {
@@ -14189,7 +14375,43 @@
         "https://en.wikipedia.org/wiki/Zagazig"
       ]
     },
-    "reviewedAt": "2026-11-15"
+    "reviewedAt": "2026-11-16",
+    "eat": [
+      {
+        "name": {
+          "en": "Duck and chicken dishes",
+          "ar": "أطباق البط والفراخ"
+        },
+        "note": {
+          "en": "Household poultry raising is common in Sharqia, and duck and chicken anchor family tables, especially on occasions.",
+          "ar": "تربية الطيور في البيوت منتشرة في الشرقية، والبط والفراخ أساس سفرة البيت خصوصًا في المناسبات."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://www.almasryalyoum.com/news/details/2848828"
+        ]
+      },
+      {
+        "name": {
+          "en": "Mahshi of all kinds",
+          "ar": "محشي بأنواعه"
+        },
+        "note": {
+          "en": "Stuffed vegetables are a standard companion to the poultry dishes on Sharqia tables.",
+          "ar": "المحشي بأنواعه رفيق أساسي لأطباق الطيور على سفرة الشرقاوية."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://www.almasryalyoum.com/news/details/2848828"
+        ]
+      }
+    ],
+    "eat_note": {
+      "ar": "أفكار أكل على مستوى المحافظة، مش منيو في المكان ده ولا ضمان توفره عنده. بعض الأكلات مصرية عامة ومش حصرية للمحافظة.",
+      "en": "Governorate-level food ideas, not an on-site menu or a guarantee of availability. Some dishes are national staples, not unique to this governorate."
+    }
   },
   "tanis": {
     "history": {
@@ -14225,7 +14447,43 @@
         "https://en.wikipedia.org/wiki/Zagazig"
       ]
     },
-    "reviewedAt": "2026-11-15"
+    "reviewedAt": "2026-11-16",
+    "eat": [
+      {
+        "name": {
+          "en": "Duck and chicken dishes",
+          "ar": "أطباق البط والفراخ"
+        },
+        "note": {
+          "en": "Household poultry raising is common in Sharqia, and duck and chicken anchor family tables, especially on occasions.",
+          "ar": "تربية الطيور في البيوت منتشرة في الشرقية، والبط والفراخ أساس سفرة البيت خصوصًا في المناسبات."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://www.almasryalyoum.com/news/details/2848828"
+        ]
+      },
+      {
+        "name": {
+          "en": "Mahshi of all kinds",
+          "ar": "محشي بأنواعه"
+        },
+        "note": {
+          "en": "Stuffed vegetables are a standard companion to the poultry dishes on Sharqia tables.",
+          "ar": "المحشي بأنواعه رفيق أساسي لأطباق الطيور على سفرة الشرقاوية."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://www.almasryalyoum.com/news/details/2848828"
+        ]
+      }
+    ],
+    "eat_note": {
+      "ar": "أفكار أكل على مستوى المحافظة، مش منيو في المكان ده ولا ضمان توفره عنده. بعض الأكلات مصرية عامة ومش حصرية للمحافظة.",
+      "en": "Governorate-level food ideas, not an on-site menu or a guarantee of availability. Some dishes are national staples, not unique to this governorate."
+    }
   },
   "bilbeis": {
     "see": {
@@ -14270,13 +14528,49 @@
         "https://en.wikipedia.org/wiki/Zagazig"
       ]
     },
-    "reviewedAt": "2026-11-15",
+    "reviewedAt": "2026-11-16",
     "history": {
       "en": "Bilbeis stood on routes approaching the Delta from the east. It was a bishopric in late antiquity and became involved in the military contests over Egypt during the twelfth century. These layers explain its role as more than a modern commuter town.",
       "ar": "بلبيس كانت على طرق الدخول للدلتا من الشرق. كانت مقر أسقفية في أواخر العصور القديمة، ودخلت في الصراعات العسكرية على مصر في القرن الاتناشر. الطبقات دي بتوضح دورها الأقدم من كونها مدينة حديثة قريبة من القاهرة.",
       "sources": [
         "https://en.wikipedia.org/wiki/Bilbeis"
       ]
+    },
+    "eat": [
+      {
+        "name": {
+          "en": "Duck and chicken dishes",
+          "ar": "أطباق البط والفراخ"
+        },
+        "note": {
+          "en": "Household poultry raising is common in Sharqia, and duck and chicken anchor family tables, especially on occasions.",
+          "ar": "تربية الطيور في البيوت منتشرة في الشرقية، والبط والفراخ أساس سفرة البيت خصوصًا في المناسبات."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://www.almasryalyoum.com/news/details/2848828"
+        ]
+      },
+      {
+        "name": {
+          "en": "Mahshi of all kinds",
+          "ar": "محشي بأنواعه"
+        },
+        "note": {
+          "en": "Stuffed vegetables are a standard companion to the poultry dishes on Sharqia tables.",
+          "ar": "المحشي بأنواعه رفيق أساسي لأطباق الطيور على سفرة الشرقاوية."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://www.almasryalyoum.com/news/details/2848828"
+        ]
+      }
+    ],
+    "eat_note": {
+      "ar": "أفكار أكل على مستوى المحافظة، مش منيو في المكان ده ولا ضمان توفره عنده. بعض الأكلات مصرية عامة ومش حصرية للمحافظة.",
+      "en": "Governorate-level food ideas, not an on-site menu or a guarantee of availability. Some dishes are national staples, not unique to this governorate."
     }
   },
   "tanta": {
@@ -14323,13 +14617,50 @@
         "https://en.wikipedia.org/wiki/Tanta"
       ]
     },
-    "reviewedAt": "2026-11-15",
+    "reviewedAt": "2026-11-16",
     "history": {
       "en": "Tanta's prominence grew around Ahmad al-Badawi and the annual gathering associated with him from the medieval period onward. Religious patronage and trade helped shape the city before later nineteenth- and twentieth-century urban expansion.",
       "ar": "مكانة طنطا كبرت حوالين السيد أحمد البدوي والتجمع السنوي المرتبط به من العصور الوسطى وما بعدها. الرعاية الدينية والتجارة ساعدوا في تشكيل المدينة قبل توسعها العمراني في القرنين التسعتاشر والعشرين.",
       "sources": [
         "https://en.wikipedia.org/wiki/Tanta"
       ]
+    },
+    "eat": [
+      {
+        "name": {
+          "en": "Moulid sweets",
+          "ar": "حلاوة المولد"
+        },
+        "note": {
+          "en": "During the Badawi moulid season, stalls sell sesame, chickpea, nut and honey sweets, and boxes are gifted between families and neighbors.",
+          "ar": "في موسم مولد السيد البدوي، الأكشاك بتبيع حلويات السمسم والحمص والمكسرات والعسل، والعلب بتتهدي بين العيلات والجيران."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://www.worldofstreetfood.com/dish/egypt-delta-halawet-el-moulid",
+          "https://en.wikipedia.org/wiki/Tanta"
+        ]
+      },
+      {
+        "name": {
+          "en": "Roasted chickpeas and Hab El-Aziz",
+          "ar": "شيلس وحب العزيز"
+        },
+        "note": {
+          "en": "Tanta is known for its snack industry, especially roasted chickpeas and confections like Hab El-Aziz.",
+          "ar": "طنطا معروفة بصناعة التسالي، خصوصًا الحمص المحمص وحلويات زي حب العزيز."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Tanta"
+        ]
+      }
+    ],
+    "eat_note": {
+      "ar": "أفكار أكل على مستوى المحافظة، مش منيو في المكان ده ولا ضمان توفره عنده. بعض الأكلات مصرية عامة ومش حصرية للمحافظة.",
+      "en": "Governorate-level food ideas, not an on-site menu or a guarantee of availability. Some dishes are national staples, not unique to this governorate."
     }
   },
   "el-mahalla-el-kubra": {
@@ -14383,7 +14714,44 @@
         "https://en.wikipedia.org/wiki/Tanta"
       ]
     },
-    "reviewedAt": "2026-11-15"
+    "reviewedAt": "2026-11-16",
+    "eat": [
+      {
+        "name": {
+          "en": "Moulid sweets",
+          "ar": "حلاوة المولد"
+        },
+        "note": {
+          "en": "During the Badawi moulid season, stalls sell sesame, chickpea, nut and honey sweets, and boxes are gifted between families and neighbors.",
+          "ar": "في موسم مولد السيد البدوي، الأكشاك بتبيع حلويات السمسم والحمص والمكسرات والعسل، والعلب بتتهدي بين العيلات والجيران."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://www.worldofstreetfood.com/dish/egypt-delta-halawet-el-moulid",
+          "https://en.wikipedia.org/wiki/Tanta"
+        ]
+      },
+      {
+        "name": {
+          "en": "Roasted chickpeas and Hab El-Aziz",
+          "ar": "شيلس وحب العزيز"
+        },
+        "note": {
+          "en": "Tanta is known for its snack industry, especially roasted chickpeas and confections like Hab El-Aziz.",
+          "ar": "طنطا معروفة بصناعة التسالي، خصوصًا الحمص المحمص وحلويات زي حب العزيز."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Tanta"
+        ]
+      }
+    ],
+    "eat_note": {
+      "ar": "أفكار أكل على مستوى المحافظة، مش منيو في المكان ده ولا ضمان توفره عنده. بعض الأكلات مصرية عامة ومش حصرية للمحافظة.",
+      "en": "Governorate-level food ideas, not an on-site menu or a guarantee of availability. Some dishes are national staples, not unique to this governorate."
+    }
   },
   "ahmad-al-badawi-mosque": {
     "see": {
@@ -14429,13 +14797,50 @@
         "https://en.wikipedia.org/wiki/Tanta"
       ]
     },
-    "reviewedAt": "2026-11-15",
+    "reviewedAt": "2026-11-16",
     "history": {
       "en": "The shrine grew after Ahmad al-Badawi's death in the thirteenth century. Mamluk and later rulers expanded and altered the complex, followed by further additions in the twentieth century. The present mosque is the result of several building phases.",
       "ar": "الضريح اتطور بعد وفاة السيد أحمد البدوي في القرن التلتاشر. حكام مماليك واللي جم بعدهم وسعوا المجمع وعدّلوا فيه، وبعدهم إضافات في القرن العشرين. الجامع الحالي نتيجة مراحل بناء متعددة.",
       "sources": [
         "https://en.wikipedia.org/wiki/Ahmad_al-Badawi_Mosque"
       ]
+    },
+    "eat": [
+      {
+        "name": {
+          "en": "Moulid sweets",
+          "ar": "حلاوة المولد"
+        },
+        "note": {
+          "en": "During the Badawi moulid season, stalls sell sesame, chickpea, nut and honey sweets, and boxes are gifted between families and neighbors.",
+          "ar": "في موسم مولد السيد البدوي، الأكشاك بتبيع حلويات السمسم والحمص والمكسرات والعسل، والعلب بتتهدي بين العيلات والجيران."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://www.worldofstreetfood.com/dish/egypt-delta-halawet-el-moulid",
+          "https://en.wikipedia.org/wiki/Tanta"
+        ]
+      },
+      {
+        "name": {
+          "en": "Roasted chickpeas and Hab El-Aziz",
+          "ar": "شيلس وحب العزيز"
+        },
+        "note": {
+          "en": "Tanta is known for its snack industry, especially roasted chickpeas and confections like Hab El-Aziz.",
+          "ar": "طنطا معروفة بصناعة التسالي، خصوصًا الحمص المحمص وحلويات زي حب العزيز."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Tanta"
+        ]
+      }
+    ],
+    "eat_note": {
+      "ar": "أفكار أكل على مستوى المحافظة، مش منيو في المكان ده ولا ضمان توفره عنده. بعض الأكلات مصرية عامة ومش حصرية للمحافظة.",
+      "en": "Governorate-level food ideas, not an on-site menu or a guarantee of availability. Some dishes are national staples, not unique to this governorate."
     }
   },
   "samannud": {
@@ -14489,7 +14894,44 @@
         "https://en.wikipedia.org/wiki/Tanta"
       ]
     },
-    "reviewedAt": "2026-11-15"
+    "reviewedAt": "2026-11-16",
+    "eat": [
+      {
+        "name": {
+          "en": "Moulid sweets",
+          "ar": "حلاوة المولد"
+        },
+        "note": {
+          "en": "During the Badawi moulid season, stalls sell sesame, chickpea, nut and honey sweets, and boxes are gifted between families and neighbors.",
+          "ar": "في موسم مولد السيد البدوي، الأكشاك بتبيع حلويات السمسم والحمص والمكسرات والعسل، والعلب بتتهدي بين العيلات والجيران."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://www.worldofstreetfood.com/dish/egypt-delta-halawet-el-moulid",
+          "https://en.wikipedia.org/wiki/Tanta"
+        ]
+      },
+      {
+        "name": {
+          "en": "Roasted chickpeas and Hab El-Aziz",
+          "ar": "شيلس وحب العزيز"
+        },
+        "note": {
+          "en": "Tanta is known for its snack industry, especially roasted chickpeas and confections like Hab El-Aziz.",
+          "ar": "طنطا معروفة بصناعة التسالي، خصوصًا الحمص المحمص وحلويات زي حب العزيز."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Tanta"
+        ]
+      }
+    ],
+    "eat_note": {
+      "ar": "أفكار أكل على مستوى المحافظة، مش منيو في المكان ده ولا ضمان توفره عنده. بعض الأكلات مصرية عامة ومش حصرية للمحافظة.",
+      "en": "Governorate-level food ideas, not an on-site menu or a guarantee of availability. Some dishes are national staples, not unique to this governorate."
+    }
   },
   "shibin-el-kom": {
     "see": {
@@ -14534,13 +14976,34 @@
         "https://en.wikipedia.org/wiki/Shibin_El_Kom"
       ]
     },
-    "reviewedAt": "2026-11-15",
+    "reviewedAt": "2026-11-16",
     "history": {
       "ar": "شبين الكوم مدينة قديمة في الدلتا وعاصمة المنوفية. دورها الإداري والتعليمي بقى جزء أساسي من شخصيتها: فيها المصالح الحكومية الرئيسية وفروع جامعة المنوفية. وده بيخلي حكايتها أقرب لحياة مدينة جامعة ومركز خدمات، مش لموقع أثري واحد تقدر تختصرها فيه.",
       "en": "Shibin El Kom is a long-established Delta city and Monufia’s capital. Administration and education are central to its identity, with major government offices and branches of Menoufia University. Its story is that of a working university and service city, rather than a place defined by one archaeological monument.",
       "sources": [
         "https://en.wikipedia.org/wiki/Shibin_El_Kom"
       ]
+    },
+    "eat": [
+      {
+        "name": {
+          "en": "Fesikh",
+          "ar": "فسيخ"
+        },
+        "note": {
+          "en": "Slow Food describes the Menoufia area as a main production zone for fesikh, the fermented mullet eaten at Sham el-Nessim. Buy only from trusted makers: badly prepared fesikh can cause food poisoning.",
+          "ar": "مؤسسة سلو فود بتوصف منطقة منوفيا كمنطقة إنتاج أساسية للفسيخ، السمك البوري المخمر بتاع شم النسيم. اشتري من صانع موثوق بس: الفسيخ المتجهز غلط ممكن يسبب تسمم."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://www.fondazioneslowfood.com/en/ark-of-taste-slow-food/fesikh-2/"
+        ]
+      }
+    ],
+    "eat_note": {
+      "ar": "أفكار أكل على مستوى المحافظة، مش منيو في المكان ده ولا ضمان توفره عنده. بعض الأكلات مصرية عامة ومش حصرية للمحافظة.",
+      "en": "Governorate-level food ideas, not an on-site menu or a guarantee of availability. Some dishes are national staples, not unique to this governorate."
     }
   },
   "menouf": {
@@ -14594,7 +15057,28 @@
         "https://en.wikipedia.org/wiki/Shibin_El_Kom"
       ]
     },
-    "reviewedAt": "2026-11-15"
+    "reviewedAt": "2026-11-16",
+    "eat": [
+      {
+        "name": {
+          "en": "Fesikh",
+          "ar": "فسيخ"
+        },
+        "note": {
+          "en": "Slow Food describes the Menoufia area as a main production zone for fesikh, the fermented mullet eaten at Sham el-Nessim. Buy only from trusted makers: badly prepared fesikh can cause food poisoning.",
+          "ar": "مؤسسة سلو فود بتوصف منطقة منوفيا كمنطقة إنتاج أساسية للفسيخ، السمك البوري المخمر بتاع شم النسيم. اشتري من صانع موثوق بس: الفسيخ المتجهز غلط ممكن يسبب تسمم."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://www.fondazioneslowfood.com/en/ark-of-taste-slow-food/fesikh-2/"
+        ]
+      }
+    ],
+    "eat_note": {
+      "ar": "أفكار أكل على مستوى المحافظة، مش منيو في المكان ده ولا ضمان توفره عنده. بعض الأكلات مصرية عامة ومش حصرية للمحافظة.",
+      "en": "Governorate-level food ideas, not an on-site menu or a guarantee of availability. Some dishes are national staples, not unique to this governorate."
+    }
   },
   "buto": {
     "history": {
@@ -14646,7 +15130,43 @@
         "https://en.wikipedia.org/wiki/Kafr_El_Sheikh"
       ]
     },
-    "reviewedAt": "2026-11-15"
+    "reviewedAt": "2026-11-16",
+    "eat": [
+      {
+        "name": {
+          "en": "Baltim fesikh",
+          "ar": "فسيخ بلطيم"
+        },
+        "note": {
+          "en": "Baltim and its neighbors are a national destination for fesikh; buyers travel from other governorates before Sham el-Nessim.",
+          "ar": "بلطيم والمدن اللي حواليها قبلة على مستوى مصر للفسيخ؛ الناس بتسافر من محافظات تانية قبل شم النسيم عشان تشتري."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://www.elwatannews.com/news/details/3253705"
+        ]
+      },
+      {
+        "name": {
+          "en": "Local fish",
+          "ar": "أسماك المحافظة"
+        },
+        "note": {
+          "en": "The governorate is known for fishing and fish processing, with mullet and other catch sold through its fish bourse and coastal towns.",
+          "ar": "المحافظة معروفة بالصيد والتصنيع، والبوري وغيره بيتباع في بورصة الأسماك والمدن الساحلية."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://www.elwatannews.com/news/details/3253705"
+        ]
+      }
+    ],
+    "eat_note": {
+      "ar": "أفكار أكل على مستوى المحافظة، مش منيو في المكان ده ولا ضمان توفره عنده. بعض الأكلات مصرية عامة ومش حصرية للمحافظة.",
+      "en": "Governorate-level food ideas, not an on-site menu or a guarantee of availability. Some dishes are national staples, not unique to this governorate."
+    }
   },
   "lake-burullus": {
     "see": {
@@ -14691,13 +15211,49 @@
         "https://en.wikipedia.org/wiki/Kafr_El_Sheikh"
       ]
     },
-    "reviewedAt": "2026-11-15",
+    "reviewedAt": "2026-11-16",
     "history": {
       "en": "In the early Islamic period, a port near the lake outlet formed part of the Delta coast's defensive network. Connections with the Rosetta branch and changes in sediment and water shaped a landscape used for settlement, navigation and fishing.",
       "ar": "في العصر الإسلامي المبكر، مينا قرب بوغاز البحيرة كانت جزء من شبكة الدفاع عن ساحل الدلتا. الاتصال بفرع رشيد وتغيرات الطمي والمياه شكلوا مكان للسكن والملاحة والصيد.",
       "sources": [
         "https://en.wikipedia.org/wiki/Lake_Burullus"
       ]
+    },
+    "eat": [
+      {
+        "name": {
+          "en": "Baltim fesikh",
+          "ar": "فسيخ بلطيم"
+        },
+        "note": {
+          "en": "Baltim and its neighbors are a national destination for fesikh; buyers travel from other governorates before Sham el-Nessim.",
+          "ar": "بلطيم والمدن اللي حواليها قبلة على مستوى مصر للفسيخ؛ الناس بتسافر من محافظات تانية قبل شم النسيم عشان تشتري."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://www.elwatannews.com/news/details/3253705"
+        ]
+      },
+      {
+        "name": {
+          "en": "Local fish",
+          "ar": "أسماك المحافظة"
+        },
+        "note": {
+          "en": "The governorate is known for fishing and fish processing, with mullet and other catch sold through its fish bourse and coastal towns.",
+          "ar": "المحافظة معروفة بالصيد والتصنيع، والبوري وغيره بيتباع في بورصة الأسماك والمدن الساحلية."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://www.elwatannews.com/news/details/3253705"
+        ]
+      }
+    ],
+    "eat_note": {
+      "ar": "أفكار أكل على مستوى المحافظة، مش منيو في المكان ده ولا ضمان توفره عنده. بعض الأكلات مصرية عامة ومش حصرية للمحافظة.",
+      "en": "Governorate-level food ideas, not an on-site menu or a guarantee of availability. Some dishes are national staples, not unique to this governorate."
     }
   },
   "fuwwah": {
@@ -14753,7 +15309,7 @@
         "https://en.wikipedia.org/wiki/Kafr_El_Sheikh"
       ]
     },
-    "reviewedAt": "2026-11-15",
+    "reviewedAt": "2026-11-16",
     "history": {
       "en": "Fuwwah prospered as a river-trading town on the Rosetta branch in the medieval period. Religious buildings, commercial structures and a nineteenth-century fez factory record different phases of that economy, alongside the later weaving traditions.",
       "ar": "فوه ازدهرت كمدينة تجارة نهرية على فرع رشيد في العصور الوسطى. المباني الدينية والمنشآت التجارية ومصنع الطرابيش من القرن التسعتاشر بيسجلوا مراحل مختلفة من اقتصادها، جنب تقاليد النسيج اللاحقة.",
@@ -14761,6 +15317,42 @@
         "https://en.wikipedia.org/wiki/Fuwwah",
         "https://kfs.gov.eg/ar-fuwah/"
       ]
+    },
+    "eat": [
+      {
+        "name": {
+          "en": "Baltim fesikh",
+          "ar": "فسيخ بلطيم"
+        },
+        "note": {
+          "en": "Baltim and its neighbors are a national destination for fesikh; buyers travel from other governorates before Sham el-Nessim.",
+          "ar": "بلطيم والمدن اللي حواليها قبلة على مستوى مصر للفسيخ؛ الناس بتسافر من محافظات تانية قبل شم النسيم عشان تشتري."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://www.elwatannews.com/news/details/3253705"
+        ]
+      },
+      {
+        "name": {
+          "en": "Local fish",
+          "ar": "أسماك المحافظة"
+        },
+        "note": {
+          "en": "The governorate is known for fishing and fish processing, with mullet and other catch sold through its fish bourse and coastal towns.",
+          "ar": "المحافظة معروفة بالصيد والتصنيع، والبوري وغيره بيتباع في بورصة الأسماك والمدن الساحلية."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://www.elwatannews.com/news/details/3253705"
+        ]
+      }
+    ],
+    "eat_note": {
+      "ar": "أفكار أكل على مستوى المحافظة، مش منيو في المكان ده ولا ضمان توفره عنده. بعض الأكلات مصرية عامة ومش حصرية للمحافظة.",
+      "en": "Governorate-level food ideas, not an on-site menu or a guarantee of availability. Some dishes are national staples, not unique to this governorate."
     }
   },
   "rosetta": {
@@ -14808,7 +15400,43 @@
         "https://en.wikipedia.org/wiki/Damanhur"
       ]
     },
-    "reviewedAt": "2026-11-15"
+    "reviewedAt": "2026-11-16",
+    "eat": [
+      {
+        "name": {
+          "en": "Beheira artichokes",
+          "ar": "خرشوف البحيرة"
+        },
+        "note": {
+          "en": "Beheira is a center of Egypt’s artichoke farming, with agricultural programs devoted to developing the crop.",
+          "ar": "البحيرة من مراكز زراعة الخرشوف في مصر، وفيها برامج زراعية مخصصة لتطوير المحصول."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://agri.ahram.org.eg/News/169542.aspx"
+        ]
+      },
+      {
+        "name": {
+          "en": "Rosetta fish",
+          "ar": "سمك رشيد"
+        },
+        "note": {
+          "en": "Fishing boats shuttle between sea and river to supply Rosetta’s fish market and the fish restaurants along its coastal road.",
+          "ar": "مراكب الصيد بتروح وتيجي بين البحر والنيل عشان تغذي سوق السمك في رشيد والمطاعم السمكية على طريق الساحل."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://worldcrunch.com/food-travel/postcards-from-rosetta-where-the-nile-meets-the-sea/"
+        ]
+      }
+    ],
+    "eat_note": {
+      "ar": "أفكار أكل على مستوى المحافظة، مش منيو في المكان ده ولا ضمان توفره عنده. بعض الأكلات مصرية عامة ومش حصرية للمحافظة.",
+      "en": "Governorate-level food ideas, not an on-site menu or a guarantee of availability. Some dishes are national staples, not unique to this governorate."
+    }
   },
   "wadi-el-natrun": {
     "history": {
@@ -14859,7 +15487,43 @@
         "https://en.wikipedia.org/wiki/Damanhur"
       ]
     },
-    "reviewedAt": "2026-11-15"
+    "reviewedAt": "2026-11-16",
+    "eat": [
+      {
+        "name": {
+          "en": "Beheira artichokes",
+          "ar": "خرشوف البحيرة"
+        },
+        "note": {
+          "en": "Beheira is a center of Egypt’s artichoke farming, with agricultural programs devoted to developing the crop.",
+          "ar": "البحيرة من مراكز زراعة الخرشوف في مصر، وفيها برامج زراعية مخصصة لتطوير المحصول."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://agri.ahram.org.eg/News/169542.aspx"
+        ]
+      },
+      {
+        "name": {
+          "en": "Rosetta fish",
+          "ar": "سمك رشيد"
+        },
+        "note": {
+          "en": "Fishing boats shuttle between sea and river to supply Rosetta’s fish market and the fish restaurants along its coastal road.",
+          "ar": "مراكب الصيد بتروح وتيجي بين البحر والنيل عشان تغذي سوق السمك في رشيد والمطاعم السمكية على طريق الساحل."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://worldcrunch.com/food-travel/postcards-from-rosetta-where-the-nile-meets-the-sea/"
+        ]
+      }
+    ],
+    "eat_note": {
+      "ar": "أفكار أكل على مستوى المحافظة، مش منيو في المكان ده ولا ضمان توفره عنده. بعض الأكلات مصرية عامة ومش حصرية للمحافظة.",
+      "en": "Governorate-level food ideas, not an on-site menu or a guarantee of availability. Some dishes are national staples, not unique to this governorate."
+    }
   },
   "damanhur": {
     "history": {
@@ -14895,7 +15559,43 @@
         "https://en.wikipedia.org/wiki/Damanhur"
       ]
     },
-    "reviewedAt": "2026-11-15"
+    "reviewedAt": "2026-11-16",
+    "eat": [
+      {
+        "name": {
+          "en": "Beheira artichokes",
+          "ar": "خرشوف البحيرة"
+        },
+        "note": {
+          "en": "Beheira is a center of Egypt’s artichoke farming, with agricultural programs devoted to developing the crop.",
+          "ar": "البحيرة من مراكز زراعة الخرشوف في مصر، وفيها برامج زراعية مخصصة لتطوير المحصول."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://agri.ahram.org.eg/News/169542.aspx"
+        ]
+      },
+      {
+        "name": {
+          "en": "Rosetta fish",
+          "ar": "سمك رشيد"
+        },
+        "note": {
+          "en": "Fishing boats shuttle between sea and river to supply Rosetta’s fish market and the fish restaurants along its coastal road.",
+          "ar": "مراكب الصيد بتروح وتيجي بين البحر والنيل عشان تغذي سوق السمك في رشيد والمطاعم السمكية على طريق الساحل."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://worldcrunch.com/food-travel/postcards-from-rosetta-where-the-nile-meets-the-sea/"
+        ]
+      }
+    ],
+    "eat_note": {
+      "ar": "أفكار أكل على مستوى المحافظة، مش منيو في المكان ده ولا ضمان توفره عنده. بعض الأكلات مصرية عامة ومش حصرية للمحافظة.",
+      "en": "Governorate-level food ideas, not an on-site menu or a guarantee of availability. Some dishes are national staples, not unique to this governorate."
+    }
   },
   "monastery-of-saint-macarius-the-great": {
     "history": {
@@ -14946,7 +15646,43 @@
         "https://en.wikipedia.org/wiki/Damanhur"
       ]
     },
-    "reviewedAt": "2026-11-15"
+    "reviewedAt": "2026-11-16",
+    "eat": [
+      {
+        "name": {
+          "en": "Beheira artichokes",
+          "ar": "خرشوف البحيرة"
+        },
+        "note": {
+          "en": "Beheira is a center of Egypt’s artichoke farming, with agricultural programs devoted to developing the crop.",
+          "ar": "البحيرة من مراكز زراعة الخرشوف في مصر، وفيها برامج زراعية مخصصة لتطوير المحصول."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://agri.ahram.org.eg/News/169542.aspx"
+        ]
+      },
+      {
+        "name": {
+          "en": "Rosetta fish",
+          "ar": "سمك رشيد"
+        },
+        "note": {
+          "en": "Fishing boats shuttle between sea and river to supply Rosetta’s fish market and the fish restaurants along its coastal road.",
+          "ar": "مراكب الصيد بتروح وتيجي بين البحر والنيل عشان تغذي سوق السمك في رشيد والمطاعم السمكية على طريق الساحل."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://worldcrunch.com/food-travel/postcards-from-rosetta-where-the-nile-meets-the-sea/"
+        ]
+      }
+    ],
+    "eat_note": {
+      "ar": "أفكار أكل على مستوى المحافظة، مش منيو في المكان ده ولا ضمان توفره عنده. بعض الأكلات مصرية عامة ومش حصرية للمحافظة.",
+      "en": "Governorate-level food ideas, not an on-site menu or a guarantee of availability. Some dishes are national staples, not unique to this governorate."
+    }
   },
   "port-said-lighthouse": {
     "history": {
@@ -14998,7 +15734,28 @@
         "https://www.nodc.noaa.gov/archive/arc0216/0253808/2.2/data/0-data/Region-1-WMO-Normals-9120/Egypt/CSV/PortSaidElgamil_62332.csv"
       ]
     },
-    "reviewedAt": "2026-11-15"
+    "reviewedAt": "2026-11-16",
+    "eat": [
+      {
+        "name": {
+          "en": "Seafood on the Corniche",
+          "ar": "مأكولات بحرية على الكورنيش"
+        },
+        "note": {
+          "en": "Port Said is renowned for seafood; fish restaurants cluster between Atef El-Sadat street and the Corniche promenade.",
+          "ar": "بورسعيد مشهورة بالمأكولات البحرية؛ مطاعم السمك متجمعة بين شارع عاطف السادات والكورنيش."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://travel2egypt.org/guide/port-said/port-said-food-and-drink"
+        ]
+      }
+    ],
+    "eat_note": {
+      "ar": "أفكار أكل على مستوى المحافظة، مش منيو في المكان ده ولا ضمان توفره عنده. بعض الأكلات مصرية عامة ومش حصرية للمحافظة.",
+      "en": "Governorate-level food ideas, not an on-site menu or a guarantee of availability. Some dishes are national staples, not unique to this governorate."
+    }
   },
   "port-fuad": {
     "history": {
@@ -15050,7 +15807,28 @@
         "https://www.nodc.noaa.gov/archive/arc0216/0253808/2.2/data/0-data/Region-1-WMO-Normals-9120/Egypt/CSV/PortSaidElgamil_62332.csv"
       ]
     },
-    "reviewedAt": "2026-11-15"
+    "reviewedAt": "2026-11-16",
+    "eat": [
+      {
+        "name": {
+          "en": "Seafood on the Corniche",
+          "ar": "مأكولات بحرية على الكورنيش"
+        },
+        "note": {
+          "en": "Port Said is renowned for seafood; fish restaurants cluster between Atef El-Sadat street and the Corniche promenade.",
+          "ar": "بورسعيد مشهورة بالمأكولات البحرية؛ مطاعم السمك متجمعة بين شارع عاطف السادات والكورنيش."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://travel2egypt.org/guide/port-said/port-said-food-and-drink"
+        ]
+      }
+    ],
+    "eat_note": {
+      "ar": "أفكار أكل على مستوى المحافظة، مش منيو في المكان ده ولا ضمان توفره عنده. بعض الأكلات مصرية عامة ومش حصرية للمحافظة.",
+      "en": "Governorate-level food ideas, not an on-site menu or a guarantee of availability. Some dishes are national staples, not unique to this governorate."
+    }
   },
   "port-said": {
     "history": {
@@ -15113,7 +15891,28 @@
         "https://www.nodc.noaa.gov/archive/arc0216/0253808/2.2/data/0-data/Region-1-WMO-Normals-9120/Egypt/CSV/PortSaidElgamil_62332.csv"
       ]
     },
-    "reviewedAt": "2026-11-15"
+    "reviewedAt": "2026-11-16",
+    "eat": [
+      {
+        "name": {
+          "en": "Seafood on the Corniche",
+          "ar": "مأكولات بحرية على الكورنيش"
+        },
+        "note": {
+          "en": "Port Said is renowned for seafood; fish restaurants cluster between Atef El-Sadat street and the Corniche promenade.",
+          "ar": "بورسعيد مشهورة بالمأكولات البحرية؛ مطاعم السمك متجمعة بين شارع عاطف السادات والكورنيش."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://travel2egypt.org/guide/port-said/port-said-food-and-drink"
+        ]
+      }
+    ],
+    "eat_note": {
+      "ar": "أفكار أكل على مستوى المحافظة، مش منيو في المكان ده ولا ضمان توفره عنده. بعض الأكلات مصرية عامة ومش حصرية للمحافظة.",
+      "en": "Governorate-level food ideas, not an on-site menu or a guarantee of availability. Some dishes are national staples, not unique to this governorate."
+    }
   },
   "suez": {
     "history": {
@@ -15164,7 +15963,43 @@
         "https://en.wikipedia.org/wiki/Suez"
       ]
     },
-    "reviewedAt": "2026-11-15"
+    "reviewedAt": "2026-11-16",
+    "eat": [
+      {
+        "name": {
+          "en": "Sea tomatoes",
+          "ar": "طماطم البحر"
+        },
+        "note": {
+          "en": "A Suez specialty: oysters gathered from the Gulf’s coral reefs, served grilled or ready in plates with lemon and tahini.",
+          "ar": "أكلة سويسية مميزة: محار بيتجمع من شعاب خليج السويس، وبتتاكل مشوية أو جاهزة في طبق باللمون والطحينة."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://www.egypttoday.com/Article/15/116318/In-pics-Why-Suez-citizens-love-Sea-Tomatoes-Read-our"
+        ]
+      },
+      {
+        "name": {
+          "en": "Gulf and canal fish",
+          "ar": "أسماك القناة والخليج"
+        },
+        "note": {
+          "en": "The city’s seafood table also runs to seashells and the fish of the canal and the Gulf of Suez.",
+          "ar": "سفرة السويس البحرية فيها كمان محارات وأسماك القناة وخليج السويس."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://www.egypttoday.com/Article/15/116318/In-pics-Why-Suez-citizens-love-Sea-Tomatoes-Read-our"
+        ]
+      }
+    ],
+    "eat_note": {
+      "ar": "أفكار أكل على مستوى المحافظة، مش منيو في المكان ده ولا ضمان توفره عنده. بعض الأكلات مصرية عامة ومش حصرية للمحافظة.",
+      "en": "Governorate-level food ideas, not an on-site menu or a guarantee of availability. Some dishes are national staples, not unique to this governorate."
+    }
   },
   "ain-sokhna": {
     "see": {
@@ -15193,13 +16028,49 @@
         "https://en.wikipedia.org/wiki/Suez"
       ]
     },
-    "reviewedAt": "2026-11-15",
+    "reviewedAt": "2026-11-16",
     "history": {
       "en": "Excavations in the Ain Sokhna area have identified an ancient port linked to expeditions across the Red Sea and to Sinai mining routes during the Old and Middle Kingdoms. This archaeological site is distinct from the modern resort coastline; public access to it is not established here.",
       "ar": "حفائر منطقة العين السخنة كشفت مينا قديمة مرتبطة برحلات البحر الأحمر وطرق التعدين في سيناء في الدولتين القديمة والوسطى. الموقع الأثري ده غير شريط المنتجعات الحديث؛ والدخول له كزيارة عامة مش مثبت هنا.",
       "sources": [
         "https://en.wikipedia.org/wiki/Ain_Sokhna"
       ]
+    },
+    "eat": [
+      {
+        "name": {
+          "en": "Sea tomatoes",
+          "ar": "طماطم البحر"
+        },
+        "note": {
+          "en": "A Suez specialty: oysters gathered from the Gulf’s coral reefs, served grilled or ready in plates with lemon and tahini.",
+          "ar": "أكلة سويسية مميزة: محار بيتجمع من شعاب خليج السويس، وبتتاكل مشوية أو جاهزة في طبق باللمون والطحينة."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://www.egypttoday.com/Article/15/116318/In-pics-Why-Suez-citizens-love-Sea-Tomatoes-Read-our"
+        ]
+      },
+      {
+        "name": {
+          "en": "Gulf and canal fish",
+          "ar": "أسماك القناة والخليج"
+        },
+        "note": {
+          "en": "The city’s seafood table also runs to seashells and the fish of the canal and the Gulf of Suez.",
+          "ar": "سفرة السويس البحرية فيها كمان محارات وأسماك القناة وخليج السويس."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://www.egypttoday.com/Article/15/116318/In-pics-Why-Suez-citizens-love-Sea-Tomatoes-Read-our"
+        ]
+      }
+    ],
+    "eat_note": {
+      "ar": "أفكار أكل على مستوى المحافظة، مش منيو في المكان ده ولا ضمان توفره عنده. بعض الأكلات مصرية عامة ومش حصرية للمحافظة.",
+      "en": "Governorate-level food ideas, not an on-site menu or a guarantee of availability. Some dishes are national staples, not unique to this governorate."
     }
   },
   "suez-port": {
@@ -15244,13 +16115,49 @@
         "https://en.wikipedia.org/wiki/Suez"
       ]
     },
-    "reviewedAt": "2026-11-15",
+    "reviewedAt": "2026-11-16",
     "history": {
       "en": "Port Tewfik developed as a Suez Canal Company port town during the nineteenth century. Its planned buildings and housing reflected the company's organization of work and residence at the canal's southern entrance.",
       "ar": "بورتوفيق اتطور كمدينة مينا تابعة لشركة قناة السويس في القرن التسعتاشر. مبانيه ومساكنه المخططة عكست تنظيم الشركة للشغل والسكن عند مدخل القناة الجنوبي.",
       "sources": [
         "https://en.wikipedia.org/wiki/Suez_Port"
       ]
+    },
+    "eat": [
+      {
+        "name": {
+          "en": "Sea tomatoes",
+          "ar": "طماطم البحر"
+        },
+        "note": {
+          "en": "A Suez specialty: oysters gathered from the Gulf’s coral reefs, served grilled or ready in plates with lemon and tahini.",
+          "ar": "أكلة سويسية مميزة: محار بيتجمع من شعاب خليج السويس، وبتتاكل مشوية أو جاهزة في طبق باللمون والطحينة."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://www.egypttoday.com/Article/15/116318/In-pics-Why-Suez-citizens-love-Sea-Tomatoes-Read-our"
+        ]
+      },
+      {
+        "name": {
+          "en": "Gulf and canal fish",
+          "ar": "أسماك القناة والخليج"
+        },
+        "note": {
+          "en": "The city’s seafood table also runs to seashells and the fish of the canal and the Gulf of Suez.",
+          "ar": "سفرة السويس البحرية فيها كمان محارات وأسماك القناة وخليج السويس."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://www.egypttoday.com/Article/15/116318/In-pics-Why-Suez-citizens-love-Sea-Tomatoes-Read-our"
+        ]
+      }
+    ],
+    "eat_note": {
+      "ar": "أفكار أكل على مستوى المحافظة، مش منيو في المكان ده ولا ضمان توفره عنده. بعض الأكلات مصرية عامة ومش حصرية للمحافظة.",
+      "en": "Governorate-level food ideas, not an on-site menu or a guarantee of availability. Some dishes are national staples, not unique to this governorate."
     }
   },
   "ismailia": {
@@ -15367,7 +16274,43 @@
         "https://en.wikipedia.org/wiki/Ismailia"
       ]
     },
-    "reviewedAt": "2026-11-15"
+    "reviewedAt": "2026-11-16",
+    "eat": [
+      {
+        "name": {
+          "en": "Ismailia mangoes",
+          "ar": "مانجو الإسماعيلية"
+        },
+        "note": {
+          "en": "The governorate is famous for mango farms, with a harvest season around July and August and an annual mango festival.",
+          "ar": "المحافظة مشهورة بمزارع المانجو، وموسم الحصاد حوالين يوليو وأغسطس ومعاه مهرجان مانجو سنوي."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://egyptianstreets.com/2025/08/31/weathering-the-storm-how-ismailias-mango-industry-is-adapting-to-climate-change-challenges/"
+        ]
+      },
+      {
+        "name": {
+          "en": "Feteer meshaltet",
+          "ar": "فطير مشلت"
+        },
+        "note": {
+          "en": "Farm visits in the governorate often open with feteer meshaltet served with honey or white cheese.",
+          "ar": "زيارات المزارع في المحافظة بتفتح غالبًا بفطير مشلت بالعسل أو الجبنة البيضا."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://egyptianstreets.com/2025/08/31/weathering-the-storm-how-ismailias-mango-industry-is-adapting-to-climate-change-challenges/"
+        ]
+      }
+    ],
+    "eat_note": {
+      "ar": "أفكار أكل على مستوى المحافظة، مش منيو في المكان ده ولا ضمان توفره عنده. بعض الأكلات مصرية عامة ومش حصرية للمحافظة.",
+      "en": "Governorate-level food ideas, not an on-site menu or a guarantee of availability. Some dishes are national staples, not unique to this governorate."
+    }
   },
   "great-bitter-lake": {
     "history": {
@@ -15419,7 +16362,43 @@
         "https://en.wikipedia.org/wiki/Ismailia"
       ]
     },
-    "reviewedAt": "2026-11-15"
+    "reviewedAt": "2026-11-16",
+    "eat": [
+      {
+        "name": {
+          "en": "Ismailia mangoes",
+          "ar": "مانجو الإسماعيلية"
+        },
+        "note": {
+          "en": "The governorate is famous for mango farms, with a harvest season around July and August and an annual mango festival.",
+          "ar": "المحافظة مشهورة بمزارع المانجو، وموسم الحصاد حوالين يوليو وأغسطس ومعاه مهرجان مانجو سنوي."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://egyptianstreets.com/2025/08/31/weathering-the-storm-how-ismailias-mango-industry-is-adapting-to-climate-change-challenges/"
+        ]
+      },
+      {
+        "name": {
+          "en": "Feteer meshaltet",
+          "ar": "فطير مشلت"
+        },
+        "note": {
+          "en": "Farm visits in the governorate often open with feteer meshaltet served with honey or white cheese.",
+          "ar": "زيارات المزارع في المحافظة بتفتح غالبًا بفطير مشلت بالعسل أو الجبنة البيضا."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://egyptianstreets.com/2025/08/31/weathering-the-storm-how-ismailias-mango-industry-is-adapting-to-climate-change-challenges/"
+        ]
+      }
+    ],
+    "eat_note": {
+      "ar": "أفكار أكل على مستوى المحافظة، مش منيو في المكان ده ولا ضمان توفره عنده. بعض الأكلات مصرية عامة ومش حصرية للمحافظة.",
+      "en": "Governorate-level food ideas, not an on-site menu or a guarantee of availability. Some dishes are national staples, not unique to this governorate."
+    }
   },
   "arish": {
     "history": {
@@ -15455,7 +16434,44 @@
         "https://en.wikipedia.org/wiki/Arish"
       ]
     },
-    "reviewedAt": "2026-11-15"
+    "reviewedAt": "2026-11-16",
+    "eat": [
+      {
+        "name": {
+          "en": "Lake Bardawil fish",
+          "ar": "أسماك بحيرة البردويل"
+        },
+        "note": {
+          "en": "The lagoon’s sea bass, bream and mullet have a strong reputation across Egypt; fresh grilled fish is the defining local meal.",
+          "ar": "قاروص ودنيس وبوري البردويل ليهم سمعة قوية في مصر كله؛ السمك الطازة المشوي هو الأكلة المعرفة للمنطقة."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://travel2egypt.org/guide/al-arish/food-in-al-arish"
+        ]
+      },
+      {
+        "name": {
+          "en": "Bedouin breads",
+          "ar": "العيش البدوي والفراشيح"
+        },
+        "note": {
+          "en": "North Sinai’s Bedouin table includes flatbreads baked on coals, like farasheeh and malla bread, beside tea brewed with desert herbs.",
+          "ar": "سفرة بدو شمال سيناء فيها عيش بيتخبز على الجمر زي الفراشيح وخبز الملة، جنب الشاي بأعشاب الصحراء."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://tableya.net/recipes/the-breads-of-egypt-farasheeh",
+          "https://travel2egypt.org/guide/al-arish/food-in-al-arish"
+        ]
+      }
+    ],
+    "eat_note": {
+      "ar": "أفكار أكل على مستوى المحافظة، مش منيو في المكان ده ولا ضمان توفره عنده. بعض الأكلات مصرية عامة ومش حصرية للمحافظة.",
+      "en": "Governorate-level food ideas, not an on-site menu or a guarantee of availability. Some dishes are national staples, not unique to this governorate."
+    }
   },
   "lake-bardawil": {
     "see": {
@@ -15484,13 +16500,50 @@
         "https://en.wikipedia.org/wiki/Arish"
       ]
     },
-    "reviewedAt": "2026-11-15",
+    "reviewedAt": "2026-11-16",
     "history": {
       "ar": "البردويل اتسجلت كموقع رامسار رقم 407 يوم 9 سبتمبر 1988. سجل الاتفاقية بيصف بحيرتين شديدتي الملوحة متصلتين، بجزر وألسنة أرضية، وليهم دور في تكاثر الأسماك وهجرة الطيور. الوصف البيئي في السجل تاريخي، وآخر ورقة معلومات منشورة فيه راجعة لسنة 1994.",
       "en": "Bardawil was designated Ramsar site 407 on 9 September 1988. The convention’s register describes two interconnected hypersaline lagoons with islands and peninsulas, important for fish spawning and migrating birds. The register’s ecological account is historical: its latest published information sheet dates to 1994.",
       "sources": [
         "https://rsis.ramsar.org/ris/407"
       ]
+    },
+    "eat": [
+      {
+        "name": {
+          "en": "Lake Bardawil fish",
+          "ar": "أسماك بحيرة البردويل"
+        },
+        "note": {
+          "en": "The lagoon’s sea bass, bream and mullet have a strong reputation across Egypt; fresh grilled fish is the defining local meal.",
+          "ar": "قاروص ودنيس وبوري البردويل ليهم سمعة قوية في مصر كله؛ السمك الطازة المشوي هو الأكلة المعرفة للمنطقة."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://travel2egypt.org/guide/al-arish/food-in-al-arish"
+        ]
+      },
+      {
+        "name": {
+          "en": "Bedouin breads",
+          "ar": "العيش البدوي والفراشيح"
+        },
+        "note": {
+          "en": "North Sinai’s Bedouin table includes flatbreads baked on coals, like farasheeh and malla bread, beside tea brewed with desert herbs.",
+          "ar": "سفرة بدو شمال سيناء فيها عيش بيتخبز على الجمر زي الفراشيح وخبز الملة، جنب الشاي بأعشاب الصحراء."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://tableya.net/recipes/the-breads-of-egypt-farasheeh",
+          "https://travel2egypt.org/guide/al-arish/food-in-al-arish"
+        ]
+      }
+    ],
+    "eat_note": {
+      "ar": "أفكار أكل على مستوى المحافظة، مش منيو في المكان ده ولا ضمان توفره عنده. بعض الأكلات مصرية عامة ومش حصرية للمحافظة.",
+      "en": "Governorate-level food ideas, not an on-site menu or a guarantee of availability. Some dishes are national staples, not unique to this governorate."
     }
   },
   "wadi-al-hitan": {
@@ -15542,7 +16595,58 @@
         "https://en.wikipedia.org/wiki/Faiyum"
       ]
     },
-    "reviewedAt": "2026-11-15"
+    "reviewedAt": "2026-11-16",
+    "eat": [
+      {
+        "name": {
+          "en": "Duck dishes",
+          "ar": "أطباق البط"
+        },
+        "note": {
+          "en": "Fayoum is known for duck, including duck with orange sauce.",
+          "ar": "الفيوم معروفة بأطباق البط، ومنها البط بصوص البرتقال."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://www.egypttoday.com/Article/15/48071/Fayoum-Chasing-Waterfalls"
+        ]
+      },
+      {
+        "name": {
+          "en": "Grilled Lake Qarun fish",
+          "ar": "سمك قارون مشوي"
+        },
+        "note": {
+          "en": "Grilled fish from Lake Qarun is a local favorite.",
+          "ar": "السمك المشوي من بحيرة قارون من الأكلات المحبوبة محليًا."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://www.egypttoday.com/Article/15/48071/Fayoum-Chasing-Waterfalls"
+        ]
+      },
+      {
+        "name": {
+          "en": "Fitir from the baladi oven",
+          "ar": "فطير الفرن البلدي"
+        },
+        "note": {
+          "en": "Fitir and bread served hot from the adobe-sealed baladi oven carry a smoky, earthy taste.",
+          "ar": "الفطير والعيش الطالع سخن من الفرن البلدي المقفول بالطين طعمه مدخن وأرضي مميز."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://www.egypttoday.com/Article/15/48071/Fayoum-Chasing-Waterfalls"
+        ]
+      }
+    ],
+    "eat_note": {
+      "ar": "أفكار أكل على مستوى المحافظة، مش منيو في المكان ده ولا ضمان توفره عنده. بعض الأكلات مصرية عامة ومش حصرية للمحافظة.",
+      "en": "Governorate-level food ideas, not an on-site menu or a guarantee of availability. Some dishes are national staples, not unique to this governorate."
+    }
   },
   "wadi-el-rayan": {
     "see": {
@@ -15587,13 +16691,64 @@
         "https://en.wikipedia.org/wiki/Faiyum"
       ]
     },
-    "reviewedAt": "2026-11-15",
+    "reviewedAt": "2026-11-16",
     "history": {
       "en": "The present lakes were formed through the management of agricultural drainage water. The upper and lower lakes and the falls between them show how a desert depression became a modern wetland landscape. Its water story is not that of an unchanged ancient natural lake.",
       "ar": "البحيرات الحالية اتكونت من إدارة مياه الصرف الزراعي. البحيرة العليا والسفلى والشلالات بينهم بيوضحوا إزاي منخفض صحراوي اتحول لمنطقة رطبة حديثة. حكاية المياه هنا مش بحيرة طبيعية قديمة فضلت من غير تغيير.",
       "sources": [
         "https://en.wikipedia.org/wiki/Wadi_El_Rayan"
       ]
+    },
+    "eat": [
+      {
+        "name": {
+          "en": "Duck dishes",
+          "ar": "أطباق البط"
+        },
+        "note": {
+          "en": "Fayoum is known for duck, including duck with orange sauce.",
+          "ar": "الفيوم معروفة بأطباق البط، ومنها البط بصوص البرتقال."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://www.egypttoday.com/Article/15/48071/Fayoum-Chasing-Waterfalls"
+        ]
+      },
+      {
+        "name": {
+          "en": "Grilled Lake Qarun fish",
+          "ar": "سمك قارون مشوي"
+        },
+        "note": {
+          "en": "Grilled fish from Lake Qarun is a local favorite.",
+          "ar": "السمك المشوي من بحيرة قارون من الأكلات المحبوبة محليًا."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://www.egypttoday.com/Article/15/48071/Fayoum-Chasing-Waterfalls"
+        ]
+      },
+      {
+        "name": {
+          "en": "Fitir from the baladi oven",
+          "ar": "فطير الفرن البلدي"
+        },
+        "note": {
+          "en": "Fitir and bread served hot from the adobe-sealed baladi oven carry a smoky, earthy taste.",
+          "ar": "الفطير والعيش الطالع سخن من الفرن البلدي المقفول بالطين طعمه مدخن وأرضي مميز."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://www.egypttoday.com/Article/15/48071/Fayoum-Chasing-Waterfalls"
+        ]
+      }
+    ],
+    "eat_note": {
+      "ar": "أفكار أكل على مستوى المحافظة، مش منيو في المكان ده ولا ضمان توفره عنده. بعض الأكلات مصرية عامة ومش حصرية للمحافظة.",
+      "en": "Governorate-level food ideas, not an on-site menu or a guarantee of availability. Some dishes are national staples, not unique to this governorate."
     }
   },
   "meidum": {
@@ -15646,7 +16801,44 @@
         "https://en.wikipedia.org/wiki/Beni_Suef"
       ]
     },
-    "reviewedAt": "2026-11-15"
+    "reviewedAt": "2026-11-16",
+    "eat": [
+      {
+        "name": {
+          "en": "Battaw bread",
+          "ar": "عيش بتاو"
+        },
+        "note": {
+          "en": "A crisp countryside bread from Beni Suef’s villages, baked in clay ovens and eaten with butter, white cheese or mesh.",
+          "ar": "عيش ريفي مقرمش من قرى بني سويف، بيتخبز في فرن طيني وبتتاكل بالزبدة الفلاحي أو الجبنة البيضا أو المش."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://sqawoa.com/archives/29464"
+        ]
+      },
+      {
+        "name": {
+          "en": "Kishk",
+          "ar": "كشك"
+        },
+        "note": {
+          "en": "Fermented wheat-and-milk kishk is a stored staple of the governorate’s homes and appears on Ramadan tables with chicken.",
+          "ar": "الكشك المخمر من القمح واللبن مخزون أساسي في بيوت المحافظة وبيطلع على سفرة رمضان مع الفراخ."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://sqawoa.com/archives/29464",
+          "https://www.elwatannews.com/news/details/8056563"
+        ]
+      }
+    ],
+    "eat_note": {
+      "ar": "أفكار أكل على مستوى المحافظة، مش منيو في المكان ده ولا ضمان توفره عنده. بعض الأكلات مصرية عامة ومش حصرية للمحافظة.",
+      "en": "Governorate-level food ideas, not an on-site menu or a guarantee of availability. Some dishes are national staples, not unique to this governorate."
+    }
   },
   "beni-suef": {
     "see": {
@@ -15691,13 +16883,50 @@
         "https://en.wikipedia.org/wiki/Beni_Suef"
       ]
     },
-    "reviewedAt": "2026-11-15",
+    "reviewedAt": "2026-11-16",
     "history": {
       "en": "Beni Suef grew in importance in the medieval period with textile manufacturing and later became a provincial administrative center under Muhammad Ali. It is distinct from ancient Heracleopolis at nearby Ihnasya.",
       "ar": "أهمية بني سويف كبرت في العصور الوسطى مع صناعة النسيج، وبعد كده بقت مركز إداري إقليمي في عهد محمد علي. وهي غير هيراكليوبوليس القديمة في إهناسيا القريبة.",
       "sources": [
         "https://en.wikipedia.org/wiki/Beni_Suef"
       ]
+    },
+    "eat": [
+      {
+        "name": {
+          "en": "Battaw bread",
+          "ar": "عيش بتاو"
+        },
+        "note": {
+          "en": "A crisp countryside bread from Beni Suef’s villages, baked in clay ovens and eaten with butter, white cheese or mesh.",
+          "ar": "عيش ريفي مقرمش من قرى بني سويف، بيتخبز في فرن طيني وبتتاكل بالزبدة الفلاحي أو الجبنة البيضا أو المش."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://sqawoa.com/archives/29464"
+        ]
+      },
+      {
+        "name": {
+          "en": "Kishk",
+          "ar": "كشك"
+        },
+        "note": {
+          "en": "Fermented wheat-and-milk kishk is a stored staple of the governorate’s homes and appears on Ramadan tables with chicken.",
+          "ar": "الكشك المخمر من القمح واللبن مخزون أساسي في بيوت المحافظة وبيطلع على سفرة رمضان مع الفراخ."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://sqawoa.com/archives/29464",
+          "https://www.elwatannews.com/news/details/8056563"
+        ]
+      }
+    ],
+    "eat_note": {
+      "ar": "أفكار أكل على مستوى المحافظة، مش منيو في المكان ده ولا ضمان توفره عنده. بعض الأكلات مصرية عامة ومش حصرية للمحافظة.",
+      "en": "Governorate-level food ideas, not an on-site menu or a guarantee of availability. Some dishes are national staples, not unique to this governorate."
     }
   },
   "sannur-cave": {
@@ -15734,7 +16963,44 @@
         "https://en.wikipedia.org/wiki/Beni_Suef"
       ]
     },
-    "reviewedAt": "2026-11-15"
+    "reviewedAt": "2026-11-16",
+    "eat": [
+      {
+        "name": {
+          "en": "Battaw bread",
+          "ar": "عيش بتاو"
+        },
+        "note": {
+          "en": "A crisp countryside bread from Beni Suef’s villages, baked in clay ovens and eaten with butter, white cheese or mesh.",
+          "ar": "عيش ريفي مقرمش من قرى بني سويف، بيتخبز في فرن طيني وبتتاكل بالزبدة الفلاحي أو الجبنة البيضا أو المش."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://sqawoa.com/archives/29464"
+        ]
+      },
+      {
+        "name": {
+          "en": "Kishk",
+          "ar": "كشك"
+        },
+        "note": {
+          "en": "Fermented wheat-and-milk kishk is a stored staple of the governorate’s homes and appears on Ramadan tables with chicken.",
+          "ar": "الكشك المخمر من القمح واللبن مخزون أساسي في بيوت المحافظة وبيطلع على سفرة رمضان مع الفراخ."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://sqawoa.com/archives/29464",
+          "https://www.elwatannews.com/news/details/8056563"
+        ]
+      }
+    ],
+    "eat_note": {
+      "ar": "أفكار أكل على مستوى المحافظة، مش منيو في المكان ده ولا ضمان توفره عنده. بعض الأكلات مصرية عامة ومش حصرية للمحافظة.",
+      "en": "Governorate-level food ideas, not an on-site menu or a guarantee of availability. Some dishes are national staples, not unique to this governorate."
+    }
   },
   "beni-hasan": {
     "history": {
@@ -15787,7 +17053,43 @@
         "https://www.nodc.noaa.gov/archive/arc0216/0253808/2.2/data/0-data/Region-1-WMO-Normals-9120/Egypt/CSV/Minya_62387.csv"
       ]
     },
-    "reviewedAt": "2026-11-15"
+    "reviewedAt": "2026-11-16",
+    "eat": [
+      {
+        "name": {
+          "en": "Sugar-cane molasses",
+          "ar": "عسل أسود"
+        },
+        "note": {
+          "en": "Minya is famous for traditional sugar-cane molasses production, an industry Middle East Eye documents in the city of Mallawi.",
+          "ar": "المنيا مشهورة بإنتاج العسل الأسود التقليدي من القصب، ووكالات أنباء وثقت الصناعة في ملاوي."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://www.middleeasteye.net/discover/egypt-sugar-cane-molasses-making-pictures"
+        ]
+      },
+      {
+        "name": {
+          "en": "Fresh cane juice",
+          "ar": "عصير قصب"
+        },
+        "note": {
+          "en": "Cane pressing for fresh juice is part of the same local sugar economy.",
+          "ar": "عصر القصب للعصير الطازة جزء من نفس اقتصاد القصب المحلي."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://www.middleeasteye.net/discover/egypt-sugar-cane-molasses-making-pictures"
+        ]
+      }
+    ],
+    "eat_note": {
+      "ar": "أفكار أكل على مستوى المحافظة، مش منيو في المكان ده ولا ضمان توفره عنده. بعض الأكلات مصرية عامة ومش حصرية للمحافظة.",
+      "en": "Governorate-level food ideas, not an on-site menu or a guarantee of availability. Some dishes are national staples, not unique to this governorate."
+    }
   },
   "amarna": {
     "history": {
@@ -15840,7 +17142,43 @@
         "https://www.nodc.noaa.gov/archive/arc0216/0253808/2.2/data/0-data/Region-1-WMO-Normals-9120/Egypt/CSV/Minya_62387.csv"
       ]
     },
-    "reviewedAt": "2026-11-15"
+    "reviewedAt": "2026-11-16",
+    "eat": [
+      {
+        "name": {
+          "en": "Sugar-cane molasses",
+          "ar": "عسل أسود"
+        },
+        "note": {
+          "en": "Minya is famous for traditional sugar-cane molasses production, an industry Middle East Eye documents in the city of Mallawi.",
+          "ar": "المنيا مشهورة بإنتاج العسل الأسود التقليدي من القصب، ووكالات أنباء وثقت الصناعة في ملاوي."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://www.middleeasteye.net/discover/egypt-sugar-cane-molasses-making-pictures"
+        ]
+      },
+      {
+        "name": {
+          "en": "Fresh cane juice",
+          "ar": "عصير قصب"
+        },
+        "note": {
+          "en": "Cane pressing for fresh juice is part of the same local sugar economy.",
+          "ar": "عصر القصب للعصير الطازة جزء من نفس اقتصاد القصب المحلي."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://www.middleeasteye.net/discover/egypt-sugar-cane-molasses-making-pictures"
+        ]
+      }
+    ],
+    "eat_note": {
+      "ar": "أفكار أكل على مستوى المحافظة، مش منيو في المكان ده ولا ضمان توفره عنده. بعض الأكلات مصرية عامة ومش حصرية للمحافظة.",
+      "en": "Governorate-level food ideas, not an on-site menu or a guarantee of availability. Some dishes are national staples, not unique to this governorate."
+    }
   },
   "hermopolis": {
     "history": {
@@ -15893,7 +17231,43 @@
         "https://www.nodc.noaa.gov/archive/arc0216/0253808/2.2/data/0-data/Region-1-WMO-Normals-9120/Egypt/CSV/Minya_62387.csv"
       ]
     },
-    "reviewedAt": "2026-11-15"
+    "reviewedAt": "2026-11-16",
+    "eat": [
+      {
+        "name": {
+          "en": "Sugar-cane molasses",
+          "ar": "عسل أسود"
+        },
+        "note": {
+          "en": "Minya is famous for traditional sugar-cane molasses production, an industry Middle East Eye documents in the city of Mallawi.",
+          "ar": "المنيا مشهورة بإنتاج العسل الأسود التقليدي من القصب، ووكالات أنباء وثقت الصناعة في ملاوي."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://www.middleeasteye.net/discover/egypt-sugar-cane-molasses-making-pictures"
+        ]
+      },
+      {
+        "name": {
+          "en": "Fresh cane juice",
+          "ar": "عصير قصب"
+        },
+        "note": {
+          "en": "Cane pressing for fresh juice is part of the same local sugar economy.",
+          "ar": "عصر القصب للعصير الطازة جزء من نفس اقتصاد القصب المحلي."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://www.middleeasteye.net/discover/egypt-sugar-cane-molasses-making-pictures"
+        ]
+      }
+    ],
+    "eat_note": {
+      "ar": "أفكار أكل على مستوى المحافظة، مش منيو في المكان ده ولا ضمان توفره عنده. بعض الأكلات مصرية عامة ومش حصرية للمحافظة.",
+      "en": "Governorate-level food ideas, not an on-site menu or a guarantee of availability. Some dishes are national staples, not unique to this governorate."
+    }
   },
   "asyut": {
     "history": {
@@ -15929,7 +17303,58 @@
         "https://en.wikipedia.org/wiki/Asyut"
       ]
     },
-    "reviewedAt": "2026-11-15"
+    "reviewedAt": "2026-11-16",
+    "eat": [
+      {
+        "name": {
+          "en": "Kishk",
+          "ar": "كشك"
+        },
+        "note": {
+          "en": "Households prepare kishk in large batches before Ramadan and share it with neighbors and travelers.",
+          "ar": "البيوت بتجهز الكشك بكميات كبيرة قبل رمضان وبتتوزع على الجيران والمسافرين."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://www.elwatannews.com/news/details/5463190"
+        ]
+      },
+      {
+        "name": {
+          "en": "Eish shamsi",
+          "ar": "عيش شمسي"
+        },
+        "note": {
+          "en": "Sun-fermented bread is a signature of Asyut tables, eaten with stews and molokhia.",
+          "ar": "العيش الشمسي المختمر في الشمس علامة على سفرة أسيوط، وبتتاكل مع الطواجن والملوخية."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://www.elwatannews.com/news/details/5463190"
+        ]
+      },
+      {
+        "name": {
+          "en": "Tagens",
+          "ar": "طواجن"
+        },
+        "note": {
+          "en": "Clay-pot tagens, like okra with meat and stuffed vegetables, are among the city’s best-known dishes.",
+          "ar": "الطواجن الفخارية زي البامية باللحمة والمحاشي من أشهر أكل المدينة."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://www.elwatannews.com/news/details/5463190"
+        ]
+      }
+    ],
+    "eat_note": {
+      "ar": "أفكار أكل على مستوى المحافظة، مش منيو في المكان ده ولا ضمان توفره عنده. بعض الأكلات مصرية عامة ومش حصرية للمحافظة.",
+      "en": "Governorate-level food ideas, not an on-site menu or a guarantee of availability. Some dishes are national staples, not unique to this governorate."
+    }
   },
   "deir-el-muharraq": {
     "see": {
@@ -15973,13 +17398,64 @@
         "https://en.wikipedia.org/wiki/Asyut"
       ]
     },
-    "reviewedAt": "2026-11-15",
+    "reviewedAt": "2026-11-16",
     "history": {
       "en": "Al-Muharraq is a Coptic monastic complex at Mount Qusqam, with a fortress dated to the sixth or seventh century and later church additions. The tradition of the Holy Family's stay is part of the site's religious significance and should be understood as a faith tradition.",
       "ar": "المحرق مجمع رهباني قبطي عند جبل قسقام، وفيه حصن بيرجع للقرن السادس أو السابع وإضافات كنسية لاحقة. تقليد إقامة العائلة المقدسة جزء من قدسية المكان، وبيتقدم باعتباره تقليد إيماني.",
       "sources": [
         "https://en.wikipedia.org/wiki/Deir_el-Muharraq"
       ]
+    },
+    "eat": [
+      {
+        "name": {
+          "en": "Kishk",
+          "ar": "كشك"
+        },
+        "note": {
+          "en": "Households prepare kishk in large batches before Ramadan and share it with neighbors and travelers.",
+          "ar": "البيوت بتجهز الكشك بكميات كبيرة قبل رمضان وبتتوزع على الجيران والمسافرين."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://www.elwatannews.com/news/details/5463190"
+        ]
+      },
+      {
+        "name": {
+          "en": "Eish shamsi",
+          "ar": "عيش شمسي"
+        },
+        "note": {
+          "en": "Sun-fermented bread is a signature of Asyut tables, eaten with stews and molokhia.",
+          "ar": "العيش الشمسي المختمر في الشمس علامة على سفرة أسيوط، وبتتاكل مع الطواجن والملوخية."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://www.elwatannews.com/news/details/5463190"
+        ]
+      },
+      {
+        "name": {
+          "en": "Tagens",
+          "ar": "طواجن"
+        },
+        "note": {
+          "en": "Clay-pot tagens, like okra with meat and stuffed vegetables, are among the city’s best-known dishes.",
+          "ar": "الطواجن الفخارية زي البامية باللحمة والمحاشي من أشهر أكل المدينة."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://www.elwatannews.com/news/details/5463190"
+        ]
+      }
+    ],
+    "eat_note": {
+      "ar": "أفكار أكل على مستوى المحافظة، مش منيو في المكان ده ولا ضمان توفره عنده. بعض الأكلات مصرية عامة ومش حصرية للمحافظة.",
+      "en": "Governorate-level food ideas, not an on-site menu or a guarantee of availability. Some dishes are national staples, not unique to this governorate."
     }
   },
   "abydos-egypt": {
@@ -16016,7 +17492,43 @@
         "https://en.wikipedia.org/wiki/Sohag"
       ]
     },
-    "reviewedAt": "2026-11-15"
+    "reviewedAt": "2026-11-16",
+    "eat": [
+      {
+        "name": {
+          "en": "Kishk and eish shamsi",
+          "ar": "كشك وعيش شمسي"
+        },
+        "note": {
+          "en": "Sohag is long associated with kishk and sun bread on family tables.",
+          "ar": "سوهاج مرتبطة من زمان بالكشك والعيش الشمسي على سفرة البيت."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://www.almasryalyoum.com/news/details/2848828"
+        ]
+      },
+      {
+        "name": {
+          "en": "Makhrouta",
+          "ar": "مخروطة"
+        },
+        "note": {
+          "en": "Akhmim’s best-known sweet, especially after iftar in Ramadan.",
+          "ar": "أشهر حلويات أخميم، خصوصًا بعد الفطار في رمضان."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://www.almasryalyoum.com/news/details/2848828"
+        ]
+      }
+    ],
+    "eat_note": {
+      "ar": "أفكار أكل على مستوى المحافظة، مش منيو في المكان ده ولا ضمان توفره عنده. بعض الأكلات مصرية عامة ومش حصرية للمحافظة.",
+      "en": "Governorate-level food ideas, not an on-site menu or a guarantee of availability. Some dishes are national staples, not unique to this governorate."
+    }
   },
   "white-monastery": {
     "history": {
@@ -16068,7 +17580,43 @@
         "https://en.wikipedia.org/wiki/Sohag"
       ]
     },
-    "reviewedAt": "2026-11-15"
+    "reviewedAt": "2026-11-16",
+    "eat": [
+      {
+        "name": {
+          "en": "Kishk and eish shamsi",
+          "ar": "كشك وعيش شمسي"
+        },
+        "note": {
+          "en": "Sohag is long associated with kishk and sun bread on family tables.",
+          "ar": "سوهاج مرتبطة من زمان بالكشك والعيش الشمسي على سفرة البيت."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://www.almasryalyoum.com/news/details/2848828"
+        ]
+      },
+      {
+        "name": {
+          "en": "Makhrouta",
+          "ar": "مخروطة"
+        },
+        "note": {
+          "en": "Akhmim’s best-known sweet, especially after iftar in Ramadan.",
+          "ar": "أشهر حلويات أخميم، خصوصًا بعد الفطار في رمضان."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://www.almasryalyoum.com/news/details/2848828"
+        ]
+      }
+    ],
+    "eat_note": {
+      "ar": "أفكار أكل على مستوى المحافظة، مش منيو في المكان ده ولا ضمان توفره عنده. بعض الأكلات مصرية عامة ومش حصرية للمحافظة.",
+      "en": "Governorate-level food ideas, not an on-site menu or a guarantee of availability. Some dishes are national staples, not unique to this governorate."
+    }
   },
   "red-monastery": {
     "history": {
@@ -16120,7 +17668,43 @@
         "https://en.wikipedia.org/wiki/Sohag"
       ]
     },
-    "reviewedAt": "2026-11-15"
+    "reviewedAt": "2026-11-16",
+    "eat": [
+      {
+        "name": {
+          "en": "Kishk and eish shamsi",
+          "ar": "كشك وعيش شمسي"
+        },
+        "note": {
+          "en": "Sohag is long associated with kishk and sun bread on family tables.",
+          "ar": "سوهاج مرتبطة من زمان بالكشك والعيش الشمسي على سفرة البيت."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://www.almasryalyoum.com/news/details/2848828"
+        ]
+      },
+      {
+        "name": {
+          "en": "Makhrouta",
+          "ar": "مخروطة"
+        },
+        "note": {
+          "en": "Akhmim’s best-known sweet, especially after iftar in Ramadan.",
+          "ar": "أشهر حلويات أخميم، خصوصًا بعد الفطار في رمضان."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://www.almasryalyoum.com/news/details/2848828"
+        ]
+      }
+    ],
+    "eat_note": {
+      "ar": "أفكار أكل على مستوى المحافظة، مش منيو في المكان ده ولا ضمان توفره عنده. بعض الأكلات مصرية عامة ومش حصرية للمحافظة.",
+      "en": "Governorate-level food ideas, not an on-site menu or a guarantee of availability. Some dishes are national staples, not unique to this governorate."
+    }
   },
   "dendera-temple-complex": {
     "history": {
@@ -16173,7 +17757,43 @@
         "https://en.wikipedia.org/wiki/Qena"
       ]
     },
-    "reviewedAt": "2026-11-15"
+    "reviewedAt": "2026-11-16",
+    "eat": [
+      {
+        "name": {
+          "en": "Sugar-cane molasses",
+          "ar": "عسل أسود القصب"
+        },
+        "note": {
+          "en": "Sugar cane anchors Qena’s farm economy, and molasses made from it is a kitchen staple eaten plain or with tahini.",
+          "ar": "قصب السكر أساس اقتصاد قنا الزراعي، والعسل الأسود المصنوع منه مخزون بيتي بيتاكل لوحده أو بالطحينة."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://www.middleeasteye.net/discover/egypt-sugar-cane-molasses-making-pictures"
+        ]
+      },
+      {
+        "name": {
+          "en": "Fresh cane juice",
+          "ar": "عصير قصب"
+        },
+        "note": {
+          "en": "Fresh-pressed cane juice is part of the same sugar-cane economy.",
+          "ar": "عصير القصب الطازة جزء من نفس اقتصاد القصب."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://www.middleeasteye.net/discover/egypt-sugar-cane-molasses-making-pictures"
+        ]
+      }
+    ],
+    "eat_note": {
+      "ar": "أفكار أكل على مستوى المحافظة، مش منيو في المكان ده ولا ضمان توفره عنده. بعض الأكلات مصرية عامة ومش حصرية للمحافظة.",
+      "en": "Governorate-level food ideas, not an on-site menu or a guarantee of availability. Some dishes are national staples, not unique to this governorate."
+    }
   },
   "qena": {
     "history": {
@@ -16226,7 +17846,43 @@
         "https://en.wikipedia.org/wiki/Qena"
       ]
     },
-    "reviewedAt": "2026-11-15"
+    "reviewedAt": "2026-11-16",
+    "eat": [
+      {
+        "name": {
+          "en": "Sugar-cane molasses",
+          "ar": "عسل أسود القصب"
+        },
+        "note": {
+          "en": "Sugar cane anchors Qena’s farm economy, and molasses made from it is a kitchen staple eaten plain or with tahini.",
+          "ar": "قصب السكر أساس اقتصاد قنا الزراعي، والعسل الأسود المصنوع منه مخزون بيتي بيتاكل لوحده أو بالطحينة."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://www.middleeasteye.net/discover/egypt-sugar-cane-molasses-making-pictures"
+        ]
+      },
+      {
+        "name": {
+          "en": "Fresh cane juice",
+          "ar": "عصير قصب"
+        },
+        "note": {
+          "en": "Fresh-pressed cane juice is part of the same sugar-cane economy.",
+          "ar": "عصير القصب الطازة جزء من نفس اقتصاد القصب."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://www.middleeasteye.net/discover/egypt-sugar-cane-molasses-making-pictures"
+        ]
+      }
+    ],
+    "eat_note": {
+      "ar": "أفكار أكل على مستوى المحافظة، مش منيو في المكان ده ولا ضمان توفره عنده. بعض الأكلات مصرية عامة ومش حصرية للمحافظة.",
+      "en": "Governorate-level food ideas, not an on-site menu or a guarantee of availability. Some dishes are national staples, not unique to this governorate."
+    }
   },
   "qift": {
     "history": {
@@ -16279,7 +17935,43 @@
         "https://en.wikipedia.org/wiki/Qena"
       ]
     },
-    "reviewedAt": "2026-11-15"
+    "reviewedAt": "2026-11-16",
+    "eat": [
+      {
+        "name": {
+          "en": "Sugar-cane molasses",
+          "ar": "عسل أسود القصب"
+        },
+        "note": {
+          "en": "Sugar cane anchors Qena’s farm economy, and molasses made from it is a kitchen staple eaten plain or with tahini.",
+          "ar": "قصب السكر أساس اقتصاد قنا الزراعي، والعسل الأسود المصنوع منه مخزون بيتي بيتاكل لوحده أو بالطحينة."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://www.middleeasteye.net/discover/egypt-sugar-cane-molasses-making-pictures"
+        ]
+      },
+      {
+        "name": {
+          "en": "Fresh cane juice",
+          "ar": "عصير قصب"
+        },
+        "note": {
+          "en": "Fresh-pressed cane juice is part of the same sugar-cane economy.",
+          "ar": "عصير القصب الطازة جزء من نفس اقتصاد القصب."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://www.middleeasteye.net/discover/egypt-sugar-cane-molasses-making-pictures"
+        ]
+      }
+    ],
+    "eat_note": {
+      "ar": "أفكار أكل على مستوى المحافظة، مش منيو في المكان ده ولا ضمان توفره عنده. بعض الأكلات مصرية عامة ومش حصرية للمحافظة.",
+      "en": "Governorate-level food ideas, not an on-site menu or a guarantee of availability. Some dishes are national staples, not unique to this governorate."
+    }
   },
   "qus": {
     "see": {
@@ -16336,13 +18028,49 @@
         "https://en.wikipedia.org/wiki/Qena"
       ]
     },
-    "reviewedAt": "2026-11-15",
+    "reviewedAt": "2026-11-16",
     "history": {
       "en": "Qus was known in Graeco-Roman times as Apollonopolis Parva. Its position on routes toward the Red Sea helped it grow into an important medieval commercial center, linking the Nile Valley with wider trading networks.",
       "ar": "قوص اتعرفت في العصرين اليوناني والروماني باسم أبولونوبوليس بارفا. موقعها على طرق البحر الأحمر ساعدها تبقى مركز تجاري مهم في العصور الوسطى، بيربط وادي النيل بشبكات تجارة أوسع.",
       "sources": [
         "https://en.wikipedia.org/wiki/Qus"
       ]
+    },
+    "eat": [
+      {
+        "name": {
+          "en": "Sugar-cane molasses",
+          "ar": "عسل أسود القصب"
+        },
+        "note": {
+          "en": "Sugar cane anchors Qena’s farm economy, and molasses made from it is a kitchen staple eaten plain or with tahini.",
+          "ar": "قصب السكر أساس اقتصاد قنا الزراعي، والعسل الأسود المصنوع منه مخزون بيتي بيتاكل لوحده أو بالطحينة."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://www.middleeasteye.net/discover/egypt-sugar-cane-molasses-making-pictures"
+        ]
+      },
+      {
+        "name": {
+          "en": "Fresh cane juice",
+          "ar": "عصير قصب"
+        },
+        "note": {
+          "en": "Fresh-pressed cane juice is part of the same sugar-cane economy.",
+          "ar": "عصير القصب الطازة جزء من نفس اقتصاد القصب."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://www.middleeasteye.net/discover/egypt-sugar-cane-molasses-making-pictures"
+        ]
+      }
+    ],
+    "eat_note": {
+      "ar": "أفكار أكل على مستوى المحافظة، مش منيو في المكان ده ولا ضمان توفره عنده. بعض الأكلات مصرية عامة ومش حصرية للمحافظة.",
+      "en": "Governorate-level food ideas, not an on-site menu or a guarantee of availability. Some dishes are national staples, not unique to this governorate."
     }
   },
   "kharga-oasis": {
@@ -16390,7 +18118,43 @@
         "https://en.wikipedia.org/wiki/Kharga_Oasis"
       ]
     },
-    "reviewedAt": "2026-11-15"
+    "reviewedAt": "2026-11-16",
+    "eat": [
+      {
+        "name": {
+          "en": "Mareesa",
+          "ar": "المريسة"
+        },
+        "note": {
+          "en": "The oases’ signature drink: pressed dates kneaded by hand in clay pots into a thick golden liquid, central to Ramadan tables in the New Valley.",
+          "ar": "مشروب الواحات المميز: عجوة بلح بتتعجن بالإيد في أوعية فخارية لحد ما تبقى سائل دهبي تقيل، وأساس سفرة رمضان في الوادي الجديد."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://babmsr.com/en/the-golden-elixir-how-a-1000-year-old-date-drink-became-the-soul-of-ramadan-in-egypts-western-desert/"
+        ]
+      },
+      {
+        "name": {
+          "en": "Saiidi dates and agwa",
+          "ar": "بلح سعيدي وعجوة"
+        },
+        "note": {
+          "en": "Date palms are the region’s economic backbone; Saiidi dates are pressed into agwa for storage and travel.",
+          "ar": "النخيل هو عمود الاقتصاد في المنطقة؛ البلح السعيدي بيتعصر عجوة للتخزين والسفر."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://babmsr.com/en/the-golden-elixir-how-a-1000-year-old-date-drink-became-the-soul-of-ramadan-in-egypts-western-desert/"
+        ]
+      }
+    ],
+    "eat_note": {
+      "ar": "أفكار أكل على مستوى المحافظة، مش منيو في المكان ده ولا ضمان توفره عنده. بعض الأكلات مصرية عامة ومش حصرية للمحافظة.",
+      "en": "Governorate-level food ideas, not an on-site menu or a guarantee of availability. Some dishes are national staples, not unique to this governorate."
+    }
   },
   "dakhla-oasis": {
     "see": {
@@ -16430,13 +18194,49 @@
         "https://en.wikipedia.org/wiki/Kharga_Oasis"
       ]
     },
-    "reviewedAt": "2026-11-15",
+    "reviewedAt": "2026-11-16",
     "history": {
       "en": "Dakhla preserves multiple settlement layers, including Old Kingdom administration at Ayn Asil, the Roman temple of Deir el-Hagar and the historic mud-brick town of al-Qasr. The oasis is a group of settlements, not a single monument from one period.",
       "ar": "الداخلة فيها طبقات سكن متعددة، منها الإدارة في عين أصيل في الدولة القديمة، ومعبد دير الحجر الروماني، ومدينة القصر التاريخية بالطوب اللبن. الواحة مجموعة تجمعات، مش أثر واحد من عصر واحد.",
       "sources": [
         "https://en.wikipedia.org/wiki/Dakhla_Oasis"
       ]
+    },
+    "eat": [
+      {
+        "name": {
+          "en": "Mareesa",
+          "ar": "المريسة"
+        },
+        "note": {
+          "en": "The oases’ signature drink: pressed dates kneaded by hand in clay pots into a thick golden liquid, central to Ramadan tables in the New Valley.",
+          "ar": "مشروب الواحات المميز: عجوة بلح بتتعجن بالإيد في أوعية فخارية لحد ما تبقى سائل دهبي تقيل، وأساس سفرة رمضان في الوادي الجديد."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://babmsr.com/en/the-golden-elixir-how-a-1000-year-old-date-drink-became-the-soul-of-ramadan-in-egypts-western-desert/"
+        ]
+      },
+      {
+        "name": {
+          "en": "Saiidi dates and agwa",
+          "ar": "بلح سعيدي وعجوة"
+        },
+        "note": {
+          "en": "Date palms are the region’s economic backbone; Saiidi dates are pressed into agwa for storage and travel.",
+          "ar": "النخيل هو عمود الاقتصاد في المنطقة؛ البلح السعيدي بيتعصر عجوة للتخزين والسفر."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://babmsr.com/en/the-golden-elixir-how-a-1000-year-old-date-drink-became-the-soul-of-ramadan-in-egypts-western-desert/"
+        ]
+      }
+    ],
+    "eat_note": {
+      "ar": "أفكار أكل على مستوى المحافظة، مش منيو في المكان ده ولا ضمان توفره عنده. بعض الأكلات مصرية عامة ومش حصرية للمحافظة.",
+      "en": "Governorate-level food ideas, not an on-site menu or a guarantee of availability. Some dishes are national staples, not unique to this governorate."
     }
   },
   "white-desert-national-park": {
@@ -16488,7 +18288,43 @@
         "https://en.wikipedia.org/wiki/Kharga_Oasis"
       ]
     },
-    "reviewedAt": "2026-11-15"
+    "reviewedAt": "2026-11-16",
+    "eat": [
+      {
+        "name": {
+          "en": "Mareesa",
+          "ar": "المريسة"
+        },
+        "note": {
+          "en": "The oases’ signature drink: pressed dates kneaded by hand in clay pots into a thick golden liquid, central to Ramadan tables in the New Valley.",
+          "ar": "مشروب الواحات المميز: عجوة بلح بتتعجن بالإيد في أوعية فخارية لحد ما تبقى سائل دهبي تقيل، وأساس سفرة رمضان في الوادي الجديد."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://babmsr.com/en/the-golden-elixir-how-a-1000-year-old-date-drink-became-the-soul-of-ramadan-in-egypts-western-desert/"
+        ]
+      },
+      {
+        "name": {
+          "en": "Saiidi dates and agwa",
+          "ar": "بلح سعيدي وعجوة"
+        },
+        "note": {
+          "en": "Date palms are the region’s economic backbone; Saiidi dates are pressed into agwa for storage and travel.",
+          "ar": "النخيل هو عمود الاقتصاد في المنطقة؛ البلح السعيدي بيتعصر عجوة للتخزين والسفر."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://babmsr.com/en/the-golden-elixir-how-a-1000-year-old-date-drink-became-the-soul-of-ramadan-in-egypts-western-desert/"
+        ]
+      }
+    ],
+    "eat_note": {
+      "ar": "أفكار أكل على مستوى المحافظة، مش منيو في المكان ده ولا ضمان توفره عنده. بعض الأكلات مصرية عامة ومش حصرية للمحافظة.",
+      "en": "Governorate-level food ideas, not an on-site menu or a guarantee of availability. Some dishes are national staples, not unique to this governorate."
+    }
   },
   "siwa-oasis": {
     "history": {
@@ -16575,13 +18411,49 @@
         "https://www.nodc.noaa.gov/archive/arc0216/0253808/2.2/data/0-data/Region-1-WMO-Normals-9120/Egypt/CSV/MersaMatruh_62306.csv"
       ]
     },
-    "reviewedAt": "2026-11-15",
+    "reviewedAt": "2026-11-16",
     "history": {
       "en": "The battles fought around El Alamein in 1942 were a major turning point in the North African campaign of the Second World War. War cemeteries and memorials preserve that history. They are distinct from the later resort development and the separate New Alamein city.",
       "ar": "معارك العلمين سنة 1942 كانت نقطة تحول مهمة في حملة شمال أفريقيا بالحرب العالمية التانية. المقابر والنصب العسكرية بتحفظ التاريخ ده. وهي غير تطوير المنتجعات اللي جه بعد كده ومدينة العلمين الجديدة المنفصلة.",
       "sources": [
         "https://en.wikipedia.org/wiki/El_Alamein"
       ]
+    },
+    "eat": [
+      {
+        "name": {
+          "en": "Matrouhi kishk",
+          "ar": "كشك مطروحي"
+        },
+        "note": {
+          "en": "A Slow Food Ark of Taste product: the region’s barley-and-milk kishk tradition.",
+          "ar": "منتج مسجل في سفينة التذوق لسلو فود: تقليد الكشك بالشعير واللبن في المنطقة."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://www.fondazioneslowfood.com/en/ark-of-taste-slow-food/matrouhi-kishk/"
+        ]
+      },
+      {
+        "name": {
+          "en": "Mgharba soup and makmura",
+          "ar": "شوربة المغاربة والمكمورة"
+        },
+        "note": {
+          "en": "Bedouin dishes of seasonal vegetables and lamb, the makmura slow-cooked over embers in a covered pot.",
+          "ar": "أكلات بدوية من خضار الموسم ولحم الضأن، والمكمورة بتتسوى على الجمر في إناء مغطى."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://www.almasryalyoum.com/news/details/2848828"
+        ]
+      }
+    ],
+    "eat_note": {
+      "ar": "أفكار أكل على مستوى المحافظة، مش منيو في المكان ده ولا ضمان توفره عنده. بعض الأكلات مصرية عامة ومش حصرية للمحافظة.",
+      "en": "Governorate-level food ideas, not an on-site menu or a guarantee of availability. Some dishes are national staples, not unique to this governorate."
     }
   },
   "marsa-matrouh": {
@@ -16618,7 +18490,43 @@
         "https://www.nodc.noaa.gov/archive/arc0216/0253808/2.2/data/0-data/Region-1-WMO-Normals-9120/Egypt/CSV/MersaMatruh_62306.csv"
       ]
     },
-    "reviewedAt": "2026-11-15"
+    "reviewedAt": "2026-11-16",
+    "eat": [
+      {
+        "name": {
+          "en": "Matrouhi kishk",
+          "ar": "كشك مطروحي"
+        },
+        "note": {
+          "en": "A Slow Food Ark of Taste product: the region’s barley-and-milk kishk tradition.",
+          "ar": "منتج مسجل في سفينة التذوق لسلو فود: تقليد الكشك بالشعير واللبن في المنطقة."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://www.fondazioneslowfood.com/en/ark-of-taste-slow-food/matrouhi-kishk/"
+        ]
+      },
+      {
+        "name": {
+          "en": "Mgharba soup and makmura",
+          "ar": "شوربة المغاربة والمكمورة"
+        },
+        "note": {
+          "en": "Bedouin dishes of seasonal vegetables and lamb, the makmura slow-cooked over embers in a covered pot.",
+          "ar": "أكلات بدوية من خضار الموسم ولحم الضأن، والمكمورة بتتسوى على الجمر في إناء مغطى."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://www.almasryalyoum.com/news/details/2848828"
+        ]
+      }
+    ],
+    "eat_note": {
+      "ar": "أفكار أكل على مستوى المحافظة، مش منيو في المكان ده ولا ضمان توفره عنده. بعض الأكلات مصرية عامة ومش حصرية للمحافظة.",
+      "en": "Governorate-level food ideas, not an on-site menu or a guarantee of availability. Some dishes are national staples, not unique to this governorate."
+    }
   },
   "coptic-museum": {
     "history": {
@@ -28406,7 +30314,28 @@
         ]
       }
     ],
-    "reviewedAt": "2026-11-15"
+    "reviewedAt": "2026-11-16",
+    "eat": [
+      {
+        "name": {
+          "en": "Qalyubia strawberries",
+          "ar": "فراولة القليوبية"
+        },
+        "note": {
+          "en": "The governorate leads Egypt’s strawberry production, harvested roughly from December into spring. In season you will find fresh berries in local markets; out of season they are mostly frozen or exported.",
+          "ar": "القليوبية في مقدمة محافظات مصر في زراعة الفراولة، والحصاد من ديسمبر تقريبًا لحد الربيع. في الموسم هتلاقي فراولة طازة في الأسواق، وبره الموسم أغلبها مجمدة أو للتصدير."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://www.gomhuriaonline.com/1010991"
+        ]
+      }
+    ],
+    "eat_note": {
+      "ar": "أفكار أكل على مستوى المحافظة، مش منيو في المكان ده ولا ضمان توفره عنده. بعض الأكلات مصرية عامة ومش حصرية للمحافظة.",
+      "en": "Governorate-level food ideas, not an on-site menu or a guarantee of availability. Some dishes are national staples, not unique to this governorate."
+    }
   },
   "hawara": {
     "history": {
@@ -28457,7 +30386,58 @@
         ]
       }
     ],
-    "reviewedAt": "2026-11-15"
+    "reviewedAt": "2026-11-16",
+    "eat": [
+      {
+        "name": {
+          "en": "Duck dishes",
+          "ar": "أطباق البط"
+        },
+        "note": {
+          "en": "Fayoum is known for duck, including duck with orange sauce.",
+          "ar": "الفيوم معروفة بأطباق البط، ومنها البط بصوص البرتقال."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://www.egypttoday.com/Article/15/48071/Fayoum-Chasing-Waterfalls"
+        ]
+      },
+      {
+        "name": {
+          "en": "Grilled Lake Qarun fish",
+          "ar": "سمك قارون مشوي"
+        },
+        "note": {
+          "en": "Grilled fish from Lake Qarun is a local favorite.",
+          "ar": "السمك المشوي من بحيرة قارون من الأكلات المحبوبة محليًا."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://www.egypttoday.com/Article/15/48071/Fayoum-Chasing-Waterfalls"
+        ]
+      },
+      {
+        "name": {
+          "en": "Fitir from the baladi oven",
+          "ar": "فطير الفرن البلدي"
+        },
+        "note": {
+          "en": "Fitir and bread served hot from the adobe-sealed baladi oven carry a smoky, earthy taste.",
+          "ar": "الفطير والعيش الطالع سخن من الفرن البلدي المقفول بالطين طعمه مدخن وأرضي مميز."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://www.egypttoday.com/Article/15/48071/Fayoum-Chasing-Waterfalls"
+        ]
+      }
+    ],
+    "eat_note": {
+      "ar": "أفكار أكل على مستوى المحافظة، مش منيو في المكان ده ولا ضمان توفره عنده. بعض الأكلات مصرية عامة ومش حصرية للمحافظة.",
+      "en": "Governorate-level food ideas, not an on-site menu or a guarantee of availability. Some dishes are national staples, not unique to this governorate."
+    }
   },
   "lake-manzala": {
     "see": {
@@ -28485,13 +30465,49 @@
         ]
       }
     ],
-    "reviewedAt": "2026-11-15",
+    "reviewedAt": "2026-11-16",
     "history": {
       "ar": "بحيرة المنزلة ليها حكاية مرتبطة بالصيد وتحولات الساحل وشق قناة السويس. بورسعيد اتأسست جنبها في القرن التاسع عشر لخدمة أعمال القناة والملاحة، واتحفر مجرى للسفن في البحيرة الضحلة. عمليات التجفيف والتلوث غيّرت مساحة البحيرة وبيئتها على مدار الزمن.",
       "en": "Lake Manzala’s history links fishing, coastal change and the construction of the Suez Canal. Port Said developed beside it in the nineteenth century to support canal works and navigation, and a shipping channel was dug through the shallow lake. Drainage and pollution have changed the lagoon’s extent and ecology over time.",
       "sources": [
         "https://en.wikipedia.org/wiki/Lake_Manzala"
       ]
+    },
+    "eat": [
+      {
+        "name": {
+          "en": "Lake Manzala fish",
+          "ar": "أسماك بحيرة المنزلة"
+        },
+        "note": {
+          "en": "Mullet and tilapia from the lake shape the local table; official reporting tracks the lake’s recovering fish varieties.",
+          "ar": "البوري والبلطي من البحيرة أساس الأكل في المنطقة، والتقارير الرسمية بترجع تنوع أسماك البحيرة بعد التطوير."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://www.elwatannews.com/news/details/2804590"
+        ]
+      },
+      {
+        "name": {
+          "en": "Mansoura-style breakfast",
+          "ar": "فطار منصوري"
+        },
+        "note": {
+          "en": "Local food guides single out generous foul-and-falafel breakfast spreads as a point of pride in the city.",
+          "ar": "الأدلة المحلية بتفتخر بفطار الفول والطعمية بسفرته الكبيرة في المنصورة كنقطة تميز للمدينة."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://sceneeats.com/Spots/9-Must-Try-Restaurants-When-Visiting-Mansoura"
+        ]
+      }
+    ],
+    "eat_note": {
+      "ar": "أفكار أكل على مستوى المحافظة، مش منيو في المكان ده ولا ضمان توفره عنده. بعض الأكلات مصرية عامة ومش حصرية للمحافظة.",
+      "en": "Governorate-level food ideas, not an on-site menu or a guarantee of availability. Some dishes are national staples, not unique to this governorate."
     }
   },
   "meir-egypt": {
@@ -28543,7 +30559,58 @@
         ]
       }
     ],
-    "reviewedAt": "2026-11-15"
+    "reviewedAt": "2026-11-16",
+    "eat": [
+      {
+        "name": {
+          "en": "Kishk",
+          "ar": "كشك"
+        },
+        "note": {
+          "en": "Households prepare kishk in large batches before Ramadan and share it with neighbors and travelers.",
+          "ar": "البيوت بتجهز الكشك بكميات كبيرة قبل رمضان وبتتوزع على الجيران والمسافرين."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://www.elwatannews.com/news/details/5463190"
+        ]
+      },
+      {
+        "name": {
+          "en": "Eish shamsi",
+          "ar": "عيش شمسي"
+        },
+        "note": {
+          "en": "Sun-fermented bread is a signature of Asyut tables, eaten with stews and molokhia.",
+          "ar": "العيش الشمسي المختمر في الشمس علامة على سفرة أسيوط، وبتتاكل مع الطواجن والملوخية."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://www.elwatannews.com/news/details/5463190"
+        ]
+      },
+      {
+        "name": {
+          "en": "Tagens",
+          "ar": "طواجن"
+        },
+        "note": {
+          "en": "Clay-pot tagens, like okra with meat and stuffed vegetables, are among the city’s best-known dishes.",
+          "ar": "الطواجن الفخارية زي البامية باللحمة والمحاشي من أشهر أكل المدينة."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://www.elwatannews.com/news/details/5463190"
+        ]
+      }
+    ],
+    "eat_note": {
+      "ar": "أفكار أكل على مستوى المحافظة، مش منيو في المكان ده ولا ضمان توفره عنده. بعض الأكلات مصرية عامة ومش حصرية للمحافظة.",
+      "en": "Governorate-level food ideas, not an on-site menu or a guarantee of availability. Some dishes are national staples, not unique to this governorate."
+    }
   },
   "tuna-el-gebel": {
     "history": {
@@ -28596,7 +30663,43 @@
         ]
       }
     ],
-    "reviewedAt": "2026-11-15"
+    "reviewedAt": "2026-11-16",
+    "eat": [
+      {
+        "name": {
+          "en": "Sugar-cane molasses",
+          "ar": "عسل أسود"
+        },
+        "note": {
+          "en": "Minya is famous for traditional sugar-cane molasses production, an industry Middle East Eye documents in the city of Mallawi.",
+          "ar": "المنيا مشهورة بإنتاج العسل الأسود التقليدي من القصب، ووكالات أنباء وثقت الصناعة في ملاوي."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://www.middleeasteye.net/discover/egypt-sugar-cane-molasses-making-pictures"
+        ]
+      },
+      {
+        "name": {
+          "en": "Fresh cane juice",
+          "ar": "عصير قصب"
+        },
+        "note": {
+          "en": "Cane pressing for fresh juice is part of the same local sugar economy.",
+          "ar": "عصر القصب للعصير الطازة جزء من نفس اقتصاد القصب المحلي."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://www.middleeasteye.net/discover/egypt-sugar-cane-molasses-making-pictures"
+        ]
+      }
+    ],
+    "eat_note": {
+      "ar": "أفكار أكل على مستوى المحافظة، مش منيو في المكان ده ولا ضمان توفره عنده. بعض الأكلات مصرية عامة ومش حصرية للمحافظة.",
+      "en": "Governorate-level food ideas, not an on-site menu or a guarantee of availability. Some dishes are national staples, not unique to this governorate."
+    }
   },
   "talkha": {
     "see": {
@@ -28639,7 +30742,43 @@
         ]
       }
     ],
-    "reviewedAt": "2026-11-15"
+    "reviewedAt": "2026-11-16",
+    "eat": [
+      {
+        "name": {
+          "en": "Lake Manzala fish",
+          "ar": "أسماك بحيرة المنزلة"
+        },
+        "note": {
+          "en": "Mullet and tilapia from the lake shape the local table; official reporting tracks the lake’s recovering fish varieties.",
+          "ar": "البوري والبلطي من البحيرة أساس الأكل في المنطقة، والتقارير الرسمية بترجع تنوع أسماك البحيرة بعد التطوير."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://www.elwatannews.com/news/details/2804590"
+        ]
+      },
+      {
+        "name": {
+          "en": "Mansoura-style breakfast",
+          "ar": "فطار منصوري"
+        },
+        "note": {
+          "en": "Local food guides single out generous foul-and-falafel breakfast spreads as a point of pride in the city.",
+          "ar": "الأدلة المحلية بتفتخر بفطار الفول والطعمية بسفرته الكبيرة في المنصورة كنقطة تميز للمدينة."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://sceneeats.com/Spots/9-Must-Try-Restaurants-When-Visiting-Mansoura"
+        ]
+      }
+    ],
+    "eat_note": {
+      "ar": "أفكار أكل على مستوى المحافظة، مش منيو في المكان ده ولا ضمان توفره عنده. بعض الأكلات مصرية عامة ومش حصرية للمحافظة.",
+      "en": "Governorate-level food ideas, not an on-site menu or a guarantee of availability. Some dishes are national staples, not unique to this governorate."
+    }
   },
   "baltim": {
     "history": {
@@ -28690,7 +30829,43 @@
         ]
       }
     ],
-    "reviewedAt": "2026-11-15"
+    "reviewedAt": "2026-11-16",
+    "eat": [
+      {
+        "name": {
+          "en": "Baltim fesikh",
+          "ar": "فسيخ بلطيم"
+        },
+        "note": {
+          "en": "Baltim and its neighbors are a national destination for fesikh; buyers travel from other governorates before Sham el-Nessim.",
+          "ar": "بلطيم والمدن اللي حواليها قبلة على مستوى مصر للفسيخ؛ الناس بتسافر من محافظات تانية قبل شم النسيم عشان تشتري."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://www.elwatannews.com/news/details/3253705"
+        ]
+      },
+      {
+        "name": {
+          "en": "Local fish",
+          "ar": "أسماك المحافظة"
+        },
+        "note": {
+          "en": "The governorate is known for fishing and fish processing, with mullet and other catch sold through its fish bourse and coastal towns.",
+          "ar": "المحافظة معروفة بالصيد والتصنيع، والبوري وغيره بيتباع في بورصة الأسماك والمدن الساحلية."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://www.elwatannews.com/news/details/3253705"
+        ]
+      }
+    ],
+    "eat_note": {
+      "ar": "أفكار أكل على مستوى المحافظة، مش منيو في المكان ده ولا ضمان توفره عنده. بعض الأكلات مصرية عامة ومش حصرية للمحافظة.",
+      "en": "Governorate-level food ideas, not an on-site menu or a guarantee of availability. Some dishes are national staples, not unique to this governorate."
+    }
   },
   "faiyum-oasis": {
     "history": {
@@ -28742,7 +30917,58 @@
         ]
       }
     ],
-    "reviewedAt": "2026-11-15"
+    "reviewedAt": "2026-11-16",
+    "eat": [
+      {
+        "name": {
+          "en": "Duck dishes",
+          "ar": "أطباق البط"
+        },
+        "note": {
+          "en": "Fayoum is known for duck, including duck with orange sauce.",
+          "ar": "الفيوم معروفة بأطباق البط، ومنها البط بصوص البرتقال."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://www.egypttoday.com/Article/15/48071/Fayoum-Chasing-Waterfalls"
+        ]
+      },
+      {
+        "name": {
+          "en": "Grilled Lake Qarun fish",
+          "ar": "سمك قارون مشوي"
+        },
+        "note": {
+          "en": "Grilled fish from Lake Qarun is a local favorite.",
+          "ar": "السمك المشوي من بحيرة قارون من الأكلات المحبوبة محليًا."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://www.egypttoday.com/Article/15/48071/Fayoum-Chasing-Waterfalls"
+        ]
+      },
+      {
+        "name": {
+          "en": "Fitir from the baladi oven",
+          "ar": "فطير الفرن البلدي"
+        },
+        "note": {
+          "en": "Fitir and bread served hot from the adobe-sealed baladi oven carry a smoky, earthy taste.",
+          "ar": "الفطير والعيش الطالع سخن من الفرن البلدي المقفول بالطين طعمه مدخن وأرضي مميز."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://www.egypttoday.com/Article/15/48071/Fayoum-Chasing-Waterfalls"
+        ]
+      }
+    ],
+    "eat_note": {
+      "ar": "أفكار أكل على مستوى المحافظة، مش منيو في المكان ده ولا ضمان توفره عنده. بعض الأكلات مصرية عامة ومش حصرية للمحافظة.",
+      "en": "Governorate-level food ideas, not an on-site menu or a guarantee of availability. Some dishes are national staples, not unique to this governorate."
+    }
   },
   "heracleopolis-magna": {
     "history": {
@@ -28794,7 +31020,44 @@
         ]
       }
     ],
-    "reviewedAt": "2026-11-15"
+    "reviewedAt": "2026-11-16",
+    "eat": [
+      {
+        "name": {
+          "en": "Battaw bread",
+          "ar": "عيش بتاو"
+        },
+        "note": {
+          "en": "A crisp countryside bread from Beni Suef’s villages, baked in clay ovens and eaten with butter, white cheese or mesh.",
+          "ar": "عيش ريفي مقرمش من قرى بني سويف، بيتخبز في فرن طيني وبتتاكل بالزبدة الفلاحي أو الجبنة البيضا أو المش."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://sqawoa.com/archives/29464"
+        ]
+      },
+      {
+        "name": {
+          "en": "Kishk",
+          "ar": "كشك"
+        },
+        "note": {
+          "en": "Fermented wheat-and-milk kishk is a stored staple of the governorate’s homes and appears on Ramadan tables with chicken.",
+          "ar": "الكشك المخمر من القمح واللبن مخزون أساسي في بيوت المحافظة وبيطلع على سفرة رمضان مع الفراخ."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://sqawoa.com/archives/29464",
+          "https://www.elwatannews.com/news/details/8056563"
+        ]
+      }
+    ],
+    "eat_note": {
+      "ar": "أفكار أكل على مستوى المحافظة، مش منيو في المكان ده ولا ضمان توفره عنده. بعض الأكلات مصرية عامة ومش حصرية للمحافظة.",
+      "en": "Governorate-level food ideas, not an on-site menu or a guarantee of availability. Some dishes are national staples, not unique to this governorate."
+    }
   },
   "akhmim": {
     "history": {
@@ -28858,7 +31121,43 @@
         ]
       }
     ],
-    "reviewedAt": "2026-11-15"
+    "reviewedAt": "2026-11-16",
+    "eat": [
+      {
+        "name": {
+          "en": "Kishk and eish shamsi",
+          "ar": "كشك وعيش شمسي"
+        },
+        "note": {
+          "en": "Sohag is long associated with kishk and sun bread on family tables.",
+          "ar": "سوهاج مرتبطة من زمان بالكشك والعيش الشمسي على سفرة البيت."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://www.almasryalyoum.com/news/details/2848828"
+        ]
+      },
+      {
+        "name": {
+          "en": "Makhrouta",
+          "ar": "مخروطة"
+        },
+        "note": {
+          "en": "Akhmim’s best-known sweet, especially after iftar in Ramadan.",
+          "ar": "أشهر حلويات أخميم، خصوصًا بعد الفطار في رمضان."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://www.almasryalyoum.com/news/details/2848828"
+        ]
+      }
+    ],
+    "eat_note": {
+      "ar": "أفكار أكل على مستوى المحافظة، مش منيو في المكان ده ولا ضمان توفره عنده. بعض الأكلات مصرية عامة ومش حصرية للمحافظة.",
+      "en": "Governorate-level food ideas, not an on-site menu or a guarantee of availability. Some dishes are national staples, not unique to this governorate."
+    }
   },
   "ezbet-el-borg": {
     "history": {
@@ -28911,7 +31210,43 @@
         ]
       }
     ],
-    "reviewedAt": "2026-11-15"
+    "reviewedAt": "2026-11-16",
+    "eat": [
+      {
+        "name": {
+          "en": "Domiati cheese",
+          "ar": "جبنة دمياطية"
+        },
+        "note": {
+          "en": "Egypt’s most common white cheese is named after Damietta. It is a soft, salty cheese eaten fresh or aged in brine.",
+          "ar": "أشهر جبنة بيضاء في مصر متسمّية على اسم دمياط. جبنة طرية مالحة بتتاكل طازة أو متخزنة في محلول ملحي."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Domiati"
+        ]
+      },
+      {
+        "name": {
+          "en": "Fish and sardines of Ezbet El-Borg",
+          "ar": "أسماك وسردين عزبة البرج"
+        },
+        "note": {
+          "en": "Ezbet El-Borg hosts Egypt’s largest fishing-boat fleet and a sardine-canning tradition, so fish is the everyday table of the area.",
+          "ar": "عزبة البرج فيها أكبر أسطول مراكب صيد في مصر وصناعة تعليب سردين معروفة، فالسمك هو أكل البيت اليومي في المنطقة."
+        },
+        "venue": null,
+        "photo_id": null,
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Ezbet_El_Borg"
+        ]
+      }
+    ],
+    "eat_note": {
+      "ar": "أفكار أكل على مستوى المحافظة، مش منيو في المكان ده ولا ضمان توفره عنده. بعض الأكلات مصرية عامة ومش حصرية للمحافظة.",
+      "en": "Governorate-level food ideas, not an on-site menu or a guarantee of availability. Some dishes are national staples, not unique to this governorate."
+    }
   },
   "farafra-egypt": {
     "history": {
