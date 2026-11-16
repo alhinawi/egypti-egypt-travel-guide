@@ -4903,6 +4903,22 @@
         "https://www.experienceegypt.eg/en/city/9/aswan-abu-simbel"
       ]
     },
+    "nearby": {
+      "items": [
+        {
+          "text": {
+            "ar": "مفيش أماكن تانية في الدليل على بُعد لحد 40 كم من نقطة الخريطة، بالخط المستقيم مش مسافة المشي أو السواقة. أقرب أماكن في الدليل هي معابد فيلة (227.2 كم) ومتحف النوبة (232.8 كم). السماح بالزيارة والطريق محتاجين مراجعة منفصلة.",
+            "en": "No other catalog entries within 40 km of this map marker (straight line, not walking/driving distance). The nearest catalog entries are Philae Temples (227.2 km) and Nubian Museum (232.8 km). Access and routes must be checked separately."
+          },
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Abu_Simbel",
+            "https://www.experienceegypt.eg/en/city/9/aswan-abu-simbel",
+            "https://en.wikipedia.org/wiki/Philae_temple_complex",
+            "https://en.wikipedia.org/wiki/Nubian_Museum"
+          ]
+        }
+      ]
+    },
     "wear": [
       {
         "text": {
@@ -5202,6 +5218,22 @@
       "source_urls": [
         "https://en.wikipedia.org/wiki/Temple_of_Kom_Ombo",
         "https://www.experienceegypt.eg/en/city/9/aswan-abu-simbel"
+      ]
+    },
+    "nearby": {
+      "items": [
+        {
+          "text": {
+            "ar": "مفيش أماكن تانية في الدليل على بُعد لحد 40 كم من نقطة الخريطة، بالخط المستقيم مش مسافة المشي أو السواقة. أقرب أماكن في الدليل هي جزيرة إلفنتين (40.3 كم) ومتحف النوبة (41.6 كم). السماح بالزيارة والطريق محتاجين مراجعة منفصلة.",
+            "en": "No other catalog entries within 40 km of this map marker (straight line, not walking/driving distance). The nearest catalog entries are Elephantine Island (40.3 km) and Nubian Museum (41.6 km). Access and routes must be checked separately."
+          },
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Temple_of_Kom_Ombo",
+            "https://www.experienceegypt.eg/en/city/9/aswan-abu-simbel",
+            "https://en.wikipedia.org/wiki/Elephantine",
+            "https://en.wikipedia.org/wiki/Nubian_Museum"
+          ]
+        }
       ]
     },
     "wear": [
@@ -5689,6 +5721,22 @@
         "https://www.experienceegypt.eg/en/region/13/the-red-sea"
       ]
     },
+    "nearby": {
+      "items": [
+        {
+          "text": {
+            "ar": "مفيش أماكن تانية في الدليل على بُعد لحد 40 كم من نقطة الخريطة، بالخط المستقيم مش مسافة المشي أو السواقة. أقرب أماكن في الدليل هي محمية وادي الجمال (70.5 كم) ومعبد كوم أمبو (210.5 كم). السماح بالزيارة والطريق محتاجين مراجعة منفصلة.",
+            "en": "No other catalog entries within 40 km of this map marker (straight line, not walking/driving distance). The nearest catalog entries are Wadi El Gemal National Park (70.5 km) and Temple of Kom Ombo (210.5 km). Access and routes must be checked separately."
+          },
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Marsa_Alam",
+            "https://www.experienceegypt.eg/en/region/13/the-red-sea",
+            "https://en.wikipedia.org/wiki/Wadi_El_Gemal_National_Park",
+            "https://en.wikipedia.org/wiki/Temple_of_Kom_Ombo"
+          ]
+        }
+      ]
+    },
     "wear": [
       {
         "text": {
@@ -5836,6 +5884,22 @@
       "source_urls": [
         "https://en.wikipedia.org/wiki/Wadi_El_Gemal_National_Park",
         "https://www.experienceegypt.eg/en/region/13/the-red-sea"
+      ]
+    },
+    "nearby": {
+      "items": [
+        {
+          "text": {
+            "ar": "مفيش أماكن تانية في الدليل على بُعد لحد 40 كم من نقطة الخريطة، بالخط المستقيم مش مسافة المشي أو السواقة. أقرب أماكن في الدليل هي مرسى علم (70.5 كم) ومعبد كوم أمبو (196.3 كم). السماح بالزيارة والطريق محتاجين مراجعة منفصلة.",
+            "en": "No other catalog entries within 40 km of this map marker (straight line, not walking/driving distance). The nearest catalog entries are Marsa Alam (70.5 km) and Temple of Kom Ombo (196.3 km). Access and routes must be checked separately."
+          },
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Wadi_El_Gemal_National_Park",
+            "https://www.experienceegypt.eg/en/region/13/the-red-sea",
+            "https://en.wikipedia.org/wiki/Marsa_Alam",
+            "https://en.wikipedia.org/wiki/Temple_of_Kom_Ombo"
+          ]
+        }
       ]
     },
     "wear": [
@@ -5986,6 +6050,22 @@
         "https://www.experienceegypt.eg/en/city/16/sharm-al-sheikh"
       ]
     },
+    "nearby": {
+      "items": [
+        {
+          "text": {
+            "ar": "مفيش أماكن تانية في الدليل على بُعد لحد 40 كم من نقطة الخريطة، بالخط المستقيم مش مسافة المشي أو السواقة. أقرب أماكن في الدليل هي جزر الجفتون (66.8 كم) والجونة (67.5 كم). السماح بالزيارة والطريق محتاجين مراجعة منفصلة.",
+            "en": "No other catalog entries within 40 km of this map marker (straight line, not walking/driving distance). The nearest catalog entries are Giftun Islands (66.8 km) and El Gouna (67.5 km). Access and routes must be checked separately."
+          },
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Ras_Muhammad_National_Park",
+            "https://www.experienceegypt.eg/en/city/16/sharm-al-sheikh",
+            "https://en.wikipedia.org/wiki/Giftun_Islands",
+            "https://en.wikipedia.org/wiki/El_Gouna"
+          ]
+        }
+      ]
+    },
     "wear": [
       {
         "text": {
@@ -6132,6 +6212,22 @@
       "source_urls": [
         "https://en.wikipedia.org/wiki/Dahab",
         "https://www.experienceegypt.eg/en/city/16/sharm-al-sheikh"
+      ]
+    },
+    "nearby": {
+      "items": [
+        {
+          "text": {
+            "ar": "أماكن تانية في الدليل على بُعد لحد 40 كم من نقطة الخريطة، بالخط المستقيم مش مسافة المشي أو السواقة: جبال ومحيط دهب (1.0 كم)؛ سوق الجمعة في دهب (2.1 كم)؛ إيل جاردن (2.1 كم). السماح بالزيارة والطريق محتاجين مراجعة منفصلة.",
+            "en": "Other catalog entries within 40 km of this map marker (straight line, not walking/driving distance): Mountains around Dahab (1.0 km); Dahab Friday Market (2.1 km); Eel Garden (2.1 km). Access and routes must be checked separately."
+          },
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Dahab",
+            "https://www.experienceegypt.eg/en/city/16/sharm-al-sheikh",
+            "https://www.experienceegypt.eg/en/city/33/dahab",
+            "https://www.experienceegypt.eg/en/attraction-details/12/eel-garden"
+          ]
+        }
       ]
     },
     "wear": [
@@ -7890,6 +7986,23 @@
       "source_urls": [
         "https://www.onassis.org/initiatives/cavafy-archive/cavafys-house-in-alexandria"
       ]
+    },
+    "nearby": {
+      "items": [
+        {
+          "text": {
+            "ar": "أماكن تانية في الدليل على بُعد لحد 40 كم من نقطة الخريطة، بالخط المستقيم مش مسافة المشي أو السواقة: مقابر كوم الشقافة (1.2 كم)؛ مكتبة الإسكندرية (1.4 كم)؛ قلعة قايتباي (2.3 كم). السماح بالزيارة والطريق محتاجين مراجعة منفصلة.",
+            "en": "Other catalog entries within 40 km of this map marker (straight line, not walking/driving distance): Catacombs of Kom El Shoqafa (1.2 km); Bibliotheca Alexandrina (1.4 km); Qaitbay Citadel (2.3 km). Access and routes must be checked separately."
+          },
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Cavafy_Museum",
+            "https://www.experienceegypt.eg/en/city/27/alexandria",
+            "https://en.wikipedia.org/wiki/Catacombs_of_Kom_El_Shoqafa",
+            "https://en.wikipedia.org/wiki/Bibliotheca_Alexandrina",
+            "https://en.wikipedia.org/wiki/Citadel_of_Qaitbay"
+          ]
+        }
+      ]
     }
   },
   "antoniadis": {
@@ -8042,6 +8155,23 @@
       "source_urls": [
         "https://www.bibalex.org/food/venue.html"
       ]
+    },
+    "nearby": {
+      "items": [
+        {
+          "text": {
+            "ar": "أماكن تانية في الدليل على بُعد لحد 40 كم من نقطة الخريطة، بالخط المستقيم مش مسافة المشي أو السواقة: مكتبة الإسكندرية (3.1 كم)؛ مقابر كوم الشقافة (3.7 كم)؛ متحف كفافيس (3.7 كم). السماح بالزيارة والطريق محتاجين مراجعة منفصلة.",
+            "en": "Other catalog entries within 40 km of this map marker (straight line, not walking/driving distance): Bibliotheca Alexandrina (3.1 km); Catacombs of Kom El Shoqafa (3.7 km); Cavafy Museum (3.7 km). Access and routes must be checked separately."
+          },
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Palais_d%27Antoniadis",
+            "https://www.experienceegypt.eg/en/city/27/alexandria",
+            "https://en.wikipedia.org/wiki/Bibliotheca_Alexandrina",
+            "https://en.wikipedia.org/wiki/Catacombs_of_Kom_El_Shoqafa",
+            "https://en.wikipedia.org/wiki/Cavafy_Museum"
+          ]
+        }
+      ]
     }
   },
   "menna-tt69": {
@@ -8183,6 +8313,23 @@
       "en": "Look for scenes of measuring fields, recording harvests and agricultural work, all linked to the tomb owner’s duties. His wife Henuttawy appears repeatedly, and a scene shows the weighing of the heart before Osiris. The zigzag ceiling decoration and strong yellow pigment are part of the experience: this is a place for looking closely at painting rather than seeking a monumental building.",
       "source_urls": [
         "https://arce.org/project/tomb-menna-tt69-theban-necropolis/"
+      ]
+    },
+    "nearby": {
+      "items": [
+        {
+          "text": {
+            "ar": "أماكن تانية في الدليل على بُعد لحد 40 كم من نقطة الخريطة، بالخط المستقيم مش مسافة المشي أو السواقة: معبد حتشبسوت بالدير البحري (0.7 كم)؛ وادي الملوك (1.1 كم)؛ متحف الأقصر (4.6 كم). السماح بالزيارة والطريق محتاجين مراجعة منفصلة.",
+            "en": "Other catalog entries within 40 km of this map marker (straight line, not walking/driving distance): Hatshepsut at Deir al-Bahari (0.7 km); Valley of the Kings (1.1 km); Luxor Museum (4.6 km). Access and routes must be checked separately."
+          },
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/TT69",
+            "https://www.experienceegypt.eg/en/city/22/luxor",
+            "https://en.wikipedia.org/wiki/Deir_el-Bahari",
+            "https://en.wikipedia.org/wiki/Valley_of_the_Kings",
+            "https://en.wikipedia.org/wiki/Luxor_Museum"
+          ]
+        }
       ]
     }
   },
@@ -8327,6 +8474,23 @@
         "https://www.sis.gov.eg/Story/189745/Luxor-museum?lang=en-us",
         "https://www.sis.gov.eg/Story/117682/Luxor-Museum?lang=en-us"
       ]
+    },
+    "nearby": {
+      "items": [
+        {
+          "text": {
+            "ar": "أماكن تانية في الدليل على بُعد لحد 40 كم من نقطة الخريطة، بالخط المستقيم مش مسافة المشي أو السواقة: معابد الكرنك (0.6 كم)؛ معبد الأقصر (1.1 كم)؛ مقبرة مننا TT69 (4.6 كم). السماح بالزيارة والطريق محتاجين مراجعة منفصلة.",
+            "en": "Other catalog entries within 40 km of this map marker (straight line, not walking/driving distance): Karnak Temples (0.6 km); Luxor Temple (1.1 km); Tomb of Menna (TT69) (4.6 km). Access and routes must be checked separately."
+          },
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Luxor_Museum",
+            "https://www.experienceegypt.eg/en/city/22/luxor",
+            "https://en.wikipedia.org/wiki/Karnak",
+            "https://en.wikipedia.org/wiki/Luxor_Temple",
+            "https://en.wikipedia.org/wiki/TT69"
+          ]
+        }
+      ]
     }
   },
   "nubian-museum": {
@@ -8468,6 +8632,23 @@
       "en": "Read the displays as a history of Nubia through time, from archaeological objects to scenes presenting crafts and local traditions. The outdoor garden uses a waterway symbolizing the Nile and channels showing its relationship with village life, alongside a reconstructed Nubian house. The reconstruction explains daily life; it is not itself an ancient house relocated from a village.",
       "source_urls": [
         "https://egymonuments.gov.eg/en/museums/nubia-museum"
+      ]
+    },
+    "nearby": {
+      "items": [
+        {
+          "text": {
+            "ar": "أماكن تانية في الدليل على بُعد لحد 40 كم من نقطة الخريطة، بالخط المستقيم مش مسافة المشي أو السواقة: المسلة الناقصة (0.7 كم)؛ جزيرة إلفنتين (1.3 كم)؛ معابد فيلة (6.5 كم). السماح بالزيارة والطريق محتاجين مراجعة منفصلة.",
+            "en": "Other catalog entries within 40 km of this map marker (straight line, not walking/driving distance): Unfinished Obelisk (0.7 km); Elephantine Island (1.3 km); Philae Temples (6.5 km). Access and routes must be checked separately."
+          },
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Nubian_Museum",
+            "https://www.experienceegypt.eg/en/city/9/aswan-abu-simbel",
+            "https://en.wikipedia.org/wiki/Unfinished_obelisk",
+            "https://en.wikipedia.org/wiki/Elephantine",
+            "https://en.wikipedia.org/wiki/Philae_temple_complex"
+          ]
+        }
       ]
     }
   },
@@ -8611,6 +8792,23 @@
       "source_urls": [
         "https://egymonuments.gov.eg/monuments/the-unfinished-obelisk"
       ]
+    },
+    "nearby": {
+      "items": [
+        {
+          "text": {
+            "ar": "أماكن تانية في الدليل على بُعد لحد 40 كم من نقطة الخريطة، بالخط المستقيم مش مسافة المشي أو السواقة: متحف النوبة (0.7 كم)؛ جزيرة إلفنتين (1.7 كم)؛ معابد فيلة (6.3 كم). السماح بالزيارة والطريق محتاجين مراجعة منفصلة.",
+            "en": "Other catalog entries within 40 km of this map marker (straight line, not walking/driving distance): Nubian Museum (0.7 km); Elephantine Island (1.7 km); Philae Temples (6.3 km). Access and routes must be checked separately."
+          },
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Unfinished_obelisk",
+            "https://www.experienceegypt.eg/en/city/9/aswan-abu-simbel",
+            "https://en.wikipedia.org/wiki/Nubian_Museum",
+            "https://en.wikipedia.org/wiki/Elephantine",
+            "https://en.wikipedia.org/wiki/Philae_temple_complex"
+          ]
+        }
+      ]
     }
   },
   "eel-garden": {
@@ -8745,6 +8943,22 @@
       "en": "Eel Garden takes its name from garden eels that rise from burrows in the sandy seabed and retreat when approached. PADI's site description distinguishes the sand slope from nearby hard and soft corals. The interest is in those different underwater habitats and the animals' behaviour: the \"garden\" is a marine environment, rather than a park on land.",
       "source_urls": [
         "https://www.padi.com/dive-site/egypt/eel-garden-3/"
+      ]
+    },
+    "nearby": {
+      "items": [
+        {
+          "text": {
+            "ar": "أماكن تانية في الدليل على بُعد لحد 40 كم من نقطة الخريطة، بالخط المستقيم مش مسافة المشي أو السواقة: سوق الجمعة في دهب (0.2 كم)؛ جبال ومحيط دهب (1.2 كم)؛ دهب (2.1 كم). السماح بالزيارة والطريق محتاجين مراجعة منفصلة.",
+            "en": "Other catalog entries within 40 km of this map marker (straight line, not walking/driving distance): Dahab Friday Market (0.2 km); Mountains around Dahab (1.2 km); Dahab (2.1 km). Access and routes must be checked separately."
+          },
+          "source_urls": [
+            "https://www.experienceegypt.eg/en/attraction-details/12/eel-garden",
+            "https://www.experienceegypt.eg/en/city/16/sharm-al-sheikh",
+            "https://www.experienceegypt.eg/en/city/33/dahab",
+            "https://en.wikipedia.org/wiki/Dahab"
+          ]
+        }
       ]
     }
   },
@@ -8882,6 +9096,22 @@
         "https://www.padi.com/dive-site/egypt/lighthouse-3/",
         "https://www.experienceegypt.eg/en/city/33/dahab"
       ]
+    },
+    "nearby": {
+      "items": [
+        {
+          "text": {
+            "ar": "أماكن تانية في الدليل على بُعد لحد 40 كم من نقطة الخريطة، بالخط المستقيم مش مسافة المشي أو السواقة: البلو لاجون (0.8 كم)؛ سوق الجمعة في دهب (3.1 كم)؛ إيل جاردن (3.2 كم). السماح بالزيارة والطريق محتاجين مراجعة منفصلة.",
+            "en": "Other catalog entries within 40 km of this map marker (straight line, not walking/driving distance): Blue Lagoon (0.8 km); Dahab Friday Market (3.1 km); Eel Garden (3.2 km). Access and routes must be checked separately."
+          },
+          "source_urls": [
+            "https://www.experienceegypt.eg/en/city/33/dahab",
+            "https://www.experienceegypt.eg/en/city/16/sharm-al-sheikh",
+            "https://www.experienceegypt.eg/en/",
+            "https://www.experienceegypt.eg/en/attraction-details/12/eel-garden"
+          ]
+        }
+      ]
     }
   },
   "friday-market": {
@@ -9016,6 +9246,22 @@
       "en": "Dahab's Friday Market is a window onto its local community. The Egyptian tourism guide points to artisan work, home-cooked snacks and baked goods as reasons to visit. Look at differences in the handmade work and ask its maker about materials and technique. This is a contemporary community market rather than an archaeological bazaar; its character comes from the products, food and people.",
       "source_urls": [
         "https://www.experienceegypt.eg/en/city/33/dahab"
+      ]
+    },
+    "nearby": {
+      "items": [
+        {
+          "text": {
+            "ar": "أماكن تانية في الدليل على بُعد لحد 40 كم من نقطة الخريطة، بالخط المستقيم مش مسافة المشي أو السواقة: إيل جاردن (0.2 كم)؛ جبال ومحيط دهب (1.2 كم)؛ دهب (2.1 كم). السماح بالزيارة والطريق محتاجين مراجعة منفصلة.",
+            "en": "Other catalog entries within 40 km of this map marker (straight line, not walking/driving distance): Eel Garden (0.2 km); Mountains around Dahab (1.2 km); Dahab (2.1 km). Access and routes must be checked separately."
+          },
+          "source_urls": [
+            "https://www.experienceegypt.eg/en/city/33/dahab",
+            "https://www.experienceegypt.eg/en/city/16/sharm-al-sheikh",
+            "https://www.experienceegypt.eg/en/attraction-details/12/eel-garden",
+            "https://en.wikipedia.org/wiki/Dahab"
+          ]
+        }
       ]
     }
   },
@@ -9153,6 +9399,22 @@
         "https://ecoegyptexperiences.com/protected-areas/abu-galum-protected-area/",
         "https://www.undp.org/egypt/stories/preserving-egypts-natural-and-cultural-heritage-embracing-egypts-local-tribal-communities-and-protected-areas"
       ]
+    },
+    "nearby": {
+      "items": [
+        {
+          "text": {
+            "ar": "أماكن تانية في الدليل على بُعد لحد 40 كم من نقطة الخريطة، بالخط المستقيم مش مسافة المشي أو السواقة: منطقة اللايتهاوس (0.8 كم)؛ سوق الجمعة في دهب (2.8 كم)؛ إيل جاردن (3.0 كم). السماح بالزيارة والطريق محتاجين مراجعة منفصلة.",
+            "en": "Other catalog entries within 40 km of this map marker (straight line, not walking/driving distance): Lighthouse area (0.8 km); Dahab Friday Market (2.8 km); Eel Garden (3.0 km). Access and routes must be checked separately."
+          },
+          "source_urls": [
+            "https://www.experienceegypt.eg/en/",
+            "https://www.experienceegypt.eg/en/city/16/sharm-al-sheikh",
+            "https://www.experienceegypt.eg/en/city/33/dahab",
+            "https://www.experienceegypt.eg/en/attraction-details/12/eel-garden"
+          ]
+        }
+      ]
     }
   },
   "dahab-mountains": {
@@ -9288,6 +9550,22 @@
       "source_urls": [
         "https://www.experienceegypt.eg/en/city/33/dahab",
         "https://www.sis.gov.eg/Story/169628/Dahab?lang=en-us"
+      ]
+    },
+    "nearby": {
+      "items": [
+        {
+          "text": {
+            "ar": "أماكن تانية في الدليل على بُعد لحد 40 كم من نقطة الخريطة، بالخط المستقيم مش مسافة المشي أو السواقة: دهب (1.0 كم)؛ إيل جاردن (1.2 كم)؛ سوق الجمعة في دهب (1.2 كم). السماح بالزيارة والطريق محتاجين مراجعة منفصلة.",
+            "en": "Other catalog entries within 40 km of this map marker (straight line, not walking/driving distance): Dahab (1.0 km); Eel Garden (1.2 km); Dahab Friday Market (1.2 km). Access and routes must be checked separately."
+          },
+          "source_urls": [
+            "https://www.experienceegypt.eg/en/city/33/dahab",
+            "https://www.experienceegypt.eg/en/city/16/sharm-al-sheikh",
+            "https://en.wikipedia.org/wiki/Dahab",
+            "https://www.experienceegypt.eg/en/attraction-details/12/eel-garden"
+          ]
+        }
       ]
     }
   },
@@ -9433,6 +9711,21 @@
         "https://www.hepca.org/projects/conservation/fight-for-giftun",
         "http://www.redsea.gov.eg/t/Hurghada/Giftun4t.aspx"
       ]
+    },
+    "nearby": {
+      "items": [
+        {
+          "text": {
+            "ar": "أماكن تانية في الدليل على بُعد لحد 40 كم من نقطة الخريطة، بالخط المستقيم مش مسافة المشي أو السواقة: مارينا الغردقة (8.0 كم)؛ الأسواق التقليدية بالغردقة (9.4 كم)؛ صحراء ومحيط الغردقة (9.5 كم). السماح بالزيارة والطريق محتاجين مراجعة منفصلة.",
+            "en": "Other catalog entries within 40 km of this map marker (straight line, not walking/driving distance): Hurghada Marina (8.0 km); Hurghada’s traditional markets (9.4 km); Desert around Hurghada (9.5 km). Access and routes must be checked separately."
+          },
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Giftun_Islands",
+            "https://www.experienceegypt.eg/en/region/13/the-red-sea",
+            "https://www.experienceegypt.eg/en/city/23/hurghada"
+          ]
+        }
+      ]
     }
   },
   "hurghada-marina": {
@@ -9574,6 +9867,21 @@
       "en": "Start with the boulevard facing the yacht berths and notice how the quayside, buildings and outlets fit together. In Sakkala, this is a waterfront designed for strolling and dining, a different experience from a beach or coral reef. The boats, harbour activity and planned frontage are the main subjects to look at, and help explain the place as a modern urban development.",
       "source_urls": [
         "https://hurghada-marina.com/"
+      ]
+    },
+    "nearby": {
+      "items": [
+        {
+          "text": {
+            "ar": "أماكن تانية في الدليل على بُعد لحد 40 كم من نقطة الخريطة، بالخط المستقيم مش مسافة المشي أو السواقة: صحراء ومحيط الغردقة (3.0 كم)؛ الأسواق التقليدية بالغردقة (3.2 كم)؛ الغردقة (4.0 كم). السماح بالزيارة والطريق محتاجين مراجعة منفصلة.",
+            "en": "Other catalog entries within 40 km of this map marker (straight line, not walking/driving distance): Desert around Hurghada (3.0 km); Hurghada’s traditional markets (3.2 km); Hurghada (4.0 km). Access and routes must be checked separately."
+          },
+          "source_urls": [
+            "https://www.experienceegypt.eg/en/city/23/hurghada",
+            "https://www.experienceegypt.eg/en/region/13/the-red-sea",
+            "https://en.wikipedia.org/wiki/Hurghada"
+          ]
+        }
       ]
     }
   },
@@ -9719,6 +10027,21 @@
         "https://egymonuments.gov.eg/en/news/hurghada-museum-1/",
         "https://english.ahram.org.eg/News/364380.aspx"
       ]
+    },
+    "nearby": {
+      "items": [
+        {
+          "text": {
+            "ar": "أماكن تانية في الدليل على بُعد لحد 40 كم من نقطة الخريطة، بالخط المستقيم مش مسافة المشي أو السواقة: الأسواق التقليدية بالغردقة (6.8 كم)؛ صحراء ومحيط الغردقة (7.1 كم)؛ مارينا الغردقة (9.7 كم). السماح بالزيارة والطريق محتاجين مراجعة منفصلة.",
+            "en": "Other catalog entries within 40 km of this map marker (straight line, not walking/driving distance): Hurghada’s traditional markets (6.8 km); Desert around Hurghada (7.1 km); Hurghada Marina (9.7 km). Access and routes must be checked separately."
+          },
+          "source_urls": [
+            "https://egymonuments.gov.eg/en/museums/hurghada-museum/",
+            "https://www.experienceegypt.eg/en/region/13/the-red-sea",
+            "https://www.experienceegypt.eg/en/city/23/hurghada"
+          ]
+        }
+      ]
     }
   },
   "hurghada-markets": {
@@ -9855,6 +10178,21 @@
         "http://www.redsea.gov.eg/t/Hurghada/Hurghada(1.aspx",
         "https://www.experienceegypt.eg/en/city/23/hurghada"
       ]
+    },
+    "nearby": {
+      "items": [
+        {
+          "text": {
+            "ar": "أماكن تانية في الدليل على بُعد لحد 40 كم من نقطة الخريطة، بالخط المستقيم مش مسافة المشي أو السواقة: صحراء ومحيط الغردقة (0.4 كم)؛ مارينا الغردقة (3.2 كم)؛ الغردقة (4.7 كم). السماح بالزيارة والطريق محتاجين مراجعة منفصلة.",
+            "en": "Other catalog entries within 40 km of this map marker (straight line, not walking/driving distance): Desert around Hurghada (0.4 km); Hurghada Marina (3.2 km); Hurghada (4.7 km). Access and routes must be checked separately."
+          },
+          "source_urls": [
+            "https://www.experienceegypt.eg/en/city/23/hurghada",
+            "https://www.experienceegypt.eg/en/region/13/the-red-sea",
+            "https://en.wikipedia.org/wiki/Hurghada"
+          ]
+        }
+      ]
     }
   },
   "hurghada-desert": {
@@ -9990,6 +10328,21 @@
       "source_urls": [
         "https://www.experienceegypt.eg/en/city/23/hurghada",
         "http://www.redsea.gov.eg/t/Hurghada/Hurghada(1.aspx"
+      ]
+    },
+    "nearby": {
+      "items": [
+        {
+          "text": {
+            "ar": "أماكن تانية في الدليل على بُعد لحد 40 كم من نقطة الخريطة، بالخط المستقيم مش مسافة المشي أو السواقة: الأسواق التقليدية بالغردقة (0.4 كم)؛ مارينا الغردقة (3.0 كم)؛ الغردقة (4.3 كم). السماح بالزيارة والطريق محتاجين مراجعة منفصلة.",
+            "en": "Other catalog entries within 40 km of this map marker (straight line, not walking/driving distance): Hurghada’s traditional markets (0.4 km); Hurghada Marina (3.0 km); Hurghada (4.3 km). Access and routes must be checked separately."
+          },
+          "source_urls": [
+            "https://www.experienceegypt.eg/en/city/23/hurghada",
+            "https://www.experienceegypt.eg/en/region/13/the-red-sea",
+            "https://en.wikipedia.org/wiki/Hurghada"
+          ]
+        }
       ]
     }
   },
@@ -14429,6 +14782,20 @@
         "https://www.sis.gov.eg/Story/68564?lang=en-us"
       ]
     },
+    "nearby": {
+      "items": [
+        {
+          "text": {
+            "ar": "أماكن تانية في الدليل على بُعد لحد 40 كم من نقطة الخريطة، بالخط المستقيم مش مسافة المشي أو السواقة: بحيرة المنزلة (37.3 كم). السماح بالزيارة والطريق محتاجين مراجعة منفصلة.",
+            "en": "Other catalog entries within 40 km of this map marker (straight line, not walking/driving distance): Lake Manzala (37.3 km). Access and routes must be checked separately."
+          },
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Tanis",
+            "https://en.wikipedia.org/wiki/Lake_Manzala"
+          ]
+        }
+      ]
+    },
     "wear": [
       {
         "text": {
@@ -15371,6 +15738,22 @@
         "https://www.sis.gov.eg/Story/170578/Beheira-Governorate?lang=en-us"
       ]
     },
+    "nearby": {
+      "items": [
+        {
+          "text": {
+            "ar": "أماكن تانية في الدليل على بُعد لحد 40 كم من نقطة الخريطة، بالخط المستقيم مش مسافة المشي أو السواقة: فوه (25.3 كم)؛ تل الفراعين (38.4 كم)؛ دمنهور (39.3 كم). السماح بالزيارة والطريق محتاجين مراجعة منفصلة.",
+            "en": "Other catalog entries within 40 km of this map marker (straight line, not walking/driving distance): Fuwwah (25.3 km); Buto (38.4 km); Damanhur (39.3 km). Access and routes must be checked separately."
+          },
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Rosetta",
+            "https://en.wikipedia.org/wiki/Fuwwah",
+            "https://en.wikipedia.org/wiki/Buto",
+            "https://en.wikipedia.org/wiki/Damanhur"
+          ]
+        }
+      ]
+    },
     "buy": [
       {
         "text": {
@@ -15539,6 +15922,22 @@
       "sources": [
         "https://en.wikipedia.org/wiki/Damanhur",
         "https://www.sis.gov.eg/Story/170578/Beheira-Governorate?lang=en-us"
+      ]
+    },
+    "nearby": {
+      "items": [
+        {
+          "text": {
+            "ar": "أماكن تانية في الدليل على بُعد لحد 40 كم من نقطة الخريطة، بالخط المستقيم مش مسافة المشي أو السواقة: فوه (18.8 كم)؛ تل الفراعين (31.1 كم)؛ رشيد (39.3 كم). السماح بالزيارة والطريق محتاجين مراجعة منفصلة.",
+            "en": "Other catalog entries within 40 km of this map marker (straight line, not walking/driving distance): Fuwwah (18.8 km); Buto (31.1 km); Rosetta (39.3 km). Access and routes must be checked separately."
+          },
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Damanhur",
+            "https://en.wikipedia.org/wiki/Fuwwah",
+            "https://en.wikipedia.org/wiki/Buto",
+            "https://en.wikipedia.org/wiki/Rosetta"
+          ]
+        }
       ]
     },
     "wear": [
@@ -16010,6 +16409,20 @@
         "https://www.sis.gov.eg/Story/168167/Suez-Governorate?lang=en-us"
       ]
     },
+    "nearby": {
+      "items": [
+        {
+          "text": {
+            "ar": "أماكن تانية في الدليل على بُعد لحد 40 كم من نقطة الخريطة، بالخط المستقيم مش مسافة المشي أو السواقة: ميناء السويس (39.8 كم). السماح بالزيارة والطريق محتاجين مراجعة منفصلة.",
+            "en": "Other catalog entries within 40 km of this map marker (straight line, not walking/driving distance): Suez Port (39.8 km). Access and routes must be checked separately."
+          },
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Ain_Sokhna",
+            "https://en.wikipedia.org/wiki/Suez_Port"
+          ]
+        }
+      ]
+    },
     "wear": [
       {
         "text": {
@@ -16416,6 +16829,21 @@
         "https://www.sis.gov.eg/Story/171927/North-Sinai?lang=en"
       ]
     },
+    "nearby": {
+      "items": [
+        {
+          "text": {
+            "ar": "مفيش أماكن تانية في الدليل على بُعد لحد 40 كم من نقطة الخريطة، بالخط المستقيم مش مسافة المشي أو السواقة. أقرب أماكن في الدليل هي بحيرة البردويل (61.0 كم) وبورفؤاد (140.7 كم). السماح بالزيارة والطريق محتاجين مراجعة منفصلة.",
+            "en": "No other catalog entries within 40 km of this map marker (straight line, not walking/driving distance). The nearest catalog entries are Lake Bardawil (61.0 km) and Port Fuad (140.7 km). Access and routes must be checked separately."
+          },
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Arish",
+            "https://en.wikipedia.org/wiki/Lake_Bardawil",
+            "https://en.wikipedia.org/wiki/Port_Fuad"
+          ]
+        }
+      ]
+    },
     "wear": [
       {
         "text": {
@@ -16480,6 +16908,21 @@
       "sources": [
         "https://en.wikipedia.org/wiki/Lake_Bardawil",
         "https://www.sis.gov.eg/Story/171927/North-Sinai?lang=en"
+      ]
+    },
+    "nearby": {
+      "items": [
+        {
+          "text": {
+            "ar": "مفيش أماكن تانية في الدليل على بُعد لحد 40 كم من نقطة الخريطة، بالخط المستقيم مش مسافة المشي أو السواقة. أقرب أماكن في الدليل هي العريش (61.0 كم) وبورفؤاد (79.7 كم). السماح بالزيارة والطريق محتاجين مراجعة منفصلة.",
+            "en": "No other catalog entries within 40 km of this map marker (straight line, not walking/driving distance). The nearest catalog entries are Arish (61.0 km) and Port Fuad (79.7 km). Access and routes must be checked separately."
+          },
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Lake_Bardawil",
+            "https://en.wikipedia.org/wiki/Arish",
+            "https://en.wikipedia.org/wiki/Port_Fuad"
+          ]
+        }
       ]
     },
     "wear": [
@@ -16945,6 +17388,21 @@
         "https://beta.sis.gov.eg/en/egypt/political-system/executive-authority/beni-suef/"
       ]
     },
+    "nearby": {
+      "items": [
+        {
+          "text": {
+            "ar": "مفيش أماكن تانية في الدليل على بُعد لحد 40 كم من نقطة الخريطة، بالخط المستقيم مش مسافة المشي أو السواقة. أقرب أماكن في الدليل هي مدينة بني سويف (53.1 كم) وإهناسيا القديمة (61.8 كم). السماح بالزيارة والطريق محتاجين مراجعة منفصلة.",
+            "en": "No other catalog entries within 40 km of this map marker (straight line, not walking/driving distance). The nearest catalog entries are Beni Suef (53.1 km) and Heracleopolis Magna (61.8 km). Access and routes must be checked separately."
+          },
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Sannur_Cave",
+            "https://en.wikipedia.org/wiki/Beni_Suef",
+            "https://en.wikipedia.org/wiki/Heracleopolis_Magna"
+          ]
+        }
+      ]
+    },
     "wear": [
       {
         "text": {
@@ -17285,6 +17743,21 @@
         "https://www.sis.gov.eg/Story/180455/Assiut-Governorate?lang=en-us"
       ]
     },
+    "nearby": {
+      "items": [
+        {
+          "text": {
+            "ar": "مفيش أماكن تانية في الدليل على بُعد لحد 40 كم من نقطة الخريطة، بالخط المستقيم مش مسافة المشي أو السواقة. أقرب أماكن في الدليل هي دير المحرق (44.6 كم) ومقابر مير (51.7 كم). السماح بالزيارة والطريق محتاجين مراجعة منفصلة.",
+            "en": "No other catalog entries within 40 km of this map marker (straight line, not walking/driving distance). The nearest catalog entries are Deir el-Muharraq (44.6 km) and Meir (51.7 km). Access and routes must be checked separately."
+          },
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Asyut",
+            "https://en.wikipedia.org/wiki/Deir_el-Muharraq",
+            "https://en.wikipedia.org/wiki/Meir,_Egypt"
+          ]
+        }
+      ]
+    },
     "wear": [
       {
         "text": {
@@ -17472,6 +17945,21 @@
       "sources": [
         "https://en.wikipedia.org/wiki/Abydos,_Egypt",
         "https://www.sis.gov.eg/Story/68574/Sohag-Governorate"
+      ]
+    },
+    "nearby": {
+      "items": [
+        {
+          "text": {
+            "ar": "مفيش أماكن تانية في الدليل على بُعد لحد 40 كم من نقطة الخريطة، بالخط المستقيم مش مسافة المشي أو السواقة. أقرب أماكن في الدليل هي أخميم (45.5 كم) والدير الأبيض (47.4 كم). السماح بالزيارة والطريق محتاجين مراجعة منفصلة.",
+            "en": "No other catalog entries within 40 km of this map marker (straight line, not walking/driving distance). The nearest catalog entries are Akhmim (45.5 km) and White Monastery (47.4 km). Access and routes must be checked separately."
+          },
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Abydos,_Egypt",
+            "https://en.wikipedia.org/wiki/Akhmim",
+            "https://en.wikipedia.org/wiki/White_Monastery"
+          ]
+        }
       ]
     },
     "wear": [
@@ -18089,6 +18577,21 @@
         "https://beta.sis.gov.eg/en/egypt/political-system/executive-authority/new-valley/"
       ]
     },
+    "nearby": {
+      "items": [
+        {
+          "text": {
+            "ar": "مفيش أماكن تانية في الدليل على بُعد لحد 40 كم من نقطة الخريطة، بالخط المستقيم مش مسافة المشي أو السواقة. أقرب أماكن في الدليل هي واحة الداخلة (138.7 كم) وأبيدوس (159.8 كم). السماح بالزيارة والطريق محتاجين مراجعة منفصلة.",
+            "en": "No other catalog entries within 40 km of this map marker (straight line, not walking/driving distance). The nearest catalog entries are Dakhla Oasis (138.7 km) and Abydos (159.8 km). Access and routes must be checked separately."
+          },
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Kharga_Oasis",
+            "https://en.wikipedia.org/wiki/Dakhla_Oasis",
+            "https://en.wikipedia.org/wiki/Abydos,_Egypt"
+          ]
+        }
+      ]
+    },
     "buy": [
       {
         "text": {
@@ -18163,6 +18666,21 @@
       "sources": [
         "https://en.wikipedia.org/wiki/Dakhla_Oasis",
         "https://beta.sis.gov.eg/en/egypt/political-system/executive-authority/new-valley/"
+      ]
+    },
+    "nearby": {
+      "items": [
+        {
+          "text": {
+            "ar": "مفيش أماكن تانية في الدليل على بُعد لحد 40 كم من نقطة الخريطة، بالخط المستقيم مش مسافة المشي أو السواقة. أقرب أماكن في الدليل هي واحة الخارجة (138.7 كم) والفرافرة (209.9 كم). السماح بالزيارة والطريق محتاجين مراجعة منفصلة.",
+            "en": "No other catalog entries within 40 km of this map marker (straight line, not walking/driving distance). The nearest catalog entries are Kharga Oasis (138.7 km) and Farafra (209.9 km). Access and routes must be checked separately."
+          },
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Dakhla_Oasis",
+            "https://en.wikipedia.org/wiki/Kharga_Oasis",
+            "https://en.wikipedia.org/wiki/Farafra,_Egypt"
+          ]
+        }
       ]
     },
     "buy": [
@@ -18342,6 +18860,21 @@
         "https://www.sis.gov.eg/Story/1145/Siwa?lang=en-us"
       ]
     },
+    "nearby": {
+      "items": [
+        {
+          "text": {
+            "ar": "مفيش أماكن تانية في الدليل على بُعد لحد 40 كم من نقطة الخريطة، بالخط المستقيم مش مسافة المشي أو السواقة. أقرب أماكن في الدليل هي مرسى مطروح (288.2 كم) والفرافرة (337.5 كم). السماح بالزيارة والطريق محتاجين مراجعة منفصلة.",
+            "en": "No other catalog entries within 40 km of this map marker (straight line, not walking/driving distance). The nearest catalog entries are Marsa Matrouh (288.2 km) and Farafra (337.5 km). Access and routes must be checked separately."
+          },
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Siwa_Oasis",
+            "https://en.wikipedia.org/wiki/Marsa_Matrouh",
+            "https://en.wikipedia.org/wiki/Farafra,_Egypt"
+          ]
+        }
+      ]
+    },
     "eat": [
       {
         "text": {
@@ -18391,6 +18924,21 @@
       "sources": [
         "https://en.wikipedia.org/wiki/El_Alamein",
         "https://www.sis.gov.eg/Story/1145/Siwa?lang=en-us"
+      ]
+    },
+    "nearby": {
+      "items": [
+        {
+          "text": {
+            "ar": "مفيش أماكن تانية في الدليل على بُعد لحد 40 كم من نقطة الخريطة، بالخط المستقيم مش مسافة المشي أو السواقة. أقرب أماكن في الدليل هي قلعة قايتباي (98.7 كم) ومقابر كوم الشقافة (99.1 كم). السماح بالزيارة والطريق محتاجين مراجعة منفصلة.",
+            "en": "No other catalog entries within 40 km of this map marker (straight line, not walking/driving distance). The nearest catalog entries are Qaitbay Citadel (98.7 km) and Catacombs of Kom El Shoqafa (99.1 km). Access and routes must be checked separately."
+          },
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/El_Alamein",
+            "https://en.wikipedia.org/wiki/Citadel_of_Qaitbay",
+            "https://en.wikipedia.org/wiki/Catacombs_of_Kom_El_Shoqafa"
+          ]
+        }
       ]
     },
     "wear": [
@@ -18470,6 +19018,21 @@
       "sources": [
         "https://en.wikipedia.org/wiki/Marsa_Matrouh",
         "https://www.sis.gov.eg/Story/1145/Siwa?lang=en-us"
+      ]
+    },
+    "nearby": {
+      "items": [
+        {
+          "text": {
+            "ar": "مفيش أماكن تانية في الدليل على بُعد لحد 40 كم من نقطة الخريطة، بالخط المستقيم مش مسافة المشي أو السواقة. أقرب أماكن في الدليل هي العلمين (172.7 كم) وقلعة قايتباي (252.4 كم). السماح بالزيارة والطريق محتاجين مراجعة منفصلة.",
+            "en": "No other catalog entries within 40 km of this map marker (straight line, not walking/driving distance). The nearest catalog entries are El Alamein (172.7 km) and Qaitbay Citadel (252.4 km). Access and routes must be checked separately."
+          },
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Marsa_Matrouh",
+            "https://en.wikipedia.org/wiki/El_Alamein",
+            "https://en.wikipedia.org/wiki/Citadel_of_Qaitbay"
+          ]
+        }
       ]
     },
     "wear": [
@@ -30445,6 +31008,22 @@
       "en": "Manzala is a brackish coastal lagoon in the northeastern Delta, a different landscape from an open-sea beach. Its shallow water, fishing areas and relationship with Port Said and the Suez Canal explain its setting. The lake crosses governorate boundaries; its Dakahlia listing is a geographic entry point, not a claim that it lies entirely within one governorate.",
       "sources": [
         "https://en.wikipedia.org/wiki/Lake_Manzala"
+      ]
+    },
+    "nearby": {
+      "items": [
+        {
+          "text": {
+            "ar": "أماكن تانية في الدليل على بُعد لحد 40 كم من نقطة الخريطة، بالخط المستقيم مش مسافة المشي أو السواقة: مدينة دمياط (23.3 كم)؛ جامع عمرو بن العاص بدمياط (24.0 كم)؛ بورسعيد (27.6 كم). السماح بالزيارة والطريق محتاجين مراجعة منفصلة.",
+            "en": "Other catalog entries within 40 km of this map marker (straight line, not walking/driving distance): Damietta (23.3 km); Amr ibn al-As Mosque (Damietta) (24.0 km); Port Said (27.6 km). Access and routes must be checked separately."
+          },
+          "source_urls": [
+            "https://en.wikipedia.org/wiki/Lake_Manzala",
+            "https://en.wikipedia.org/wiki/Damietta",
+            "https://en.wikipedia.org/wiki/Amr_ibn_al-As_Mosque_(Damietta)",
+            "https://en.wikipedia.org/wiki/Port_Said"
+          ]
+        }
       ]
     },
     "weather": {
