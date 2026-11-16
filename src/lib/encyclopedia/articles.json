@@ -8625,7 +8625,7 @@
         ]
       }
     ],
-    "reviewedAt": "2026-11-15",
+    "reviewedAt": "2026-11-16",
     "eat_note": {
       "ar": "أفكار أكل على مستوى المحافظة، مش منيو في المكان ده ولا ضمان توفره عنده. بعض الأكلات مصرية عامة ومش حصرية للمحافظة.",
       "en": "Governorate-level food ideas, not an on-site menu or a guarantee of availability. Some dishes are national staples, not unique to this governorate."
@@ -8738,6 +8738,13 @@
       ],
       "source_urls": [
         "https://www.nodc.noaa.gov/archive/arc0216/0253808/2.2/data/0-data/Region-1-WMO-Normals-9120/Egypt/CSV/SharmElSheikhAP_62460.csv"
+      ]
+    },
+    "see": {
+      "ar": "اسم إيل جاردن جاي من ثعابين البحر الصغيرة اللي بتطلع من جحور في القاع الرملي وتختفي فيه لما حد يقرب. وصف بادي للموقع بيميز بين المنحدر الرملي ومناطق المرجان الصلب واللين القريبة منه. الفكرة هنا إنك تلاحظ اختلاف البيئات تحت الميه وسلوك الكائنات، مش إن «الجاردن» حديقة على اليابسة.",
+      "en": "Eel Garden takes its name from garden eels that rise from burrows in the sandy seabed and retreat when approached. PADI's site description distinguishes the sand slope from nearby hard and soft corals. The interest is in those different underwater habitats and the animals' behaviour: the \"garden\" is a marine environment, rather than a park on land.",
+      "source_urls": [
+        "https://www.padi.com/dive-site/egypt/eel-garden-3/"
       ]
     }
   },
@@ -8753,7 +8760,7 @@
         ]
       }
     ],
-    "reviewedAt": "2026-11-15",
+    "reviewedAt": "2026-11-16",
     "eat_note": {
       "ar": "أفكار أكل على مستوى المحافظة، مش منيو في المكان ده ولا ضمان توفره عنده. بعض الأكلات مصرية عامة ومش حصرية للمحافظة.",
       "en": "Governorate-level food ideas, not an on-site menu or a guarantee of availability. Some dishes are national staples, not unique to this governorate."
@@ -8867,6 +8874,14 @@
       "source_urls": [
         "https://www.nodc.noaa.gov/archive/arc0216/0253808/2.2/data/0-data/Region-1-WMO-Normals-9120/Egypt/CSV/SharmElSheikhAP_62460.csv"
       ]
+    },
+    "see": {
+      "ar": "اللايت هاوس هنا اسم موقع شعاب في قلب دهب، فالزيارة مرتبطة بالبحر مش بجولة داخل برج منارة. وصف بادي بيركز على التكوينات المرجانية العالية والمرجان الصلب واللين، ودليل السياحة المصري بيذكر كمان منحوتات تحت الميه في منطقة اللايت هاوس. فيه فرق بين الشعاب الطبيعية والمنحوتات الحديثة المضافة للمنطقة؛ الاتنين مش آثار غارقة قديمة.",
+      "en": "Lighthouse here is a reef site in central Dahab, so the subject is the sea rather than a tour inside a lighthouse tower. PADI describes large coral pinnacles with hard and soft corals, while the Egyptian tourism guide also identifies underwater sculptures in the Lighthouse area. Distinguish the natural reef formations from those modern additions; neither should be presented as ancient submerged ruins.",
+      "source_urls": [
+        "https://www.padi.com/dive-site/egypt/lighthouse-3/",
+        "https://www.experienceegypt.eg/en/city/33/dahab"
+      ]
     }
   },
   "friday-market": {
@@ -8881,7 +8896,7 @@
         ]
       }
     ],
-    "reviewedAt": "2026-11-15",
+    "reviewedAt": "2026-11-16",
     "eat_note": {
       "ar": "أفكار أكل على مستوى المحافظة، مش منيو في المكان ده ولا ضمان توفره عنده. بعض الأكلات مصرية عامة ومش حصرية للمحافظة.",
       "en": "Governorate-level food ideas, not an on-site menu or a guarantee of availability. Some dishes are national staples, not unique to this governorate."
@@ -8994,6 +9009,13 @@
       ],
       "source_urls": [
         "https://www.nodc.noaa.gov/archive/arc0216/0253808/2.2/data/0-data/Region-1-WMO-Normals-9120/Egypt/CSV/SharmElSheikhAP_62460.csv"
+      ]
+    },
+    "see": {
+      "ar": "سوق الجمعة وجه للتجمع المحلي في دهب: دليل السياحة المصري بيذكر الحرف اليدوية وأكل البيت والمخبوزات كأهم أسباب زيارته. شوف اختلاف الشغل المعروض واتكلم مع صانعه عن الخامة وطريقة العمل. ده سوق مجتمعي معاصر، مش سوق أثري؛ التفاصيل الصغيرة في المنتجات والأكل والناس هي اللي بتدي اللفة طابعها.",
+      "en": "Dahab's Friday Market is a window onto its local community. The Egyptian tourism guide points to artisan work, home-cooked snacks and baked goods as reasons to visit. Look at differences in the handmade work and ask its maker about materials and technique. This is a contemporary community market rather than an archaeological bazaar; its character comes from the products, food and people.",
+      "source_urls": [
+        "https://www.experienceegypt.eg/en/city/33/dahab"
       ]
     }
   },
@@ -9137,7 +9159,7 @@
         ]
       }
     ],
-    "reviewedAt": "2026-11-15",
+    "reviewedAt": "2026-11-16",
     "eat_note": {
       "ar": "أفكار أكل على مستوى المحافظة، مش منيو في المكان ده ولا ضمان توفره عنده. بعض الأكلات مصرية عامة ومش حصرية للمحافظة.",
       "en": "Governorate-level food ideas, not an on-site menu or a guarantee of availability. Some dishes are national staples, not unique to this governorate."
@@ -9250,6 +9272,14 @@
       ],
       "source_urls": [
         "https://www.nodc.noaa.gov/archive/arc0216/0253808/2.2/data/0-data/Region-1-WMO-Normals-9120/Egypt/CSV/SharmElSheikhAP_62460.csv"
+      ]
+    },
+    "see": {
+      "ar": "جبال دهب هي الخلفية الصخرية للمدينة، مش قمة واحدة باسم محدد. دليل السياحة المصري بيذكر الوديان والمشي والتسلق والتخييم ومراقبة النجوم ضمن تجارب المنطقة الجبلية المحيطة. من ناحية المشاهدة، قارن بين ضيق الوديان واتساع المشهد ناحية البحر، وتابع تغير لون الصخور والظلال خلال اليوم. هو مشهد طبيعي يتقري بالتضاريس والضوء.",
+      "en": "The mountains around Dahab are a rocky landscape rather than one specifically named summit. The Egyptian tourism guide describes canyon exploration, hiking, climbing, camping and stargazing in the surrounding mountains. As a landscape, notice the contrast between narrow valleys and the open sea views, and how light and shadow change the rock colours through the day. The subject is terrain and light, not a single built monument.",
+      "source_urls": [
+        "https://www.experienceegypt.eg/en/city/33/dahab",
+        "https://www.sis.gov.eg/Story/169628/Dahab?lang=en-us"
       ]
     }
   },
@@ -9695,7 +9725,7 @@
         ]
       }
     ],
-    "reviewedAt": "2026-11-15",
+    "reviewedAt": "2026-11-16",
     "eat_note": {
       "ar": "أفكار أكل على مستوى المحافظة، مش منيو في المكان ده ولا ضمان توفره عنده. بعض الأكلات مصرية عامة ومش حصرية للمحافظة.",
       "en": "Governorate-level food ideas, not an on-site menu or a guarantee of availability. Some dishes are national staples, not unique to this governorate."
@@ -9809,6 +9839,14 @@
       "source_urls": [
         "https://www.nodc.noaa.gov/archive/arc0216/0253808/2.2/data/0-data/Region-1-WMO-Normals-9120/Egypt/CSV/HurghadaAP_62463.csv"
       ]
+    },
+    "see": {
+      "ar": "الدهار مدخل لفهم أسواق الغردقة: دليل المحافظة بيوصفه بالجزء القديم من المدينة، وفيه أسواق ومحلات محلية وأماكن مرتبطة بحياة الصيادين. ده مختلف عن السقالة السياحية أو ممشى المارينا. ركز في اللفة على واجهات المحلات وتنوع المعروض وحركة البيع اليومية، علشان تشوف جانب من المدينة بعيد عن صورة المنتجعات والشواطئ.",
+      "en": "El Dahar is a useful starting point for understanding Hurghada's markets. The governorate guide identifies it as the older part of town, with souks, local shops and places connected with fishing life. That is a different setting from tourist Sakkala or the marina boulevard. Notice the shopfronts, variety of goods and everyday trading, for a view of the city beyond its resorts and beaches.",
+      "source_urls": [
+        "http://www.redsea.gov.eg/t/Hurghada/Hurghada(1.aspx",
+        "https://www.experienceegypt.eg/en/city/23/hurghada"
+      ]
     }
   },
   "hurghada-desert": {
@@ -9823,7 +9861,7 @@
         ]
       }
     ],
-    "reviewedAt": "2026-11-15",
+    "reviewedAt": "2026-11-16",
     "eat_note": {
       "ar": "أفكار أكل على مستوى المحافظة، مش منيو في المكان ده ولا ضمان توفره عنده. بعض الأكلات مصرية عامة ومش حصرية للمحافظة.",
       "en": "Governorate-level food ideas, not an on-site menu or a guarantee of availability. Some dishes are national staples, not unique to this governorate."
@@ -9936,6 +9974,14 @@
       ],
       "source_urls": [
         "https://www.nodc.noaa.gov/archive/arc0216/0253808/2.2/data/0-data/Region-1-WMO-Normals-9120/Egypt/CSV/HurghadaAP_62463.csv"
+      ]
+    },
+    "see": {
+      "ar": "صحراء الغردقة بتفتح وجه تاني للمدينة غير البحر. دليل السياحة المصري بيذكر الكثبان ضمن مشاهد اليابسة حوالين الغردقة، ودليل المحافظة بيشرح التقاء منظر جبال البحر الأحمر بالساحل في المنطقة. بص لاختلاف الأرض المفتوحة عن الكتل الصخرية البعيدة، ولتغير الظلال مع حركة الشمس. المقصود هنا مش معلم أثري واحد، لكن مشهد صحراوي واسع.",
+      "en": "Hurghada's desert offers a different side of the city from its seafront. The Egyptian tourism guide includes sand dunes among its land-based sights, while the governorate guide describes the meeting of Red Sea mountain and coastal scenery in the region. Notice the contrast between open ground and distant rocky masses, and the changing shadows as the sun moves. This is a broad desert landscape rather than one archaeological landmark.",
+      "source_urls": [
+        "https://www.experienceegypt.eg/en/city/23/hurghada",
+        "http://www.redsea.gov.eg/t/Hurghada/Hurghada(1.aspx"
       ]
     }
   },
