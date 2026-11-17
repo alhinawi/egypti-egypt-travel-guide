@@ -14583,6 +14583,26 @@
     "eat_note": {
       "ar": "أفكار أكل على مستوى المحافظة، مش منيو في المكان ده ولا ضمان توفره عنده. بعض الأكلات مصرية عامة ومش حصرية للمحافظة.",
       "en": "Governorate-level food ideas, not an on-site menu or a guarantee of availability. Some dishes are national staples, not unique to this governorate."
+    },
+    "buy": [
+      {
+        "name": {
+          "ar": "أثاث وشغل خشب دمياطي",
+          "en": "Damietta furniture and woodcraft"
+        },
+        "note": {
+          "ar": "حكاية دمياط مع الأثاث مش مجرد اسم على يافطة: مصادر اليونسكو ومشروع CRAFT البحثي بتوثّق صناعة الأثاث وشبكات الحرفيين في المدينة. لو بتختار قطعة، اسأل مين صنعها واتفق كتابةً على الخامة والمقاس والتشطيب والتوصيل. ده شراء محتاج ترتيب، مش تذكار خفيف للشنطة.",
+          "en": "Furniture is part of Damietta’s working identity: UNESCO and the CRAFT research project document the city’s furniture industry and craft networks. If choosing a piece, ask who made it and agree on material, dimensions, finish and delivery in writing. This is a purchase to plan, rather than a small suitcase souvenir."
+        },
+        "source_urls": [
+          "https://www.uil.unesco.org/en/learning-cities/damietta",
+          "https://2025.cedare.org/conservation-of-climate-change-endangered-cultural-furniture-industry-heritage-in-damietta-egypt-craft/"
+        ]
+      }
+    ],
+    "buy_note": {
+      "ar": "دي خلفية عن حرفة المدينة، مش ترشيح معرض محدد أو تأكيد إن الورش بتستقبل زيارات. اتفق مع أي صانع على الزيارة والشحن والضمان قبل ما تتحرك أو تدفع.",
+      "en": "This is city-craft context, not an endorsed showroom or confirmation that workshops receive visitors. Arrange any visit, shipping and warranty with the maker before travelling or paying."
     }
   },
   "ras-el-barr": {
@@ -15271,6 +15291,40 @@
     "eat_note": {
       "ar": "أفكار أكل على مستوى المحافظة، مش منيو في المكان ده ولا ضمان توفره عنده. بعض الأكلات مصرية عامة ومش حصرية للمحافظة.",
       "en": "Governorate-level food ideas, not an on-site menu or a guarantee of availability. Some dishes are national staples, not unique to this governorate."
+    },
+    "buy": [
+      {
+        "name": {
+          "ar": "سمسمية وحمصية وحلاوة مولد",
+          "en": "Sesame, chickpea and festival sweets"
+        },
+        "note": {
+          "ar": "تقرير ميداني من طنطا في 2019 وثّق صناعة وبيع حلاوة المولد، ومنها ألواح السمسم والمكسرات والحمص. وللحمص والحلويات مكان في تاريخ مولد السيد البدوي كمان. لو بتختار علبة، اسأل عن المكونات وتاريخ الإنتاج وطريقة الحفظ، خصوصًا لو فيه حساسية من السمسم أو المكسرات.",
+          "en": "A 2019 field report from Tanta documented festival-sweet making and selling, including sesame, nut and chickpea bars. Chickpeas and sweets also have a place in the history of Ahmad al-Badawi’s festival. When choosing a box, ask about ingredients, production date and storage, especially if sesame or nuts are an allergy concern."
+        },
+        "source_urls": [
+          "https://www.xinhuanet.com/english/2019-11/07/c_138536420.htm",
+          "https://www.tandfonline.com/doi/abs/10.1080/20549547.2020.1869904"
+        ]
+      },
+      {
+        "name": {
+          "ar": "عروسة وحصان المولد",
+          "en": "Moulded festival dolls and horses"
+        },
+        "note": {
+          "ar": "صناعة العروسة والحصان بقوالب السكر اتوثّقت في طنطا؛ قطعة للزينة بتحكي عن تقاليد المولد. ما تعتبرش المعروض الملوّن أكل تلقائيًا: فرّق بين الزينة والحلوى واسأل البائع عن الغرض والخامة.",
+          "en": "Tanta reporting documents sugar dolls and horses made in moulds, decorative objects tied to festival traditions. Do not assume a coloured display piece is edible: distinguish decoration from sweets and ask the seller about its purpose and materials."
+        },
+        "source_urls": [
+          "https://www.xinhuanet.com/english/2019-11/07/c_138536420.htm",
+          "https://english.ahram.org.eg/UI/Front/Inner.aspx?NewsContentID=575148"
+        ]
+      }
+    ],
+    "buy_note": {
+      "ar": "المصادر بتوثّق الحرفة وثقافة المولد، مش محل مفتوح النهارده أو أسعار ومخزون حاليين. مواعيد الموالد تتراجع من إعلان السنة نفسها، مش من تاريخ تقرير قديم.",
+      "en": "The sources document craft and festival culture, not a shop open today or current prices and stock. Check this year’s announcements for festival dates rather than dates in an old report."
     }
   },
   "el-mahalla-el-kubra": {
