@@ -92,3 +92,5 @@ html{--page:#f5f7f6;--paper:#fff;--ink:#102c38;--muted:#60747d;--accent:#125366;
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}.article-accordion>summary>svg:last-child{transition:none}}
 
 @media(prefers-reduced-motion:reduce){.lightbox-stage img{transition:none!important}}
+
+.save-storage-warning{background:#513811;border:1px solid #ad792b;color:#fff;bottom:90px;max-width:min(520px,calc(100vw - 32px));z-index:90}
