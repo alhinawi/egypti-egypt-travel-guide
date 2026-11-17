@@ -1,0 +1,3 @@
+import{test}from'node:test';import assert from'node:assert/strict';import{languageHref}from'../src/lib/language-link';
+test('switch language retains exact encoded query and section',()=>{assert.equal(languageHref('/ar/explore/','en','?q=%D8%A3%D8%B3%D9%88%D8%A7%D9%86&category=culture','#filters'),'/en/explore/?q=%D8%A3%D8%B3%D9%88%D8%A7%D9%86&category=culture#filters');assert.equal(languageHref('/en/places/khan-el-khalili/','ar','','#article-weather'),'/ar/places/khan-el-khalili/#article-weather')});
+test('route matching does not rewrite similar prefixes',()=>{assert.equal(languageHref('/english/','ar'),'/ar/');assert.equal(languageHref('/ar','en'),'/en');assert.equal(languageHref('/en/','en'),'/en/')});
