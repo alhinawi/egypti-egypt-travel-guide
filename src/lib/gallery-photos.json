@@ -2572,5 +2572,17 @@
     "license": "Public domain",
     "licenseUrl": "",
     "changes": "Resized and converted to WebP; layout crop"
+  },
+  "mahalla-gate-2014": {
+    "file": "mahalla-gate-2014",
+    "alt": {
+      "ar": "بوابة المحلة الكبرى من طريق طنطا، صورة سنة 2014.",
+      "en": "El Mahalla El Kubra city gate from the Tanta road, photographed in 2014."
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:El_Mahalla_El_Kobra_gate.JPG",
+    "author": "Faris knight",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Resized from a 960px Wikimedia thumbnail and converted to WebP; layout crop; no upscaling."
   }
 }
