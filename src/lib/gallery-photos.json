@@ -2584,5 +2584,29 @@
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "changes": "Resized from a 960px Wikimedia thumbnail and converted to WebP; layout crop; no upscaling."
+  },
+  "shibin-street-2014-1": {
+    "file": "shibin-street-2014-1",
+    "alt": {
+      "ar": "شارع طريق شبرا باص في شبين الكوم، صورة أرشيفية من 2014.",
+      "en": "Shubra Bas road in Shibin El Kom, an archival photograph from 2014."
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Shebin_El-Kom-2014-1.jpg",
+    "author": "Faris knight",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+    "changes": "Resized from 960px Wikimedia preview, converted to WebP; layout crop; no upscaling."
+  },
+  "shibin-street-2014-4": {
+    "file": "shibin-street-2014-4",
+    "alt": {
+      "ar": "شارع صبري أبو علم في شبين الكوم، صورة أرشيفية من 2014.",
+      "en": "Sabri Abu Alam Street in Shibin El Kom, an archival photograph from 2014."
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Shebin_El-Kom-2014-4.jpg",
+    "author": "Faris knight",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+    "changes": "Resized from 960px Wikimedia preview, converted to WebP; layout crop; no upscaling."
   }
 }
