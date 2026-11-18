@@ -177,5 +177,245 @@
     "url": "https://my.matterport.com/show/?m=PfNu1RDRbZf",
     "source": "https://www.ees.ac.uk/resource/egyptian-heritage-from-home-.html",
     "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "dahab",
+    "provider": "World Wanderings: 4K Walking Tours",
+    "kind": "video",
+    "title": {
+      "ar": "تمشية على طريق شاطئ دهب",
+      "en": "A walk along Dahab’s beach road"
+    },
+    "scope": {
+      "ar": "فيديو مشي مسجّل على طريق الشاطئ. مش جولة تحت الميه أو تغطية لكل دهب.",
+      "en": "Recorded walking footage along the beach road. Not an underwater visit or all of Dahab."
+    },
+    "url": "https://www.youtube.com/watch?v=rJQ01U0GqvI",
+    "source": "https://www.youtube.com/watch?v=rJQ01U0GqvI",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "hurghada",
+    "provider": "Jack Z",
+    "kind": "video",
+    "title": {
+      "ar": "لقطات من الغردقة",
+      "en": "Scenes from Hurghada"
+    },
+    "scope": {
+      "ar": "فيديو مسجّل من الغردقة. لقطات مختارة للمدينة، مش خريطة تفاعلية أو تغطية لكل الشواطئ.",
+      "en": "Recorded footage of selected parts of Hurghada. Not an interactive map or coverage of every beach."
+    },
+    "url": "https://www.youtube.com/watch?v=GoXMo61EK-8",
+    "source": "https://www.youtube.com/watch?v=GoXMo61EK-8",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "hurghada-marina",
+    "provider": "Vadym Malinovskyi",
+    "kind": "video",
+    "title": {
+      "ar": "من شارع شيراتون للمارينا",
+      "en": "Sheraton Street to the Marina"
+    },
+    "scope": {
+      "ar": "تمشية مصوّرة من شارع شيراتون لحد المارينا. الجزء الخاص بالمارينا ضمن مشوار أطول في الغردقة.",
+      "en": "A recorded walk from Sheraton Street to the Marina. The Marina appears within a longer Hurghada walk."
+    },
+    "url": "https://www.youtube.com/watch?v=4gB_AFRuetM",
+    "source": "https://www.youtube.com/watch?v=4gB_AFRuetM",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "hurghada-markets",
+    "provider": "SCUBA Sean Travels",
+    "kind": "video",
+    "title": {
+      "ar": "محلات شارع شيراتون",
+      "en": "Sheraton Street shops"
+    },
+    "scope": {
+      "ar": "مشي مسجّل بين المحلات والكافيهات في شارع شيراتون. مش جولة في كل أسواق الغردقة أو تأكيد لمواعيد المحلات.",
+      "en": "A recorded walk past shops and cafés on Sheraton Street. Not all Hurghada markets or confirmation of shop hours."
+    },
+    "url": "https://www.youtube.com/watch?v=T1LVeYqyXSE",
+    "source": "https://www.youtube.com/watch?v=T1LVeYqyXSE",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "giftun",
+    "provider": "Orlando Furioso",
+    "kind": "video",
+    "title": {
+      "ar": "شاطئ محمية في جزيرة الجفتون الكبيرة",
+      "en": "Mahmya beach on Big Giftun"
+    },
+    "scope": {
+      "ar": "فيديو لشاطئ محمية على الجفتون الكبيرة. مش لكل جزر الجفتون، ومش تأكيد لإتاحة دخول الشاطئ أو سعره دلوقتي.",
+      "en": "Footage of Mahmya beach on Big Giftun. Not all Giftun islands or confirmation of current beach access or prices."
+    },
+    "url": "https://www.youtube.com/watch?v=loQ0OfLywEU",
+    "source": "https://www.youtube.com/watch?v=loQ0OfLywEU",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "el-gouna",
+    "provider": "LivingTheDream2023_OMG",
+    "kind": "video",
+    "title": {
+      "ar": "لقطات من الجونة",
+      "en": "Scenes from El Gouna"
+    },
+    "scope": {
+      "ar": "فيديو زيارة مسجّل في الجونة، منشور بعنوان فبراير 2024. مش بث مباشر أو دعوة لدخول كل المساحات الخاصة.",
+      "en": "A recorded El Gouna visit titled February 2024. Not live footage or permission to enter private areas."
+    },
+    "url": "https://www.youtube.com/watch?v=lEGlHcBicBw",
+    "source": "https://www.youtube.com/watch?v=lEGlHcBicBw",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "marsa-alam",
+    "provider": "Liv & Lew",
+    "kind": "video",
+    "title": {
+      "ar": "تحت الميه في منطقة مرسى علم",
+      "en": "Underwater around Marsa Alam"
+    },
+    "scope": {
+      "ar": "فيديو غوص في منطقة مرسى علم. لقطات بحرية مسجّلة، مش تمشية في وسط المدينة ولا ضمان لمشاهدة حيوانات بعينها.",
+      "en": "Recorded diving footage around Marsa Alam. Not a town-centre walk or a promise of particular wildlife sightings."
+    },
+    "url": "https://www.youtube.com/watch?v=bjd30tZs0Bg",
+    "source": "https://www.youtube.com/watch?v=bjd30tZs0Bg",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "wadi-el-gemal-national-park",
+    "provider": "Vladimír Kulštejn",
+    "kind": "video",
+    "title": {
+      "ar": "لقطات من محمية وادي الجمال",
+      "en": "Scenes from Wadi El Gemal"
+    },
+    "scope": {
+      "ar": "فيديو زيارة بعنوان نوفمبر 2023 من المحمية. مش تغطية لكل المحمية أو دليل على الطرق والتصاريح المتاحة النهارده.",
+      "en": "A recorded park visit titled November 2023. Not the entire protected area or current route and permit advice."
+    },
+    "url": "https://www.youtube.com/watch?v=HwodkEH5iBI",
+    "source": "https://www.youtube.com/watch?v=HwodkEH5iBI",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "wadi-el-rayan",
+    "provider": "UNDP Egypt",
+    "kind": "video",
+    "title": {
+      "ar": "وادي الريان بعدسة برنامج الأمم المتحدة",
+      "en": "Wadi El Rayan through UNDP’s lens"
+    },
+    "scope": {
+      "ar": "فيلم مسجّل عن محمية وادي الريان من UNDP Egypt. عرض للمكان والطبيعة، مش مشغّل 360 أو حالة الميه دلوقتي.",
+      "en": "A recorded film about Wadi El Rayan by UNDP Egypt. A view of the landscape, not a 360 player or today’s water conditions."
+    },
+    "url": "https://www.youtube.com/watch?v=kubPl1fOYN0",
+    "source": "https://www.youtube.com/watch?v=kubPl1fOYN0",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "hawara",
+    "provider": "الفيوم واحه الجمال | Fayoum Oasis",
+    "kind": "video",
+    "title": {
+      "ar": "عند هرم هوارة",
+      "en": "At Hawara Pyramid"
+    },
+    "scope": {
+      "ar": "فيديو زيارة لهرم هوارة ومنطقة اللابيرنث. مش إعادة بناء افتراضية للابيرنث ولا تأكيد إن كل أجزائه ظاهرة.",
+      "en": "A recorded visit to Hawara Pyramid and the labyrinth site. Not a reconstruction of the labyrinth or a claim that all its remains are visible."
+    },
+    "url": "https://www.youtube.com/watch?v=ja2qU5QMgj4",
+    "source": "https://www.youtube.com/watch?v=ja2qU5QMgj4",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "faiyum-oasis",
+    "provider": "Explore Fayoum",
+    "kind": "video",
+    "title": {
+      "ar": "مشاهد من الفيوم",
+      "en": "Views of Fayoum"
+    },
+    "scope": {
+      "ar": "فيديو مسجّل بمشاهد مختارة من الفيوم. مش جولة شاملة لكل قرى الواحة أو دليل على حالة الزيارة النهارده.",
+      "en": "A recorded film of selected Fayoum scenes. Not every oasis village or a guide to today’s visiting conditions."
+    },
+    "url": "https://www.youtube.com/watch?v=NleSPH1dr6E",
+    "source": "https://www.youtube.com/watch?v=NleSPH1dr6E",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "dakhla-oasis",
+    "provider": "NEWDAYNEWLAND",
+    "kind": "video",
+    "title": {
+      "ar": "من الباشندي للقصر في الداخلة",
+      "en": "Bashandi to Al-Qasr in Dakhla"
+    },
+    "scope": {
+      "ar": "فيديو رحلة بين قرى في واحة الداخلة، منها الباشندي والقصر. مش جولة في كل الواحة أو كل مبانيها.",
+      "en": "A travel video through Dakhla villages including Bashandi and Al-Qasr. Not the whole oasis or every building."
+    },
+    "url": "https://www.youtube.com/watch?v=QOwdPvjIndw",
+    "source": "https://www.youtube.com/watch?v=QOwdPvjIndw",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "bahariya-oasis",
+    "provider": "Wandering Wagars | Adventure Family Travel",
+    "kind": "video",
+    "title": {
+      "ar": "البحرية والصحراء البيضاء",
+      "en": "Bahariya and the White Desert"
+    },
+    "scope": {
+      "ar": "فيديو رحلة بيجمع واحة البحرية والصحراء البيضاء. مش كل اللقطات جوه البحرية، ومش مسار جاهز من غير دليل وتصاريح.",
+      "en": "A travel film combining Bahariya Oasis and the White Desert. Not every scene is in Bahariya, and it is not a ready-to-follow route without a guide and permits."
+    },
+    "url": "https://www.youtube.com/watch?v=O7r0tdLNayM",
+    "source": "https://www.youtube.com/watch?v=O7r0tdLNayM",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "siwa-oasis",
+    "provider": "Fit Nomads",
+    "kind": "video",
+    "title": {
+      "ar": "زيارة مصوّرة لسيوة",
+      "en": "A recorded visit to Siwa"
+    },
+    "scope": {
+      "ar": "فيديو تجربة سفر في سيوة. لقطات مسجّلة ونصائح صاحب الفيديو، مش بث مباشر أو تأكيد للأسعار وإتاحة الدخول.",
+      "en": "A Siwa travel video with the creator’s experience. Recorded scenes and personal advice, not live footage or verified current prices and access."
+    },
+    "url": "https://www.youtube.com/watch?v=L8d5lHYjlKw",
+    "source": "https://www.youtube.com/watch?v=L8d5lHYjlKw",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "el-alamein",
+    "provider": "Egypt Adventures Travel",
+    "kind": "video",
+    "title": {
+      "ar": "متحف ونُصُب ومقابر العلمين",
+      "en": "El Alamein museum, memorials and cemeteries"
+    },
+    "scope": {
+      "ar": "زيارة مصوّرة للمتحف الحربي والنُصُب والمقابر. مش كل مدينة العلمين أو منتجعاتها.",
+      "en": "A recorded visit to the military museum, memorials and cemeteries. Not all of El Alamein or its resorts."
+    },
+    "url": "https://www.youtube.com/watch?v=eCP-nzfy8oQ",
+    "source": "https://www.youtube.com/watch?v=eCP-nzfy8oQ",
+    "checkedAt": "2026-11-18"
   }
 ]
