@@ -96,3 +96,4 @@ html{--page:#f5f7f6;--paper:#fff;--ink:#102c38;--muted:#60747d;--accent:#125366;
 .save-storage-warning{background:#513811;border:1px solid #ad792b;color:#fff;bottom:90px;max-width:min(520px,calc(100vw - 32px));z-index:90}
 
 .lightbox-stage img[hidden]{display:none}.gallery-image-error{max-width:480px;text-align:center;padding:24px;line-height:1.8}.gallery-image-error button{min-height:44px;padding:10px 20px;border:1px solid #a6c3ce;border-radius:24px;background:#20343c;color:#fff;font:inherit;cursor:pointer}.gallery-image-error button:focus-visible{outline:3px solid #ffcc83;outline-offset:4px}
+.account-saves-warning{display:block;line-height:1.8}.account-saves-warning button{display:block;width:100%;margin-top:10px;padding:8px 14px;min-height:44px;font:inherit;font-size:14px;border:1px solid currentColor;border-radius:8px;white-space:normal}
