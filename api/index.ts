@@ -1,10 +1,12 @@
-import {Hono} from 'hono';
+import {Hono,type Context} from 'hono';
+import {passwordHash,newSalt,equalHash,PASSWORD_ITERATIONS} from './password';
 import {getCookie,setCookie,deleteCookie} from 'hono/cookie';
 import {SignJWT,jwtVerify,createRemoteJWKSet} from 'jose';
 import {places,itineraries} from '../src/lib/data';
 import demoSource from '../src/lib/demo-guides.json';
 interface Env {DB:D1Database; ASSETS:Fetcher; APP_ORIGIN:string; GOOGLE_CLIENT_ID:string; GOOGLE_CLIENT_SECRET:string; AUTH_SECRET:string; ADMIN_EMAILS?:string;}
-const app=new Hono<{Bindings:Env;Variables:{user:{id:string,name:string,email:string,picture:string|null}|null;sessionHash:string}}>();
+type AppEnv={Bindings:Env;Variables:{user:{id:string,name:string,email:string,picture:string|null}|null;sessionHash:string}};
+const app=new Hono<AppEnv>();
 const jwks=createRemoteJWKSet(new URL('https://www.googleapis.com/oauth2/v3/certs'));
 const itemIds=new Set([...places.map(p=>'place:'+p.id),...itineraries.map(p=>'trip:'+p.id)]);
 const SESSION='__Host-eg-session',FLOW='__Host-eg-oauth';
@@ -16,7 +18,7 @@ const cookieOptions={httpOnly:true,secure:true,sameSite:'Lax' as const,path:'/'}
 app.use('/api/*',async(c,next)=>{c.header('Cache-Control','no-store');c.header('X-Content-Type-Options','nosniff');c.header('Referrer-Policy','no-referrer');await next()});
 app.onError((err,c)=>{console.error('api_error',err.name);return c.json({error:'Service temporarily unavailable. Please try again.'},500)});
 app.get('/api/health',c=>c.json({ok:true,version:'0.1.0'}));
-app.get('/api/config',c=>c.json({google:configured(c.env),country:(c.req.raw.cf as IncomingRequestCfProperties|undefined)?.country??null,translation:{enabled:false,languages:['ar','en']}}));
+app.get('/api/config',c=>c.json({google:configured(c.env),password:Boolean(c.env.DB&&c.env.AUTH_SECRET),country:(c.req.raw.cf as IncomingRequestCfProperties|undefined)?.country??null,translation:{enabled:false,languages:['ar','en']}}));
 app.use('/api/*',async(c,next)=>{
  if(!['GET','HEAD','OPTIONS'].includes(c.req.method)){
   const origin=c.req.header('Origin');
@@ -32,6 +34,42 @@ app.use('/api/*',async(c,next)=>{
  }
  await next();
 });
+const passwordAuth=async(c:Context<AppEnv>,signup:boolean)=>{
+ if(!c.env.DB||!c.env.AUTH_SECRET)return c.json({error:'unavailable'},503);
+ const text=await c.req.text();if(text.length>4096)return c.json({error:'invalid'},422);
+ let body:Record<string,unknown>;try{const value:unknown=JSON.parse(text);if(!value||typeof value!=='object'||Array.isArray(value))return c.json({error:'invalid'},422);body=value as Record<string,unknown>}catch{return c.json({error:'invalid'},422)}
+ const email=typeof body.email==='string'?body.email.trim().toLowerCase():'';
+ const password=typeof body.password==='string'?body.password:'';
+ const name=typeof body.name==='string'?body.name.trim():'';
+ if(!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)||email.length>254||password.length<12||password.length>128||(signup&&(!name||name.length>80)))return c.json({error:'invalid'},422);
+ const now=Date.now(),bucket=Math.floor(now/900000),ip=c.req.header('CF-Connecting-IP')||'local';
+ for(const [kind,value,limit] of [['ip',ip,20],['email',email,8]] as const){
+  const key='password:'+kind+':'+await hash(value+':'+bucket);
+  const result=await c.env.DB.prepare('INSERT INTO rate_limits(key,count,expires_at) VALUES(?,1,?) ON CONFLICT(key) DO UPDATE SET count=count+1 RETURNING count').bind(key,now+1800000).first<{count:number}>();
+  if((result?.count??0)>limit){c.header('Retry-After','900');return c.json({error:'rate_limit'},429)}
+ }
+ if(signup){
+  // Never auto-link an unverified password identity to a Google identity, even if emails match.
+  const exists=await c.env.DB.prepare('SELECT id FROM users WHERE lower(email)=? LIMIT 1').bind(email).first();
+  const salt=newSalt(),derived=await passwordHash(password,salt,c.env.AUTH_SECRET);
+  if(exists)return c.json({error:'account_unavailable'},409);
+  const id='email:'+crypto.randomUUID();
+  try{await c.env.DB.batch([
+   c.env.DB.prepare('INSERT INTO users(id,google_sub,email,name,picture,created_at,updated_at) VALUES(?,?,?,?,NULL,?,?)').bind(id,'password:'+id,email,name,now,now),
+   c.env.DB.prepare('INSERT INTO password_credentials(user_id,email,salt,password_hash,scheme,iterations,email_verified,created_at) VALUES(?,?,?,?,?,?,0,?)').bind(id,email,salt,derived,'pbkdf2-sha256-hmac-v1',PASSWORD_ITERATIONS,now)
+  ])}catch{return c.json({error:'account_unavailable'},409)}
+  const session=random();await c.env.DB.prepare('INSERT INTO sessions(token_hash,user_id,expires_at) VALUES(?,?,?)').bind(await hash(session),id,now+30*86400000).run();
+  setCookie(c,SESSION,session,{...cookieOptions,maxAge:30*86400});return c.json({ok:true},201);
+ }
+ const row=await c.env.DB.prepare('SELECT user_id,salt,password_hash,scheme,iterations FROM password_credentials WHERE email=? COLLATE NOCASE').bind(email).first<{user_id:string;salt:string;password_hash:string;scheme:string;iterations:number}>();
+ const derived=await passwordHash(password,row?.salt||'0'.repeat(64),c.env.AUTH_SECRET);
+ if(!row||row.scheme!=='pbkdf2-sha256-hmac-v1'||row.iterations!==PASSWORD_ITERATIONS||!equalHash(derived,row.password_hash))return c.json({error:'credentials'},401);
+ const session=random();await c.env.DB.prepare('INSERT INTO sessions(token_hash,user_id,expires_at) VALUES(?,?,?)').bind(await hash(session),row.user_id,now+30*86400000).run();
+ await c.env.DB.prepare('DELETE FROM rate_limits WHERE expires_at<?').bind(now).run();
+ setCookie(c,SESSION,session,{...cookieOptions,maxAge:30*86400});return c.json({ok:true});
+};
+app.post('/api/auth/password/signup',c=>passwordAuth(c,true));
+app.post('/api/auth/password/signin',c=>passwordAuth(c,false));
 app.get('/api/auth/google/start',async c=>{
  if(!configured(c.env))return c.json({error:'Google sign-in is not configured yet'},503);
  const ip=c.req.header('CF-Connecting-IP')||'local',bucket=Math.floor(Date.now()/300000);
@@ -67,7 +105,7 @@ app.get('/api/auth/google/callback',async c=>{
   setCookie(c,SESSION,session,{...cookieOptions,maxAge:30*86400});return c.redirect(c.env.APP_ORIGIN+'/?auth=success');
  }catch{return fail()}
 });
-const isAdmin=(c:{env:Env;get:(k:'user')=>{email:string}|null})=>{const u=c.get('user');if(!u)return false;const list=(c.env.ADMIN_EMAILS||'').split(',').map(x=>x.trim().toLowerCase()).filter(Boolean);return list.includes(u.email.toLowerCase())};
+const isAdmin=(c:{env:Env;get:(k:'user')=>{id:string;email:string}|null})=>{const u=c.get('user');if(!u||u.id.startsWith('email:'))return false;const list=(c.env.ADMIN_EMAILS||'').split(',').map(x=>x.trim().toLowerCase()).filter(Boolean);return list.includes(u.email.toLowerCase())};
 const mask=(e:string)=>{const[a,d]=e.split('@');return (a.slice(0,2)||'*')+'***@'+(d||'')};
 app.get('/api/me',c=>c.json({user:c.get('user'),admin:isAdmin(c)}));
 app.use('/api/admin/*',async(c,next)=>{if(!c.get('user'))return c.json({error:'Sign in required'},401);if(!isAdmin(c))return c.json({error:'Admin only'},403);await next()});
