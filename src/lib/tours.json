@@ -1732,5 +1732,52 @@
       "ar": "بانوراما فوتوغرافية من جوّه كهف وادي سنور بتعرض تكوينات صخرية وسلالم، تصوير 8 مايو 2015. مش جولة في كل الكهف أو تأكيد إنه مفتوح أو آمن للدخول النهارده.",
       "en": "A photographic panorama inside Wadi Sannur Cave showing rock formations and stairs, photographed 8 May 2015. Not a tour of the entire cave or confirmation that it is open or safe to enter today."
     }
+  },
+  {
+    "placeId": "hermopolis",
+    "kind": "panorama",
+    "provider": "360Cities / Stefan Geens",
+    "url": "https://www.360cities.net/image/temple-hermopolis-el-ashmunein-egypt",
+    "source": "https://www.360cities.net/image/temple-hermopolis-el-ashmunein-egypt",
+    "title": {
+      "ar": "بقايا معبد وأطراف الأشمونين بزاوية 360",
+      "en": "Temple remains and the edge of El Ashmunein in 360"
+    },
+    "scope": {
+      "ar": "بانوراما فوتوغرافية لبقايا معبد والمباني المحيطة في الأشمونين، تصوير 1 ديسمبر 2008. مش جولة في كل هرموبوليس أو تأكيد لحالة الموقع وإتاحة دخوله النهارده.",
+      "en": "A photographic panorama of temple remains and surrounding village buildings at El Ashmunein, photographed 1 December 2008. Not a tour of all Hermopolis or evidence of present site conditions or access."
+    }
+  },
+  {
+    "placeId": "bubastis",
+    "kind": "video",
+    "provider": "World of Antiquity",
+    "url": "https://www.youtube.com/watch?v=hnoVXuvIX6o&t=305s",
+    "source": "https://www.youtube.com/watch?v=hnoVXuvIX6o&t=305s",
+    "title": {
+      "ar": "زيارة مصوّرة لتل بسطة",
+      "en": "A filmed visit to Tell Basta"
+    },
+    "scope": {
+      "ar": "فصل تل بسطة من فيلم World of Antiquity، منشور 21 فبراير 2023: من 5:05 لحد 22:23. فيه لقطات آثار ومتحف وتعليق بالإنجليزي. مش جولة تفاعلية أو مرجع لمواعيد الدخول الحالية.",
+      "en": "The Tell Basta chapter of a World of Antiquity film, published 21 February 2023: 5:05 to 22:23. Includes site and museum footage with English commentary. Not interactive or a current admission guide."
+    },
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "tanis",
+    "kind": "video",
+    "provider": "World of Antiquity",
+    "url": "https://www.youtube.com/watch?v=hnoVXuvIX6o&t=1433s",
+    "source": "https://www.youtube.com/watch?v=hnoVXuvIX6o&t=1433s",
+    "title": {
+      "ar": "زيارة مصوّرة لصان الحجر",
+      "en": "A filmed visit to Tanis"
+    },
+    "scope": {
+      "ar": "فصل صان الحجر من فيلم World of Antiquity، منشور 21 فبراير 2023: من 23:53 لحد 37:10. فيه تصوير بين الآثار ونقوش حجرية وتعليق بالإنجليزي. مش جولة 360 أو تأكيد لحالة الموقع ومواعيده النهارده.",
+      "en": "The Tanis chapter of a World of Antiquity film, published 21 February 2023: 23:53 to 37:10. Includes on-site ruins and carved stones with English commentary. Not a 360 tour or evidence of present site conditions or hours."
+    },
+    "checkedAt": "2026-11-18"
   }
 ]
