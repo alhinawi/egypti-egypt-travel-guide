@@ -246,11 +246,17 @@
   "friday-market": {
     "governorate": "south-sinai",
     "vibes": [
-      "shopping"
+      "shopping",
+      "foodie",
+      "crafts",
+      "lively"
     ],
     "eras": [],
     "classification": "editorial",
-    "source_basis": "existing cited place description"
+    "source_basis": [
+      "existing cited place description",
+      "https://www.experienceegypt.eg/en/city/33/dahab"
+    ]
   },
   "blue-lagoon": {
     "governorate": "south-sinai",
@@ -287,11 +293,16 @@
     "governorate": "red-sea",
     "vibes": [
       "sea",
-      "city"
+      "city",
+      "foodie",
+      "lively"
     ],
     "eras": [],
     "classification": "editorial",
-    "source_basis": "existing cited place description"
+    "source_basis": [
+      "existing cited place description",
+      "https://hurghada-marina.com/"
+    ]
   },
   "hurghada-museum": {
     "governorate": "red-sea",
@@ -505,13 +516,15 @@
     "governorate": "south-sinai",
     "vibes": [
       "sea",
-      "relaxing"
+      "relaxing",
+      "foodie"
     ],
     "eras": [],
     "classification": "editorial",
     "source_basis": [
       "https://en.wikipedia.org/wiki/Dahab",
-      "https://www.experienceegypt.eg/en/city/16/sharm-al-sheikh"
+      "https://www.experienceegypt.eg/en/city/16/sharm-al-sheikh",
+      "https://www.experienceegypt.eg/en/city/33/dahab"
     ]
   },
   "saint-catherine-s-monastery": {
@@ -660,13 +673,16 @@
   "el-qanater-el-khayreya": {
     "governorate": "qalyubia",
     "vibes": [
-      "city"
+      "city",
+      "gardens",
+      "relaxing"
     ],
     "eras": [],
     "classification": "editorial",
     "source_basis": [
       "https://en.wikipedia.org/wiki/El_Qanater_El_Khayreya",
-      "https://sis.gov.eg/en/egypt/system-of-government/executive-authority/qalyubia/"
+      "https://sis.gov.eg/en/egypt/system-of-government/executive-authority/qalyubia/",
+      "https://www.mwri.gov.eg/?p=12228"
     ]
   },
   "damietta": {
@@ -1335,13 +1351,16 @@
   "coptic-museum": {
     "governorate": "cairo",
     "vibes": [
-      "historic"
+      "historic",
+      "museum",
+      "arts"
     ],
     "eras": [],
     "classification": "editorial",
     "source_basis": [
       "https://egymonuments.gov.eg/en/museums/the-coptic-museum",
-      "https://en.wikipedia.org/wiki/Coptic_Museum"
+      "https://en.wikipedia.org/wiki/Coptic_Museum",
+      "https://egymonuments.gov.eg/en/museums/the-coptic-museum"
     ]
   },
   "hanging-church": {
@@ -1395,7 +1414,8 @@
   "national-museum-egyptian-civilization": {
     "governorate": "cairo",
     "vibes": [
-      "historic"
+      "historic",
+      "museum"
     ],
     "eras": [],
     "classification": "editorial",
@@ -1403,7 +1423,8 @@
       "https://nmec.gov.eg/main-gallery/",
       "https://nmec.gov.eg/mummies-hall/",
       "https://nmec.gov.eg/",
-      "https://en.wikipedia.org/wiki/National_Museum_of_Egyptian_Civilization"
+      "https://en.wikipedia.org/wiki/National_Museum_of_Egyptian_Civilization",
+      "https://nmec.gov.eg/main-gallery/"
     ]
   },
   "rhoda-nilometer": {
@@ -1421,13 +1442,16 @@
   "manial-palace": {
     "governorate": "cairo",
     "vibes": [
-      "historic"
+      "historic",
+      "museum",
+      "arts"
     ],
     "eras": [],
     "classification": "editorial",
     "source_basis": [
       "https://egymonuments.gov.eg/en/museums/manial-palace-museum/",
-      "https://en.wikipedia.org/wiki/Manial_Palace_and_Museum"
+      "https://en.wikipedia.org/wiki/Manial_Palace_and_Museum",
+      "https://egymonuments.gov.eg/en/museums/manial-palace-museum/"
     ]
   },
   "muhammad-ali-mosque": {
@@ -1519,13 +1543,16 @@
     "governorate": "cairo",
     "vibes": [
       "relaxing",
-      "nature"
+      "nature",
+      "gardens",
+      "foodie"
     ],
     "eras": [],
     "classification": "editorial",
     "source_basis": [
       "https://azharpark.com/",
-      "https://en.wikipedia.org/wiki/Al-Azhar_Park"
+      "https://en.wikipedia.org/wiki/Al-Azhar_Park",
+      "https://azharpark.com/"
     ]
   },
   "wadi-degla": {
@@ -1557,26 +1584,30 @@
     "governorate": "cairo",
     "vibes": [
       "museum",
-      "historic"
+      "historic",
+      "arts"
     ],
     "eras": [],
     "classification": "editorial",
     "source_basis": [
       "https://egymonuments.gov.eg/en/museums/museum-of-islamic-art/",
-      "https://en.wikipedia.org/wiki/Museum_of_Islamic_Art,_Cairo"
+      "https://en.wikipedia.org/wiki/Museum_of_Islamic_Art,_Cairo",
+      "https://egymonuments.gov.eg/en/museums/museum-of-islamic-art/"
     ]
   },
   "gayer-anderson-museum": {
     "governorate": "cairo",
     "vibes": [
       "museum",
-      "historic"
+      "historic",
+      "arts"
     ],
     "eras": [],
     "classification": "editorial",
     "source_basis": [
       "https://egymonuments.gov.eg/en/museums/gayer-anderson-museum/",
-      "https://en.wikipedia.org/wiki/Gayer-Anderson_Museum"
+      "https://en.wikipedia.org/wiki/Gayer-Anderson_Museum",
+      "https://egymonuments.gov.eg/en/museums/gayer-anderson-museum/"
     ]
   },
   "petrified-forest-cairo": {
