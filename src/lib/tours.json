@@ -2297,5 +2297,35 @@
     },
     "url": "https://www.youtube.com/watch?v=uUJw-NYFbWA",
     "source": "https://www.youtube.com/watch?v=uUJw-NYFbWA"
+  },
+  {
+    "placeId": "damanhur",
+    "provider": "waleed ibrahim وليد إبراهيم · YouTube",
+    "kind": "video",
+    "title": {
+      "ar": "شارع عبد السلام الشاذلي في دمنهور",
+      "en": "Abdel Salam El Shazly Street in Damanhur"
+    },
+    "scope": {
+      "ar": "جولة شارع مصورة نشرها وليد إبراهيم في ديسمبر 2022، بتعرض مدخل دمنهور وشارع عبد السلام الشاذلي والمباني وحركة الشارع في جو شتوي. دي دمنهور البحيرة في مصر، مش المجتمع الإيطالي اللي بنفس الاسم. مش تغطية لكل المدينة ولا دليل على حالة الشوارع دلوقتي.",
+      "en": "A street-level film published by Waleed Ibrahim in December 2022, showing the entrance to Damanhur, Abdel Salam El Shazly Street, buildings and traffic in winter weather. This is Damanhur in Beheira, Egypt, not the Italian community of the same name. Not the whole city or evidence of current street conditions."
+    },
+    "url": "https://www.youtube.com/watch?v=SxP9ogewHY8",
+    "source": "https://www.youtube.com/watch?v=SxP9ogewHY8"
+  },
+  {
+    "placeId": "menouf",
+    "provider": "Ahmed Al3ashmawey · YouTube",
+    "kind": "video",
+    "title": {
+      "ar": "جولة قصيرة في شوارع منوف",
+      "en": "A short visit to Menouf streets"
+    },
+    "scope": {
+      "ar": "فلوج بالعربي نشره Ahmed Al3ashmawey في يوليو 2025، بيعرض لقطات شارع في مدينة منوف، فيها مباني ومحلات وحركة المرور. زيارة قصيرة، مش جولة لكل منوف ولا لكل محافظة المنوفية، ومش تأكيد لأسعار أو مواعيد المحلات الحالية.",
+      "en": "An Arabic-language vlog published by Ahmed Al3ashmawey in July 2025, showing street scenes in Menouf city, including buildings, shops and traffic. A short visit, not all of Menouf or Monufia Governorate, and not confirmation of current shop prices or hours."
+    },
+    "url": "https://www.youtube.com/watch?v=7c34-f2gCwA",
+    "source": "https://www.youtube.com/watch?v=7c34-f2gCwA"
   }
 ]
