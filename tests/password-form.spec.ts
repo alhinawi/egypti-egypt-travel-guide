@@ -1,0 +1,8 @@
+import{test,expect}from'@playwright/test';
+for(const lang of ['ar','en'])test(`password form ${lang}: modes, visibility, validation and server errors`,async({page})=>{
+ await page.setViewportSize({width:390,height:900});await page.route('**/api/config',r=>r.fulfill({json:{google:true,password:true}}));await page.route('**/api/me',r=>r.fulfill({json:{user:null}}));await page.goto('/'+lang+'/login/');
+ await expect(page.locator('#auth-email')).toBeVisible();await expect(page.locator('.google-continue')).toHaveAttribute('href','/api/auth/google/start');await expect(page.locator('#auth-name')).toHaveCount(0);
+ await page.locator('.auth-tabs button').nth(1).click();await expect(page.locator('#auth-name')).toBeVisible();await page.locator('#auth-name').fill('Visitor');await page.locator('#auth-email').fill('browser@example.test');await page.locator('#auth-password').fill('browser-only-fixture-password');await page.locator('.auth-input button').click();await expect(page.locator('#auth-password')).toHaveAttribute('type','text');await page.locator('.auth-input button').click();
+ await page.route('**/api/auth/password/signup',r=>r.fulfill({status:409,json:{error:'account_unavailable'}}));await page.locator('.auth-submit').click();await expect(page.locator('.auth-error')).toBeVisible();await expect(page.locator('.auth-submit')).toBeEnabled();
+ expect(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth)).toBeTruthy();await page.locator('.auth-tabs button').first().click();await expect(page.locator('.auth-error')).toHaveCount(0);await expect(page.locator('#auth-password')).toHaveValue('');
+});
