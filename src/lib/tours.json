@@ -2327,5 +2327,35 @@
     },
     "url": "https://www.youtube.com/watch?v=7c34-f2gCwA",
     "source": "https://www.youtube.com/watch?v=7c34-f2gCwA"
+  },
+  {
+    "placeId": "shubra-el-kheima",
+    "provider": "شوارع مصر · YouTube",
+    "kind": "video",
+    "title": {
+      "ar": "تمشية في شارع كريستال عصفور بشبرا الخيمة",
+      "en": "Asfour Crystal Street walk in Shubra El Kheima"
+    },
+    "scope": {
+      "ar": "تمشية بالعربي نشرتها قناة شوارع مصر في أبريل 2023، بتعرض شارع كريستال عصفور والمحلات والمباني وحركة الشارع. ده جزء من شبرا الخيمة في القليوبية، مش جولة لكل المدينة ولا لشبرا مصر في القاهرة. مش زيارة داخل مصنع الكريستال أو تأكيد لحالة الشارع والأسعار دلوقتي.",
+      "en": "An Arabic-language walk published by Shaware Masr in April 2023, showing Asfour Crystal Street, shops, buildings and street traffic. One part of Shubra El Kheima in Qalyubia, not the whole city or the separate Shubra district in Cairo. Not a crystal factory interior visit or confirmation of current street conditions or prices."
+    },
+    "url": "https://www.youtube.com/watch?v=PWHUzGEp8TY",
+    "source": "https://www.youtube.com/watch?v=PWHUzGEp8TY"
+  },
+  {
+    "placeId": "talkha",
+    "provider": "مطبخ الهانم · YouTube",
+    "kind": "video",
+    "title": {
+      "ar": "لقطات قصيرة من شوارع طلخا",
+      "en": "A short glimpse of Talkha streets"
+    },
+    "scope": {
+      "ar": "فيديو رأسي قصير نشرته قناة مطبخ الهانم في مايو 2023 بعنوان جولة في طلخا، بيعرض لقطات من الطريق والمباني والمحلات وحركة الشارع من عربية. دي لمحة سريعة، مش تمشية لكل المدينة ولا جولة على كورنيش المنصورة، ومش دليل على أسعار أو مواعيد المحلات الحالية.",
+      "en": "A short vertical video published by Matbakh El Hanem in May 2023 as a Talkha visit, showing roads, buildings, shops and street traffic from a vehicle. A brief glimpse, not a walk around the whole city or a tour of Mansoura Corniche, and not evidence of current shop prices or hours."
+    },
+    "url": "https://www.youtube.com/watch?v=SdZyh6xJUk0",
+    "source": "https://www.youtube.com/watch?v=SdZyh6xJUk0"
   }
 ]
