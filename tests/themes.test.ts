@@ -7,3 +7,4 @@ for(const t of themes)test('contrast '+t.id,()=>{
  for(const[n,a,b,min]of checks)assert.ok(ratio(a,b)>=min,t.id+' '+n+' '+ratio(a,b).toFixed(2)+' < '+min);
  assert.equal(lum(t.page)<.2,t.dark,t.id+' dark flag')});
 test('generated css covers every theme',()=>{const css=readFileSync('src/app/themes.css','utf8')+readFileSync('src/app/globals.css','utf8');for(const t of themes)if(t.id!=='ivory')assert.ok(css.includes('data-theme='+t.id+']'),t.id)});
+test('midnight replaces the retired beige default',async()=>{const{DEFAULT_THEME}=await import('../src/lib/themes');assert.equal(DEFAULT_THEME,'midnight');assert.ok(isTheme(DEFAULT_THEME));assert.ok(!isTheme('papyrus'))});
