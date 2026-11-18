@@ -1891,5 +1891,53 @@
       "en": "A 2021 CTV film from the Coptic Tour programme, linked by Saint Macarius Monastery. Includes the facade and interior door and carving details, with Arabic commentary. Not interactive or coverage of the whole monastery, and not confirmation that these spaces can be visited today."
     },
     "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "ismailia",
+    "kind": "video",
+    "provider": "Gventures",
+    "url": "https://www.youtube.com/watch?v=2Rp44ETNv-w",
+    "source": "https://www.youtube.com/watch?v=2Rp44ETNv-w",
+    "title": {
+      "ar": "الإسماعيلية من الشوارع لقعدة ع البحيرة",
+      "en": "Ismailia streets and a lakeside stop"
+    },
+    "scope": {
+      "ar": "فيديو Gventures المنشور في أبريل 2026، فيه مشاهد من شوارع الإسماعيلية وقعدة عند البحيرة بتعليق بالإنجليزي. اتراجع تشغيل فعلي ومشهد الواجهة المائية قرب الدقيقة 25. مش جولة تفاعلية أو تغطية لكل المدينة، ومش دليل لأسعار أو إتاحة الأماكن النهارده.",
+      "en": "Gventures video published in April 2026, with Ismailia street scenes and a lakeside stop, with English commentary. Playback and the waterfront scene around minute 25 were checked. Not interactive or coverage of the whole city, and not a guide to current prices or access."
+    },
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "suez",
+    "kind": "video",
+    "provider": "Gventures",
+    "url": "https://www.youtube.com/watch?v=SnPx5GFO2mg",
+    "source": "https://www.youtube.com/watch?v=SnPx5GFO2mg",
+    "title": {
+      "ar": "مشاهد من شوارع السويس",
+      "en": "Scenes from the streets of Suez"
+    },
+    "scope": {
+      "ar": "فيديو Gventures المنشور في مارس 2026، بيضم مشاهد من شوارع السويس بالموتوسيكل بتعليق بالإنجليزي، وبعدها فقرة أكل. اتراجع تشغيل ومشاهد المدينة قرب الدقيقتين 13 و22. مش جولة تفاعلية أو زيارة للميناء، ومش تأكيد لإتاحة التصوير أو الدخول النهارده.",
+      "en": "Gventures video published in March 2026, with motorcycle footage through Suez streets, English commentary and a later food segment. Playback and city scenes around minutes 13 and 22 were checked. Not interactive or a port visit, and not confirmation of current filming or entry permissions."
+    },
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "lake-burullus",
+    "kind": "video",
+    "provider": "CEAlexandrie",
+    "url": "https://www.youtube.com/watch?v=wrtIvzUTa3A",
+    "source": "https://www.cealex.org/documentary-resources/video-collection/",
+    "title": {
+      "ar": "مراكب بحيرة البرلس في فيلم وثائقي",
+      "en": "Lake Burullus sailing-boat documentary"
+    },
+    "scope": {
+      "ar": "فيلم من قناة CEAlexandrie، منشور في فبراير 2013، عن مراكب البرلس والصيد وصناعة المراكب، فيه ترجمة بالعربي. اتراجعت لقطات حقيقية من المراكب والمياه وورشة ومقابلات. مش جولة تفاعلية أو تغطية لكل البحيرة، ومش وصف لحالتها أو تصريح برحلة صيد النهارده.",
+      "en": "A CEAlexandrie film published in February 2013 about Burullus sailing boats, fishing and boatbuilding, with Arabic subtitles. Real boat, water, workshop and interview footage was checked. Not interactive or coverage of the whole lake, and not evidence of its present condition or permission for a fishing trip."
+    },
+    "checkedAt": "2026-11-18"
   }
 ]
