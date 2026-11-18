@@ -801,5 +801,197 @@
     "url": "https://www.youtube.com/watch?v=iSmVN603m4I",
     "source": "https://www.youtube.com/watch?v=iSmVN603m4I",
     "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "karnak",
+    "provider": "Mused · Spacery",
+    "kind": "panorama",
+    "title": {
+      "ar": "عند معابد الكرنك",
+      "en": "Around Karnak’s temples"
+    },
+    "scope": {
+      "ar": "صور بانورامية حقيقية في الكرنك، بتبدأ عند طريق الكباش والصرح. استخدم نقط الحركة عند المصدر. مش كل غرف المجمع؛ وضع إعادة البناء الاختياري في المصدر مش تصوير حقيقي.",
+      "en": "Photographic panoramas at Karnak, starting by the ram avenue and pylon. Use the provider’s movement points. Not every room; the provider’s optional reconstruction mode is not photography."
+    },
+    "url": "https://mused.com/tours/934/karnak-temple-complex-egypt/",
+    "source": "https://mused.com/tours/934/karnak-temple-complex-egypt/",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "luxor-temple",
+    "provider": "Mused · Spacery",
+    "kind": "panorama",
+    "title": {
+      "ar": "بانوراما معبد الأقصر",
+      "en": "Luxor Temple panoramas"
+    },
+    "scope": {
+      "ar": "جولة صور بانورامية عند معبد الأقصر، بتبدأ من الواجهة والمسلة. مش كل أجزاء المعبد، وإعادة البناء الاختيارية عند المصدر مش صور للمكان الحقيقي.",
+      "en": "A photographic panorama visit at Luxor Temple, starting at the facade and obelisk. Not every part of the temple; optional provider reconstructions are not photographs."
+    },
+    "url": "https://mused.com/tours/178/introduction-to-luxor-temple/",
+    "source": "https://mused.com/tours/178/introduction-to-luxor-temple/",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "valley-kings",
+    "provider": "Mused · Spacery",
+    "kind": "panorama",
+    "title": {
+      "ar": "جوه مقبرة توت عنخ آمون",
+      "en": "Inside Tutankhamun’s tomb"
+    },
+    "scope": {
+      "ar": "صور بانورامية من مقبرة توت عنخ آمون KV62 في وادي الملوك، منها الممر وحجرة الدفن. مش كل مقابر الوادي أو حالة الزيارة النهارده.",
+      "en": "Photographic panoramas in Tutankhamun’s KV62 tomb in the Valley of the Kings, including the passage and burial chamber. Not every tomb or today’s visitor conditions."
+    },
+    "url": "https://mused.com/tours/307/tomb-of-tutankhamun-kv-62/",
+    "source": "https://mused.com/tours/307/tomb-of-tutankhamun-kv-62/",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "hatshepsut",
+    "provider": "Mused · Spacery",
+    "kind": "panorama",
+    "title": {
+      "ar": "عند معبد حتشبسوت",
+      "en": "At Hatshepsut’s temple"
+    },
+    "scope": {
+      "ar": "جولة صور عند المعبد الجنائزي لحتشبسوت، بتبدأ من الطريق والساحات قدام المعبد. مش تغطية مؤكدة لكل الحجرات؛ إعادة البناء الاختيارية عند المصدر مش تصوير حقيقي.",
+      "en": "Photographic views at Hatshepsut’s mortuary temple, starting on the approach and forecourt. Not confirmed coverage of every chamber; optional reconstructions are not photography."
+    },
+    "url": "https://mused.com/tours/935/mortuary-temple-of-hatshepsut/",
+    "source": "https://mused.com/tours/935/mortuary-temple-of-hatshepsut/",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "luxor-museum",
+    "provider": "Mused · Spacery",
+    "kind": "panorama",
+    "title": {
+      "ar": "متحف الأقصر بالليل",
+      "en": "Luxor Museum at night"
+    },
+    "scope": {
+      "ar": "جولة بانورامية متصوّرة بالليل عند متحف الأقصر، بتبدأ من التماثيل برّه. مش تأكيد إن كل قاعات المتحف مصوّرة أو إن الزيارة الليلية متاحة دلوقتي.",
+      "en": "Night-time photographic panoramas at Luxor Museum, starting with the outdoor statues. Not confirmation that every gallery is included or that night admission is currently available."
+    },
+    "url": "https://mused.com/tours/1131/the-luxor-museum-at-night-luxor-egypt/",
+    "source": "https://mused.com/tours/1131/the-luxor-museum-at-night-luxor-egypt/",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "abydos-egypt",
+    "provider": "Mused · Spacery",
+    "kind": "panorama",
+    "title": {
+      "ar": "معبد رمسيس الثاني في أبيدوس",
+      "en": "Ramesses II’s temple at Abydos"
+    },
+    "scope": {
+      "ar": "صور بانورامية من معبد رمسيس الثاني في أبيدوس. مش معبد سيتي الأول أو كل منطقة أبيدوس. إعادة البناء الاختيارية عند المصدر مش صور حقيقية.",
+      "en": "Photographic panoramas at the Temple of Ramesses II in Abydos. Not Seti I’s temple or all of Abydos. Optional provider reconstructions are not photographs."
+    },
+    "url": "https://mused.com/tours/337/temple-of-ramesses-ii-abydos/",
+    "source": "https://mused.com/tours/337/temple-of-ramesses-ii-abydos/",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "saqqara",
+    "provider": "NAV3D · Matterport",
+    "kind": "model",
+    "title": {
+      "ar": "مقبرة الأخوين في سقارة",
+      "en": "The Two Brothers tomb at Saqqara"
+    },
+    "scope": {
+      "ar": "نموذج مصوّر من NAV3D لمقبرة ني عنخ خنوم وخنوم حتب، المعروفة بمقبرة الأخوين. دي مقبرة واحدة في سقارة، مش كل الجبانة.",
+      "en": "NAV3D’s photographic model of the tomb of Niankh-khnum and Khnumhotep, known as the Two Brothers. One tomb at Saqqara, not the entire necropolis."
+    },
+    "url": "https://my.matterport.com/show/?m=PKxweZaPG3P",
+    "source": "https://my.matterport.com/show/?m=PKxweZaPG3P",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "djoser-step-pyramid",
+    "provider": "Mused · Spacery",
+    "kind": "panorama",
+    "title": {
+      "ar": "حول هرم زوسر المدرّج",
+      "en": "Around Djoser’s Step Pyramid"
+    },
+    "scope": {
+      "ar": "جولة صور بانورامية عند هرم زوسر المدرّج ومحيطه، بتبدأ جنب الهرم. مش كل سقارة أو ضمان لتغطية كل الممرات. إعادة البناء الاختيارية مش صور حقيقية.",
+      "en": "A photographic panorama visit at Djoser’s Step Pyramid and its surroundings, starting beside the pyramid. Not all of Saqqara or every passage. Optional reconstructions are not photographs."
+    },
+    "url": "https://mused.com/tours/1132/inside-and-around-the-step-pyramid-of-djoser-saqqara/",
+    "source": "https://mused.com/tours/1132/inside-and-around-the-step-pyramid-of-djoser-saqqara/",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "great-pyramid-khufu",
+    "provider": "Mused · Spacery",
+    "kind": "panorama",
+    "title": {
+      "ar": "مدخل وممرات الهرم الأكبر",
+      "en": "The Great Pyramid’s entrance and passages"
+    },
+    "scope": {
+      "ar": "صور بانورامية بتبدأ عند مدخل الهرم الأكبر وبتاخدك في ممراته حسب النقط المتاحة عند المصدر. مش كل حجرات الهرم أو دليل على إتاحة دخولها النهارده.",
+      "en": "Photographic panoramas starting at the Great Pyramid’s entrance and following the provider’s available passage viewpoints. Not every chamber or confirmation of current admission."
+    },
+    "url": "https://mused.com/tours/266/go-inside-the-great-pyramid-of-giza/",
+    "source": "https://mused.com/tours/266/go-inside-the-great-pyramid-of-giza/",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "wadi-al-hitan",
+    "provider": "NAV3D · Matterport",
+    "kind": "model",
+    "title": {
+      "ar": "متحف حفريات وادي الحيتان",
+      "en": "Wadi El Hitan’s fossils museum"
+    },
+    "scope": {
+      "ar": "نموذج مصوّر من NAV3D جوه متحف حفريات وادي الحيتان. مش مسار مشي في كل الوادي أو جولة في كل المحمية.",
+      "en": "NAV3D’s photographic model inside the Wadi El Hitan fossils museum. Not a walking route through the whole valley or the entire protected area."
+    },
+    "url": "https://my.matterport.com/show/?m=XgwoZeSbZy5",
+    "source": "https://my.matterport.com/show/?m=XgwoZeSbZy5",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "saint-catherine-s-monastery",
+    "provider": "Mused · Spacery",
+    "kind": "panorama",
+    "title": {
+      "ar": "عند دير سانت كاترين",
+      "en": "At Saint Catherine’s Monastery"
+    },
+    "scope": {
+      "ar": "صور بانورامية عند الدير ومنطقة العليقة، حسب نقط الجولة عند المصدر. مش كل قاعات الدير أو تأكيد لساعات الدخول؛ أوضاع إعادة البناء مش تصوير حقيقي.",
+      "en": "Photographic panoramas at the monastery and Burning Bush area using the provider’s available viewpoints. Not every room or current admission hours; reconstruction modes are not photography."
+    },
+    "url": "https://mused.com/tours/110/the-monastery-and-chapel-of-the-holy-bush/",
+    "source": "https://mused.com/tours/110/the-monastery-and-chapel-of-the-holy-bush/",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "cavafy",
+    "provider": "Mused · Spacery",
+    "kind": "panorama",
+    "title": {
+      "ar": "جوه بيت ومتحف كفافيس",
+      "en": "Inside Cavafy’s house and museum"
+    },
+    "scope": {
+      "ar": "صور بانورامية جوه بيت ومتحف كفافيس في إسكندرية. عرض مصوّر، مش تأكيد لترتيب الغرف والمعروضات أو مواعيد الدخول الحالية.",
+      "en": "Photographic panoramas inside Cavafy’s house and museum in Alexandria. A recorded view, not confirmation of the current room layout, displays or admission hours."
+    },
+    "url": "https://mused.com/tours/237/house-and-museum-of-c-p-cavafy-alexandria/",
+    "source": "https://mused.com/tours/237/house-and-museum-of-c-p-cavafy-alexandria/",
+    "checkedAt": "2026-11-18"
   }
 ]
