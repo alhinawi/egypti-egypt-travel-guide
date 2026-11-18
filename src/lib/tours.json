@@ -993,5 +993,213 @@
     "url": "https://mused.com/tours/237/house-and-museum-of-c-p-cavafy-alexandria/",
     "source": "https://mused.com/tours/237/house-and-museum-of-c-p-cavafy-alexandria/",
     "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "philae",
+    "provider": "The Coding Travelbug",
+    "kind": "video",
+    "title": {
+      "ar": "لفة 360 عند معابد فيلة",
+      "en": "A recorded 360 visit at Philae"
+    },
+    "scope": {
+      "ar": "تصوير 360 عند ساحات وأعمدة معابد فيلة، بيتعرض عند صاحب الفيديو. مش كل غرف المجمع أو حالة الدخول دلوقتي.",
+      "en": "Recorded 360 footage around Philae temple courtyards and colonnades, viewed on the creator’s player. Not every room or current admission conditions."
+    },
+    "url": "https://www.youtube.com/watch?v=2DYHmVHDMFY",
+    "source": "https://www.youtube.com/watch?v=2DYHmVHDMFY",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "kom-ombo-temple",
+    "provider": "The Coding Travelbug",
+    "kind": "video",
+    "title": {
+      "ar": "جولة 360 عند كوم أمبو",
+      "en": "A recorded 360 visit at Kom Ombo"
+    },
+    "scope": {
+      "ar": "فيديو 360 وسط مباني وزوار معبد كوم أمبو. افتح مشغل المصدر للحركة في الصورة؛ مش ضمان لتغطية كل الموقع.",
+      "en": "Recorded 360 footage among the buildings and visitors at Kom Ombo. Open the source player to pan the image; not confirmed coverage of the whole site."
+    },
+    "url": "https://www.youtube.com/watch?v=encdNTdrMaA",
+    "source": "https://www.youtube.com/watch?v=encdNTdrMaA",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "dendera-temple-complex",
+    "provider": "Sam Mayfair",
+    "kind": "video",
+    "title": {
+      "ar": "معبد حتحور في دندرة بـ360",
+      "en": "Hathor’s temple at Dendera in 360"
+    },
+    "scope": {
+      "ar": "فيديو 360 مصوّر عند معبد حتحور في دندرة، بيبدأ من طريق المعبد. مش جولة في كل معابد المنطقة.",
+      "en": "A recorded 360 visit at the Temple of Hathor in Dendera, starting on the approach. Not every temple in the area."
+    },
+    "url": "https://www.youtube.com/watch?v=XDo48qiGUKs",
+    "source": "https://www.youtube.com/watch?v=XDo48qiGUKs",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "khafre-pyramid",
+    "provider": "Art, Culture & Travel",
+    "kind": "video",
+    "title": {
+      "ar": "زيارة مصوّرة لهرم خفرع",
+      "en": "A filmed visit to Khafre’s pyramid"
+    },
+    "scope": {
+      "ar": "فيديو زيارة عند هرم خفرع ومدخله وممره. المشاهد مسجّلة، مش تأكيد إن الدخول أو نفس المسار متاح النهارده.",
+      "en": "A filmed visit at Khafre’s pyramid, its entrance and passage. Recorded footage, not confirmation that admission or the same route is available today."
+    },
+    "url": "https://www.youtube.com/watch?v=u-pMXxUjFe4",
+    "source": "https://www.youtube.com/watch?v=u-pMXxUjFe4",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "menkaure-pyramid",
+    "provider": "Ancient Architects",
+    "kind": "video",
+    "title": {
+      "ar": "زيارة مصوّرة لهرم منكاورع",
+      "en": "A filmed visit to Menkaure’s pyramid"
+    },
+    "scope": {
+      "ar": "فيديو زيارة عند هرم منكاورع، فيه تصوير للممر ومن برّه. مش نموذج تفاعلي، والتعليق رأي صاحبه مش مرجع لكل التفسيرات الأثرية.",
+      "en": "A recorded visit at Menkaure’s pyramid with passage and exterior footage. Not an interactive model; the creator’s commentary is not adopted as an archaeological reference."
+    },
+    "url": "https://www.youtube.com/watch?v=gE4rKag8g_g",
+    "source": "https://www.youtube.com/watch?v=gE4rKag8g_g",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "bent-pyramid",
+    "provider": "Sam Mayfair",
+    "kind": "video",
+    "title": {
+      "ar": "الهرم المنحني بتصوير 360",
+      "en": "The Bent Pyramid in recorded 360"
+    },
+    "scope": {
+      "ar": "فيديو 360 للهرم المنحني بيبدأ من برّه. المشاهدة عند المصدر، مش نموذج تمشي فيه بحرية أو تأكيد لإتاحة الدخول دلوقتي.",
+      "en": "A recorded 360 visit at the Bent Pyramid, starting outside. View with the source player, not a free-roaming model or confirmation of current interior access."
+    },
+    "url": "https://www.youtube.com/watch?v=B13X0tmz614",
+    "source": "https://www.youtube.com/watch?v=B13X0tmz614",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "red-pyramid",
+    "provider": "Travel With Wayne Raymond Holden",
+    "kind": "video",
+    "title": {
+      "ar": "زيارة الهرم الأحمر",
+      "en": "Visiting the Red Pyramid"
+    },
+    "scope": {
+      "ar": "فيديو زيارة للهرم الأحمر، بيبدأ بمقدمة وبعدها طريق الصعود عند جسم الهرم. مش جولة 360 أو دليل دخول محدث.",
+      "en": "A recorded Red Pyramid visit with an introduction followed by the approach steps beside the pyramid. Not a 360 tour or current admission guide."
+    },
+    "url": "https://www.youtube.com/watch?v=3BfcFns9pjM",
+    "source": "https://www.youtube.com/watch?v=3BfcFns9pjM",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "memphis-mit-rahina",
+    "provider": "Andy's Awesome Adventures",
+    "kind": "video",
+    "title": {
+      "ar": "لفة في متحف ميت رهينة المفتوح",
+      "en": "A visit to the Memphis open-air museum"
+    },
+    "scope": {
+      "ar": "زيارة مصوّرة وسط آثار متحف ميت رهينة المفتوح مع شرح من مرافق. مش جولة في مدينة منف القديمة كلها أو خدمة حجز مرشد.",
+      "en": "A recorded visit among the objects at the Memphis open-air museum, with an accompanying presenter. Not all of ancient Memphis or a guide-booking service."
+    },
+    "url": "https://www.youtube.com/watch?v=YCJ1SZLt5fs",
+    "source": "https://www.youtube.com/watch?v=YCJ1SZLt5fs",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "meidum",
+    "provider": "Val Parks",
+    "kind": "video",
+    "title": {
+      "ar": "زيارة مصوّرة لهرم ميدوم",
+      "en": "A filmed visit to Meidum Pyramid"
+    },
+    "scope": {
+      "ar": "فيديو زيارة قديم لهرم ميدوم، بيبدأ في العربية وبعدها تصوير في الممر. الإضاءة جوّه ضعيفة؛ مش تأكيد لحالة الدخول الحالية.",
+      "en": "An older filmed visit to Meidum Pyramid, starting in a vehicle and continuing into a dim passage. Not confirmation of current access conditions."
+    },
+    "url": "https://www.youtube.com/watch?v=YFtQUm4VckM",
+    "source": "https://www.youtube.com/watch?v=YFtQUm4VckM",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "kharga-oasis",
+    "provider": "Il Faraone Tours",
+    "kind": "video",
+    "title": {
+      "ar": "معبد هيبس في الخارجة",
+      "en": "Hibis Temple in Kharga"
+    },
+    "scope": {
+      "ar": "فيديو مصوّر عند معبد هيبس في واحة الخارجة. دي زيارة لمعبد واحد، مش تغطية لكل الواحة أو إعلان لرحلة متاحة للحجز.",
+      "en": "Recorded footage at Hibis Temple in Kharga Oasis. One temple, not coverage of the whole oasis or an available tour booking."
+    },
+    "url": "https://www.youtube.com/watch?v=fjJSm8fkaxQ",
+    "source": "https://www.youtube.com/watch?v=fjJSm8fkaxQ",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "nubian-museum",
+    "provider": "Welcome",
+    "kind": "video",
+    "title": {
+      "ar": "متحف النوبة: الساحة والمعروضات",
+      "en": "Nubia Museum: courtyard and displays"
+    },
+    "scope": {
+      "ar": "فيديو مسجّل في ساحة متحف النوبة وقدام معروضات جوّه. مش كل القاعات أو تأكيد لترتيب المعروضات الحالي.",
+      "en": "Recorded footage in Nubia Museum’s courtyard and in front of indoor exhibits. Not every gallery or confirmation of today’s display layout."
+    },
+    "url": "https://www.youtube.com/watch?v=vE2kyeZetho",
+    "source": "https://www.youtube.com/watch?v=vE2kyeZetho",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "unfinished-obelisk",
+    "provider": "Get Around",
+    "kind": "video",
+    "title": {
+      "ar": "مشي عند المسلة الناقصة",
+      "en": "Walking around the Unfinished Obelisk"
+    },
+    "scope": {
+      "ar": "لفة مصوّرة بصوت المكان عند المسلة الناقصة في أسوان. مش مسار ملاحة أو تأكيد إن كل أجزاء المحجر مفتوحة.",
+      "en": "An ambient-sound recorded walk around the Unfinished Obelisk in Aswan. Not a navigation route or confirmation that every part of the quarry is open."
+    },
+    "url": "https://www.youtube.com/watch?v=-7R0RCUNjdg",
+    "source": "https://www.youtube.com/watch?v=-7R0RCUNjdg",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "elephantine",
+    "provider": "Travelstick",
+    "kind": "video",
+    "title": {
+      "ar": "أزقة جزيرة إلفنتين سنة 2020",
+      "en": "Elephantine’s lanes in 2020"
+    },
+    "scope": {
+      "ar": "مشي مصوّر في أزقة سكنية بجزيرة إلفنتين سنة 2020. مش جولة لكل آثار الجزيرة أو تأكيد لشكل الشوارع دلوقتي.",
+      "en": "A recorded walk through residential lanes on Elephantine Island in 2020. Not every archaeological site or confirmation of the lanes’ current appearance."
+    },
+    "url": "https://www.youtube.com/watch?v=O9VAo5eSU8k",
+    "source": "https://www.youtube.com/watch?v=O9VAo5eSU8k",
+    "checkedAt": "2026-11-18"
   }
 ]
