@@ -1201,5 +1201,229 @@
     "url": "https://www.youtube.com/watch?v=O9VAo5eSU8k",
     "source": "https://www.youtube.com/watch?v=O9VAo5eSU8k",
     "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "serapeum-saqqara",
+    "provider": "Lucid Trips",
+    "kind": "video",
+    "title": {
+      "ar": "ممرات السرابيوم",
+      "en": "The Serapeum passages"
+    },
+    "scope": {
+      "ar": "زيارة مصوّرة في ممرات السرابيوم الحجرية. تعليق صاحب الفيديو فيه تفسيرات شخصية؛ مش بنعتمده كمرجع أثري.",
+      "en": "Recorded footage in the Serapeum’s stone passages. The creator offers personal interpretations; these are not adopted as archaeological facts."
+    },
+    "url": "https://www.youtube.com/watch?v=hEV2Yp5qRvU",
+    "source": "https://www.youtube.com/watch?v=hEV2Yp5qRvU",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "amarna",
+    "provider": "Classical and Ancient Civilization",
+    "kind": "video",
+    "title": {
+      "ar": "زيارة مصوّرة لتل العمارنة",
+      "en": "A recorded Amarna visit"
+    },
+    "scope": {
+      "ar": "زيارة مشروحة لتل العمارنة فيها صور للموقع مع كلام للمقدّم. مش مشي متواصل أو جولة في كل المنطقة.",
+      "en": "A narrated Amarna visit mixing site imagery and presenter commentary. Not an uninterrupted walk or coverage of the whole area."
+    },
+    "url": "https://www.youtube.com/watch?v=Qc1UyvRYujo",
+    "source": "https://www.youtube.com/watch?v=Qc1UyvRYujo",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "grand-egyptian-museum",
+    "provider": "JackTours4K",
+    "kind": "video",
+    "title": {
+      "ar": "جولة مصوّرة في المتحف الكبير",
+      "en": "A filmed Grand Egyptian Museum visit"
+    },
+    "scope": {
+      "ar": "فيديو طويل من جوّه المتحف، منه مشاهد للسلم العظيم والتماثيل. مش تأكيد لترتيب القاعات الحالي أو تغطية كل المعروضات.",
+      "en": "A long recorded museum visit including the Grand Staircase and statues. Not confirmation of the current gallery layout or coverage of every object."
+    },
+    "url": "https://www.youtube.com/watch?v=tR6b2VDjrvA",
+    "source": "https://www.youtube.com/watch?v=tR6b2VDjrvA",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "al-hussein-mosque",
+    "provider": "Andy's Awesome Adventures",
+    "kind": "video",
+    "title": {
+      "ar": "زيارة جامع الحسين",
+      "en": "Visiting Al-Hussein Mosque"
+    },
+    "scope": {
+      "ar": "زيارة مشروحة بتصوير جوّه جامع الحسين. فيديو مسجّل، مش تأكيد لمواعيد الزيارة أو إتاحة نفس المسار دلوقتي.",
+      "en": "A narrated recorded visit with footage inside Al-Hussein Mosque. Not current visiting hours or confirmation that the same route is accessible today."
+    },
+    "url": "https://www.youtube.com/watch?v=236rcFvX6qY",
+    "source": "https://www.youtube.com/watch?v=236rcFvX6qY",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "sultan-hassan-mosque",
+    "provider": "Andy's Awesome Adventures",
+    "kind": "video",
+    "title": {
+      "ar": "عند جامع السلطان حسن",
+      "en": "At Sultan Hassan Mosque"
+    },
+    "scope": {
+      "ar": "زيارة مشروحة عند مدخل جامع ومدرسة السلطان حسن. دي مش جولة 360 أو دليل دخول محدث.",
+      "en": "A narrated recorded visit at the entrance to Sultan Hassan’s mosque and madrasa. Not a 360 tour or current admission guide."
+    },
+    "url": "https://www.youtube.com/watch?v=ECUTbWD2KUA",
+    "source": "https://www.youtube.com/watch?v=ECUTbWD2KUA",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "cairo-citadel",
+    "provider": "Travexila",
+    "kind": "video",
+    "title": {
+      "ar": "مشي مصوّر في قلعة صلاح الدين",
+      "en": "A filmed walk in Cairo Citadel"
+    },
+    "scope": {
+      "ar": "مشي مسجّل جوّه القلعة مع مشاهد لساحات ومباني ومساجد. مش تأكيد إن كل مباني القلعة داخلة في التذكرة أو مفتوحة النهارده.",
+      "en": "A recorded walk in the Citadel with courtyards, buildings and mosques. Not confirmation that every building is included in admission or open today."
+    },
+    "url": "https://www.youtube.com/watch?v=UwHlQeRTBio",
+    "source": "https://www.youtube.com/watch?v=UwHlQeRTBio",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "al-muizz-street",
+    "provider": "World Wanderings: 4K Walking Tours",
+    "kind": "video",
+    "title": {
+      "ar": "مشي في شارع المعز",
+      "en": "Walking along Al-Muizz Street"
+    },
+    "scope": {
+      "ar": "مشي مسجّل وسط الشارع والناس وواجهات المباني. مش زيارة لكل الآثار اللي جوّه المباني أو مسار ملاحة مباشر.",
+      "en": "A recorded street walk among people and historic facades. Not an interior visit to every monument or a live navigation route."
+    },
+    "url": "https://www.youtube.com/watch?v=mXR1UzSdbmk",
+    "source": "https://www.youtube.com/watch?v=mXR1UzSdbmk",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "khayyamiyya",
+    "provider": "Tentmakers Street walk",
+    "kind": "video",
+    "title": {
+      "ar": "لفة في شارع الخيامية",
+      "en": "A visit to Tentmakers’ Street"
+    },
+    "scope": {
+      "ar": "فيديو زيارة للشارع وورش ومنسوجات الخيامية. المحلات اللي في التصوير مش قائمة متاجر موثّقة أو ضمان إنها شغالة دلوقتي.",
+      "en": "A recorded visit showing the street, workshops and textiles. Shops in the footage are not a verified directory or confirmation of current operation."
+    },
+    "url": "https://www.youtube.com/watch?v=lHSxk-SSSgY",
+    "source": "https://www.youtube.com/watch?v=lHSxk-SSSgY",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "manial-palace",
+    "provider": "Karim.Edinburgh",
+    "kind": "video",
+    "title": {
+      "ar": "زيارة مصوّرة لقصر المنيل",
+      "en": "A recorded Manial Palace visit"
+    },
+    "scope": {
+      "ar": "زيارة مصوّرة فيها زخارف وشبابيك ومعمار قصر المنيل. مش تأكيد إن كل غرف القصر متاحة للزيارة دلوقتي.",
+      "en": "A recorded visit showing decoration, windows and architecture at Manial Palace. Not confirmation that every room is currently open."
+    },
+    "url": "https://www.youtube.com/watch?v=MpWUsaee45Q",
+    "source": "https://www.youtube.com/watch?v=MpWUsaee45Q",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "abdeen-palace",
+    "provider": "Karim.Edinburgh",
+    "kind": "video",
+    "title": {
+      "ar": "حدائق ومتاحف قصر عابدين",
+      "en": "Abdeen Palace gardens and museums"
+    },
+    "scope": {
+      "ar": "زيارة مصوّرة عند قصر عابدين ومتاحفه، منها مشاهد للحديقة. مش دخول لكل غرف القصر الرئاسي أو تأكيد لمواعيد الزيارة.",
+      "en": "A recorded visit at Abdeen Palace and its museums, including garden footage. Not entry to every presidential-palace room or current visiting hours."
+    },
+    "url": "https://www.youtube.com/watch?v=sIxMGBrC9fw",
+    "source": "https://www.youtube.com/watch?v=sIxMGBrC9fw",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "baron-empain-palace",
+    "provider": "World Wanderings: 4K Walking Tours",
+    "kind": "video",
+    "title": {
+      "ar": "لفة مصوّرة عند قصر البارون",
+      "en": "A filmed Baron Empain Palace visit"
+    },
+    "scope": {
+      "ar": "تصوير مشي عند قصر البارون وواجهاته المزخرفة. مش نموذج تفاعلي أو تأكيد لإتاحة كل أجزاء القصر.",
+      "en": "Recorded walking footage at Baron Empain Palace and its decorated exterior. Not an interactive model or confirmation that every part is accessible."
+    },
+    "url": "https://www.youtube.com/watch?v=Kc8V5phjPSU",
+    "source": "https://www.youtube.com/watch?v=Kc8V5phjPSU",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "cairo-tower",
+    "provider": "J Walker",
+    "kind": "video",
+    "title": {
+      "ar": "القاهرة بالليل من البرج",
+      "en": "Cairo at night from the tower"
+    },
+    "scope": {
+      "ar": "فيديو قصير لإطلالة النيل وأضواء القاهرة من برج القاهرة بالليل. مش جولة داخل كل البرج أو بث مباشر.",
+      "en": "A short recorded view of the Nile and Cairo’s lights from Cairo Tower at night. Not a tour of the whole tower or a live feed."
+    },
+    "url": "https://www.youtube.com/watch?v=EZ6yfLRYq40",
+    "source": "https://www.youtube.com/watch?v=EZ6yfLRYq40",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "al-azhar-park",
+    "provider": "Karim.Edinburgh",
+    "kind": "video",
+    "title": {
+      "ar": "مشي في حديقة الأزهر",
+      "en": "Walking in Al-Azhar Park"
+    },
+    "scope": {
+      "ar": "مشي مصوّر بين ممرات وزوار وخضرة حديقة الأزهر. مش خريطة لكل المداخل أو تأكيد لحالة المرافق دلوقتي.",
+      "en": "A recorded walk among Al-Azhar Park’s paths, visitors and greenery. Not a map of every entrance or confirmation of current facilities."
+    },
+    "url": "https://www.youtube.com/watch?v=ViuCy9Y4qEI",
+    "source": "https://www.youtube.com/watch?v=ViuCy9Y4qEI",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "petrified-forest-cairo",
+    "provider": "The Petrified Forest, Cairo",
+    "kind": "video",
+    "title": {
+      "ar": "لقطات من الغابة المتحجرة",
+      "en": "Scenes from the Petrified Forest"
+    },
+    "scope": {
+      "ar": "فيديو قصير من طبيعة الغابة المتحجرة في القاهرة. مش جولة شاملة للمحمية أو دليل للطريق والتصاريح.",
+      "en": "A short recorded look at Cairo’s Petrified Forest landscape. Not a full reserve tour or a route and permit guide."
+    },
+    "url": "https://www.youtube.com/watch?v=ofu5v0NTjyY",
+    "source": "https://www.youtube.com/watch?v=ofu5v0NTjyY",
+    "checkedAt": "2026-11-18"
   }
 ]
