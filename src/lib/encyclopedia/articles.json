@@ -6441,7 +6441,7 @@
         "https://www.nodc.noaa.gov/archive/arc0216/0253808/2.2/data/0-data/Region-1-WMO-Normals-9120/Egypt/CSV/SharmElSheikhAP_62460.csv"
       ]
     },
-    "reviewedAt": "2026-11-15",
+    "reviewedAt": "2026-11-18",
     "map": {
       "lat": 28.49305556,
       "lon": 34.50472222,
@@ -6454,12 +6454,17 @@
     "eat": [
       {
         "name": {
-          "en": "Seafood",
-          "ar": "سمك ومأكولات بحرية"
+          "ar": "قعدة أكل على البحر",
+          "en": "Seafront cafes and restaurants"
         },
+        "note": {
+          "ar": "دليل هيئة السياحة لدهب بيذكر القهاوي والمطاعم على الشاطئ. دي فكرة لقعدة في المدينة، مش ضمان إن أي شاطئ أو محمية جواها أكل. اتأكد من المنيو والسعر والمكونات في المكان نفسه.",
+          "en": "The tourism authority describes dining at beachfront cafes and restaurants in Dahab. This is an option in town, not a promise of food facilities at every beach or protected site. Check the menu, prices and ingredients with the venue."
+        },
+        "venue": null,
+        "photo_id": null,
         "source_urls": [
-          "https://www.experienceegypt.eg/en/home/culture",
-          "https://www.experienceegypt.eg/en/city/16/sharm-al-sheikh"
+          "https://www.experienceegypt.eg/en/city/33/dahab"
         ]
       }
     ],
@@ -9996,7 +10001,7 @@
         ]
       }
     ],
-    "reviewedAt": "2026-11-16",
+    "reviewedAt": "2026-11-18",
     "eat_note": {
       "ar": "أفكار أكل على مستوى المحافظة، مش منيو في المكان ده ولا ضمان توفره عنده. بعض الأكلات مصرية عامة ومش حصرية للمحافظة.",
       "en": "Governorate-level food ideas, not an on-site menu or a guarantee of availability. Some dishes are national staples, not unique to this governorate."
@@ -10004,12 +10009,17 @@
     "eat": [
       {
         "name": {
-          "en": "Red Sea seafood",
-          "ar": "سمك ومأكولات بحرية"
+          "ar": "وقفة أكل على المارينا",
+          "en": "Dining by the marina"
         },
+        "note": {
+          "ar": "موقع المارينا بيعرض مطاعم ضمن المحلات على الواجهة البحرية. اختار من القوائم الموجودة وقت زيارتك واسأل عن السعر والمكونات؛ الدليل هنا مش بيثبّت مطعم بعينه أو حجز أو أسعار حالية.",
+          "en": "The marina operator lists restaurants among its waterfront outlets. Choose from the menus available when you visit and check prices and ingredients. This guide does not verify a particular reservation, current menu or price."
+        },
+        "venue": null,
+        "photo_id": null,
         "source_urls": [
-          "https://www.experienceegypt.eg/en/home/culture",
-          "https://www.experienceegypt.eg/en/region/13/the-red-sea"
+          "https://hurghada-marina.com/"
         ]
       }
     ],
@@ -14429,11 +14439,11 @@
       ]
     },
     "see": {
-      "en": "A Nile-side town associated with the historic Delta barrages.",
-      "ar": "مدينة على النيل مرتبطة بالقناطر التاريخية عند بداية فرعيه.",
-      "sources": [
-        "https://en.wikipedia.org/wiki/El_Qanater_El_Khayreya",
-        "https://sis.gov.eg/en/egypt/system-of-government/executive-authority/qalyubia/"
+      "ar": "القناطر مش بس مباني التحكم في الميه؛ الحدائق على فرعي النيل جزء أساسي من الزيارة. وزارة الري بتوصف الأشجار القديمة والمسطحات الخضراء والمشايات في حدائق زي عفلة والنيل. اختار الحديقة اللي عايز تزورها واتأكد من بوابتها وإتاحتها قبل ما تتحرك؛ الحدائق منفصلة، ومش معنى وجودها إن كل منشآت الري أو الكباري مفتوحة للمشي. وصف الوزارة من 2020 بيوثّق طبيعة المكان، مش مواعيد أو أسعار النهارده.",
+      "en": "The barrages are not only water-control structures: the gardens beside the Nile branches are a main part of the visit. The irrigation ministry describes mature trees, lawns and paths in gardens including Afla and Nile Garden. Choose the garden you want and check its entrance and current access before setting out. The gardens are separate, and their presence does not mean every working barrage or bridge is open to pedestrians. The ministry’s 2020 account documents the setting, not today’s hours or prices.",
+      "source_urls": [
+        "https://www.mwri.gov.eg/?p=12228",
+        "http://www.qaliobia.gov.eg/SitePages/Events_Disp.aspx?ID=5635"
       ]
     },
     "wear": [
@@ -14472,7 +14482,7 @@
         "https://en.wikipedia.org/wiki/Banha"
       ]
     },
-    "reviewedAt": "2026-11-16",
+    "reviewedAt": "2026-11-18",
     "eat": [
       {
         "name": {
@@ -22263,6 +22273,15 @@
           "source_urls": [
             "https://egymonuments.gov.eg/en/museums/manial-palace-museum/"
           ]
+        },
+        {
+          "text": {
+            "ar": "بص على تنوع الزخارف بين الطرز الإسلامية المختلفة. القصر حواليه جنينة، لكن تعليمات الوزارة بتقول إنها مش ضمن الجولة، فمتخططش للزيارة على إنها خروجة جناين.",
+            "en": "Look at the mix of decorative Islamic traditions. A garden surrounds the palace, but the ministry says it is not included in the tour, so do not plan this as a garden outing."
+          },
+          "source_urls": [
+            "https://egymonuments.gov.eg/en/museums/manial-palace-museum/"
+          ]
         }
       ],
       "source_urls": [
@@ -22578,7 +22597,7 @@
         "https://www.timeanddate.com/weather/egypt/cairo"
       ]
     },
-    "reviewedAt": "2026-11-15",
+    "reviewedAt": "2026-11-18",
     "photos": {
       "cairo-food-koshary": {
         "file": "cairo-food-koshary",
@@ -25512,47 +25531,17 @@
     "eat": [
       {
         "name": {
-          "en": "Koshary",
-          "ar": "كشري"
+          "ar": "مطاعم جوّه الحديقة",
+          "en": "Restaurants in the park"
         },
         "note": {
-          "en": "Rice, pasta, lentils and chickpeas with tomato sauce and fried onions.",
-          "ar": "رز ومكرونة وعدس وحمص مع صلصة طماطم وبصل محمّر."
-        },
-        "venue": null,
-        "photo_id": "cairo-food-koshary",
-        "source_urls": [
-          "https://www.experienceegypt.eg/en/home/culture"
-        ]
-      },
-      {
-        "name": {
-          "en": "Ful and taameya",
-          "ar": "فول وطعمية"
-        },
-        "note": {
-          "en": "A classic fava-bean breakfast or light meal with baladi bread.",
-          "ar": "فطار مصري معروف أو أكلة خفيفة من الفول والطعمية مع العيش البلدي."
+          "ar": "الموقع الرسمي للحديقة بيعرض مطاعم خارجية، منها مطعم البحيرة. وجودها سبب لتصنيف المكان ضمن الأكل والقهاوي، لكنه مش تأكيد لمنيو أو طاولة متاحة؛ راجع التشغيل والقائمة مباشرة قبل الزيارة.",
+          "en": "The park operator lists outdoor restaurants, including the Lakeside Restaurant. These support the food-and-coffee browsing tag, but do not confirm a current menu or available table. Check operation and menus directly before visiting."
         },
         "venue": null,
         "photo_id": null,
         "source_urls": [
-          "https://www.experienceegypt.eg/en/home/culture"
-        ]
-      },
-      {
-        "name": {
-          "en": "Feteer meshaltet",
-          "ar": "فطير مشلتت"
-        },
-        "note": {
-          "en": "Layered buttery pastry that can be eaten with sweet or savory accompaniments.",
-          "ar": "فطير بطبقات وسمنة، يتاكل مع إضافات حلوة أو حادقة."
-        },
-        "venue": null,
-        "photo_id": null,
-        "source_urls": [
-          "https://www.experienceegypt.eg/en/home/culture"
+          "https://azharpark.com/"
         ]
       }
     ],
@@ -25731,7 +25720,7 @@
         "https://www.timeanddate.com/weather/egypt/cairo"
       ]
     },
-    "reviewedAt": "2026-11-15",
+    "reviewedAt": "2026-11-18",
     "photos": {
       "cairo-food-koshary": {
         "file": "cairo-food-koshary",
