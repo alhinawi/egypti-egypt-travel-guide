@@ -2357,5 +2357,40 @@
     },
     "url": "https://www.youtube.com/watch?v=SdZyh6xJUk0",
     "source": "https://www.youtube.com/watch?v=SdZyh6xJUk0"
+  },
+  {
+    "placeId": "lake-manzala",
+    "provider": "امل عبده & aml is life · YouTube",
+    "kind": "video",
+    "title": {
+      "ar": "زيارة مصورة للصيد عند بحيرة المنزلة",
+      "en": "A filmed fishing visit at Lake Manzala"
+    },
+    "scope": {
+      "ar": "فلوج نشرته أمل عبده في مايو 2026، فيه مقدمة شخصية وبعدها زيارة عند بحيرة المنزلة، بتعرض مراكب صيادين على المياه وفرز السمك على الشط. لقطات البحيرة والمراكب ظاهرة حوالي الدقيقة 6:20. مش جولة لكل البحيرة ولا رحلة مركب متاحة للحجز، وأي أسعار في الفيديو مش تسعيرة حالية.",
+      "en": "A vlog published by Aml Abdo in May 2026, with a personal introduction followed by a Lake Manzala visit showing fishing boats on the water and fish sorting ashore. Lake and boat scenes appear around 6:20. Not the whole lake or a bookable boat trip, and any prices in the film are not current quotes."
+    },
+    "url": "https://www.youtube.com/watch?v=9WykCDmGBbs",
+    "source": "https://www.youtube.com/watch?v=9WykCDmGBbs"
+  },
+  {
+    "placeId": "arish",
+    "provider": "فسح وخروجات نور / Safarista · YouTube",
+    "kind": "video",
+    "title": {
+      "ar": "شاطئ وشوارع العريش في 2023",
+      "en": "Arish beach and streets in 2023"
+    },
+    "scope": {
+      "ar": "فيديو بالعربي منشور في يوليو 2023 على قناة سفاريستا، بتعرض لقطات من شاطئ العريش والنخيل وشوارع المدينة. للمشاهدة من شاشتك، مش توصية بالسفر أو تأكيد لإتاحة الدخول أو الأمان دلوقتي. الأسعار والطرق ونصائح الإجازة في الفيديو قديمة ومش معلومات سفر حالية.",
+      "en": "An Arabic-language film published in July 2023 by Safarista, showing Arish beach, palms and city streets. For screen viewing, not a recommendation to travel or confirmation of current access or safety. Prices, routes and holiday advice in the film are dated, not current travel information."
+    },
+    "advisory": {
+      "ar": "نصيحة السفر البريطانية FCDO بتنصح بعدم السفر نهائيا لشمال سيناء، اتراجعت يوم 19 نوفمبر 2026. راجع النصيحة الرسمية المحدثة.",
+      "en": "UK FCDO advice is against all travel to North Sinai, checked 19 November 2026. Read the current official advice.",
+      "url": "https://www.gov.uk/foreign-travel-advice/egypt/regional-risks"
+    },
+    "url": "https://www.youtube.com/watch?v=UKiEpQ2ARnM",
+    "source": "https://www.youtube.com/watch?v=UKiEpQ2ARnM"
   }
 ]
