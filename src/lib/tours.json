@@ -1779,5 +1779,53 @@
       "en": "The Tanis chapter of a World of Antiquity film, published 21 February 2023: 23:53 to 37:10. Includes on-site ruins and carved stones with English commentary. Not a 360 tour or evidence of present site conditions or hours."
     },
     "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "al-aqmar-mosque",
+    "kind": "video",
+    "provider": "Prowalk Tours",
+    "url": "https://www.youtube.com/watch?v=YVYDz_coSfY&t=1145s",
+    "source": "https://www.youtube.com/watch?v=YVYDz_coSfY&t=1145s",
+    "title": {
+      "ar": "واجهة جامع الأقمر في مشيّة بالمعز",
+      "en": "Al-Aqmar facade on a Muizz Street walk"
+    },
+    "scope": {
+      "ar": "لقطة لواجهة جامع الأقمر من فصل 19:05 في مشيّة Prowalk Tours، تصوير 20 يناير 2019. تصوير خارجي من الشارع، مش دخول للجامع أو جولة 360، ومش تأكيد لحالته أو مواعيده النهارده.",
+      "en": "An exterior view of Al-Aqmar Mosque from the 19:05 chapter of a Prowalk Tours walk, filmed 20 January 2019. Street-level footage, not an interior visit or 360 tour, and not evidence of current conditions or hours."
+    },
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "bab-al-futuh",
+    "kind": "video",
+    "provider": "Prowalk Tours",
+    "url": "https://www.youtube.com/watch?v=YVYDz_coSfY&t=1900s",
+    "source": "https://www.youtube.com/watch?v=YVYDz_coSfY&t=1900s",
+    "title": {
+      "ar": "مشيّة عبر بوابة باب الفتوح",
+      "en": "A walk through Bab al-Futuh gateway"
+    },
+    "scope": {
+      "ar": "فصل باب الفتوح عند 31:40 من مشيّة Prowalk Tours، تصوير 20 يناير 2019. بيعرض ممر البوابة ومحيطه، مش زيارة لكل أجزاء البوابة أو تأكيد لإتاحة الدخول النهارده. الفيديو بيكمل بعدها لباقي المشيّة.",
+      "en": "The Bab al-Futuh chapter at 31:40 of a Prowalk Tours walk, filmed 20 January 2019. Shows the gateway passage and surroundings, not every part of the gate or present access. The video continues with the wider walk afterward."
+    },
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "catacombs-of-kom-el-shoqafa",
+    "kind": "video",
+    "provider": "PSIS - visit - cestopisy- travelogue",
+    "url": "https://www.youtube.com/watch?v=wxCsAJDLHNA",
+    "source": "https://www.youtube.com/watch?v=wxCsAJDLHNA",
+    "title": {
+      "ar": "زيارة مصوّرة لمقابر كوم الشقافة",
+      "en": "A filmed visit to Kom el Shoqafa"
+    },
+    "scope": {
+      "ar": "فيديو زيارة لمقابر كوم الشقافة من PSIS، منشور 1 يوليو 2025. فيه مشاهد من ممرات وحجرات المقابر تحت الأرض، مع مشاهد خارجية في البداية. مش جولة تفاعلية أو تغطية لكل المقابر، ومش مرجع لمواعيد أو شروط الدخول الحالية.",
+      "en": "A PSIS visit to Kom el Shoqafa, published 1 July 2025. Includes underground burial galleries and chambers, with exterior scenes at the start. Not interactive or coverage of every tomb, and not a source for current opening hours or entry rules."
+    },
+    "checkedAt": "2026-11-18"
   }
 ]
