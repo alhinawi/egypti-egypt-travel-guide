@@ -1521,5 +1521,21 @@
     "url": "https://www.360cities.net/image/the-hanging-church-cairo",
     "source": "https://www.360cities.net/image/the-hanging-church-cairo",
     "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "mount-sinai",
+    "provider": "Mused · St. Catherine’s Monastery",
+    "kind": "panorama",
+    "title": {
+      "ar": "عند قمة جبل موسى",
+      "en": "At the summit of Mount Sinai"
+    },
+    "scope": {
+      "ar": "جولة بانورامية موجهة عند القمة، فيها مبنى الكنيسة والصخور والجبال حواليها. مش مسار صعود تقدر تعتمد عليه أو تأكيد لظروف الزيارة دلوقتي.",
+      "en": "A guided photographic panorama at the summit, with the chapel building, rocks and surrounding mountains. Not a hiking route or confirmation of current visiting conditions."
+    },
+    "url": "https://mused.com/guided/111/mount-sinai-holy-summit/",
+    "source": "https://mused.com/stcatherines/",
+    "checkedAt": "2026-11-18"
   }
 ]
