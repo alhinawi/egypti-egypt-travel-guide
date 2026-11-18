@@ -1537,5 +1537,50 @@
     "url": "https://mused.com/guided/111/mount-sinai-holy-summit/",
     "source": "https://mused.com/stcatherines/",
     "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "bayt-al-suhaymi",
+    "provider": "360Cities / i360Code",
+    "kind": "panorama",
+    "title": {
+      "ar": "فناء بيت السحيمي بزاوية 360",
+      "en": "Bayt al-Suhaymi courtyard in 360"
+    },
+    "scope": {
+      "ar": "بانوراما للفناء المزروع والمشربيات والواجهات اللي حواليه، تصوير 29 مايو 2015. مش جولة في كل قاعات البيت.",
+      "en": "A courtyard panorama with planting, mashrabiya screens and surrounding facades, photographed 29 May 2015. Not a tour of every room."
+    },
+    "url": "https://www.360cities.net/image/bayt-al-suhaymi-cairo",
+    "source": "https://www.360cities.net/image/bayt-al-suhaymi-cairo"
+  },
+  {
+    "placeId": "qalawun-complex",
+    "provider": "Qalawun VR Project / TUFS",
+    "kind": "panorama",
+    "title": {
+      "ar": "استكشف مجموعة قلاوون بزاوية 360",
+      "en": "Explore the Qalawun complex in 360"
+    },
+    "scope": {
+      "ar": "جولة بحثية بصور بانورامية مترابطة وخريطة ونقاط شرح، فيها واجهة المجموعة ومشاهد داخلية مزخرفة. مورد أرشيفي من مشروع بدأ سنة 2019، مش عرض للحالة الحالية.",
+      "en": "An academic tour with linked photographic panoramas, a plan and information points, including the facade and decorated interiors. An archival resource from a project begun in 2019, not current conditions."
+    },
+    "url": "https://qalawun.aa-ken.jp/vrtour/en/",
+    "source": "https://qalawun.aa-ken.jp/en/project/"
+  },
+  {
+    "placeId": "bibliotheca",
+    "provider": "360Cities / Salma ElDardiry",
+    "kind": "panorama",
+    "title": {
+      "ar": "قاعة القراءة بمكتبة الإسكندرية بزاوية 360",
+      "en": "Bibliotheca reading area in 360"
+    },
+    "scope": {
+      "ar": "بانوراما من مستوى B4 بتوضح مكاتب القراءة ورفوف الكتب والسقف المضيء، تصوير 15 أبريل 2012. مش جولة في كل متاحف ومباني المكتبة.",
+      "en": "A panorama from level B4 showing reading desks, bookshelves and the skylit ceiling, photographed 15 April 2012. Not a tour of every library museum or building."
+    },
+    "url": "https://www.360cities.net/en/image/bibliotheca-alexandrina-b4",
+    "source": "https://www.360cities.net/en/image/bibliotheca-alexandrina-b4"
   }
 ]
