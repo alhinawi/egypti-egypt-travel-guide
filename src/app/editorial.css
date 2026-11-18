@@ -153,3 +153,5 @@
  @media(max-width:600px){.guides-page{padding-inline:20px}.guide-profile-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:14px}.guide-profile-copy{padding:14px 12px}.guide-profile h2{font-size:24px}.guide-profile p{font-size:11px;min-height:42px}.guide-profile button{font-size:11px;margin-top:12px}.guide-role{font-size:8px;gap:4px}.guide-avatar img{height:100%}.guide-selection{padding:20px;margin-block:32px}.guide-selection h2{font-size:21px}.guide-selection-head{gap:12px;align-items:flex-start}.guide-selection-head img{width:65px;height:65px}.guide-neutral-note{padding:22px}.guides-heading{padding-top:12px}}
  @media(prefers-reduced-motion:reduce){.guide-profile{transition:none}}
 }
+
+@media screen{.mag-editorial-stamp{min-width:72px;min-height:72px;z-index:2;cursor:pointer;transition:background-color .15s}.mag-editorial-stamp:hover{background:var(--paper)}.mag-editorial-stamp:focus-visible{outline:3px solid var(--accent);outline-offset:4px}}
