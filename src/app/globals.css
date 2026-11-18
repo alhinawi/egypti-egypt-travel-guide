@@ -99,3 +99,27 @@ html{--page:#f5f7f6;--paper:#fff;--ink:#102c38;--muted:#60747d;--accent:#125366;
 .account-saves-warning{display:block;line-height:1.8}.account-saves-warning button{display:block;width:100%;margin-top:10px;padding:8px 14px;min-height:44px;font:inherit;font-size:14px;border:1px solid currentColor;border-radius:8px;white-space:normal}
 
 .checklist-reset{font:inherit;font-size:13px;border:1px solid var(--line);border-radius:8px;background:var(--paper);color:var(--ink);padding:10px 14px;min-height:44px;margin-bottom:20px;cursor:pointer}.checklist-reset:disabled{opacity:.5;cursor:default}.pack-list>button:disabled{cursor:wait}.visit-pack .checklist-storage{font-size:12px;line-height:1.8}
+
+@media print{
+ .print-plan{display:none!important}
+ .trip-detail .day{break-inside:auto;page-break-inside:auto;background:white;border-radius:0;padding:14px 0;border-inline-start:0}
+ .trip-detail .day>h2,.trip-detail .day-number{break-after:avoid}
+ .trip-detail .day .places-grid{display:block!important;margin-top:12px}
+ .trip-detail .day .place-card{break-inside:avoid;page-break-inside:avoid;padding:10px 0;border:0;border-top:1px solid #aaa;border-radius:0;background:white}
+ .trip-detail .day .place-card>.place-photo-card,.trip-detail .day .card-topline,.trip-detail .day .place-vibes,.trip-detail .day .place-link>.inline-link{display:none!important}
+ .trip-detail .day .place-link h3{font-size:15px;margin:4px 0}
+ .trip-detail .day .place-link p{font-size:11px;line-height:1.6;color:black}
+ .trip-detail .day .place-link>.eyebrow{font-size:10px;color:black}
+ .trip-detail .day-parts{break-inside:auto}
+ .trip-detail .day-parts>div{break-inside:avoid}
+}
+@media print{
+ @page{margin:12mm}
+ .trip-detail .day-parts{display:block;background:white;border:0}
+ .trip-detail .day-parts>div{padding:10px 0;background:white;border:0;border-bottom:1px solid #ddd}
+ .trip-detail .day-parts .place-photo-card{display:none!important}
+ .trip-detail .day-parts h3{font-size:14px;margin:4px 0}
+ .trip-detail .day-parts p{font-size:11px;line-height:1.6;color:black}
+ .trip-detail .program-sources a{overflow-wrap:anywhere}
+ .trip-detail .place-card{box-shadow:none}
+}
