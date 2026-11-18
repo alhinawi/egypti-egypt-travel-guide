@@ -1859,5 +1859,37 @@
       "en": "The Heracleópolis Magna project documentary En busca de un tiempo olvidado, published in January 2019. Includes footage of excavation areas, remains and restoration work, with Spanish commentary. Not an interactive walk or coverage of the whole site, and not a guide to present visits or admission."
     },
     "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "wadi-el-natrun",
+    "kind": "panorama",
+    "provider": "Experience Egypt",
+    "url": "https://www.experienceegypt.eg/Virtualtour/Wadi_El_Natrun/",
+    "source": "https://www.experienceegypt.eg/Virtualtour/Wadi_El_Natrun/",
+    "title": {
+      "ar": "مشاهد وادي النطرون التفاعلية",
+      "en": "Interactive scenes from Wadi El Natrun"
+    },
+    "scope": {
+      "ar": "جولة بانورامية من Experience Egypt، اتعلن عنها في أبريل 2024. اختار المكان من القائمة؛ اتراجع مشهد واجهة دير الأنبا مقار مع تحريك المنظر، ومشهد شاطئ بحيرة نبع الحمراء. مش تغطية لكل الوادي أو تأكيد لحالة الأماكن ومواعيدها النهارده.",
+      "en": "An Experience Egypt panorama tour announced in April 2024. Choose a location from its menu; the Saint Macarius monastery facade was checked with view rotation, along with an Al-Homra Spring lakeshore scene. Not coverage of the entire valley or evidence of present conditions or opening hours."
+    },
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "monastery-of-saint-macarius-the-great",
+    "kind": "video",
+    "provider": "St Macarius Monastery / CTV",
+    "url": "https://www.youtube.com/watch?v=9UC38y1bAXo",
+    "source": "https://stmacariusmonastery.org/2022/03/documentary-ctv2021/",
+    "title": {
+      "ar": "جولة قبطية في دير الأنبا مقار",
+      "en": "A CTV visit to Saint Macarius Monastery"
+    },
+    "scope": {
+      "ar": "فيلم CTV إنتاج 2021 ضمن برنامج جولة قبطية، بيقدّمه موقع دير الأنبا مقار. فيه تصوير للواجهة وتفاصيل أبواب وزخارف من جوّه بتعليق بالعربي. مش جولة تفاعلية أو تغطية لكل الدير، ومش تأكيد لإتاحة دخول الأماكن دي النهارده.",
+      "en": "A 2021 CTV film from the Coptic Tour programme, linked by Saint Macarius Monastery. Includes the facade and interior door and carving details, with Arabic commentary. Not interactive or coverage of the whole monastery, and not confirmation that these spaces can be visited today."
+    },
+    "checkedAt": "2026-11-18"
   }
 ]
