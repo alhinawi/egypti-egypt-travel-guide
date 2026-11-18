@@ -2237,5 +2237,35 @@
     },
     "url": "https://www.youtube.com/watch?v=NbKvmNPanNM",
     "source": "https://www.youtube.com/watch?v=NbKvmNPanNM"
+  },
+  {
+    "placeId": "qena",
+    "provider": "Artis Guru · YouTube",
+    "kind": "video",
+    "title": {
+      "ar": "تمشية في شوارع سوق قنا",
+      "en": "A walk through Qena market streets"
+    },
+    "scope": {
+      "ar": "تمشية مصورة بالإنجليزي وسط شوارع السوق ومحلاته وبسطات الخضار. صاحب القناة بيقول إن التصوير في يناير 2022، ونشر المقطع في أكتوبر 2022. ده جزء من زيارة لقنا، مش جولة لكل المدينة ولا دليل على أسعار أو مواعيد المحلات دلوقتي.",
+      "en": "An English-language walk past market streets, shops and produce stalls. The publisher dates the trip to January 2022 and published this excerpt in October 2022. A slice of a Qena visit, not a tour of the whole city or evidence of current shop prices or hours."
+    },
+    "url": "https://www.youtube.com/watch?v=aIxr48umjC0",
+    "source": "https://www.youtube.com/watch?v=aIxr48umjC0"
+  },
+  {
+    "placeId": "ezbet-el-borg",
+    "provider": "دعاء عادل · YouTube",
+    "kind": "video",
+    "title": {
+      "ar": "عزبة البرج ومراكبها من المعدية",
+      "en": "Ezbet El Borg and its boats from the ferry"
+    },
+    "scope": {
+      "ar": "فيديو منشور على قناة دعاء عادل في سبتمبر 2024، بيعرض المجرى المائي ومراكب الصيد وواجهة النهر أثناء رحلة المعدية بين عزبة البرج ورأس البر. مش تمشية في كل المدينة، والسعر المذكور في عنوان الفيديو قديم ومش تسعيرة مؤكدة دلوقتي.",
+      "en": "A video published by Doaa Adel in September 2024, showing the waterway, fishing boats and riverfront during the ferry crossing between Ezbet El Borg and Ras El Bar. Not a walk around the whole town. The fare in the original video title is dated, not a verified current price."
+    },
+    "url": "https://www.youtube.com/watch?v=KbAEuVlMT00",
+    "source": "https://www.youtube.com/watch?v=KbAEuVlMT00"
   }
 ]
