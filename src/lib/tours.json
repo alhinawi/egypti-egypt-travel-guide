@@ -1827,5 +1827,37 @@
       "en": "A PSIS visit to Kom el Shoqafa, published 1 July 2025. Includes underground burial galleries and chambers, with exterior scenes at the start. Not interactive or coverage of every tomb, and not a source for current opening hours or entry rules."
     },
     "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "tuna-el-gebel",
+    "kind": "video",
+    "provider": "Il Faraone Tours",
+    "url": "https://www.youtube.com/watch?v=N_S-DCOrOGA",
+    "source": "https://www.youtube.com/watch?v=N_S-DCOrOGA",
+    "title": {
+      "ar": "زيارة مصوّرة لسراديب الحيوانات في تونا الجبل",
+      "en": "A filmed visit to the animal catacombs at Tuna el-Gebel"
+    },
+    "scope": {
+      "ar": "فيديو من Il Faraone Tours، منشور في أكتوبر 2023، فيه مدخل وممرات سراديب دفن الحيوانات في تونا الجبل. مش جولة في كل الجبانة أو مقبرة بيتوزيريس، ومش تأكيد لحالة الممرات أو إتاحة دخولها النهارده.",
+      "en": "An Il Faraone Tours video published in October 2023, showing the entrance and passages of the animal catacombs at Tuna el-Gebel. Not a tour of the whole necropolis or the tomb of Petosiris, and not evidence of present passage conditions or access."
+    },
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "heracleopolis-magna",
+    "kind": "video",
+    "provider": "Heracleópolis Magna",
+    "url": "https://www.youtube.com/watch?v=oggBKujE8a0",
+    "source": "https://heracleopolismagna.com/blog/2019/01/20/documental-en-busca-de-un-tiempo-olvidado/",
+    "title": {
+      "ar": "وثائقي حفائر إهناسيا المدينة",
+      "en": "An excavation documentary from Heracleopolis Magna"
+    },
+    "scope": {
+      "ar": "وثائقي مشروع Heracleópolis Magna بعنوان En busca de un tiempo olvidado، منشور في يناير 2019. فيه تصوير للحفائر والآثار وشغل الترميم بتعليق بالإسباني. مش مشيّة تفاعلية أو تغطية لكل الموقع، ومش مرجع للزيارة أو الدخول الحالي.",
+      "en": "The Heracleópolis Magna project documentary En busca de un tiempo olvidado, published in January 2019. Includes footage of excavation areas, remains and restoration work, with Spanish commentary. Not an interactive walk or coverage of the whole site, and not a guide to present visits or admission."
+    },
+    "checkedAt": "2026-11-18"
   }
 ]
