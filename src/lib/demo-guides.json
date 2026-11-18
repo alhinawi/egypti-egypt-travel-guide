@@ -10,7 +10,12 @@
       "ar": "القاهرة وحكاياتها",
       "en": "Cairo stories"
     },
-    "avatar": "/avatars/nour.svg"
+    "avatar": "/portraits/nour.webp",
+    "places": [
+      "egyptian-museum",
+      "khan-el-khalili",
+      "khayyamiyya"
+    ]
   },
   {
     "id": "omar",
@@ -23,7 +28,12 @@
       "ar": "الأقصر وآثارها",
       "en": "Luxor monuments"
     },
-    "avatar": "/avatars/omar.svg"
+    "avatar": "/portraits/omar.webp",
+    "places": [
+      "karnak",
+      "hatshepsut",
+      "menna-tt69"
+    ]
   },
   {
     "id": "layla",
@@ -36,7 +46,12 @@
       "ar": "أسوان والنيل",
       "en": "Aswan and the Nile"
     },
-    "avatar": "/avatars/layla.svg"
+    "avatar": "/portraits/layla.webp",
+    "places": [
+      "philae",
+      "abu-simbel",
+      "nubian-museum"
+    ]
   },
   {
     "id": "adam",
@@ -49,6 +64,155 @@
       "ar": "إسكندرية والبحر",
       "en": "Alexandria by the sea"
     },
-    "avatar": "/avatars/adam.svg"
+    "avatar": "/portraits/adam.webp",
+    "places": [
+      "qaitbay",
+      "bibliotheca",
+      "montazah"
+    ]
+  },
+  {
+    "id": "salma",
+    "demo": true,
+    "name": {
+      "ar": "سلمى",
+      "en": "Salma"
+    },
+    "specialty": {
+      "ar": "جولة في المتاحف",
+      "en": "Museum discoveries"
+    },
+    "avatar": "/portraits/salma.webp",
+    "places": [
+      "egyptian-museum",
+      "grand-egyptian-museum",
+      "nubian-museum"
+    ]
+  },
+  {
+    "id": "youssef",
+    "demo": true,
+    "name": {
+      "ar": "يوسف",
+      "en": "Youssef"
+    },
+    "specialty": {
+      "ar": "مناظر البحر الأحمر",
+      "en": "Red Sea scenery"
+    },
+    "avatar": "/portraits/youssef.webp",
+    "places": [
+      "dahab",
+      "ras-muhammad-national-park",
+      "hurghada"
+    ]
+  },
+  {
+    "id": "mariam",
+    "demo": true,
+    "name": {
+      "ar": "مريم",
+      "en": "Mariam"
+    },
+    "specialty": {
+      "ar": "الحرف وحكايات الأسواق",
+      "en": "Crafts and market stories"
+    },
+    "avatar": "/portraits/mariam.webp",
+    "places": [
+      "khayyamiyya",
+      "khan-el-khalili",
+      "fuwwah"
+    ]
+  },
+  {
+    "id": "karim",
+    "demo": true,
+    "name": {
+      "ar": "كريم",
+      "en": "Karim"
+    },
+    "specialty": {
+      "ar": "عمارة القاهرة",
+      "en": "Cairo architecture"
+    },
+    "avatar": "/portraits/karim.webp",
+    "places": [
+      "cairo-citadel",
+      "mosque-of-ibn-tulun",
+      "al-azhar-mosque"
+    ]
+  },
+  {
+    "id": "dina",
+    "demo": true,
+    "name": {
+      "ar": "دينا",
+      "en": "Dina"
+    },
+    "specialty": {
+      "ar": "حدايق ومساحات مفتوحة",
+      "en": "Gardens and open spaces"
+    },
+    "avatar": "/portraits/dina.webp",
+    "places": [
+      "antoniadis",
+      "montazah",
+      "el-qanater-el-khayreya"
+    ]
+  },
+  {
+    "id": "hassan",
+    "demo": true,
+    "name": {
+      "ar": "حسن",
+      "en": "Hassan"
+    },
+    "specialty": {
+      "ar": "جولة في مصر القديمة",
+      "en": "Ancient Egypt"
+    },
+    "avatar": "/portraits/hassan.webp",
+    "places": [
+      "giza-pyramids",
+      "saqqara",
+      "karnak"
+    ]
+  },
+  {
+    "id": "heba",
+    "demo": true,
+    "name": {
+      "ar": "هبة",
+      "en": "Heba"
+    },
+    "specialty": {
+      "ar": "خطط للتعرّف على النوبة",
+      "en": "Discover Nubian heritage"
+    },
+    "avatar": "/portraits/heba.webp",
+    "places": [
+      "nubian-museum",
+      "philae",
+      "abu-simbel"
+    ]
+  },
+  {
+    "id": "ziad",
+    "demo": true,
+    "name": {
+      "ar": "زياد",
+      "en": "Ziad"
+    },
+    "specialty": {
+      "ar": "اكتشاف مدن الدلتا",
+      "en": "Delta city discoveries"
+    },
+    "avatar": "/portraits/ziad.webp",
+    "places": [
+      "mansoura-egypt",
+      "tanta",
+      "damietta"
+    ]
   }
 ]
