@@ -2177,5 +2177,35 @@
     },
     "url": "https://www.youtube.com/watch?v=UxnhM54CP0E",
     "source": "https://www.youtube.com/watch?v=UxnhM54CP0E"
+  },
+  {
+    "placeId": "buto",
+    "provider": "Akhbar E Yom IT Dep · YouTube",
+    "kind": "video",
+    "title": {
+      "ar": "زيارة مصورة لتل الفراعين",
+      "en": "A filmed visit to Buto"
+    },
+    "scope": {
+      "ar": "فيلم بالعربي على قناة Akhbar E Yom IT Dep، منشور في أغسطس 2015، بيعرض آثار ونقوش في منطقة تل الفراعين. تصوير قديم، مش تغطية لكل الموقع ولا تأكيد لإمكانية الدخول أو حالة الآثار دلوقتي.",
+      "en": "An Arabic-language film on the Akhbar E Yom IT Dep channel, published in August 2015, showing remains and inscriptions at Tell el-Faraeen. Older footage, not coverage of the whole site or confirmation of current access or condition."
+    },
+    "url": "https://www.youtube.com/watch?v=39paCDOgfAk",
+    "source": "https://www.youtube.com/watch?v=39paCDOgfAk"
+  },
+  {
+    "placeId": "bilbeis",
+    "provider": "Senorita Elzorkany · YouTube",
+    "kind": "video",
+    "title": {
+      "ar": "زيارة جامع سادات قريش في بلبيس",
+      "en": "Visiting Sadat Quraish Mosque in Bilbeis"
+    },
+    "scope": {
+      "ar": "زيارة بالعربي نشرتها Senorita Elzorkany في فبراير 2025، بتعرض واجهة جامع سادات قريش وقاعة الصلاة ذات الأعمدة. مش جولة لكل بلبيس ولا تأكيد لمواعيد الزيارة. الروايات التاريخية في كلام الضيوف منسوبة ليهم، مش حقائق مؤكدة هنا.",
+      "en": "An Arabic-language visit published by Senorita Elzorkany in February 2025, showing the mosque facade and columned prayer hall. Not a tour of all Bilbeis or confirmation of visiting hours. Historical accounts in the interviews are the speakers' claims, not verified facts here."
+    },
+    "url": "https://www.youtube.com/watch?v=TG4nU69VjgY",
+    "source": "https://www.youtube.com/watch?v=TG4nU69VjgY"
   }
 ]
