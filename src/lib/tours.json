@@ -2067,5 +2067,37 @@
       "en": "An Akhbar Misr report published in July 2023, with Arabic commentary and sign-language interpretation. Playback and footage of the stone barrages, towers and Nile were checked. Not a walking tour or coverage of every El Qanater garden. The news ticker and site conditions are from the filming period, not today."
     },
     "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "fuwwah",
+    "kind": "video",
+    "provider": "Al-Masry Al-Youm",
+    "url": "https://www.youtube.com/watch?v=GYlyem_amlw",
+    "source": "https://www.almasryalyoum.com/avideo/25626",
+    "title": {
+      "ar": "لمحات من واجهات وآثار فوّه",
+      "en": "Glimpses of Fuwwah’s historic facades"
+    },
+    "scope": {
+      "ar": "فيديو قصير للمصري اليوم، منشور في ديسمبر 2022، بموسيقى وكتابة بالعربي على الشاشة. اتراجع التشغيل ولقطات واجهات مباني وآثار في فوّه. مش جولة مشي متصلة أو تغطية لكل المدينة، ومش تأكيد لحالة المباني أو إتاحة دخولها النهارده.",
+      "en": "A short Al-Masry Al-Youm video published in December 2022, with music and Arabic text on screen. Playback and footage of historic building facades in Fuwwah were checked. Not a continuous walking tour or coverage of the whole city, and not confirmation of present building conditions or admission."
+    },
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "great-bitter-lake",
+    "kind": "video",
+    "provider": "MariKnows TV",
+    "url": "https://www.youtube.com/watch?v=093hRK2QD9w",
+    "source": "https://www.youtube.com/watch?v=093hRK2QD9w",
+    "title": {
+      "ar": "البحيرة المرة الكبرى من على سفينة",
+      "en": "Great Bitter Lake from aboard a ship"
+    },
+    "scope": {
+      "ar": "فيديو تايم لابس من MariKnows TV منشور في مارس 2021، بموسيقى. اتراجع التشغيل ولقطات المياه والسفن من سطح سفينة، مع اسم البحيرة المرة الكبرى ظاهر على الشاشة. ده منظر من منطقة انتظار السفن، مش رحلة سياحية أو جولة في كل الشواطئ، ومش دليل على إتاحة ركوب مراكب أو السباحة النهارده.",
+      "en": "A MariKnows TV time-lapse published in March 2021, with music. Playback and views of water and ships from a ship’s deck were checked, with Great Bitter Lake identified on screen. An anchorage view, not a tourist boat trip or a tour of every shore, and not evidence of current boating or swimming access."
+    },
+    "checkedAt": "2026-11-18"
   }
 ]
