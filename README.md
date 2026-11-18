@@ -20,13 +20,25 @@ with verified places, honest labels and real photography.
 
 ---
 
+## Live preview
+
+Captured from the live English edition on 18 November 2026. The short animated tour cycles through home, the destination directory and the Cairo & Giza guide. Screens are from the actual site, not generated mockups.
+
+[![egypti live destination navigation tour](docs/media/demo.gif)](https://egypti.pages.dev/en/)
+
+| Desktop | Mobile |
+| --- | --- |
+| ![egypti home on desktop](docs/media/desktop.webp) | ![egypti home on mobile](docs/media/mobile.webp) |
+
+[Browse destinations](https://egypti.pages.dev/en/destinations/) · [Cairo & Giza](https://egypti.pages.dev/en/destinations/cairo/)
+
 ## First edition
 
-- **6 destination hubs, 30 places and areas, and 5 flexible itinerary outlines.**
+- **Destination hubs, place and area guides, and flexible itinerary outlines.**
 - **Arabic and English content**, explicit locale URLs, RTL/LTR, remembered language choice.
 - **Source links and review dates.** Unverified prices or hours are labeled, never invented.
-- **24 verified Google Maps place-card links.** Broad or changing locations do not get guessed pins.
-- **Google sign-in**, guest bookmarks, D1-backed synced bookmarks and sign-out.
+- **Google Maps place-card links.** Broad or changing locations do not get guessed pins.
+- **Email/password and Google sign-in**, guest bookmarks, D1-backed synced bookmarks and sign-out.
 - **18 hand-tuned themes** with a contrast-checked palette test suite, plus a read-only
   admin dashboard with health checks.
 
@@ -34,7 +46,7 @@ with verified places, honest labels and real photography.
 
 ```
 Next.js static export (src/app/[lang]/... per-locale prerendered pages)
-  └─ /api/* ──► Hono on Cloudflare Pages Functions
+  └─ /api/* ──► Hono bundled from api/index.ts to out/_worker.js
         ├─ Google OAuth: state + nonce + PKCE S256, verified ID tokens
         ├─ Session tokens hashed in Cloudflare D1
         └─ /api/admin/* guarded by a server-side email allowlist
