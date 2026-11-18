@@ -625,5 +625,181 @@
     "url": "https://www.youtube.com/watch?v=eULdzIZ8aQg",
     "source": "https://www.youtube.com/watch?v=eULdzIZ8aQg",
     "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "ras-muhammad-national-park",
+    "provider": "Travel Guide",
+    "kind": "video",
+    "title": {
+      "ar": "رحلة بحرية عند رأس محمد",
+      "en": "A boat visit around Ras Muhammad"
+    },
+    "scope": {
+      "ar": "فيديو تجربة رحلة بحرية وسنوركلينج في منطقة رأس محمد. مش كل المحمية أو دليل على إتاحة أي نقطة نزول دلوقتي.",
+      "en": "A recorded boat trip and snorkeling experience around Ras Muhammad. Not the whole park or confirmation of current access at any landing point."
+    },
+    "url": "https://www.youtube.com/watch?v=EBTlWvZ07zo",
+    "source": "https://www.youtube.com/watch?v=EBTlWvZ07zo",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "lighthouse",
+    "provider": "HePetr",
+    "kind": "video",
+    "title": {
+      "ar": "ريف اللايتهاوس في دهب",
+      "en": "Lighthouse reef in Dahab"
+    },
+    "scope": {
+      "ar": "فيديو مسجّل من منطقة اللايتهاوس في دهب. مش جولة لكل دهب أو معلومات حالية عن ظروف الغطس.",
+      "en": "Recorded footage from the Lighthouse area of Dahab. Not all of Dahab or current diving conditions."
+    },
+    "url": "https://www.youtube.com/watch?v=CEPcWnxFLm4",
+    "source": "https://www.youtube.com/watch?v=CEPcWnxFLm4",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "eel-garden",
+    "provider": "Daan Verhoeven",
+    "kind": "video",
+    "title": {
+      "ar": "تحت الميه في إيل جاردن",
+      "en": "Underwater at Eel Garden"
+    },
+    "scope": {
+      "ar": "فيلم للمصوّر Daan Verhoeven عند مستعمرة ثعابين الحديقة البحرية في إيل جاردن بدهب، حسب وصفه للفيديو. مش جولة على الممشى أو تعليمات للغطس.",
+      "en": "Daan Verhoeven’s film of the garden-eel colony at Eel Garden in Dahab, as identified in his description. Not the promenade or diving instructions."
+    },
+    "url": "https://www.youtube.com/watch?v=D4UkZ2kWFCs",
+    "source": "https://www.youtube.com/watch?v=D4UkZ2kWFCs",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "blue-lagoon",
+    "provider": "shaysando",
+    "kind": "video",
+    "title": {
+      "ar": "كايت سيرف في البلو لاجون",
+      "en": "Kitesurfing at the Blue Lagoon"
+    },
+    "scope": {
+      "ar": "فيديو كايت سيرف مسجّل في البلو لاجون قرب دهب. مش كل المنطقة أو تأكيد لحالة الرياح والوصول دلوقتي.",
+      "en": "Recorded kitesurfing footage at the Blue Lagoon near Dahab. Not the whole area or current wind and access conditions."
+    },
+    "url": "https://www.youtube.com/watch?v=jDHhTsNZl-w",
+    "source": "https://www.youtube.com/watch?v=jDHhTsNZl-w",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "hurghada-museum",
+    "provider": "Luxor Times",
+    "kind": "video",
+    "title": {
+      "ar": "معروضات متحف الغردقة وقت افتتاحه",
+      "en": "Hurghada Museum at its opening"
+    },
+    "scope": {
+      "ar": "تغطية مصوّرة من Luxor Times لافتتاح متحف الغردقة في 2020، وفيها معروضات من جوّه. تسجيل أرشيفي، مش جولة 360 أو تأكيد لترتيب العرض الحالي.",
+      "en": "Luxor Times footage of Hurghada Museum’s 2020 opening, including exhibits inside. Archival coverage, not a 360 tour or confirmation of the current display layout."
+    },
+    "url": "https://www.youtube.com/watch?v=s6A0dyqDmsM",
+    "source": "https://www.youtube.com/watch?v=s6A0dyqDmsM",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "hurghada-desert",
+    "provider": "Nurse tinspens Christine Spencer",
+    "kind": "video",
+    "title": {
+      "ar": "تجربة سفاري في صحراء الغردقة",
+      "en": "A Hurghada desert safari experience"
+    },
+    "scope": {
+      "ar": "فيديو شخصي لتجربة سفاري حوالين الغردقة، فيه مشاهد من الصحراء وتجربة رحلات. مش مسار ملاحي أو توصية بمشغّل أو تأكيد لحالة الرحلات وأسعارها.",
+      "en": "A personal safari video around Hurghada with desert and excursion footage. Not a navigation route, operator recommendation or confirmation of current tours and prices."
+    },
+    "url": "https://www.youtube.com/watch?v=uWW2cmMt9lA",
+    "source": "https://www.youtube.com/watch?v=uWW2cmMt9lA",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "farafra-egypt",
+    "provider": "يوميات مزارع في الفرافرة",
+    "kind": "video",
+    "title": {
+      "ar": "صباح في الفرافرة",
+      "en": "A morning in Farafra"
+    },
+    "scope": {
+      "ar": "فيديو شخصي لجولة صباحية في الفرافرة. مش كل الواحة أو جولة كاملة في الصحراء البيضاء.",
+      "en": "A personal recorded morning visit in Farafra. Not the whole oasis or a complete White Desert tour."
+    },
+    "url": "https://www.youtube.com/watch?v=Lq3DjCdCFDs",
+    "source": "https://www.youtube.com/watch?v=Lq3DjCdCFDs",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "marsa-matrouh",
+    "provider": "فيد واستفيدمع ام بودى fyd waistafid mae 'am bawdaa",
+    "kind": "video",
+    "title": {
+      "ar": "رحلة مصوّرة في مرسى مطروح",
+      "en": "A recorded Marsa Matrouh visit"
+    },
+    "scope": {
+      "ar": "فيديو رحلة شخصية في مرسى مطروح، منها منطقة شاطئ كليوباترا. الأسعار والنصائح تجربة صاحب الفيديو، مش أسعار حالية متحققة عندنا.",
+      "en": "A personal Marsa Matrouh travel video including the Cleopatra beach area. Prices and advice are the creator’s experience, not current rates verified by us."
+    },
+    "url": "https://www.youtube.com/watch?v=AdtoDsApn0A",
+    "source": "https://www.youtube.com/watch?v=AdtoDsApn0A",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "ain-sokhna",
+    "provider": "Its Jrod",
+    "kind": "video",
+    "title": {
+      "ar": "زيارة شخصية للعين السخنة",
+      "en": "A personal Ain Sokhna visit"
+    },
+    "scope": {
+      "ar": "فيديو سفر شخصي في العين السخنة على البحر الأحمر. مش كل شواطئ المنطقة أو تأكيد لإتاحة دخول الشواطئ والفنادق اللي بتظهر.",
+      "en": "A personal travel video in Ain Sokhna on the Red Sea. Not every beach or confirmation of access to the beaches and hotels shown."
+    },
+    "url": "https://www.youtube.com/watch?v=utOy4AbsVos",
+    "source": "https://www.youtube.com/watch?v=utOy4AbsVos",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "white-desert-national-park",
+    "provider": "KP Jaluo Abroad",
+    "kind": "video",
+    "title": {
+      "ar": "مشاهد من الصحراء البيضاء",
+      "en": "Scenes from the White Desert"
+    },
+    "scope": {
+      "ar": "فيديو مسجّل لرحلة في الصحراء البيضاء. مش كل المحمية، ومش تصريح دخول أو دليل طريق ينفع تمشي عليه من غير مختص.",
+      "en": "Recorded footage of a White Desert trip. Not the whole park, an entry permit or a route to follow without a specialist."
+    },
+    "url": "https://www.youtube.com/watch?v=vgBpr-7AUjg",
+    "source": "https://www.youtube.com/watch?v=vgBpr-7AUjg",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "lake-bardawil",
+    "provider": "مني محمود",
+    "kind": "video",
+    "title": {
+      "ar": "فيلم أرشيفي عن بحيرة البردويل",
+      "en": "An archival film about Lake Bardawil"
+    },
+    "scope": {
+      "ar": "فيلم عربي قديم عن بحيرة البردويل فيه مشاهد صيد وبحيرة، منشور على قناة شخصية. مش جولة تفاعلية أو دليل على حالة البحيرة أو السماح بالزيارة النهارده.",
+      "en": "An older Arabic film about Lake Bardawil with fishing and lake footage, hosted on a personal channel. Not an interactive tour or evidence of today’s lake conditions or visitor access."
+    },
+    "url": "https://www.youtube.com/watch?v=iSmVN603m4I",
+    "source": "https://www.youtube.com/watch?v=iSmVN603m4I",
+    "checkedAt": "2026-11-18"
   }
 ]
