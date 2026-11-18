@@ -1971,5 +1971,37 @@
       "en": "Part of Gventures’ Ismailia video, published in April 2026. The link starts at 25:05; the shore, water and nearby boats were checked as the presenter identifies Lake Timsah. English commentary. Not a trip onto the lake or coverage of all its shores, and not confirmation of current swimming or boating access."
     },
     "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "friday-market",
+    "kind": "video",
+    "provider": "Friends Safari Dahab",
+    "url": "https://www.youtube.com/watch?v=o6MO1W59ilg&t=90s",
+    "source": "https://www.youtube.com/watch?v=o6MO1W59ilg",
+    "title": {
+      "ar": "لقطات قديمة من سوق الجمعة في دهب",
+      "en": "Older footage of Dahab’s Friday Market"
+    },
+    "scope": {
+      "ar": "فيديو Friends Safari Dahab المنشور في مايو 2015، بيجمع لقطات عجل وسوق ولاجونا. الرابط بيبدأ عند 1:30، واتراجعت مشاهد ترابيزات الأكل والباعة حوالي 1:51. لقطات قديمة، مش جولة تفاعلية أو تأكيد إن السوق لسه شغّال يوم الجمعة أو في نفس المكان، والأسعار اللي في الفيديو مش أسعار النهارده.",
+      "en": "Friends Safari Dahab video published in May 2015, combining cycling, market and lagoon footage. The link starts at 1:30; food tables and vendors were checked around 1:51. Older scenes, not interactive or confirmation that the market still runs on Fridays or at the same venue. Prices in the film are not current prices."
+    },
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "qus",
+    "kind": "video",
+    "provider": "Welad ElBalad",
+    "url": "https://www.youtube.com/watch?v=6aPqrPVqYrM",
+    "source": "https://weladelbalad.org/blog/portfolio-item/qous-asl-elhekaya-film/",
+    "title": {
+      "ar": "قوص البلد والناس، فيلم من ولاد البلد",
+      "en": "Qus, its people and heritage on film"
+    },
+    "scope": {
+      "ar": "فيلم ولاد البلد المنشور في يناير 2015 ضمن سلسلة أصل الحكاية. فيه مقابلات بالعربي عن قوص وتاريخها، وتصوير من جوّه الجامع العمري؛ اتراجع التشغيل ولقطات المقابلات وتفاصيل الجامع قرب الدقيقتين 3 و5. مش جولة تفاعلية أو تغطية لكل قوص، ومش تأكيد لحالة المباني أو إتاحة دخولها النهارده.",
+      "en": "Welad ElBalad film published in January 2015 as part of the Asl ElHekaya series. Includes Arabic interviews about Qus and its history, and footage inside Al-Amri Mosque; playback, interviews and mosque details around minutes 3 and 5 were checked. Not interactive or coverage of all Qus, and not confirmation of present building conditions or admission."
+    },
+    "checkedAt": "2026-11-18"
   }
 ]
