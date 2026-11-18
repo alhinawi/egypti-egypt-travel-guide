@@ -2207,5 +2207,35 @@
     },
     "url": "https://www.youtube.com/watch?v=TG4nU69VjgY",
     "source": "https://www.youtube.com/watch?v=TG4nU69VjgY"
+  },
+  {
+    "placeId": "amr-ibn-al-as-mosque-damietta",
+    "provider": "Nourna in Damietta · YouTube",
+    "kind": "video",
+    "title": {
+      "ar": "ساحة وأروقة جامع عمرو بن العاص بدمياط",
+      "en": "Amr ibn al-As Mosque courtyard in Damietta"
+    },
+    "scope": {
+      "ar": "زيارة مصورة على قناة Nourna in Damietta، منشورة في ديسمبر 2021، بتعرض ساحة الجامع والأروقة ذات الأعمدة. ده جامع دمياط، مش جامع عمرو بن العاص في القاهرة. تسجيل قديم، مش تغطية لكل الجامع ولا تأكيد لمواعيد الدخول الحالية.",
+      "en": "A filmed visit on the Nourna in Damietta channel, published in December 2021, showing the courtyard and columned arcades. This is the Damietta mosque, not the mosque of the same name in Cairo. Older footage, not every part of the mosque or confirmation of current access hours."
+    },
+    "url": "https://www.youtube.com/watch?v=k-jh2ccEA70",
+    "source": "https://www.youtube.com/watch?v=k-jh2ccEA70"
+  },
+  {
+    "placeId": "ahmad-al-badawi-mosque",
+    "provider": "Ibn Battuta Travels · YouTube",
+    "kind": "video",
+    "title": {
+      "ar": "جولة ليلية عند الجامع الأحمدي بطنطا",
+      "en": "A nighttime visit outside Badawi Mosque in Tanta"
+    },
+    "scope": {
+      "ar": "زيارة بالعربي نشرها Ibn Battuta Travels في نوفمبر 2021، بتعرض واجهة الجامع والمئذنة والساحة بالليل. مش جولة داخلية مؤكدة ولا تغطية لكل الجامع، ومش دليل على مواعيد الزيارة الحالية.",
+      "en": "An Arabic-language visit published by Ibn Battuta Travels in November 2021, showing the mosque facade, minaret and courtyard at night. Not a verified interior tour or coverage of the whole mosque, and not evidence of current visiting hours."
+    },
+    "url": "https://www.youtube.com/watch?v=NbKvmNPanNM",
+    "source": "https://www.youtube.com/watch?v=NbKvmNPanNM"
   }
 ]
