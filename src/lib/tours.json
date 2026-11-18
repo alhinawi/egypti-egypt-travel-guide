@@ -2115,5 +2115,37 @@
       "en": "A Newzee video published in September 2023 about the inauguration of Ben Ezra Synagogue and Babylon Fortress after restoration. Playback and opening footage of the synagogue hall, decorated ceiling, striped arches and sanctuary were checked. Not interactive or coverage of the whole building. The reopening news is from the publication period, not confirmation of current hours or admission."
     },
     "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "deir-el-muharraq",
+    "kind": "video",
+    "provider": "Christian Youth Channel",
+    "url": "https://www.youtube.com/watch?v=futmXX7N_fw",
+    "source": "https://www.youtube.com/watch?v=futmXX7N_fw",
+    "title": {
+      "ar": "زيارة مصوّرة للدير المحرق وكنيسته",
+      "en": "A filmed visit to Muharraq Monastery and its church"
+    },
+    "scope": {
+      "ar": "فيلم Christian Youth Channel المنشور في أبريل 2025. اتراجع التشغيل ولقطات معمارية في البداية، وبعدها شرح بالإنجليزي من جوّه الكنيسة قرب الدقيقة 7. مش جولة تفاعلية أو تغطية لكل الدير؛ الروايات الدينية في الشرح من تقليد الكنيسة، والفيديو مش تأكيد لمواعيد الزيارة أو إتاحة كل الأجزاء النهارده.",
+      "en": "A Christian Youth Channel film published in April 2025. Playback and opening architectural shots were checked, followed by English explanation inside the church around minute 7. Not interactive or coverage of the entire monastery. Religious accounts reflect church tradition, and the film does not confirm current visiting hours or access to every area."
+    },
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "samannud",
+    "kind": "video",
+    "provider": "CTV Egypt",
+    "url": "https://www.youtube.com/watch?v=qtnuMKQ8NFU",
+    "source": "https://www.youtube.com/watch?v=qtnuMKQ8NFU",
+    "title": {
+      "ar": "زيارة لكنيسة العذراء وأبانوب في سمنود",
+      "en": "A visit to Samannud’s Virgin Mary and Abanoub Church"
+    },
+    "scope": {
+      "ar": "حلقة جولة قبطية من CTV Egypt، منشورة في يوليو 2021، بالعربي ومعاها ترجمة إنجليزي. اتراجع التشغيل ولقطات فناء الكنيسة وتفاصيلها المعمارية قرب الدقيقتين 3 و8. زيارة للكنيسة، مش جولة في كل سمنود أو تأكيد لمواعيدها النهارده؛ الروايات والممارسات الدينية في الحلقة بتعكس تقليد الكنيسة.",
+      "en": "A CTV Egypt Coptic Tour episode published in July 2021, in Arabic with English subtitles. Playback, the church courtyard and architectural details around minutes 3 and 8 were checked. A church visit, not a tour of all Samannud or confirmation of current hours. Religious accounts and practices in the episode reflect church tradition."
+    },
+    "checkedAt": "2026-11-18"
   }
 ]
