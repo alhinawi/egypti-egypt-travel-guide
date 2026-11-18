@@ -1,4 +1,5 @@
 import{test,expect}from'@playwright/test';
+import tours from'../src/lib/tours.json';
 for(const lang of ['ar','en'])for(const api of ['missing','rejected'])test(`tour dialog mobile fallback ${lang} ${api}`,async({browser})=>{
  const context=await browser.newContext({viewport:{width:390,height:844},isMobile:true,hasTouch:true});const page=await context.newPage();
  await page.addInitScript(mode=>{if(mode==='missing')Object.defineProperty(Element.prototype,'requestFullscreen',{value:undefined,configurable:true});else Element.prototype.requestFullscreen=()=>Promise.reject(new Error('unsupported'));},api);
@@ -11,7 +12,7 @@ for(const lang of ['ar','en'])for(const api of ['missing','rejected'])test(`tour
  await action.tap();await page.keyboard.press('Escape');await expect(dialog).toHaveCount(0);await context.close();
 });
 test('every card has a working player action or an external full-page source',async({page})=>{
- await page.route('https://**/*',route=>route.abort());await page.goto('/en/virtual-tours/');const actions=page.locator('.virtual-card-head .virtual-symbol');await expect(actions).toHaveCount(99);
- for(let i=0;i<99;i++){const action=actions.nth(i);if(await action.evaluate(e=>e.tagName)==='A'){await expect(action).toHaveAttribute('target','_blank');await expect(action).toHaveAttribute('href',/^https:\/\//);await expect(action).toHaveAccessibleName(/Open enlarged visit with provider/);}else{await action.click();await expect(page.getByRole('dialog')).toBeVisible();await page.getByRole('button',{name:'Close enlarged visit'}).click();}}
+ await page.route('https://**/*',route=>route.abort());await page.goto('/en/virtual-tours/');const actions=page.locator('.virtual-card-head .virtual-symbol');await expect(actions).toHaveCount(tours.length);
+ for(let i=0;i<tours.length;i++){const action=actions.nth(i);if(await action.evaluate(e=>e.tagName)==='A'){await expect(action).toHaveAttribute('target','_blank');await expect(action).toHaveAttribute('href',/^https:\/\//);await expect(action).toHaveAccessibleName(/Open enlarged visit with provider/);}else{await action.click();await expect(page.getByRole('dialog')).toBeVisible();await page.getByRole('button',{name:'Close enlarged visit'}).click();}}
  await page.goto('/en/places/qalawun-complex/');await expect(page.locator('.virtual-card-head a')).toHaveAttribute('href','https://qalawun.aa-ken.jp/vrtour/en/');
 });
