@@ -1425,5 +1425,69 @@
     "url": "https://www.youtube.com/watch?v=ofu5v0NTjyY",
     "source": "https://www.youtube.com/watch?v=ofu5v0NTjyY",
     "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "national-museum-egyptian-civilization",
+    "provider": "Egyptian Planet",
+    "kind": "video",
+    "title": {
+      "ar": "من جوّه متحف الحضارة",
+      "en": "Inside the civilization museum"
+    },
+    "scope": {
+      "ar": "تمشية جوّه المتحف بين المعروضات، ومعاها مشاهد لعرض حرفة يدوية. مش تغطية مؤكدة لكل القاعات أو ترتيب المعروضات الحالي.",
+      "en": "A museum walk among the exhibits, with a craft demonstration. Not confirmed coverage of every hall or the current display layout."
+    },
+    "url": "https://www.youtube.com/watch?v=mZEf4nY2Oyg",
+    "source": "https://www.youtube.com/watch?v=mZEf4nY2Oyg",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "al-azhar-mosque",
+    "provider": "Lukman Hakim - JejakNile",
+    "kind": "video",
+    "title": {
+      "ar": "زيارة لجامع الأزهر",
+      "en": "Visiting Al-Azhar Mosque"
+    },
+    "scope": {
+      "ar": "مشاهد من جامع الأزهر فيها أروقة وزوّار. زيارة قصيرة، مش جولة لكل مباني الجامعة أو معلومات دخول محدثة.",
+      "en": "A short visit with views of Al-Azhar Mosque, its arcades and visitors. Not every university building or an up-to-date admission guide."
+    },
+    "url": "https://www.youtube.com/watch?v=ZTu_Kn5V8-8",
+    "source": "https://www.youtube.com/watch?v=ZTu_Kn5V8-8",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "amr-ibn-al-as-mosque",
+    "provider": "Africa to Arabia",
+    "kind": "video",
+    "title": {
+      "ar": "بين أعمدة جامع عمرو بن العاص",
+      "en": "Among the columns of Amr ibn al-As Mosque"
+    },
+    "scope": {
+      "ar": "فيديو قصير فيه تصوير جوّه الجامع وأعمدته، مع تعليق صاحب الفيديو. مش جولة شاملة أو مرجع لمواعيد الزيارة.",
+      "en": "A short video with footage inside the mosque and among its columns, with the creator’s commentary. Not a full tour or a source for visiting hours."
+    },
+    "url": "https://www.youtube.com/watch?v=FxF1AALYZII",
+    "source": "https://www.youtube.com/watch?v=FxF1AALYZII",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "mosque-of-ibn-tulun",
+    "provider": "Il Faraone Tours",
+    "kind": "video",
+    "title": {
+      "ar": "من جوّه جامع ابن طولون",
+      "en": "Inside Ibn Tulun Mosque"
+    },
+    "scope": {
+      "ar": "زيارة مصوّرة لجامع ابن طولون، فيها أعمدة وشبابيك ومساحات الصلاة. مش تأكيد إن كل الأجزاء أو نفس المسار متاحين دلوقتي.",
+      "en": "A filmed visit to Ibn Tulun Mosque showing columns, windows and prayer spaces. Not confirmation that every area or the same route is accessible today."
+    },
+    "url": "https://www.youtube.com/watch?v=CD4RPp6A5UM",
+    "source": "https://www.youtube.com/watch?v=CD4RPp6A5UM",
+    "checkedAt": "2026-11-18"
   }
 ]
