@@ -1939,5 +1939,37 @@
       "en": "A CEAlexandrie film published in February 2013 about Burullus sailing boats, fishing and boatbuilding, with Arabic subtitles. Real boat, water, workshop and interview footage was checked. Not interactive or coverage of the whole lake, and not evidence of its present condition or permission for a fishing trip."
     },
     "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "tanta",
+    "kind": "video",
+    "provider": "VitaminDan",
+    "url": "https://www.youtube.com/watch?v=6LJDJG3le-U",
+    "source": "https://www.youtube.com/watch?v=6LJDJG3le-U",
+    "title": {
+      "ar": "مشاهد من مولد السيد البدوي في طنطا",
+      "en": "Scenes from Tanta’s Sayed El Badawi festival"
+    },
+    "scope": {
+      "ar": "فيديو VitaminDan المنشور في أبريل 2020، فيه مشاهد من خيام المولد والباعة وفقرة غنا، بتعليق بالإنجليزي وحوار بالعربي. اتراجع التشغيل ولقطات بالنهار ومن جوّه خيمة. دي مشاهد من أجواء المولد، مش جولة في مسجد السيد البدوي أو تغطية لكل طنطا، ومش دليل لمواعيد المولد أو حالته النهارده.",
+      "en": "VitaminDan video published in April 2020, showing festival tents, stalls and a singing performance, with English commentary and Arabic conversation. Playback, daytime scenes and tent footage were checked. Festival atmosphere only, not a tour of Sayed El Badawi Mosque or all of Tanta, and not a guide to current festival dates or conditions."
+    },
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "lake-timsah",
+    "kind": "video",
+    "provider": "Gventures",
+    "url": "https://www.youtube.com/watch?v=2Rp44ETNv-w&t=1505s",
+    "source": "https://www.youtube.com/watch?v=2Rp44ETNv-w",
+    "title": {
+      "ar": "وقفة على ضفة بحيرة التمساح",
+      "en": "A stop beside Lake Timsah"
+    },
+    "scope": {
+      "ar": "جزء من فيديو Gventures عن الإسماعيلية، منشور في أبريل 2026. الرابط بيبدأ عند 25:05، واتراجع مشهد الضفة والمياه والمراكب القريبة وهي بتعرّف المكان ببحيرة التمساح. تعليق بالإنجليزي؛ مش رحلة جوّه البحيرة أو تغطية لكل شواطئها، ومش تأكيد لإتاحة السباحة أو المراكب النهارده.",
+      "en": "Part of Gventures’ Ismailia video, published in April 2026. The link starts at 25:05; the shore, water and nearby boats were checked as the presenter identifies Lake Timsah. English commentary. Not a trip onto the lake or coverage of all its shores, and not confirmation of current swimming or boating access."
+    },
+    "checkedAt": "2026-11-18"
   }
 ]
