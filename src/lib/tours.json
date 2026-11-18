@@ -1582,5 +1582,35 @@
     },
     "url": "https://www.360cities.net/en/image/bibliotheca-alexandrina-b4",
     "source": "https://www.360cities.net/en/image/bibliotheca-alexandrina-b4"
+  },
+  {
+    "placeId": "bab-zuweila",
+    "provider": "360Cities / Rahim Hamada",
+    "kind": "panorama",
+    "title": {
+      "ar": "قدام باب زويلة بزاوية 360",
+      "en": "In front of Bab Zuweila in 360"
+    },
+    "scope": {
+      "ar": "بانوراما خارجية قدام البوابة والبرجين والمآذن، تصوير 14 سبتمبر 2011. مش جولة فوق المآذن أو جوه المسجد.",
+      "en": "An exterior panorama of the gate, towers and minarets, photographed 14 September 2011. Not a climb up the minarets or a mosque interior tour."
+    },
+    "url": "https://www.360cities.net/image/bab-zueila-gate-cairo",
+    "source": "https://www.360cities.net/image/bab-zueila-gate-cairo"
+  },
+  {
+    "placeId": "rhoda-nilometer",
+    "provider": "360Cities / Rahim Hamada",
+    "kind": "panorama",
+    "title": {
+      "ar": "جوه بئر مقياس النيل بزاوية 360",
+      "en": "Inside the Nilometer well in 360"
+    },
+    "scope": {
+      "ar": "بانوراما جوه البئر بتوضح عمود القياس والسلم والجدران الحجرية، تصوير 26 سبتمبر 2011. مش جولة في كل جزيرة الروضة ولا دليل على إتاحة النزول دلوقتي.",
+      "en": "An interior panorama showing the measuring column, stairs and stone-lined well, photographed 26 September 2011. Not a tour of all Rhoda Island or confirmation of access down the well today."
+    },
+    "url": "https://www.360cities.net/image/nilometer-bottom-view-cairo",
+    "source": "https://www.360cities.net/image/nilometer-bottom-view-cairo"
   }
 ]
