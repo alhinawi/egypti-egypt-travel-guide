@@ -1489,5 +1489,37 @@
     "url": "https://www.youtube.com/watch?v=CD4RPp6A5UM",
     "source": "https://www.youtube.com/watch?v=CD4RPp6A5UM",
     "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "al-rifai-mosque",
+    "provider": "Boulos Isaac · 360Cities",
+    "kind": "panorama",
+    "title": {
+      "ar": "من جوّه مسجد الرفاعي",
+      "en": "Inside Al-Rifai Mosque"
+    },
+    "scope": {
+      "ar": "بانوراما من جوّه الجامع بعدسة Boulos Isaac، تصوير 29 أغسطس 2014. لفّ الصورة عند المصدر؛ مش كل قاعات وأضرحة الجامع.",
+      "en": "An interior panorama by Boulos Isaac, photographed on 29 August 2014. Pan the image with the provider; this does not cover every hall or tomb."
+    },
+    "url": "https://www.360cities.net/image/al-rifa-i-mosque",
+    "source": "https://www.360cities.net/image/al-rifa-i-mosque",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "hanging-church",
+    "provider": "Martin Broomfield · 360Cities",
+    "kind": "panorama",
+    "title": {
+      "ar": "بانوراما الكنيسة المعلقة",
+      "en": "The Hanging Church panorama"
+    },
+    "scope": {
+      "ar": "بانوراما داخلية فيها مقاعد وأعمدة وزخارف الكنيسة، بعدسة Martin Broomfield بتاريخ 19 أكتوبر 2014. مش تغطية لكل أجزاء الكنيسة.",
+      "en": "An interior panorama with pews, columns and church decoration, by Martin Broomfield, photographed on 19 October 2014. Not every part of the church."
+    },
+    "url": "https://www.360cities.net/image/the-hanging-church-cairo",
+    "source": "https://www.360cities.net/image/the-hanging-church-cairo",
+    "checkedAt": "2026-11-18"
   }
 ]
