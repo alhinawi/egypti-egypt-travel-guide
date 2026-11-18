@@ -417,5 +417,213 @@
     "url": "https://www.youtube.com/watch?v=eCP-nzfy8oQ",
     "source": "https://www.youtube.com/watch?v=eCP-nzfy8oQ",
     "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "montazah",
+    "provider": "HotelTravelia - Tours At Its Best",
+    "kind": "video",
+    "title": {
+      "ar": "زيارة مصوّرة للمنتزه",
+      "en": "A recorded Montaza visit"
+    },
+    "scope": {
+      "ar": "فيديو زيارة لمنطقة قصر المنتزه وحدايقه. مش جولة داخل كل القصور أو تأكيد لإتاحة دخولها.",
+      "en": "A recorded visit around Montaza Palace and its grounds. Not every palace interior or confirmation of current access."
+    },
+    "url": "https://www.youtube.com/watch?v=v_RvhfnKn5Y",
+    "source": "https://www.youtube.com/watch?v=v_RvhfnKn5Y",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "antoniadis",
+    "provider": "Between Sky & Earth",
+    "kind": "video",
+    "title": {
+      "ar": "حدايق أنطونيادس من فوق",
+      "en": "Antoniadis Gardens from above"
+    },
+    "scope": {
+      "ar": "تصوير جوي مسجّل لحدايق أنطونيادس. مش مشي تفاعلي أو جولة داخل القصر، ومش دليل على حالة الحدايق النهارده.",
+      "en": "Recorded aerial footage of Antoniadis Gardens. Not an interactive walk or palace interior, and not today’s garden conditions."
+    },
+    "url": "https://www.youtube.com/watch?v=0M8RCPp4mI4",
+    "source": "https://www.youtube.com/watch?v=0M8RCPp4mI4",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "damietta",
+    "provider": "Street Journey Arabia",
+    "kind": "video",
+    "title": {
+      "ar": "على كورنيش وشوارع دمياط",
+      "en": "Damietta’s corniche and streets"
+    },
+    "scope": {
+      "ar": "فيديو جولة على الكورنيش وشارع عبد العظيم الوزير ومناطق قريبة. مش كل المحافظة أو جولة جوه المساجد والورش.",
+      "en": "Recorded footage of the corniche, Abdel Azim El-Wazir Street and nearby areas. Not the entire governorate or mosque and workshop interiors."
+    },
+    "url": "https://www.youtube.com/watch?v=n0JgDboqXbA",
+    "source": "https://www.youtube.com/watch?v=n0JgDboqXbA",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "ras-el-barr",
+    "provider": "ConnollyCove",
+    "kind": "video",
+    "title": {
+      "ar": "عند اللسان في رأس البر",
+      "en": "At El Lessan in Ras El Barr"
+    },
+    "scope": {
+      "ar": "فيديو مسجّل لمنطقة اللسان عند التقاء النيل بالبحر. مش كل شواطئ رأس البر أو حالة البحر النهارده.",
+      "en": "Recorded footage of El Lessan where the Nile meets the sea. Not every Ras El Barr beach or today’s sea conditions."
+    },
+    "url": "https://www.youtube.com/watch?v=SRGNDO-5Dr8",
+    "source": "https://www.youtube.com/watch?v=SRGNDO-5Dr8",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "mansoura-egypt",
+    "provider": "Seif Tamer",
+    "kind": "video",
+    "title": {
+      "ar": "يوم مصوّر في المنصورة",
+      "en": "A recorded day in Mansoura"
+    },
+    "scope": {
+      "ar": "فيديو تجربة سفر شخصي في المنصورة. مش كل المدينة، والأسعار والنصائح في الفيديو تجربة صاحبه مش معلومات أسعار متحققة عندنا.",
+      "en": "A personal travel video in Mansoura. Not the whole city; the creator’s prices and advice are personal experience, not prices verified by us."
+    },
+    "url": "https://www.youtube.com/watch?v=I-_n9vU5ci8",
+    "source": "https://www.youtube.com/watch?v=I-_n9vU5ci8",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "zagazig",
+    "provider": "Street Journey Arabia",
+    "kind": "video",
+    "title": {
+      "ar": "من جامعة الزقازيق لطريق الأحرار",
+      "en": "Zagazig University to Al-Ahrar Road"
+    },
+    "scope": {
+      "ar": "فيديو جولة في شوارع الزقازيق من ناحية الجامعة لطريق الأحرار وكوبري التجنيد. مش جولة داخل الجامعة أو تغطية لكل المدينة.",
+      "en": "A recorded street tour from the university area toward Al-Ahrar Road and the recruitment bridge. Not university interiors or all of Zagazig."
+    },
+    "url": "https://www.youtube.com/watch?v=Gkq-ttsYno4",
+    "source": "https://www.youtube.com/watch?v=Gkq-ttsYno4",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "port-said",
+    "provider": "QuestWalk Tours",
+    "kind": "video",
+    "title": {
+      "ar": "تمشية في بورسعيد",
+      "en": "A walk in Port Said"
+    },
+    "scope": {
+      "ar": "تمشية مصوّرة في شوارع بورسعيد. مش كل المدينة، ومش تأكيد إن المعالم أو المداخل اللي بتظهر مفتوحة دلوقتي.",
+      "en": "A recorded walk through Port Said streets. Not the whole city or confirmation that the landmarks and entrances shown are open today."
+    },
+    "url": "https://www.youtube.com/watch?v=KGZnR-8Yf7o",
+    "source": "https://www.youtube.com/watch?v=KGZnR-8Yf7o",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "port-fuad",
+    "provider": "Thomson Travels",
+    "kind": "video",
+    "title": {
+      "ar": "بورفؤاد ضمن زيارة لبورسعيد",
+      "en": "Port Fuad within a Port Said visit"
+    },
+    "scope": {
+      "ar": "فيديو زيارة بيجمع بورسعيد وبورفؤاد وقناة السويس. بورفؤاد جزء من الفيديو، مش كل مشاهده ولا جدول لمواعيد المعديات.",
+      "en": "A recorded visit combining Port Said, Port Fuad and the Suez Canal. Port Fuad is part of the video, not every scene, and this is not a ferry timetable."
+    },
+    "url": "https://www.youtube.com/watch?v=7o6zshOBZmY",
+    "source": "https://www.youtube.com/watch?v=7o6zshOBZmY",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "rosetta",
+    "provider": "Cairo Private Tours",
+    "kind": "video",
+    "title": {
+      "ar": "مشاهد من مدينة رشيد",
+      "en": "Scenes from Rosetta"
+    },
+    "scope": {
+      "ar": "فيديو مسجّل من مدينة رشيد. مش جولة داخل كل البيوت والمتاحف أو تأكيد لمواعيد دخولها.",
+      "en": "Recorded footage of Rosetta. Not every historic house and museum interior or confirmation of their admission hours."
+    },
+    "url": "https://www.youtube.com/watch?v=Ak4O0DGfFqM",
+    "source": "https://www.youtube.com/watch?v=Ak4O0DGfFqM",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "shibin-el-kom",
+    "provider": "كريم صلاح - Kareem salah",
+    "kind": "video",
+    "title": {
+      "ar": "شوارع شبين الكوم",
+      "en": "Streets of Shibin El Kom"
+    },
+    "scope": {
+      "ar": "فيديو جولة في شوارع ومعالم مختارة من شبين الكوم. تسجيل شخصي، مش مشغّل 360 أو تغطية لكل المنوفية.",
+      "en": "A personal recorded tour of selected streets and landmarks in Shibin El Kom. Not a 360 player or all of Monufia."
+    },
+    "url": "https://www.youtube.com/watch?v=q9H7ox2QcLc",
+    "source": "https://www.youtube.com/watch?v=q9H7ox2QcLc",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "el-mahalla-el-kubra",
+    "provider": "لف مصر من مكانك",
+    "kind": "video",
+    "title": {
+      "ar": "جولة مصوّرة في المحلة",
+      "en": "A recorded tour in El Mahalla"
+    },
+    "scope": {
+      "ar": "فيديو شخصي في شوارع ومعالم من المحلة الكبرى. مش جولة جوه مصانع النسيج أو تأكيد لأي أسعار أكل في الفيديو.",
+      "en": "A personal video through parts of El Mahalla El Kubra. Not textile-factory interiors or verification of food prices mentioned in the video."
+    },
+    "url": "https://www.youtube.com/watch?v=QQ7diKZEFO4",
+    "source": "https://www.youtube.com/watch?v=QQ7diKZEFO4",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "banha",
+    "provider": "Sondos Eslam",
+    "kind": "video",
+    "title": {
+      "ar": "بنها في تسجيل أرشيفي",
+      "en": "Banha in archival footage"
+    },
+    "scope": {
+      "ar": "فيديو شخصي أرشيفي من بنها. شكل الشوارع والخدمات ممكن يكون اتغيّر، ومش دليل على وضع المدينة أو المواصلات النهارده.",
+      "en": "An archival personal film of Banha. Streets and services may have changed; it does not show today’s city conditions or transport."
+    },
+    "url": "https://www.youtube.com/watch?v=4b_cD6jqhxM",
+    "source": "https://www.youtube.com/watch?v=4b_cD6jqhxM",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "baltim",
+    "provider": "ڤلوجات رودي",
+    "kind": "video",
+    "title": {
+      "ar": "منطقة شاطئ الأمل في بلطيم",
+      "en": "Al-Amal beach area in Baltim"
+    },
+    "scope": {
+      "ar": "فيديو زيارة لمنطقة شاطئ الأمل في مصيف بلطيم. مش كل بلطيم، والأسعار والإيجارات اللي بيقولها صاحب الفيديو مش أسعار حالية متحققة عندنا.",
+      "en": "A recorded visit to the Al-Amal beach area of Baltim resort. Not all of Baltim; prices and rental advice in the video are not verified current rates."
+    },
+    "url": "https://www.youtube.com/watch?v=eULdzIZ8aQg",
+    "source": "https://www.youtube.com/watch?v=eULdzIZ8aQg",
+    "checkedAt": "2026-11-18"
   }
 ]
