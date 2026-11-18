@@ -123,3 +123,15 @@ html{--page:#f5f7f6;--paper:#fff;--ink:#102c38;--muted:#60747d;--accent:#125366;
  .trip-detail .program-sources a{overflow-wrap:anywhere}
  .trip-detail .place-card{box-shadow:none}
 }
+@media print{
+ .trip-detail h1{font-size:26px}
+ .trip-detail .page-heading{margin-bottom:15px}
+ .trip-detail .page-heading>p,.trip-detail .day>p{font-size:11px;line-height:1.65}
+ .trip-detail .notice{font-size:11px;padding:12px;margin:15px 0}
+ .trip-detail .days{margin-top:18px}
+ .trip-detail .day{margin-bottom:15px;padding:8px 0}
+ .trip-detail .day h2{font-size:18px}
+ .trip-detail .day-number{margin-bottom:6px}
+ .trip-detail .program-prep details{padding:12px}
+ .trip-detail .program-prep details>p{font-size:11px;line-height:1.65}
+}
