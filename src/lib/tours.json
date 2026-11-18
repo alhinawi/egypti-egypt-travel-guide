@@ -97,5 +97,85 @@
       "ar": "فيديو مسجّل قصير من RAWI سنة 2021. لفة في السوق، مش جولة 360 أو دخول تفاعلي لجوه كل المحلات.",
       "en": "A short recorded RAWI walkthrough from 2021. Not a 360 visit or an interactive tour inside every shop."
     }
+  },
+  {
+    "placeId": "coptic-museum",
+    "provider": "NAV3D · Ministry of Tourism and Antiquities",
+    "kind": "model",
+    "title": {
+      "ar": "المتحف القبطي من جوّه",
+      "en": "Inside the Coptic Museum"
+    },
+    "scope": {
+      "ar": "قاعات ومقتنيات المتحف في تصوير ثلاثي الأبعاد منشور عند الوزارة. مش نقل مباشر ولا تأكيد إن ترتيب العرض لسه زي التصوير.",
+      "en": "Museum galleries and objects in a Ministry-linked 3D capture. Recorded views, not a live feed or a promise of the current display arrangement."
+    },
+    "url": "https://mpembed.com/show/?m=yMMHWqMJZbY&mpu=497",
+    "source": "https://egymonuments.gov.eg/en/news/a-virtual-tour-through-the-coptic-museum",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "museum-islamic-art",
+    "provider": "NAV3D · Ministry of Tourism and Antiquities",
+    "kind": "model",
+    "title": {
+      "ar": "قاعات متحف الفن الإسلامي",
+      "en": "Galleries of the Museum of Islamic Art"
+    },
+    "scope": {
+      "ar": "تجول مسجّل بين قاعات المتحف. النموذج بيعرض المساحات المصوّرة، مش كل قطعة في المجموعة أو حالة العرض النهارده.",
+      "en": "A recorded walkthrough of the museum galleries. Covers the captured rooms, not every collection object or today’s display conditions."
+    },
+    "url": "https://mpembed.com/show/?m=GLcinPBnEet&mpu=497",
+    "source": "https://egymonuments.gov.eg/en/news/a-new-virtual-tour-in-the-islamic-art-museum-in-cairo",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "gayer-anderson-museum",
+    "provider": "NAV3D · Ministry of Tourism and Antiquities",
+    "kind": "model",
+    "title": {
+      "ar": "بيوت متحف جاير أندرسون",
+      "en": "The houses of the Gayer-Anderson Museum"
+    },
+    "scope": {
+      "ar": "جولة مسجّلة في البيوت التاريخية ومقتنياتها، من الفناء للغرف المصوّرة. مش بث مباشر أو دليل على فتح كل الغرف النهارده.",
+      "en": "A recorded visit through the historic houses, courtyards and captured rooms. Not a live feed or confirmation that every room is open today."
+    },
+    "url": "https://mpembed.com/show/?m=LCyv1zFUxiq&mpu=497",
+    "source": "https://egymonuments.gov.eg/en/news/a-special-virtual-tour-of-gayer-anderson-museum/",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "muhammad-ali-mosque",
+    "provider": "NAV3D · Ministry of Tourism and Antiquities",
+    "kind": "model",
+    "title": {
+      "ar": "داخل جامع محمد علي",
+      "en": "Inside Muhammad Ali Mosque"
+    },
+    "scope": {
+      "ar": "نموذج مسجّل لجامع محمد علي في القلعة. التغطية للمسجد المصوّر، مش لكل مباني القلعة.",
+      "en": "A recorded model of Muhammad Ali Mosque inside the Citadel. Covers the captured mosque, not the entire Citadel complex."
+    },
+    "url": "https://mpembed.com/show/?m=CqL3QB3dh7N&mpu=497",
+    "source": "https://egymonuments.gov.eg/en/news/a-virtual-tour-through-the-muhammad-ali-mosque",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "abu-serga-church",
+    "provider": "Virtual Mid East · Egypt Exploration Society",
+    "kind": "model",
+    "title": {
+      "ar": "كنيسة أبو سرجة",
+      "en": "Abu Serga Church"
+    },
+    "scope": {
+      "ar": "تجول مسجّل في كنيسة القديسين سرجيوس وواخس، أبو سرجة. مش جولة لكل كنائس مصر القديمة ولا دليل على إتاحة كل المساحات للزيارة دلوقتي.",
+      "en": "A recorded walkthrough of Saints Sergius and Bacchus Church, known as Abu Serga. Not all Old Cairo churches or proof that every captured area is open today."
+    },
+    "url": "https://my.matterport.com/show/?m=PfNu1RDRbZf",
+    "source": "https://www.ees.ac.uk/resource/egyptian-heritage-from-home-.html",
+    "checkedAt": "2026-11-18"
   }
 ]
