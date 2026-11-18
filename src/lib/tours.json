@@ -2267,5 +2267,35 @@
     },
     "url": "https://www.youtube.com/watch?v=KbAEuVlMT00",
     "source": "https://www.youtube.com/watch?v=KbAEuVlMT00"
+  },
+  {
+    "placeId": "sultan-barquq-complex",
+    "provider": "El Mamalik المماليك · YouTube",
+    "kind": "video",
+    "title": {
+      "ar": "تفاصيل معمارية من مجموعة السلطان برقوق",
+      "en": "Architectural details at Sultan Barquq Complex"
+    },
+    "scope": {
+      "ar": "زيارة بالعربي نشرتها قناة المماليك في يونيو 2025، بتعرض ممرات وتفاصيل داخلية من مجموعة السلطان الظاهر برقوق، منها الزخارف والنقوش والأسقف الملونة. مش مجموعة فرج بن برقوق في القرافة، ومش تغطية لكل أجزاء الأثر أو تأكيد لمواعيد الدخول الحالية.",
+      "en": "An Arabic-language visit published by El Mamalik in June 2025, showing passages and interior details at Sultan al-Zahir Barquq Complex, including decoration, inscriptions and painted ceilings. Not the Faraj ibn Barquq complex in the cemetery, not every part of the monument, and not confirmation of current access hours."
+    },
+    "url": "https://www.youtube.com/watch?v=4MmCvDTn86g",
+    "source": "https://www.youtube.com/watch?v=4MmCvDTn86g"
+  },
+  {
+    "placeId": "wikalat-al-ghuri",
+    "provider": "El Mamalik المماليك · YouTube",
+    "kind": "video",
+    "title": {
+      "ar": "ساحة وأروقة وكالة الغوري",
+      "en": "Wikalat al-Ghuri courtyard and arcades"
+    },
+    "scope": {
+      "ar": "زيارة بالعربي نشرتها قناة المماليك في يونيو 2026، بتعرض الساحة والأروقة والعقود والشبابيك الخشبية في وكالة الغوري. دي زيارة معمارية مصورة، مش تسجيل لعرض التنورة ولا تأكيد لجدول العروض أو مواعيد الزيارة دلوقتي.",
+      "en": "An Arabic-language visit published by El Mamalik in June 2026, showing the courtyard, arcades, arches and wooden windows at Wikalat al-Ghuri. A filmed architectural visit, not a tanoura performance recording or confirmation of the current show schedule or visiting hours."
+    },
+    "url": "https://www.youtube.com/watch?v=uUJw-NYFbWA",
+    "source": "https://www.youtube.com/watch?v=uUJw-NYFbWA"
   }
 ]
