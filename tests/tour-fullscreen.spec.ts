@@ -20,11 +20,11 @@ test('every card has a working player action or an external full-page source',as
 for(const lang of ['ar','en'])test(`chapter visits preserve their starting points ${lang}`,async({page})=>{
  await page.setViewportSize({width:390,height:844});
  await page.route('https://www.youtube-nocookie.com/**',route=>route.abort());
- for(const [place,seconds]of [['bubastis',305],['tanis',1433]] as const){
+ for(const [place,seconds,video]of [['bubastis',305,'hnoVXuvIX6o'],['tanis',1433,'hnoVXuvIX6o'],['al-aqmar-mosque',1145,'YVYDz_coSfY'],['bab-al-futuh',1900,'YVYDz_coSfY']] as const){
   await page.goto(`/${lang}/places/${place}/`);
-  await expect(page.locator('.virtual-card .primary-button')).toHaveAttribute('href',`https://www.youtube.com/watch?v=hnoVXuvIX6o&t=${seconds}s`);
+  await expect(page.locator('.virtual-card .primary-button')).toHaveAttribute('href',`https://www.youtube.com/watch?v=${video}&t=${seconds}s`);
   await page.locator('.virtual-card-head button').click();
-  await expect(page.getByRole('dialog').locator('iframe')).toHaveAttribute('src',`https://www.youtube-nocookie.com/embed/hnoVXuvIX6o?start=${seconds}`);
+  await expect(page.getByRole('dialog').locator('iframe')).toHaveAttribute('src',`https://www.youtube-nocookie.com/embed/${video}?start=${seconds}`);
   await page.keyboard.press('Escape');await expect(page.getByRole('dialog')).toHaveCount(0);
  }
 });
