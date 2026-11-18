@@ -2035,5 +2035,37 @@
       "en": "Ahmed Abdelstar video published in August 2025, with Egyptian Arabic commentary about his Beni Suef visit. Playback and corniche footage around 1:47 were checked, followed by a food segment. Not interactive or coverage of the whole city. The creator’s opinions, admission experience and prices do not establish today’s rules or prices."
     },
     "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "dahab-mountains",
+    "kind": "panorama",
+    "provider": "360Cities / Jacques de Vos",
+    "url": "https://www.360cities.net/image/desert-oasis-waterfall-dahab",
+    "source": "https://www.360cities.net/image/desert-oasis-waterfall-dahab",
+    "title": {
+      "ar": "بين صخور وادي قريب من دهب بزاوية 360",
+      "en": "A rocky wadi near Dahab in 360"
+    },
+    "scope": {
+      "ar": "بانوراما فوتوغرافية لجاك دي فوس، تصوير 16 أكتوبر 2013. اتراجع المشغّل وتحريك المنظر بين الصخور والنباتات والزوار. مشهد واحد من وادي قريب من دهب، مش جولة في كل الجبال أو مسار مشي، ومش دليل على وجود ميّه أو أمان الطريق وإتاحة دخوله النهارده.",
+      "en": "A photographic panorama by Jacques de Vos, photographed 16 October 2013. The player and view rotation among rocks, greenery and visitors were checked. One wadi scene near Dahab, not a tour of all the mountains or a hiking route, and not evidence of current water, trail safety or access."
+    },
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "el-qanater-el-khayreya",
+    "kind": "video",
+    "provider": "Akhbar Misr",
+    "url": "https://www.youtube.com/watch?v=sTCOhoTQrpg",
+    "source": "https://www.youtube.com/watch?v=sTCOhoTQrpg",
+    "title": {
+      "ar": "لقطات من قناطر النيل التاريخية",
+      "en": "Historic Nile barrage views on film"
+    },
+    "scope": {
+      "ar": "تقرير أخبار مصر المنشور في يوليو 2023، بتعليق بالعربي وترجمة إشارة. اتراجع التشغيل ولقطات القناطر الحجر والأبراج والنيل. مش جولة مشي أو تغطية لكل حدائق القناطر الخيرية، وشريط الأخبار وحالة المكان في الفيديو من وقت التصوير مش من النهارده.",
+      "en": "An Akhbar Misr report published in July 2023, with Arabic commentary and sign-language interpretation. Playback and footage of the stone barrages, towers and Nile were checked. Not a walking tour or coverage of every El Qanater garden. The news ticker and site conditions are from the filming period, not today."
+    },
+    "checkedAt": "2026-11-18"
   }
 ]
