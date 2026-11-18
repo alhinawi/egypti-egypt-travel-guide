@@ -26,3 +26,4 @@ html[lang=ar] .drawer-nav a{font-size:15px;line-height:1.8}
  html[lang=ar] .page-heading h1,html[lang=ar] .encyclopedia-heading h1{font-size:38px}
 }
 @media print{html[lang=ar] body{font-size:10pt}html[lang=ar] h1{font-size:23pt}html[lang=ar] h2{font-size:17pt}html[lang=ar] h3{font-size:14pt}}
+.tour-source-note{font-size:.78rem;line-height:1.8;opacity:.85;margin-top:1rem}.tour-source-note .inline-link{font-size:inherit;display:inline-flex;gap:.3rem}.tour-source-note time{unicode-bidi:isolate;direction:ltr;display:inline-block}
