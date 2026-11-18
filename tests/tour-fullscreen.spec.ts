@@ -16,3 +16,15 @@ test('every card has a working player action or an external full-page source',as
  for(let i=0;i<tours.length;i++){const action=actions.nth(i);if(await action.evaluate(e=>e.tagName)==='A'){await expect(action).toHaveAttribute('target','_blank');await expect(action).toHaveAttribute('href',/^https:\/\//);await expect(action).toHaveAccessibleName(/Open enlarged visit with provider/);}else{await action.click();await expect(page.getByRole('dialog')).toBeVisible();await page.getByRole('button',{name:'Close enlarged visit'}).click();}}
  await page.goto('/en/places/qalawun-complex/');await expect(page.locator('.virtual-card-head a')).toHaveAttribute('href','https://qalawun.aa-ken.jp/vrtour/en/');
 });
+
+for(const lang of ['ar','en'])test(`chapter visits preserve their starting points ${lang}`,async({page})=>{
+ await page.setViewportSize({width:390,height:844});
+ await page.route('https://www.youtube-nocookie.com/**',route=>route.abort());
+ for(const [place,seconds]of [['bubastis',305],['tanis',1433]] as const){
+  await page.goto(`/${lang}/places/${place}/`);
+  await expect(page.locator('.virtual-card .primary-button')).toHaveAttribute('href',`https://www.youtube.com/watch?v=hnoVXuvIX6o&t=${seconds}s`);
+  await page.locator('.virtual-card-head button').click();
+  await expect(page.getByRole('dialog').locator('iframe')).toHaveAttribute('src',`https://www.youtube-nocookie.com/embed/hnoVXuvIX6o?start=${seconds}`);
+  await page.keyboard.press('Escape');await expect(page.getByRole('dialog')).toHaveCount(0);
+ }
+});
