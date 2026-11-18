@@ -25,6 +25,6 @@ The four previously sparse vibe collections receive bilingual editorial introduc
 - Governorate, July 2025: http://www.qaliobia.gov.eg/SitePages/Events_Disp.aspx?ID=5635 - visitors to the gardens/waterfall area.
 
 ## Validation
-Typecheck and production build, 76 unit/API/contrast tests; targeted Arabic/English discovery routes and unchanged filter/history/article behavior. Broad regression runs exposed two stale tests: a pre-12-profile guide expectation and the older reset-all expectation superseded by the governorate-scoped reset feature. Their assertions now reflect those shipped behaviors, without changing behavior to satisfy a test.
+Typecheck and production build, 76 unit/API/contrast tests; targeted Arabic/English discovery routes and unchanged filter/history/article behavior. Broad regression runs exposed two stale tests: a pre-12-profile guide expectation and the older reset-all expectation superseded by the governorate-scoped reset feature. Their assertions now reflect those shipped behaviors, without changing behavior to satisfy a test. A hardcoded coastal review-date assertion also now allows later source reviews while preserving the original minimum date.
 
 Still honest: 39/154 entries have supported shopping content and 146/154 have histories. Natural sites do not receive invented historical dates or shops. A user's combined filters can legitimately have no matches; the existing recovery UI remains rather than fabricating results.
