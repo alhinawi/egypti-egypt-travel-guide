@@ -28,3 +28,10 @@ for(const lang of ['ar','en'])test(`chapter visits preserve their starting point
   await page.keyboard.press('Escape');await expect(page.getByRole('dialog')).toHaveCount(0);
  }
 });
+
+for(const lang of ['ar','en'])test(`project documentary keeps its own source label ${lang}`,async({page})=>{
+ await page.setViewportSize({width:390,height:844});await page.goto(`/${lang}/places/heracleopolis-magna/`);
+ const links=page.locator('.virtual-card .recorded-video-links');
+ await expect(links.getByRole('link',{name:lang==='ar'?'صفحة المصدر الأصلي':'Original source page'})).toHaveAttribute('href','https://heracleopolismagna.com/blog/2019/01/20/documental-en-busca-de-un-tiempo-olvidado/');
+ await expect(links).not.toContainText('Google Arts');
+});
