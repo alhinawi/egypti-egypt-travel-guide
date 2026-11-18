@@ -1657,5 +1657,50 @@
       "ar": "بانوراما خارجية من منطقة أبو الهول بتعرض التمثال والأهرامات من بعيد، تصوير 8 فبراير 2023. مش مشي حوالين التمثال أو دخول جوّه الأهرامات.",
       "en": "An exterior panorama from the Sphinx precinct showing the statue and pyramids at a distance, photographed 8 February 2023. Not a walk around the statue or an interior pyramid visit."
     }
+  },
+  {
+    "placeId": "beni-hasan",
+    "kind": "panorama",
+    "provider": "360Cities / Matjaz Kacicnik",
+    "url": "https://www.360cities.net/image/beni-hassan-egypt",
+    "source": "https://www.360cities.net/image/beni-hassan-egypt",
+    "title": {
+      "ar": "قدّام مقابر بني حسن بزاوية 360",
+      "en": "Outside the Beni Hasan tombs in 360"
+    },
+    "scope": {
+      "ar": "بانوراما من المصطبة قدّام المقابر بتعرض مداخل في الجبل ووادي النيل، تصوير 17 أبريل 2010. مش جولة جوّه المقابر أو عرض لرسوماتها.",
+      "en": "An exterior terrace panorama showing rock-cut tomb entrances and the Nile valley, photographed 17 April 2010. Not a visit inside the tombs or a view of their painted interiors."
+    }
+  },
+  {
+    "placeId": "red-monastery",
+    "kind": "panorama",
+    "provider": "360Cities / Matjaz Kacicnik",
+    "url": "https://www.360cities.net/image/red-monastery-sohag-egypt",
+    "source": "https://www.360cities.net/image/red-monastery-sohag-egypt",
+    "title": {
+      "ar": "كنيسة الدير الأحمر من الداخل بزاوية 360",
+      "en": "Inside the Red Monastery church in 360"
+    },
+    "scope": {
+      "ar": "بانوراما فوتوغرافية داخل كنيسة الدير الأحمر بتعرض الأعمدة والحنّيات والرسومات الجدارية، تصوير 19 ديسمبر 2012. مش جولة في كل الدير أو تأكيد لمواعيد الزيارة النهارده.",
+      "en": "A photographic panorama inside the Red Monastery church showing columns, apses and wall paintings, photographed 19 December 2012. Not a tour of the whole monastery or confirmation of current visiting access."
+    }
+  },
+  {
+    "placeId": "white-monastery",
+    "kind": "panorama",
+    "provider": "360Cities / Matjaz Kacicnik",
+    "url": "https://www.360cities.net/en/image/first-chamber-of-the-tomb-of-st-shenoute-monastery-sohag-egypt?pano_detail=true&portfolio_view=false",
+    "source": "https://www.360cities.net/en/image/first-chamber-of-the-tomb-of-st-shenoute-monastery-sohag-egypt?pano_detail=true&portfolio_view=false",
+    "title": {
+      "ar": "حجرة من مقبرة الأنبا شنودة بالدير الأبيض بزاوية 360",
+      "en": "A chamber of St Shenoute’s tomb at the White Monastery in 360"
+    },
+    "scope": {
+      "ar": "بانوراما فوتوغرافية للحجرة الأولى من مقبرة الأنبا شنودة المرتبطة بالدير الأبيض، بتعرض جدران مرسومة ومدخل حجري. مش جولة في كنيسة الدير كلها أو تأكيد إن المقبرة متاحة للزيارة.",
+      "en": "A photographic panorama of the first chamber of St Shenoute’s tomb associated with the White Monastery, showing painted walls and a stone doorway. Not a tour of the whole monastery church or confirmation that the tomb is open to visitors."
+    }
   }
 ]
