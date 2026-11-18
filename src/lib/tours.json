@@ -2147,5 +2147,35 @@
       "en": "A CTV Egypt Coptic Tour episode published in July 2021, in Arabic with English subtitles. Playback, the church courtyard and architectural details around minutes 3 and 8 were checked. A church visit, not a tour of all Samannud or confirmation of current hours. Religious accounts and practices in the episode reflect church tradition."
     },
     "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "meir-egypt",
+    "provider": "Orlando Furioso · YouTube",
+    "kind": "video",
+    "title": {
+      "ar": "لقطات من نقوش مقابر مير",
+      "en": "Inside the decorated tombs at Meir"
+    },
+    "scope": {
+      "ar": "فيلم قصير نشره Orlando Furioso في أبريل 2024، بيعرض تفاصيل النقوش الملونة والمداخل داخل مقابر مير. مش تغطية لكل المقابر ولا تأكيد لمواعيد الزيارة الحالية.",
+      "en": "A short film published by Orlando Furioso in April 2024, showing painted reliefs and interior doorways at Meir. Not coverage of every tomb or confirmation of current visiting hours."
+    },
+    "url": "https://www.youtube.com/watch?v=GI037_Jep50",
+    "source": "https://www.youtube.com/watch?v=GI037_Jep50"
+  },
+  {
+    "placeId": "akhmim",
+    "provider": "Egyptahotep · YouTube",
+    "kind": "video",
+    "title": {
+      "ar": "زيارة مصورة لمتحف أخميم المفتوح",
+      "en": "A filmed visit to Akhmim Open-Air Museum"
+    },
+    "scope": {
+      "ar": "زيارة مصورة نشرها Egyptahotep في مايو 2013، بتعرض ساحة المتحف والقطع الأثرية المعروضة فيه. تسجيل قديم، مش جولة لكل أخميم ولا دليل على شكل العرض أو الدخول دلوقتي.",
+      "en": "A filmed visit published by Egyptahotep in May 2013, showing the museum grounds and displayed archaeological remains. Older footage, not a tour of all Akhmim or evidence of the current display or access."
+    },
+    "url": "https://www.youtube.com/watch?v=UxnhM54CP0E",
+    "source": "https://www.youtube.com/watch?v=UxnhM54CP0E"
   }
 ]
