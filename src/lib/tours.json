@@ -1702,5 +1702,35 @@
       "ar": "بانوراما فوتوغرافية للحجرة الأولى من مقبرة الأنبا شنودة المرتبطة بالدير الأبيض، بتعرض جدران مرسومة ومدخل حجري. مش جولة في كنيسة الدير كلها أو تأكيد إن المقبرة متاحة للزيارة.",
       "en": "A photographic panorama of the first chamber of St Shenoute’s tomb associated with the White Monastery, showing painted walls and a stone doorway. Not a tour of the whole monastery church or confirmation that the tomb is open to visitors."
     }
+  },
+  {
+    "placeId": "wadi-degla",
+    "kind": "panorama",
+    "provider": "360Cities / Rahim Hamada",
+    "url": "https://www.360cities.net/image/wadi-degla-cairo",
+    "source": "https://www.360cities.net/image/wadi-degla-cairo",
+    "title": {
+      "ar": "بين صخور وادي دجلة بزاوية 360",
+      "en": "Between the rocks of Wadi Degla in 360"
+    },
+    "scope": {
+      "ar": "بانوراما فوتوغرافية لجزء صخري ضيّق في وادي دجلة، تصوير 24 مارس 2012. مش مسار مشي كامل أو دليل على حالة الطريق أو الميّه أو أمان الزيارة النهارده.",
+      "en": "A photographic panorama of a narrow rocky section of Wadi Degla, photographed 24 March 2012. Not a complete hiking route or evidence of current trail, water or safety conditions."
+    }
+  },
+  {
+    "placeId": "sannur-cave",
+    "kind": "panorama",
+    "provider": "360Cities / Mohamed Attef",
+    "url": "https://www.360cities.net/image/wadi-sannur-cave",
+    "source": "https://www.360cities.net/image/wadi-sannur-cave",
+    "title": {
+      "ar": "جوّه كهف وادي سنور بزاوية 360",
+      "en": "Inside Wadi Sannur Cave in 360"
+    },
+    "scope": {
+      "ar": "بانوراما فوتوغرافية من جوّه كهف وادي سنور بتعرض تكوينات صخرية وسلالم، تصوير 8 مايو 2015. مش جولة في كل الكهف أو تأكيد إنه مفتوح أو آمن للدخول النهارده.",
+      "en": "A photographic panorama inside Wadi Sannur Cave showing rock formations and stairs, photographed 8 May 2015. Not a tour of the entire cave or confirmation that it is open or safe to enter today."
+    }
   }
 ]
