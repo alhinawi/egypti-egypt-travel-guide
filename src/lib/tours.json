@@ -2099,5 +2099,21 @@
       "en": "A MariKnows TV time-lapse published in March 2021, with music. Playback and views of water and ships from a ship’s deck were checked, with Great Bitter Lake identified on screen. An anchorage view, not a tourist boat trip or a tour of every shore, and not evidence of current boating or swimming access."
     },
     "checkedAt": "2026-11-18"
+  },
+  {
+    "placeId": "ben-ezra-synagogue",
+    "kind": "video",
+    "provider": "Newzee",
+    "url": "https://www.youtube.com/watch?v=X-ZZslcKCsc",
+    "source": "https://www.youtube.com/watch?v=X-ZZslcKCsc",
+    "title": {
+      "ar": "لقطات من جوّه معبد بن عزرا بعد الترميم",
+      "en": "Inside Ben Ezra Synagogue after restoration"
+    },
+    "scope": {
+      "ar": "فيديو Newzee المنشور في سبتمبر 2023 عن افتتاح معبد بن عزرا وحصن بابليون بعد الترميم. اتراجع التشغيل ولقطات قاعة المعبد والسقف المزخرف والعقود المخططة والهيكل في بداية الفيديو. مش جولة تفاعلية أو تغطية لكل المبنى، وخبر الافتتاح من وقت النشر مش تأكيد لمواعيد أو إتاحة الدخول النهارده.",
+      "en": "A Newzee video published in September 2023 about the inauguration of Ben Ezra Synagogue and Babylon Fortress after restoration. Playback and opening footage of the synagogue hall, decorated ceiling, striped arches and sanctuary were checked. Not interactive or coverage of the whole building. The reopening news is from the publication period, not confirmation of current hours or admission."
+    },
+    "checkedAt": "2026-11-18"
   }
 ]
