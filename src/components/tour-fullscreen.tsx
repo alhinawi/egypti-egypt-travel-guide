@@ -1,0 +1,17 @@
+'use client';
+import {useEffect,useId,useRef,useState} from 'react';
+import {flushSync} from 'react-dom';
+import {ExternalLink,Scan,X} from 'lucide-react';
+import {useGuide,t} from './guide-provider';
+
+import {tourFrameUrl} from '@/lib/tour-player';
+
+export function TourFullscreen({title,url,embedUrl}:{title:string;url:string;embedUrl?:string}){
+ const{lang}=useGuide();const[open,setOpen]=useState(false);const dialog=useRef<HTMLDialogElement>(null);const trigger=useRef<HTMLButtonElement>(null);const heading=useId();
+ const close=()=>{if(document.fullscreenElement===dialog.current)void document.exitFullscreen().catch(()=>{});dialog.current?.close();setOpen(false);trigger.current?.focus()};
+ useEffect(()=>{if(!open)return;const previous=document.body.style.overflow;document.body.style.overflow='hidden';return()=>{document.body.style.overflow=previous}},[open]);
+ const frameUrl=tourFrameUrl(url,embedUrl);
+ const launch=()=>{flushSync(()=>setOpen(true));const panel=dialog.current;if(!panel)return;panel.showModal();if(panel.requestFullscreen)void panel.requestFullscreen().catch(()=>{/* The viewport dialog remains usable on phones without Fullscreen API support. */})};
+ if(!frameUrl)return <a className="virtual-symbol tw:min-h-[44px] tw:min-w-[44px] tw:cursor-pointer" href={url} target="_blank" rel="noreferrer" aria-label={t(lang,'افتح الجولة مكبرة عند المصدر في نافذة جديدة: ','Open enlarged visit with provider in a new tab: ')+title}><Scan size={25}/></a>;
+ return <><button ref={trigger} type="button" className="virtual-symbol tw:cursor-pointer tw:border-0 tw:shrink-0" aria-label={t(lang,'كبّر الجولة: ','Enlarge visit: ')+title} aria-haspopup="dialog" onClick={launch}><Scan size={25}/></button>{open&&<dialog ref={dialog} aria-labelledby={heading} onCancel={e=>{e.preventDefault();close()}} className="tw:fixed tw:inset-0 tw:m-0 tw:flex tw:h-dvh tw:max-h-none tw:w-screen tw:max-w-none tw:flex-col tw:overflow-hidden tw:border-0 tw:bg-[var(--paper)] tw:p-0 tw:text-[var(--ink)] tw:backdrop:bg-black/80"><header className="tw:flex tw:shrink-0 tw:items-center tw:gap-[12px] tw:border-0 tw:border-b tw:border-solid tw:border-[var(--line)] tw:p-[14px] tw:pt-[max(14px,env(safe-area-inset-top))]"><h2 id={heading} className="tw:min-w-0 tw:flex-1 tw:text-[16px]">{title}</h2><button type="button" autoFocus onClick={close} className="tw:flex tw:min-h-[44px] tw:min-w-[44px] tw:items-center tw:justify-center tw:gap-[6px] tw:rounded-[10px] tw:border tw:border-solid tw:border-[var(--line)] tw:bg-[var(--paper)] tw:px-[10px] tw:text-[var(--ink)]" aria-label={t(lang,'اقفل الجولة المكبرة','Close enlarged visit')}><X size={20}/><span>{t(lang,'اقفل','Close')}</span></button></header><div className="tw:flex tw:shrink-0 tw:flex-wrap tw:items-center tw:justify-between tw:gap-[8px] tw:px-[14px] tw:py-[8px]"><p className="tw:text-[12px] tw:text-[var(--muted)]">{t(lang,'لو المزوّد منع العرض هنا، افتح الجولة عنده.','If the provider blocks this view, open the visit on its site.')}</p><a href={url} target="_blank" rel="noreferrer" className="tw:inline-flex tw:min-h-[44px] tw:items-center tw:gap-[6px] tw:text-[13px] tw:text-[var(--accent)] tw:underline">{t(lang,'افتح عند المصدر','Open with provider')}<ExternalLink size={16}/></a></div><iframe src={frameUrl} title={title} className="tw:min-h-0 tw:w-full tw:flex-1 tw:border-0 tw:bg-black" allow="fullscreen; xr-spatial-tracking; encrypted-media; picture-in-picture" allowFullScreen referrerPolicy="strict-origin-when-cross-origin"/></dialog>}</>;
+}
