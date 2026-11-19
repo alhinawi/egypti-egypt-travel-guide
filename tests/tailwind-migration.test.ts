@@ -60,3 +60,9 @@ test('magazine and destination section headings use shared Tailwind presentation
  assert.match(readFileSync('src/components/pages.tsx','utf8'),/className=\{sectionHeadingClasses\}/);
  assert.equal((readFileSync('src/components/magazine-home.tsx','utf8').match(/className=\{magazineSectionHeadingClasses\}/g)||[]).length,4);
 });
+
+test('destination cards use shared Tailwind presentation',()=>{
+ for(const file of ['src/app/globals.css','src/app/editorial.css'])assert.doesNotMatch(readFileSync(file,'utf8'),/\.(?:destination-card|destination-image|destination-text|destination-arrow)(?![\w-])/);
+ const source=readFileSync('src/components/cards.tsx','utf8');
+ for(const name of ['destinationCardClasses','destinationImageClasses','destinationTextClasses','destinationArrowClasses'])assert.match(source,new RegExp('className=\\{'+name+'\\}'));
+});
