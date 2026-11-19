@@ -1,0 +1,6722 @@
+{
+  "ar-360-": [
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "15px",
+        "lineHeight": "29.25px",
+        "margin": "0px 0px 21px",
+        "maxWidth": "none",
+        "gap": "15px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "15px",
+        "lineHeight": "29.25px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "text": "01 / \u0627\u062a\u0628\u0639 \u0641\u0636\u0648\u0644\u0643",
+      "href": null,
+      "style": {
+        "fontSize": "9px",
+        "lineHeight": "17.55px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "\u0643\u0644 \u0645\u0643\u0627\u0646\u060c \u062a\u062c\u0631\u0628\u0629 \u0645\u062e\u062a\u0644\u0641\u0629.",
+      "href": null,
+      "style": {
+        "fontSize": "25px",
+        "lineHeight": "41.25px",
+        "margin": "8px 0px 0px",
+        "maxWidth": "720px",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "A",
+      "text": "",
+      "href": "/ar/destinations/",
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "74px",
+        "gap": "5px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "svg",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "path",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "path",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "15px",
+        "lineHeight": "29.25px",
+        "margin": "0px 0px 21px",
+        "maxWidth": "none",
+        "gap": "15px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "15px",
+        "lineHeight": "29.25px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "text": "02 / \u0639\u0644\u0649 \u0645\u0632\u0627\u062c\u0643",
+      "href": null,
+      "style": {
+        "fontSize": "9px",
+        "lineHeight": "17.55px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "\u0633\u064a\u0628 \u0645\u0632\u0627\u062c\u0643 \u064a\u062e\u062a\u0627\u0631.",
+      "href": null,
+      "style": {
+        "fontSize": "25px",
+        "lineHeight": "41.25px",
+        "margin": "8px 0px 0px",
+        "maxWidth": "720px",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "15px",
+        "lineHeight": "29.25px",
+        "margin": "0px 0px 21px",
+        "maxWidth": "none",
+        "gap": "15px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "15px",
+        "lineHeight": "29.25px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "text": "03 / \u0623\u0648\u0644 \u0627\u0644\u062e\u064a\u0637",
+      "href": null,
+      "style": {
+        "fontSize": "9px",
+        "lineHeight": "17.55px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "\u0641\u0643\u0631\u0629 \u0635\u063a\u064a\u0631\u0629. \u0631\u062d\u0644\u0629 \u0643\u0628\u064a\u0631\u0629.",
+      "href": null,
+      "style": {
+        "fontSize": "25px",
+        "lineHeight": "41.25px",
+        "margin": "8px 0px 0px",
+        "maxWidth": "720px",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "A",
+      "text": "",
+      "href": "/ar/trips/",
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "74px",
+        "gap": "5px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "svg",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "path",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "path",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "15px",
+        "lineHeight": "29.25px",
+        "margin": "0px 0px 21px",
+        "maxWidth": "none",
+        "gap": "15px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "15px",
+        "lineHeight": "29.25px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "text": "04 / \u0639\u0644\u0649 \u0627\u0644\u0642\u0627\u0626\u0645\u0629",
+      "href": null,
+      "style": {
+        "fontSize": "9px",
+        "lineHeight": "17.55px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "\u0623\u0645\u0627\u0643\u0646 \u062a\u062a\u0634\u0627\u0641. \u0648\u062a\u062a\u0639\u0627\u0634.",
+      "href": null,
+      "style": {
+        "fontSize": "25px",
+        "lineHeight": "41.25px",
+        "margin": "8px 0px 0px",
+        "maxWidth": "720px",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "A",
+      "text": "",
+      "href": "/ar/explore/",
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "74px",
+        "gap": "5px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "svg",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "path",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "path",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    }
+  ],
+  "ar-360-destinations/cairo/": [
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "15px",
+        "lineHeight": "29.25px",
+        "margin": "0px 0px 5px",
+        "maxWidth": "none",
+        "gap": "12px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "\u0623\u0645\u0627\u0643\u0646 \u062a\u0628\u062f\u0623 \u0628\u064a\u0647\u0627",
+      "href": null,
+      "style": {
+        "fontSize": "21px",
+        "lineHeight": "34.65px",
+        "margin": "0px",
+        "maxWidth": "250px",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "15px",
+        "lineHeight": "29.25px",
+        "margin": "0px 0px 5px",
+        "maxWidth": "none",
+        "gap": "12px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "\u0641\u0643\u0631\u0629 \u0644\u0631\u062d\u0644\u062a\u0643",
+      "href": null,
+      "style": {
+        "fontSize": "21px",
+        "lineHeight": "34.65px",
+        "margin": "0px",
+        "maxWidth": "250px",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    }
+  ],
+  "en-360-": [
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "14px",
+        "lineHeight": "26.6px",
+        "margin": "0px 0px 21px",
+        "maxWidth": "none",
+        "gap": "15px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "14px",
+        "lineHeight": "26.6px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "text": "01 / FOLLOW YOUR CURIOSITY",
+      "href": null,
+      "style": {
+        "fontSize": "9px",
+        "lineHeight": "17.1px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "1.5px"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "Different places. Different experiences.",
+      "href": null,
+      "style": {
+        "fontSize": "25px",
+        "lineHeight": "40px",
+        "margin": "8px 0px 0px",
+        "maxWidth": "720px",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "A",
+      "text": "",
+      "href": "/en/destinations/",
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "74px",
+        "gap": "5px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "svg",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "path",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "path",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "14px",
+        "lineHeight": "26.6px",
+        "margin": "0px 0px 21px",
+        "maxWidth": "none",
+        "gap": "15px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "14px",
+        "lineHeight": "26.6px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "text": "02 / YOUR KIND OF DAY",
+      "href": null,
+      "style": {
+        "fontSize": "9px",
+        "lineHeight": "17.1px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "1.5px"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "Go with the feeling.",
+      "href": null,
+      "style": {
+        "fontSize": "25px",
+        "lineHeight": "40px",
+        "margin": "8px 0px 0px",
+        "maxWidth": "720px",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "14px",
+        "lineHeight": "26.6px",
+        "margin": "0px 0px 21px",
+        "maxWidth": "none",
+        "gap": "15px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "14px",
+        "lineHeight": "26.6px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "text": "03 / A PLACE TO START",
+      "href": null,
+      "style": {
+        "fontSize": "9px",
+        "lineHeight": "17.1px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "1.5px"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "A small idea. A bigger journey.",
+      "href": null,
+      "style": {
+        "fontSize": "25px",
+        "lineHeight": "40px",
+        "margin": "8px 0px 0px",
+        "maxWidth": "720px",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "A",
+      "text": "",
+      "href": "/en/trips/",
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "74px",
+        "gap": "5px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "svg",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "path",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "path",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "14px",
+        "lineHeight": "26.6px",
+        "margin": "0px 0px 21px",
+        "maxWidth": "none",
+        "gap": "15px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "14px",
+        "lineHeight": "26.6px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "text": "04 / ON THE WISH LIST",
+      "href": null,
+      "style": {
+        "fontSize": "9px",
+        "lineHeight": "17.1px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "1.5px"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "Places to see. Places to feel.",
+      "href": null,
+      "style": {
+        "fontSize": "25px",
+        "lineHeight": "40px",
+        "margin": "8px 0px 0px",
+        "maxWidth": "720px",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "A",
+      "text": "",
+      "href": "/en/explore/",
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "74px",
+        "gap": "5px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "svg",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "path",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "path",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    }
+  ],
+  "en-360-destinations/cairo/": [
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "14px",
+        "lineHeight": "26.6px",
+        "margin": "0px 0px 5px",
+        "maxWidth": "none",
+        "gap": "12px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "Places to start",
+      "href": null,
+      "style": {
+        "fontSize": "19px",
+        "lineHeight": "28.5px",
+        "margin": "0px",
+        "maxWidth": "250px",
+        "gap": "normal",
+        "letterSpacing": "-0.475px"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "14px",
+        "lineHeight": "26.6px",
+        "margin": "0px 0px 5px",
+        "maxWidth": "none",
+        "gap": "12px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "A plan to start from",
+      "href": null,
+      "style": {
+        "fontSize": "19px",
+        "lineHeight": "28.5px",
+        "margin": "0px",
+        "maxWidth": "250px",
+        "gap": "normal",
+        "letterSpacing": "-0.475px"
+      }
+    }
+  ],
+  "ar-361-": [
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "15px",
+        "lineHeight": "29.25px",
+        "margin": "0px 0px 21px",
+        "maxWidth": "none",
+        "gap": "15px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "15px",
+        "lineHeight": "29.25px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "text": "01 / \u0627\u062a\u0628\u0639 \u0641\u0636\u0648\u0644\u0643",
+      "href": null,
+      "style": {
+        "fontSize": "9px",
+        "lineHeight": "17.55px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "\u0643\u0644 \u0645\u0643\u0627\u0646\u060c \u062a\u062c\u0631\u0628\u0629 \u0645\u062e\u062a\u0644\u0641\u0629.",
+      "href": null,
+      "style": {
+        "fontSize": "25px",
+        "lineHeight": "41.25px",
+        "margin": "8px 0px 0px",
+        "maxWidth": "720px",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "A",
+      "text": "",
+      "href": "/ar/destinations/",
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "74px",
+        "gap": "5px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "svg",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "path",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "path",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "15px",
+        "lineHeight": "29.25px",
+        "margin": "0px 0px 21px",
+        "maxWidth": "none",
+        "gap": "15px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "15px",
+        "lineHeight": "29.25px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "text": "02 / \u0639\u0644\u0649 \u0645\u0632\u0627\u062c\u0643",
+      "href": null,
+      "style": {
+        "fontSize": "9px",
+        "lineHeight": "17.55px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "\u0633\u064a\u0628 \u0645\u0632\u0627\u062c\u0643 \u064a\u062e\u062a\u0627\u0631.",
+      "href": null,
+      "style": {
+        "fontSize": "25px",
+        "lineHeight": "41.25px",
+        "margin": "8px 0px 0px",
+        "maxWidth": "720px",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "15px",
+        "lineHeight": "29.25px",
+        "margin": "0px 0px 21px",
+        "maxWidth": "none",
+        "gap": "15px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "15px",
+        "lineHeight": "29.25px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "text": "03 / \u0623\u0648\u0644 \u0627\u0644\u062e\u064a\u0637",
+      "href": null,
+      "style": {
+        "fontSize": "9px",
+        "lineHeight": "17.55px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "\u0641\u0643\u0631\u0629 \u0635\u063a\u064a\u0631\u0629. \u0631\u062d\u0644\u0629 \u0643\u0628\u064a\u0631\u0629.",
+      "href": null,
+      "style": {
+        "fontSize": "25px",
+        "lineHeight": "41.25px",
+        "margin": "8px 0px 0px",
+        "maxWidth": "720px",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "A",
+      "text": "",
+      "href": "/ar/trips/",
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "74px",
+        "gap": "5px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "svg",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "path",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "path",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "15px",
+        "lineHeight": "29.25px",
+        "margin": "0px 0px 21px",
+        "maxWidth": "none",
+        "gap": "15px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "15px",
+        "lineHeight": "29.25px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "text": "04 / \u0639\u0644\u0649 \u0627\u0644\u0642\u0627\u0626\u0645\u0629",
+      "href": null,
+      "style": {
+        "fontSize": "9px",
+        "lineHeight": "17.55px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "\u0623\u0645\u0627\u0643\u0646 \u062a\u062a\u0634\u0627\u0641. \u0648\u062a\u062a\u0639\u0627\u0634.",
+      "href": null,
+      "style": {
+        "fontSize": "25px",
+        "lineHeight": "41.25px",
+        "margin": "8px 0px 0px",
+        "maxWidth": "720px",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "A",
+      "text": "",
+      "href": "/ar/explore/",
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "74px",
+        "gap": "5px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "svg",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "path",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "path",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    }
+  ],
+  "ar-361-destinations/cairo/": [
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "15px",
+        "lineHeight": "29.25px",
+        "margin": "0px 0px 5px",
+        "maxWidth": "none",
+        "gap": "12px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "\u0623\u0645\u0627\u0643\u0646 \u062a\u0628\u062f\u0623 \u0628\u064a\u0647\u0627",
+      "href": null,
+      "style": {
+        "fontSize": "21px",
+        "lineHeight": "34.65px",
+        "margin": "0px",
+        "maxWidth": "250px",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "15px",
+        "lineHeight": "29.25px",
+        "margin": "0px 0px 5px",
+        "maxWidth": "none",
+        "gap": "12px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "\u0641\u0643\u0631\u0629 \u0644\u0631\u062d\u0644\u062a\u0643",
+      "href": null,
+      "style": {
+        "fontSize": "21px",
+        "lineHeight": "34.65px",
+        "margin": "0px",
+        "maxWidth": "250px",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    }
+  ],
+  "en-361-": [
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "14px",
+        "lineHeight": "26.6px",
+        "margin": "0px 0px 21px",
+        "maxWidth": "none",
+        "gap": "15px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "14px",
+        "lineHeight": "26.6px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "text": "01 / FOLLOW YOUR CURIOSITY",
+      "href": null,
+      "style": {
+        "fontSize": "9px",
+        "lineHeight": "17.1px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "1.5px"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "Different places. Different experiences.",
+      "href": null,
+      "style": {
+        "fontSize": "25px",
+        "lineHeight": "40px",
+        "margin": "8px 0px 0px",
+        "maxWidth": "720px",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "A",
+      "text": "",
+      "href": "/en/destinations/",
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "74px",
+        "gap": "5px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "svg",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "path",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "path",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "14px",
+        "lineHeight": "26.6px",
+        "margin": "0px 0px 21px",
+        "maxWidth": "none",
+        "gap": "15px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "14px",
+        "lineHeight": "26.6px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "text": "02 / YOUR KIND OF DAY",
+      "href": null,
+      "style": {
+        "fontSize": "9px",
+        "lineHeight": "17.1px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "1.5px"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "Go with the feeling.",
+      "href": null,
+      "style": {
+        "fontSize": "25px",
+        "lineHeight": "40px",
+        "margin": "8px 0px 0px",
+        "maxWidth": "720px",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "14px",
+        "lineHeight": "26.6px",
+        "margin": "0px 0px 21px",
+        "maxWidth": "none",
+        "gap": "15px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "14px",
+        "lineHeight": "26.6px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "text": "03 / A PLACE TO START",
+      "href": null,
+      "style": {
+        "fontSize": "9px",
+        "lineHeight": "17.1px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "1.5px"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "A small idea. A bigger journey.",
+      "href": null,
+      "style": {
+        "fontSize": "25px",
+        "lineHeight": "40px",
+        "margin": "8px 0px 0px",
+        "maxWidth": "720px",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "A",
+      "text": "",
+      "href": "/en/trips/",
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "74px",
+        "gap": "5px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "svg",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "path",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "path",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "14px",
+        "lineHeight": "26.6px",
+        "margin": "0px 0px 21px",
+        "maxWidth": "none",
+        "gap": "15px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "14px",
+        "lineHeight": "26.6px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "text": "04 / ON THE WISH LIST",
+      "href": null,
+      "style": {
+        "fontSize": "9px",
+        "lineHeight": "17.1px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "1.5px"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "Places to see. Places to feel.",
+      "href": null,
+      "style": {
+        "fontSize": "25px",
+        "lineHeight": "40px",
+        "margin": "8px 0px 0px",
+        "maxWidth": "720px",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "A",
+      "text": "",
+      "href": "/en/explore/",
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "74px",
+        "gap": "5px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "svg",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "path",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "path",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    }
+  ],
+  "en-361-destinations/cairo/": [
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "14px",
+        "lineHeight": "26.6px",
+        "margin": "0px 0px 5px",
+        "maxWidth": "none",
+        "gap": "12px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "Places to start",
+      "href": null,
+      "style": {
+        "fontSize": "21px",
+        "lineHeight": "31.5px",
+        "margin": "0px",
+        "maxWidth": "250px",
+        "gap": "normal",
+        "letterSpacing": "-0.525px"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "14px",
+        "lineHeight": "26.6px",
+        "margin": "0px 0px 5px",
+        "maxWidth": "none",
+        "gap": "12px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "A plan to start from",
+      "href": null,
+      "style": {
+        "fontSize": "21px",
+        "lineHeight": "31.5px",
+        "margin": "0px",
+        "maxWidth": "250px",
+        "gap": "normal",
+        "letterSpacing": "-0.525px"
+      }
+    }
+  ],
+  "ar-390-": [
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "15px",
+        "lineHeight": "29.25px",
+        "margin": "0px 0px 21px",
+        "maxWidth": "none",
+        "gap": "15px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "15px",
+        "lineHeight": "29.25px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "text": "01 / \u0627\u062a\u0628\u0639 \u0641\u0636\u0648\u0644\u0643",
+      "href": null,
+      "style": {
+        "fontSize": "9px",
+        "lineHeight": "17.55px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "\u0643\u0644 \u0645\u0643\u0627\u0646\u060c \u062a\u062c\u0631\u0628\u0629 \u0645\u062e\u062a\u0644\u0641\u0629.",
+      "href": null,
+      "style": {
+        "fontSize": "25px",
+        "lineHeight": "41.25px",
+        "margin": "8px 0px 0px",
+        "maxWidth": "720px",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "A",
+      "text": "",
+      "href": "/ar/destinations/",
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "74px",
+        "gap": "5px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "svg",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "path",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "path",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "15px",
+        "lineHeight": "29.25px",
+        "margin": "0px 0px 21px",
+        "maxWidth": "none",
+        "gap": "15px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "15px",
+        "lineHeight": "29.25px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "text": "02 / \u0639\u0644\u0649 \u0645\u0632\u0627\u062c\u0643",
+      "href": null,
+      "style": {
+        "fontSize": "9px",
+        "lineHeight": "17.55px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "\u0633\u064a\u0628 \u0645\u0632\u0627\u062c\u0643 \u064a\u062e\u062a\u0627\u0631.",
+      "href": null,
+      "style": {
+        "fontSize": "25px",
+        "lineHeight": "41.25px",
+        "margin": "8px 0px 0px",
+        "maxWidth": "720px",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "15px",
+        "lineHeight": "29.25px",
+        "margin": "0px 0px 21px",
+        "maxWidth": "none",
+        "gap": "15px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "15px",
+        "lineHeight": "29.25px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "text": "03 / \u0623\u0648\u0644 \u0627\u0644\u062e\u064a\u0637",
+      "href": null,
+      "style": {
+        "fontSize": "9px",
+        "lineHeight": "17.55px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "\u0641\u0643\u0631\u0629 \u0635\u063a\u064a\u0631\u0629. \u0631\u062d\u0644\u0629 \u0643\u0628\u064a\u0631\u0629.",
+      "href": null,
+      "style": {
+        "fontSize": "25px",
+        "lineHeight": "41.25px",
+        "margin": "8px 0px 0px",
+        "maxWidth": "720px",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "A",
+      "text": "",
+      "href": "/ar/trips/",
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "74px",
+        "gap": "5px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "svg",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "path",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "path",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "15px",
+        "lineHeight": "29.25px",
+        "margin": "0px 0px 21px",
+        "maxWidth": "none",
+        "gap": "15px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "15px",
+        "lineHeight": "29.25px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "text": "04 / \u0639\u0644\u0649 \u0627\u0644\u0642\u0627\u0626\u0645\u0629",
+      "href": null,
+      "style": {
+        "fontSize": "9px",
+        "lineHeight": "17.55px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "\u0623\u0645\u0627\u0643\u0646 \u062a\u062a\u0634\u0627\u0641. \u0648\u062a\u062a\u0639\u0627\u0634.",
+      "href": null,
+      "style": {
+        "fontSize": "25px",
+        "lineHeight": "41.25px",
+        "margin": "8px 0px 0px",
+        "maxWidth": "720px",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "A",
+      "text": "",
+      "href": "/ar/explore/",
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "74px",
+        "gap": "5px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "svg",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "path",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "path",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    }
+  ],
+  "ar-390--print": [
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "13.3333px",
+        "lineHeight": "26px",
+        "margin": "0px 0px 21px",
+        "maxWidth": "none",
+        "gap": "15px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "13.3333px",
+        "lineHeight": "26px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "text": "01 / \u0627\u062a\u0628\u0639 \u0641\u0636\u0648\u0644\u0643",
+      "href": null,
+      "style": {
+        "fontSize": "9px",
+        "lineHeight": "17.55px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "\u0643\u0644 \u0645\u0643\u0627\u0646\u060c \u062a\u062c\u0631\u0628\u0629 \u0645\u062e\u062a\u0644\u0641\u0629.",
+      "href": null,
+      "style": {
+        "fontSize": "27px",
+        "lineHeight": "44.55px",
+        "margin": "8px 0px 0px",
+        "maxWidth": "250px",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "A",
+      "text": "",
+      "href": "/ar/destinations/",
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "74px",
+        "gap": "5px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "svg",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "path",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "path",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "13.3333px",
+        "lineHeight": "26px",
+        "margin": "0px 0px 21px",
+        "maxWidth": "none",
+        "gap": "15px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "13.3333px",
+        "lineHeight": "26px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "text": "02 / \u0639\u0644\u0649 \u0645\u0632\u0627\u062c\u0643",
+      "href": null,
+      "style": {
+        "fontSize": "9px",
+        "lineHeight": "17.55px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "\u0633\u064a\u0628 \u0645\u0632\u0627\u062c\u0643 \u064a\u062e\u062a\u0627\u0631.",
+      "href": null,
+      "style": {
+        "fontSize": "27px",
+        "lineHeight": "44.55px",
+        "margin": "8px 0px 0px",
+        "maxWidth": "250px",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "13.3333px",
+        "lineHeight": "26px",
+        "margin": "0px 0px 21px",
+        "maxWidth": "none",
+        "gap": "15px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "13.3333px",
+        "lineHeight": "26px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "text": "03 / \u0623\u0648\u0644 \u0627\u0644\u062e\u064a\u0637",
+      "href": null,
+      "style": {
+        "fontSize": "9px",
+        "lineHeight": "17.55px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "\u0641\u0643\u0631\u0629 \u0635\u063a\u064a\u0631\u0629. \u0631\u062d\u0644\u0629 \u0643\u0628\u064a\u0631\u0629.",
+      "href": null,
+      "style": {
+        "fontSize": "27px",
+        "lineHeight": "44.55px",
+        "margin": "8px 0px 0px",
+        "maxWidth": "250px",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "A",
+      "text": "",
+      "href": "/ar/trips/",
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "74px",
+        "gap": "5px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "svg",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "path",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "path",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "13.3333px",
+        "lineHeight": "26px",
+        "margin": "0px 0px 21px",
+        "maxWidth": "none",
+        "gap": "15px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "13.3333px",
+        "lineHeight": "26px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "text": "04 / \u0639\u0644\u0649 \u0627\u0644\u0642\u0627\u0626\u0645\u0629",
+      "href": null,
+      "style": {
+        "fontSize": "9px",
+        "lineHeight": "17.55px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "\u0623\u0645\u0627\u0643\u0646 \u062a\u062a\u0634\u0627\u0641. \u0648\u062a\u062a\u0639\u0627\u0634.",
+      "href": null,
+      "style": {
+        "fontSize": "27px",
+        "lineHeight": "44.55px",
+        "margin": "8px 0px 0px",
+        "maxWidth": "250px",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "A",
+      "text": "",
+      "href": "/ar/explore/",
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "74px",
+        "gap": "5px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "svg",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "path",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "path",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    }
+  ],
+  "ar-390-destinations/cairo/": [
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "15px",
+        "lineHeight": "29.25px",
+        "margin": "0px 0px 5px",
+        "maxWidth": "none",
+        "gap": "12px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "\u0623\u0645\u0627\u0643\u0646 \u062a\u0628\u062f\u0623 \u0628\u064a\u0647\u0627",
+      "href": null,
+      "style": {
+        "fontSize": "21px",
+        "lineHeight": "34.65px",
+        "margin": "0px",
+        "maxWidth": "250px",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "15px",
+        "lineHeight": "29.25px",
+        "margin": "0px 0px 5px",
+        "maxWidth": "none",
+        "gap": "12px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "\u0641\u0643\u0631\u0629 \u0644\u0631\u062d\u0644\u062a\u0643",
+      "href": null,
+      "style": {
+        "fontSize": "21px",
+        "lineHeight": "34.65px",
+        "margin": "0px",
+        "maxWidth": "250px",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    }
+  ],
+  "ar-390-destinations/cairo/-print": [
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "13.3333px",
+        "lineHeight": "26px",
+        "margin": "0px 0px 5px",
+        "maxWidth": "none",
+        "gap": "12px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "\u0623\u0645\u0627\u0643\u0646 \u062a\u0628\u062f\u0623 \u0628\u064a\u0647\u0627",
+      "href": null,
+      "style": {
+        "fontSize": "21px",
+        "lineHeight": "34.65px",
+        "margin": "0px",
+        "maxWidth": "250px",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "13.3333px",
+        "lineHeight": "26px",
+        "margin": "0px 0px 5px",
+        "maxWidth": "none",
+        "gap": "12px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "\u0641\u0643\u0631\u0629 \u0644\u0631\u062d\u0644\u062a\u0643",
+      "href": null,
+      "style": {
+        "fontSize": "21px",
+        "lineHeight": "34.65px",
+        "margin": "0px",
+        "maxWidth": "250px",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    }
+  ],
+  "en-390-": [
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "14px",
+        "lineHeight": "26.6px",
+        "margin": "0px 0px 21px",
+        "maxWidth": "none",
+        "gap": "15px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "14px",
+        "lineHeight": "26.6px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "text": "01 / FOLLOW YOUR CURIOSITY",
+      "href": null,
+      "style": {
+        "fontSize": "9px",
+        "lineHeight": "17.1px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "1.5px"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "Different places. Different experiences.",
+      "href": null,
+      "style": {
+        "fontSize": "25px",
+        "lineHeight": "40px",
+        "margin": "8px 0px 0px",
+        "maxWidth": "720px",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "A",
+      "text": "",
+      "href": "/en/destinations/",
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "74px",
+        "gap": "5px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "svg",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "path",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "path",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "14px",
+        "lineHeight": "26.6px",
+        "margin": "0px 0px 21px",
+        "maxWidth": "none",
+        "gap": "15px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "14px",
+        "lineHeight": "26.6px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "text": "02 / YOUR KIND OF DAY",
+      "href": null,
+      "style": {
+        "fontSize": "9px",
+        "lineHeight": "17.1px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "1.5px"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "Go with the feeling.",
+      "href": null,
+      "style": {
+        "fontSize": "25px",
+        "lineHeight": "40px",
+        "margin": "8px 0px 0px",
+        "maxWidth": "720px",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "14px",
+        "lineHeight": "26.6px",
+        "margin": "0px 0px 21px",
+        "maxWidth": "none",
+        "gap": "15px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "14px",
+        "lineHeight": "26.6px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "text": "03 / A PLACE TO START",
+      "href": null,
+      "style": {
+        "fontSize": "9px",
+        "lineHeight": "17.1px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "1.5px"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "A small idea. A bigger journey.",
+      "href": null,
+      "style": {
+        "fontSize": "25px",
+        "lineHeight": "40px",
+        "margin": "8px 0px 0px",
+        "maxWidth": "720px",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "A",
+      "text": "",
+      "href": "/en/trips/",
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "74px",
+        "gap": "5px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "svg",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "path",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "path",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "14px",
+        "lineHeight": "26.6px",
+        "margin": "0px 0px 21px",
+        "maxWidth": "none",
+        "gap": "15px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "14px",
+        "lineHeight": "26.6px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "text": "04 / ON THE WISH LIST",
+      "href": null,
+      "style": {
+        "fontSize": "9px",
+        "lineHeight": "17.1px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "1.5px"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "Places to see. Places to feel.",
+      "href": null,
+      "style": {
+        "fontSize": "25px",
+        "lineHeight": "40px",
+        "margin": "8px 0px 0px",
+        "maxWidth": "720px",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "A",
+      "text": "",
+      "href": "/en/explore/",
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "74px",
+        "gap": "5px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "svg",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "path",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "path",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    }
+  ],
+  "en-390--print": [
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "14px",
+        "lineHeight": "26.6px",
+        "margin": "0px 0px 21px",
+        "maxWidth": "none",
+        "gap": "15px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "14px",
+        "lineHeight": "26.6px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "text": "01 / FOLLOW YOUR CURIOSITY",
+      "href": null,
+      "style": {
+        "fontSize": "9px",
+        "lineHeight": "17.1px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "0.6px"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "Different places. Different experiences.",
+      "href": null,
+      "style": {
+        "fontSize": "27px",
+        "lineHeight": "44.55px",
+        "margin": "8px 0px 0px",
+        "maxWidth": "250px",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "A",
+      "text": "",
+      "href": "/en/destinations/",
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "74px",
+        "gap": "5px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "svg",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "path",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "path",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "14px",
+        "lineHeight": "26.6px",
+        "margin": "0px 0px 21px",
+        "maxWidth": "none",
+        "gap": "15px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "14px",
+        "lineHeight": "26.6px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "text": "02 / YOUR KIND OF DAY",
+      "href": null,
+      "style": {
+        "fontSize": "9px",
+        "lineHeight": "17.1px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "0.6px"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "Go with the feeling.",
+      "href": null,
+      "style": {
+        "fontSize": "27px",
+        "lineHeight": "44.55px",
+        "margin": "8px 0px 0px",
+        "maxWidth": "250px",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "14px",
+        "lineHeight": "26.6px",
+        "margin": "0px 0px 21px",
+        "maxWidth": "none",
+        "gap": "15px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "14px",
+        "lineHeight": "26.6px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "text": "03 / A PLACE TO START",
+      "href": null,
+      "style": {
+        "fontSize": "9px",
+        "lineHeight": "17.1px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "0.6px"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "A small idea. A bigger journey.",
+      "href": null,
+      "style": {
+        "fontSize": "27px",
+        "lineHeight": "44.55px",
+        "margin": "8px 0px 0px",
+        "maxWidth": "250px",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "A",
+      "text": "",
+      "href": "/en/trips/",
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "74px",
+        "gap": "5px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "svg",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "path",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "path",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "14px",
+        "lineHeight": "26.6px",
+        "margin": "0px 0px 21px",
+        "maxWidth": "none",
+        "gap": "15px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "14px",
+        "lineHeight": "26.6px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "text": "04 / ON THE WISH LIST",
+      "href": null,
+      "style": {
+        "fontSize": "9px",
+        "lineHeight": "17.1px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "0.6px"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "Places to see. Places to feel.",
+      "href": null,
+      "style": {
+        "fontSize": "27px",
+        "lineHeight": "44.55px",
+        "margin": "8px 0px 0px",
+        "maxWidth": "250px",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "A",
+      "text": "",
+      "href": "/en/explore/",
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "74px",
+        "gap": "5px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "svg",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "path",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "path",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    }
+  ],
+  "en-390-destinations/cairo/": [
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "14px",
+        "lineHeight": "26.6px",
+        "margin": "0px 0px 5px",
+        "maxWidth": "none",
+        "gap": "12px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "Places to start",
+      "href": null,
+      "style": {
+        "fontSize": "21px",
+        "lineHeight": "31.5px",
+        "margin": "0px",
+        "maxWidth": "250px",
+        "gap": "normal",
+        "letterSpacing": "-0.525px"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "14px",
+        "lineHeight": "26.6px",
+        "margin": "0px 0px 5px",
+        "maxWidth": "none",
+        "gap": "12px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "A plan to start from",
+      "href": null,
+      "style": {
+        "fontSize": "21px",
+        "lineHeight": "31.5px",
+        "margin": "0px",
+        "maxWidth": "250px",
+        "gap": "normal",
+        "letterSpacing": "-0.525px"
+      }
+    }
+  ],
+  "en-390-destinations/cairo/-print": [
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "14px",
+        "lineHeight": "26.6px",
+        "margin": "0px 0px 5px",
+        "maxWidth": "none",
+        "gap": "12px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "Places to start",
+      "href": null,
+      "style": {
+        "fontSize": "21px",
+        "lineHeight": "31.5px",
+        "margin": "0px",
+        "maxWidth": "250px",
+        "gap": "normal",
+        "letterSpacing": "-0.525px"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "14px",
+        "lineHeight": "26.6px",
+        "margin": "0px 0px 5px",
+        "maxWidth": "none",
+        "gap": "12px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "A plan to start from",
+      "href": null,
+      "style": {
+        "fontSize": "21px",
+        "lineHeight": "31.5px",
+        "margin": "0px",
+        "maxWidth": "250px",
+        "gap": "normal",
+        "letterSpacing": "-0.525px"
+      }
+    }
+  ],
+  "ar-600-": [
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "15px",
+        "lineHeight": "29.25px",
+        "margin": "0px 0px 21px",
+        "maxWidth": "none",
+        "gap": "15px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "15px",
+        "lineHeight": "29.25px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "text": "01 / \u0627\u062a\u0628\u0639 \u0641\u0636\u0648\u0644\u0643",
+      "href": null,
+      "style": {
+        "fontSize": "9px",
+        "lineHeight": "17.55px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "\u0643\u0644 \u0645\u0643\u0627\u0646\u060c \u062a\u062c\u0631\u0628\u0629 \u0645\u062e\u062a\u0644\u0641\u0629.",
+      "href": null,
+      "style": {
+        "fontSize": "25px",
+        "lineHeight": "41.25px",
+        "margin": "8px 0px 0px",
+        "maxWidth": "720px",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "A",
+      "text": "",
+      "href": "/ar/destinations/",
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "74px",
+        "gap": "5px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "svg",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "path",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "path",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "15px",
+        "lineHeight": "29.25px",
+        "margin": "0px 0px 21px",
+        "maxWidth": "none",
+        "gap": "15px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "15px",
+        "lineHeight": "29.25px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "text": "02 / \u0639\u0644\u0649 \u0645\u0632\u0627\u062c\u0643",
+      "href": null,
+      "style": {
+        "fontSize": "9px",
+        "lineHeight": "17.55px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "\u0633\u064a\u0628 \u0645\u0632\u0627\u062c\u0643 \u064a\u062e\u062a\u0627\u0631.",
+      "href": null,
+      "style": {
+        "fontSize": "25px",
+        "lineHeight": "41.25px",
+        "margin": "8px 0px 0px",
+        "maxWidth": "720px",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "15px",
+        "lineHeight": "29.25px",
+        "margin": "0px 0px 21px",
+        "maxWidth": "none",
+        "gap": "15px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "15px",
+        "lineHeight": "29.25px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "text": "03 / \u0623\u0648\u0644 \u0627\u0644\u062e\u064a\u0637",
+      "href": null,
+      "style": {
+        "fontSize": "9px",
+        "lineHeight": "17.55px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "\u0641\u0643\u0631\u0629 \u0635\u063a\u064a\u0631\u0629. \u0631\u062d\u0644\u0629 \u0643\u0628\u064a\u0631\u0629.",
+      "href": null,
+      "style": {
+        "fontSize": "25px",
+        "lineHeight": "41.25px",
+        "margin": "8px 0px 0px",
+        "maxWidth": "720px",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "A",
+      "text": "",
+      "href": "/ar/trips/",
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "74px",
+        "gap": "5px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "svg",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "path",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "path",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "15px",
+        "lineHeight": "29.25px",
+        "margin": "0px 0px 21px",
+        "maxWidth": "none",
+        "gap": "15px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "15px",
+        "lineHeight": "29.25px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "text": "04 / \u0639\u0644\u0649 \u0627\u0644\u0642\u0627\u0626\u0645\u0629",
+      "href": null,
+      "style": {
+        "fontSize": "9px",
+        "lineHeight": "17.55px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "\u0623\u0645\u0627\u0643\u0646 \u062a\u062a\u0634\u0627\u0641. \u0648\u062a\u062a\u0639\u0627\u0634.",
+      "href": null,
+      "style": {
+        "fontSize": "25px",
+        "lineHeight": "41.25px",
+        "margin": "8px 0px 0px",
+        "maxWidth": "720px",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "A",
+      "text": "",
+      "href": "/ar/explore/",
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "74px",
+        "gap": "5px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "svg",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "path",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "path",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    }
+  ],
+  "ar-600-destinations/cairo/": [
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "15px",
+        "lineHeight": "29.25px",
+        "margin": "0px 0px 5px",
+        "maxWidth": "none",
+        "gap": "12px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "\u0623\u0645\u0627\u0643\u0646 \u062a\u0628\u062f\u0623 \u0628\u064a\u0647\u0627",
+      "href": null,
+      "style": {
+        "fontSize": "21px",
+        "lineHeight": "34.65px",
+        "margin": "0px",
+        "maxWidth": "250px",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "15px",
+        "lineHeight": "29.25px",
+        "margin": "0px 0px 5px",
+        "maxWidth": "none",
+        "gap": "12px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "\u0641\u0643\u0631\u0629 \u0644\u0631\u062d\u0644\u062a\u0643",
+      "href": null,
+      "style": {
+        "fontSize": "21px",
+        "lineHeight": "34.65px",
+        "margin": "0px",
+        "maxWidth": "250px",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    }
+  ],
+  "en-600-": [
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "14px",
+        "lineHeight": "26.6px",
+        "margin": "0px 0px 21px",
+        "maxWidth": "none",
+        "gap": "15px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "14px",
+        "lineHeight": "26.6px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "text": "01 / FOLLOW YOUR CURIOSITY",
+      "href": null,
+      "style": {
+        "fontSize": "9px",
+        "lineHeight": "17.1px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "1.5px"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "Different places. Different experiences.",
+      "href": null,
+      "style": {
+        "fontSize": "25px",
+        "lineHeight": "40px",
+        "margin": "8px 0px 0px",
+        "maxWidth": "720px",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "A",
+      "text": "",
+      "href": "/en/destinations/",
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "74px",
+        "gap": "5px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "svg",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "path",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "path",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "14px",
+        "lineHeight": "26.6px",
+        "margin": "0px 0px 21px",
+        "maxWidth": "none",
+        "gap": "15px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "14px",
+        "lineHeight": "26.6px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "text": "02 / YOUR KIND OF DAY",
+      "href": null,
+      "style": {
+        "fontSize": "9px",
+        "lineHeight": "17.1px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "1.5px"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "Go with the feeling.",
+      "href": null,
+      "style": {
+        "fontSize": "25px",
+        "lineHeight": "40px",
+        "margin": "8px 0px 0px",
+        "maxWidth": "720px",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "14px",
+        "lineHeight": "26.6px",
+        "margin": "0px 0px 21px",
+        "maxWidth": "none",
+        "gap": "15px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "14px",
+        "lineHeight": "26.6px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "text": "03 / A PLACE TO START",
+      "href": null,
+      "style": {
+        "fontSize": "9px",
+        "lineHeight": "17.1px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "1.5px"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "A small idea. A bigger journey.",
+      "href": null,
+      "style": {
+        "fontSize": "25px",
+        "lineHeight": "40px",
+        "margin": "8px 0px 0px",
+        "maxWidth": "720px",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "A",
+      "text": "",
+      "href": "/en/trips/",
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "74px",
+        "gap": "5px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "svg",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "path",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "path",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "14px",
+        "lineHeight": "26.6px",
+        "margin": "0px 0px 21px",
+        "maxWidth": "none",
+        "gap": "15px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "14px",
+        "lineHeight": "26.6px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "text": "04 / ON THE WISH LIST",
+      "href": null,
+      "style": {
+        "fontSize": "9px",
+        "lineHeight": "17.1px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "1.5px"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "Places to see. Places to feel.",
+      "href": null,
+      "style": {
+        "fontSize": "25px",
+        "lineHeight": "40px",
+        "margin": "8px 0px 0px",
+        "maxWidth": "720px",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "A",
+      "text": "",
+      "href": "/en/explore/",
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "74px",
+        "gap": "5px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "svg",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "path",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "path",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "17px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    }
+  ],
+  "en-600-destinations/cairo/": [
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "14px",
+        "lineHeight": "26.6px",
+        "margin": "0px 0px 5px",
+        "maxWidth": "none",
+        "gap": "12px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "Places to start",
+      "href": null,
+      "style": {
+        "fontSize": "21px",
+        "lineHeight": "31.5px",
+        "margin": "0px",
+        "maxWidth": "250px",
+        "gap": "normal",
+        "letterSpacing": "-0.525px"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "14px",
+        "lineHeight": "26.6px",
+        "margin": "0px 0px 5px",
+        "maxWidth": "none",
+        "gap": "12px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "A plan to start from",
+      "href": null,
+      "style": {
+        "fontSize": "21px",
+        "lineHeight": "31.5px",
+        "margin": "0px",
+        "maxWidth": "250px",
+        "gap": "normal",
+        "letterSpacing": "-0.525px"
+      }
+    }
+  ],
+  "ar-601-": [
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "15px",
+        "lineHeight": "29.25px",
+        "margin": "0px 0px 30px",
+        "maxWidth": "none",
+        "gap": "25px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "15px",
+        "lineHeight": "29.25px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "text": "01 / \u0627\u062a\u0628\u0639 \u0641\u0636\u0648\u0644\u0643",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "19.5px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "\u0643\u0644 \u0645\u0643\u0627\u0646\u060c \u062a\u062c\u0631\u0628\u0629 \u0645\u062e\u062a\u0644\u0641\u0629.",
+      "href": null,
+      "style": {
+        "fontSize": "36px",
+        "lineHeight": "59.4px",
+        "margin": "10px 0px 0px",
+        "maxWidth": "720px",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "A",
+      "text": "",
+      "href": "/ar/destinations/",
+      "style": {
+        "fontSize": "13px",
+        "lineHeight": "25.35px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "12px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "svg",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "13px",
+        "lineHeight": "25.35px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "path",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "13px",
+        "lineHeight": "25.35px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "path",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "13px",
+        "lineHeight": "25.35px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "15px",
+        "lineHeight": "29.25px",
+        "margin": "0px 0px 30px",
+        "maxWidth": "none",
+        "gap": "25px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "15px",
+        "lineHeight": "29.25px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "text": "02 / \u0639\u0644\u0649 \u0645\u0632\u0627\u062c\u0643",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "19.5px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "\u0633\u064a\u0628 \u0645\u0632\u0627\u062c\u0643 \u064a\u062e\u062a\u0627\u0631.",
+      "href": null,
+      "style": {
+        "fontSize": "36px",
+        "lineHeight": "59.4px",
+        "margin": "10px 0px 0px",
+        "maxWidth": "720px",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "15px",
+        "lineHeight": "29.25px",
+        "margin": "0px 0px 30px",
+        "maxWidth": "none",
+        "gap": "25px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "15px",
+        "lineHeight": "29.25px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "text": "03 / \u0623\u0648\u0644 \u0627\u0644\u062e\u064a\u0637",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "19.5px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "\u0641\u0643\u0631\u0629 \u0635\u063a\u064a\u0631\u0629. \u0631\u062d\u0644\u0629 \u0643\u0628\u064a\u0631\u0629.",
+      "href": null,
+      "style": {
+        "fontSize": "36px",
+        "lineHeight": "59.4px",
+        "margin": "10px 0px 0px",
+        "maxWidth": "720px",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "A",
+      "text": "",
+      "href": "/ar/trips/",
+      "style": {
+        "fontSize": "13px",
+        "lineHeight": "25.35px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "12px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "svg",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "13px",
+        "lineHeight": "25.35px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "path",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "13px",
+        "lineHeight": "25.35px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "path",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "13px",
+        "lineHeight": "25.35px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "15px",
+        "lineHeight": "29.25px",
+        "margin": "0px 0px 30px",
+        "maxWidth": "none",
+        "gap": "25px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "15px",
+        "lineHeight": "29.25px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "text": "04 / \u0639\u0644\u0649 \u0627\u0644\u0642\u0627\u0626\u0645\u0629",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "19.5px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "\u0623\u0645\u0627\u0643\u0646 \u062a\u062a\u0634\u0627\u0641. \u0648\u062a\u062a\u0639\u0627\u0634.",
+      "href": null,
+      "style": {
+        "fontSize": "36px",
+        "lineHeight": "59.4px",
+        "margin": "10px 0px 0px",
+        "maxWidth": "720px",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "A",
+      "text": "",
+      "href": "/ar/explore/",
+      "style": {
+        "fontSize": "13px",
+        "lineHeight": "25.35px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "12px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "svg",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "13px",
+        "lineHeight": "25.35px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "path",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "13px",
+        "lineHeight": "25.35px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "path",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "13px",
+        "lineHeight": "25.35px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    }
+  ],
+  "ar-601-destinations/cairo/": [
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "15px",
+        "lineHeight": "29.25px",
+        "margin": "0px 0px 8px",
+        "maxWidth": "none",
+        "gap": "15px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "\u0623\u0645\u0627\u0643\u0646 \u062a\u0628\u062f\u0623 \u0628\u064a\u0647\u0627",
+      "href": null,
+      "style": {
+        "fontSize": "27px",
+        "lineHeight": "44.55px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "15px",
+        "lineHeight": "29.25px",
+        "margin": "0px 0px 8px",
+        "maxWidth": "none",
+        "gap": "15px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "\u0641\u0643\u0631\u0629 \u0644\u0631\u062d\u0644\u062a\u0643",
+      "href": null,
+      "style": {
+        "fontSize": "27px",
+        "lineHeight": "44.55px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    }
+  ],
+  "en-601-": [
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "15px",
+        "lineHeight": "28.5px",
+        "margin": "0px 0px 30px",
+        "maxWidth": "none",
+        "gap": "25px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "15px",
+        "lineHeight": "28.5px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "text": "01 / FOLLOW YOUR CURIOSITY",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "19px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "1.5px"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "Different places. Different experiences.",
+      "href": null,
+      "style": {
+        "fontSize": "36px",
+        "lineHeight": "52.2px",
+        "margin": "10px 0px 0px",
+        "maxWidth": "720px",
+        "gap": "normal",
+        "letterSpacing": "-1.1px"
+      }
+    },
+    {
+      "tag": "A",
+      "text": "",
+      "href": "/en/destinations/",
+      "style": {
+        "fontSize": "13px",
+        "lineHeight": "24.7px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "12px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "svg",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "13px",
+        "lineHeight": "24.7px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "path",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "13px",
+        "lineHeight": "24.7px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "path",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "13px",
+        "lineHeight": "24.7px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "15px",
+        "lineHeight": "28.5px",
+        "margin": "0px 0px 30px",
+        "maxWidth": "none",
+        "gap": "25px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "15px",
+        "lineHeight": "28.5px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "text": "02 / YOUR KIND OF DAY",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "19px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "1.5px"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "Go with the feeling.",
+      "href": null,
+      "style": {
+        "fontSize": "36px",
+        "lineHeight": "52.2px",
+        "margin": "10px 0px 0px",
+        "maxWidth": "720px",
+        "gap": "normal",
+        "letterSpacing": "-1.1px"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "15px",
+        "lineHeight": "28.5px",
+        "margin": "0px 0px 30px",
+        "maxWidth": "none",
+        "gap": "25px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "15px",
+        "lineHeight": "28.5px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "text": "03 / A PLACE TO START",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "19px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "1.5px"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "A small idea. A bigger journey.",
+      "href": null,
+      "style": {
+        "fontSize": "36px",
+        "lineHeight": "52.2px",
+        "margin": "10px 0px 0px",
+        "maxWidth": "720px",
+        "gap": "normal",
+        "letterSpacing": "-1.1px"
+      }
+    },
+    {
+      "tag": "A",
+      "text": "",
+      "href": "/en/trips/",
+      "style": {
+        "fontSize": "13px",
+        "lineHeight": "24.7px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "12px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "svg",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "13px",
+        "lineHeight": "24.7px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "path",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "13px",
+        "lineHeight": "24.7px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "path",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "13px",
+        "lineHeight": "24.7px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "15px",
+        "lineHeight": "28.5px",
+        "margin": "0px 0px 30px",
+        "maxWidth": "none",
+        "gap": "25px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "15px",
+        "lineHeight": "28.5px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "text": "04 / ON THE WISH LIST",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "19px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "1.5px"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "Places to see. Places to feel.",
+      "href": null,
+      "style": {
+        "fontSize": "36px",
+        "lineHeight": "52.2px",
+        "margin": "10px 0px 0px",
+        "maxWidth": "720px",
+        "gap": "normal",
+        "letterSpacing": "-1.1px"
+      }
+    },
+    {
+      "tag": "A",
+      "text": "",
+      "href": "/en/explore/",
+      "style": {
+        "fontSize": "13px",
+        "lineHeight": "24.7px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "12px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "svg",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "13px",
+        "lineHeight": "24.7px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "path",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "13px",
+        "lineHeight": "24.7px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "path",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "13px",
+        "lineHeight": "24.7px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    }
+  ],
+  "en-601-destinations/cairo/": [
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "15px",
+        "lineHeight": "28.5px",
+        "margin": "0px 0px 8px",
+        "maxWidth": "none",
+        "gap": "15px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "Places to start",
+      "href": null,
+      "style": {
+        "fontSize": "27px",
+        "lineHeight": "40.5px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "-0.675px"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "15px",
+        "lineHeight": "28.5px",
+        "margin": "0px 0px 8px",
+        "maxWidth": "none",
+        "gap": "15px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "A plan to start from",
+      "href": null,
+      "style": {
+        "fontSize": "27px",
+        "lineHeight": "40.5px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "-0.675px"
+      }
+    }
+  ],
+  "ar-1280-": [
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "15px",
+        "lineHeight": "29.25px",
+        "margin": "0px 0px 30px",
+        "maxWidth": "none",
+        "gap": "25px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "15px",
+        "lineHeight": "29.25px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "text": "01 / \u0627\u062a\u0628\u0639 \u0641\u0636\u0648\u0644\u0643",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "19.5px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "\u0643\u0644 \u0645\u0643\u0627\u0646\u060c \u062a\u062c\u0631\u0628\u0629 \u0645\u062e\u062a\u0644\u0641\u0629.",
+      "href": null,
+      "style": {
+        "fontSize": "36px",
+        "lineHeight": "59.4px",
+        "margin": "10px 0px 0px",
+        "maxWidth": "720px",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "A",
+      "text": "",
+      "href": "/ar/destinations/",
+      "style": {
+        "fontSize": "13px",
+        "lineHeight": "25.35px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "12px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "svg",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "13px",
+        "lineHeight": "25.35px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "path",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "13px",
+        "lineHeight": "25.35px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "path",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "13px",
+        "lineHeight": "25.35px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "15px",
+        "lineHeight": "29.25px",
+        "margin": "0px 0px 30px",
+        "maxWidth": "none",
+        "gap": "25px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "15px",
+        "lineHeight": "29.25px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "text": "02 / \u0639\u0644\u0649 \u0645\u0632\u0627\u062c\u0643",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "19.5px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "\u0633\u064a\u0628 \u0645\u0632\u0627\u062c\u0643 \u064a\u062e\u062a\u0627\u0631.",
+      "href": null,
+      "style": {
+        "fontSize": "36px",
+        "lineHeight": "59.4px",
+        "margin": "10px 0px 0px",
+        "maxWidth": "720px",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "15px",
+        "lineHeight": "29.25px",
+        "margin": "0px 0px 30px",
+        "maxWidth": "none",
+        "gap": "25px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "15px",
+        "lineHeight": "29.25px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "text": "03 / \u0623\u0648\u0644 \u0627\u0644\u062e\u064a\u0637",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "19.5px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "\u0641\u0643\u0631\u0629 \u0635\u063a\u064a\u0631\u0629. \u0631\u062d\u0644\u0629 \u0643\u0628\u064a\u0631\u0629.",
+      "href": null,
+      "style": {
+        "fontSize": "36px",
+        "lineHeight": "59.4px",
+        "margin": "10px 0px 0px",
+        "maxWidth": "720px",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "A",
+      "text": "",
+      "href": "/ar/trips/",
+      "style": {
+        "fontSize": "13px",
+        "lineHeight": "25.35px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "12px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "svg",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "13px",
+        "lineHeight": "25.35px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "path",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "13px",
+        "lineHeight": "25.35px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "path",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "13px",
+        "lineHeight": "25.35px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "15px",
+        "lineHeight": "29.25px",
+        "margin": "0px 0px 30px",
+        "maxWidth": "none",
+        "gap": "25px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "15px",
+        "lineHeight": "29.25px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "text": "04 / \u0639\u0644\u0649 \u0627\u0644\u0642\u0627\u0626\u0645\u0629",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "19.5px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "\u0623\u0645\u0627\u0643\u0646 \u062a\u062a\u0634\u0627\u0641. \u0648\u062a\u062a\u0639\u0627\u0634.",
+      "href": null,
+      "style": {
+        "fontSize": "36px",
+        "lineHeight": "59.4px",
+        "margin": "10px 0px 0px",
+        "maxWidth": "720px",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "A",
+      "text": "",
+      "href": "/ar/explore/",
+      "style": {
+        "fontSize": "13px",
+        "lineHeight": "25.35px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "12px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "svg",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "13px",
+        "lineHeight": "25.35px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "path",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "13px",
+        "lineHeight": "25.35px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "path",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "13px",
+        "lineHeight": "25.35px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    }
+  ],
+  "ar-1280--print": [
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "13.3333px",
+        "lineHeight": "26px",
+        "margin": "0px 0px 30px",
+        "maxWidth": "none",
+        "gap": "25px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "13.3333px",
+        "lineHeight": "26px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "text": "01 / \u0627\u062a\u0628\u0639 \u0641\u0636\u0648\u0644\u0643",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "19.5px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "\u0643\u0644 \u0645\u0643\u0627\u0646\u060c \u062a\u062c\u0631\u0628\u0629 \u0645\u062e\u062a\u0644\u0641\u0629.",
+      "href": null,
+      "style": {
+        "fontSize": "22.6667px",
+        "lineHeight": "37.4px",
+        "margin": "10px 0px 0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "A",
+      "text": "",
+      "href": "/ar/destinations/",
+      "style": {
+        "fontSize": "13px",
+        "lineHeight": "25.35px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "12px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "svg",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "13px",
+        "lineHeight": "25.35px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "path",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "13px",
+        "lineHeight": "25.35px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "path",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "13px",
+        "lineHeight": "25.35px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "13.3333px",
+        "lineHeight": "26px",
+        "margin": "0px 0px 30px",
+        "maxWidth": "none",
+        "gap": "25px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "13.3333px",
+        "lineHeight": "26px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "text": "02 / \u0639\u0644\u0649 \u0645\u0632\u0627\u062c\u0643",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "19.5px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "\u0633\u064a\u0628 \u0645\u0632\u0627\u062c\u0643 \u064a\u062e\u062a\u0627\u0631.",
+      "href": null,
+      "style": {
+        "fontSize": "22.6667px",
+        "lineHeight": "37.4px",
+        "margin": "10px 0px 0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "13.3333px",
+        "lineHeight": "26px",
+        "margin": "0px 0px 30px",
+        "maxWidth": "none",
+        "gap": "25px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "13.3333px",
+        "lineHeight": "26px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "text": "03 / \u0623\u0648\u0644 \u0627\u0644\u062e\u064a\u0637",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "19.5px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "\u0641\u0643\u0631\u0629 \u0635\u063a\u064a\u0631\u0629. \u0631\u062d\u0644\u0629 \u0643\u0628\u064a\u0631\u0629.",
+      "href": null,
+      "style": {
+        "fontSize": "22.6667px",
+        "lineHeight": "37.4px",
+        "margin": "10px 0px 0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "A",
+      "text": "",
+      "href": "/ar/trips/",
+      "style": {
+        "fontSize": "13px",
+        "lineHeight": "25.35px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "12px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "svg",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "13px",
+        "lineHeight": "25.35px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "path",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "13px",
+        "lineHeight": "25.35px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "path",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "13px",
+        "lineHeight": "25.35px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "13.3333px",
+        "lineHeight": "26px",
+        "margin": "0px 0px 30px",
+        "maxWidth": "none",
+        "gap": "25px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "13.3333px",
+        "lineHeight": "26px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "text": "04 / \u0639\u0644\u0649 \u0627\u0644\u0642\u0627\u0626\u0645\u0629",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "19.5px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "\u0623\u0645\u0627\u0643\u0646 \u062a\u062a\u0634\u0627\u0641. \u0648\u062a\u062a\u0639\u0627\u0634.",
+      "href": null,
+      "style": {
+        "fontSize": "22.6667px",
+        "lineHeight": "37.4px",
+        "margin": "10px 0px 0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "A",
+      "text": "",
+      "href": "/ar/explore/",
+      "style": {
+        "fontSize": "13px",
+        "lineHeight": "25.35px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "12px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "svg",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "13px",
+        "lineHeight": "25.35px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "path",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "13px",
+        "lineHeight": "25.35px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "path",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "13px",
+        "lineHeight": "25.35px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    }
+  ],
+  "ar-1280-destinations/cairo/": [
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "15px",
+        "lineHeight": "29.25px",
+        "margin": "0px 0px 8px",
+        "maxWidth": "none",
+        "gap": "15px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "\u0623\u0645\u0627\u0643\u0646 \u062a\u0628\u062f\u0623 \u0628\u064a\u0647\u0627",
+      "href": null,
+      "style": {
+        "fontSize": "27px",
+        "lineHeight": "44.55px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "15px",
+        "lineHeight": "29.25px",
+        "margin": "0px 0px 8px",
+        "maxWidth": "none",
+        "gap": "15px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "\u0641\u0643\u0631\u0629 \u0644\u0631\u062d\u0644\u062a\u0643",
+      "href": null,
+      "style": {
+        "fontSize": "27px",
+        "lineHeight": "44.55px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    }
+  ],
+  "ar-1280-destinations/cairo/-print": [
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "13.3333px",
+        "lineHeight": "26px",
+        "margin": "0px 0px 8px",
+        "maxWidth": "none",
+        "gap": "15px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "\u0623\u0645\u0627\u0643\u0646 \u062a\u0628\u062f\u0623 \u0628\u064a\u0647\u0627",
+      "href": null,
+      "style": {
+        "fontSize": "22.6667px",
+        "lineHeight": "37.4px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "13.3333px",
+        "lineHeight": "26px",
+        "margin": "0px 0px 8px",
+        "maxWidth": "none",
+        "gap": "15px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "\u0641\u0643\u0631\u0629 \u0644\u0631\u062d\u0644\u062a\u0643",
+      "href": null,
+      "style": {
+        "fontSize": "22.6667px",
+        "lineHeight": "37.4px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    }
+  ],
+  "en-1280-": [
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "15px",
+        "lineHeight": "28.5px",
+        "margin": "0px 0px 30px",
+        "maxWidth": "none",
+        "gap": "25px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "15px",
+        "lineHeight": "28.5px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "text": "01 / FOLLOW YOUR CURIOSITY",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "19px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "1.5px"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "Different places. Different experiences.",
+      "href": null,
+      "style": {
+        "fontSize": "36px",
+        "lineHeight": "52.2px",
+        "margin": "10px 0px 0px",
+        "maxWidth": "720px",
+        "gap": "normal",
+        "letterSpacing": "-1.1px"
+      }
+    },
+    {
+      "tag": "A",
+      "text": "",
+      "href": "/en/destinations/",
+      "style": {
+        "fontSize": "13px",
+        "lineHeight": "24.7px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "12px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "svg",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "13px",
+        "lineHeight": "24.7px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "path",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "13px",
+        "lineHeight": "24.7px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "path",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "13px",
+        "lineHeight": "24.7px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "15px",
+        "lineHeight": "28.5px",
+        "margin": "0px 0px 30px",
+        "maxWidth": "none",
+        "gap": "25px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "15px",
+        "lineHeight": "28.5px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "text": "02 / YOUR KIND OF DAY",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "19px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "1.5px"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "Go with the feeling.",
+      "href": null,
+      "style": {
+        "fontSize": "36px",
+        "lineHeight": "52.2px",
+        "margin": "10px 0px 0px",
+        "maxWidth": "720px",
+        "gap": "normal",
+        "letterSpacing": "-1.1px"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "15px",
+        "lineHeight": "28.5px",
+        "margin": "0px 0px 30px",
+        "maxWidth": "none",
+        "gap": "25px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "15px",
+        "lineHeight": "28.5px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "text": "03 / A PLACE TO START",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "19px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "1.5px"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "A small idea. A bigger journey.",
+      "href": null,
+      "style": {
+        "fontSize": "36px",
+        "lineHeight": "52.2px",
+        "margin": "10px 0px 0px",
+        "maxWidth": "720px",
+        "gap": "normal",
+        "letterSpacing": "-1.1px"
+      }
+    },
+    {
+      "tag": "A",
+      "text": "",
+      "href": "/en/trips/",
+      "style": {
+        "fontSize": "13px",
+        "lineHeight": "24.7px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "12px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "svg",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "13px",
+        "lineHeight": "24.7px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "path",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "13px",
+        "lineHeight": "24.7px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "path",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "13px",
+        "lineHeight": "24.7px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "15px",
+        "lineHeight": "28.5px",
+        "margin": "0px 0px 30px",
+        "maxWidth": "none",
+        "gap": "25px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "15px",
+        "lineHeight": "28.5px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "text": "04 / ON THE WISH LIST",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "19px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "1.5px"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "Places to see. Places to feel.",
+      "href": null,
+      "style": {
+        "fontSize": "36px",
+        "lineHeight": "52.2px",
+        "margin": "10px 0px 0px",
+        "maxWidth": "720px",
+        "gap": "normal",
+        "letterSpacing": "-1.1px"
+      }
+    },
+    {
+      "tag": "A",
+      "text": "",
+      "href": "/en/explore/",
+      "style": {
+        "fontSize": "13px",
+        "lineHeight": "24.7px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "12px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "svg",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "13px",
+        "lineHeight": "24.7px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "path",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "13px",
+        "lineHeight": "24.7px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "path",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "13px",
+        "lineHeight": "24.7px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    }
+  ],
+  "en-1280--print": [
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "15px",
+        "lineHeight": "28.5px",
+        "margin": "0px 0px 30px",
+        "maxWidth": "none",
+        "gap": "25px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "15px",
+        "lineHeight": "28.5px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "text": "01 / FOLLOW YOUR CURIOSITY",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "19px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "1.7px"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "Different places. Different experiences.",
+      "href": null,
+      "style": {
+        "fontSize": "37px",
+        "lineHeight": "59.2px",
+        "margin": "10px 0px 0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "-1.1px"
+      }
+    },
+    {
+      "tag": "A",
+      "text": "",
+      "href": "/en/destinations/",
+      "style": {
+        "fontSize": "13px",
+        "lineHeight": "24.7px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "12px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "svg",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "13px",
+        "lineHeight": "24.7px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "path",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "13px",
+        "lineHeight": "24.7px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "path",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "13px",
+        "lineHeight": "24.7px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "15px",
+        "lineHeight": "28.5px",
+        "margin": "0px 0px 30px",
+        "maxWidth": "none",
+        "gap": "25px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "15px",
+        "lineHeight": "28.5px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "text": "02 / YOUR KIND OF DAY",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "19px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "1.7px"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "Go with the feeling.",
+      "href": null,
+      "style": {
+        "fontSize": "37px",
+        "lineHeight": "59.2px",
+        "margin": "10px 0px 0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "-1.1px"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "15px",
+        "lineHeight": "28.5px",
+        "margin": "0px 0px 30px",
+        "maxWidth": "none",
+        "gap": "25px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "15px",
+        "lineHeight": "28.5px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "text": "03 / A PLACE TO START",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "19px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "1.7px"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "A small idea. A bigger journey.",
+      "href": null,
+      "style": {
+        "fontSize": "37px",
+        "lineHeight": "59.2px",
+        "margin": "10px 0px 0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "-1.1px"
+      }
+    },
+    {
+      "tag": "A",
+      "text": "",
+      "href": "/en/trips/",
+      "style": {
+        "fontSize": "13px",
+        "lineHeight": "24.7px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "12px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "svg",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "13px",
+        "lineHeight": "24.7px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "path",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "13px",
+        "lineHeight": "24.7px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "path",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "13px",
+        "lineHeight": "24.7px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "15px",
+        "lineHeight": "28.5px",
+        "margin": "0px 0px 30px",
+        "maxWidth": "none",
+        "gap": "25px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "15px",
+        "lineHeight": "28.5px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "text": "04 / ON THE WISH LIST",
+      "href": null,
+      "style": {
+        "fontSize": "10px",
+        "lineHeight": "19px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "1.7px"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "Places to see. Places to feel.",
+      "href": null,
+      "style": {
+        "fontSize": "37px",
+        "lineHeight": "59.2px",
+        "margin": "10px 0px 0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "-1.1px"
+      }
+    },
+    {
+      "tag": "A",
+      "text": "",
+      "href": "/en/explore/",
+      "style": {
+        "fontSize": "13px",
+        "lineHeight": "24.7px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "12px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "svg",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "13px",
+        "lineHeight": "24.7px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "path",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "13px",
+        "lineHeight": "24.7px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "path",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "13px",
+        "lineHeight": "24.7px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "normal"
+      }
+    }
+  ],
+  "en-1280-destinations/cairo/": [
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "15px",
+        "lineHeight": "28.5px",
+        "margin": "0px 0px 8px",
+        "maxWidth": "none",
+        "gap": "15px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "Places to start",
+      "href": null,
+      "style": {
+        "fontSize": "27px",
+        "lineHeight": "40.5px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "-0.675px"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "15px",
+        "lineHeight": "28.5px",
+        "margin": "0px 0px 8px",
+        "maxWidth": "none",
+        "gap": "15px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "A plan to start from",
+      "href": null,
+      "style": {
+        "fontSize": "27px",
+        "lineHeight": "40.5px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "-0.675px"
+      }
+    }
+  ],
+  "en-1280-destinations/cairo/-print": [
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "15px",
+        "lineHeight": "28.5px",
+        "margin": "0px 0px 8px",
+        "maxWidth": "none",
+        "gap": "15px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "Places to start",
+      "href": null,
+      "style": {
+        "fontSize": "27px",
+        "lineHeight": "40.5px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "-0.675px"
+      }
+    },
+    {
+      "tag": "DIV",
+      "text": "",
+      "href": null,
+      "style": {
+        "fontSize": "15px",
+        "lineHeight": "28.5px",
+        "margin": "0px 0px 8px",
+        "maxWidth": "none",
+        "gap": "15px",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "A plan to start from",
+      "href": null,
+      "style": {
+        "fontSize": "27px",
+        "lineHeight": "40.5px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "gap": "normal",
+        "letterSpacing": "-0.675px"
+      }
+    }
+  ]
+}
