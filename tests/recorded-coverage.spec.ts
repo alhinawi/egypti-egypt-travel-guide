@@ -14,3 +14,15 @@ for(const lang of ['ar','en'])test(`Arish film stays screen-only with linked adv
   await expect(page.locator('.ticket-box,.location-box')).toHaveCount(0);
   await expect(page.locator('iframe')).toHaveCount(0);
 });
+
+for(const lang of ['ar','en'])test(`Qift night film retains dated scope and external route ${lang}`,async({page})=>{
+  await page.setViewportSize({width:390,height:900});
+  await page.goto(`/${lang}/places/qift/`);
+  const tour=tours.find(t=>t.placeId==='qift')!;
+  const card=page.locator('.virtual-card');
+  await expect(card.locator('.virtual-title')).toHaveText(tour.title[lang as 'ar'|'en']);
+  await expect(card).toContainText(tour.scope[lang as 'ar'|'en']);
+  await expect(card.locator('a.primary-button')).toHaveAttribute('href',tour.url);
+  await expect(card.locator('iframe')).toHaveCount(0);
+  expect(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth)).toBe(false);
+});
