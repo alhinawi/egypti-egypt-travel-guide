@@ -1,0 +1,2234 @@
+{
+ "ar-390-destinations/": [
+  {
+   "fontSize": "15px",
+   "lineHeight": "29.25px",
+   "margin": "0px 0px 24px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "38px",
+   "lineHeight": "60.8px",
+   "margin": "5px 0px 12px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "13px",
+   "lineHeight": "26px",
+   "margin": "0px",
+   "maxWidth": "770px"
+  }
+ ],
+ "ar-390-destinations/-print": [
+  {
+   "fontSize": "13.3333px",
+   "lineHeight": "26px",
+   "margin": "0px 0px 24px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "38px",
+   "lineHeight": "60.8px",
+   "margin": "5px 0px 12px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "13px",
+   "lineHeight": "26px",
+   "margin": "0px",
+   "maxWidth": "770px"
+  }
+ ],
+ "ar-390-places/giza-pyramids/": [
+  {
+   "fontSize": "15px",
+   "lineHeight": "29.25px",
+   "margin": "0px 0px 24px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "38px",
+   "lineHeight": "60.8px",
+   "margin": "5px 0px 12px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "18px",
+   "lineHeight": "36px",
+   "margin": "10px 0px 18px",
+   "maxWidth": "770px"
+  }
+ ],
+ "ar-390-places/giza-pyramids/-print": [
+  {
+   "fontSize": "13.3333px",
+   "lineHeight": "26px",
+   "margin": "0px 0px 24px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "38px",
+   "lineHeight": "60.8px",
+   "margin": "5px 0px 12px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "18px",
+   "lineHeight": "36px",
+   "margin": "10px 0px 18px",
+   "maxWidth": "770px"
+  }
+ ],
+ "ar-390-trips/": [
+  {
+   "fontSize": "15px",
+   "lineHeight": "29.25px",
+   "margin": "0px 0px 24px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "38px",
+   "lineHeight": "60.8px",
+   "margin": "5px 0px 12px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "13px",
+   "lineHeight": "26px",
+   "margin": "0px",
+   "maxWidth": "770px"
+  }
+ ],
+ "ar-390-trips/-print": [
+  {
+   "fontSize": "13.3333px",
+   "lineHeight": "26px",
+   "margin": "0px 0px 24px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "38px",
+   "lineHeight": "60.8px",
+   "margin": "5px 0px 12px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "13px",
+   "lineHeight": "26px",
+   "margin": "0px",
+   "maxWidth": "770px"
+  }
+ ],
+ "ar-390-trips/cairo-four-day-program/": [
+  {
+   "fontSize": "15px",
+   "lineHeight": "29.25px",
+   "margin": "0px 0px 20px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "38px",
+   "lineHeight": "62.7px",
+   "margin": "12px 0px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "12px",
+   "lineHeight": "24px",
+   "margin": "0px",
+   "maxWidth": "700px"
+  }
+ ],
+ "ar-390-trips/cairo-four-day-program/-print": [
+  {
+   "fontSize": "13.3333px",
+   "lineHeight": "26px",
+   "margin": "0px 0px 15px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "38px",
+   "lineHeight": "62.7px",
+   "margin": "5px 0px 12px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "11px",
+   "lineHeight": "22px",
+   "margin": "0px",
+   "maxWidth": "none"
+  }
+ ],
+ "ar-390-saved/": [
+  {
+   "fontSize": "15px",
+   "lineHeight": "29.25px",
+   "margin": "0px 0px 24px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "38px",
+   "lineHeight": "60.8px",
+   "margin": "5px 0px 12px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "13px",
+   "lineHeight": "26px",
+   "margin": "0px",
+   "maxWidth": "770px"
+  }
+ ],
+ "ar-390-saved/-print": [
+  {
+   "fontSize": "13.3333px",
+   "lineHeight": "26px",
+   "margin": "0px 0px 24px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "38px",
+   "lineHeight": "60.8px",
+   "margin": "5px 0px 12px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "13px",
+   "lineHeight": "26px",
+   "margin": "0px",
+   "maxWidth": "770px"
+  }
+ ],
+ "ar-390-virtual-tours/": [
+  {
+   "fontSize": "15px",
+   "lineHeight": "29.25px",
+   "margin": "0px 0px 24px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "38px",
+   "lineHeight": "60.8px",
+   "margin": "5px 0px 12px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "13px",
+   "lineHeight": "26px",
+   "margin": "0px",
+   "maxWidth": "770px"
+  }
+ ],
+ "ar-390-virtual-tours/-print": [
+  {
+   "fontSize": "13.3333px",
+   "lineHeight": "26px",
+   "margin": "0px 0px 24px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "38px",
+   "lineHeight": "60.8px",
+   "margin": "5px 0px 12px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "13px",
+   "lineHeight": "26px",
+   "margin": "0px",
+   "maxWidth": "770px"
+  }
+ ],
+ "ar-390-encyclopedia/": [
+  {
+   "fontSize": "15px",
+   "lineHeight": "29.25px",
+   "margin": "0px 0px 24px",
+   "maxWidth": "850px"
+  },
+  {
+   "fontSize": "38px",
+   "lineHeight": "60.8px",
+   "margin": "5px 0px 12px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "13px",
+   "lineHeight": "26px",
+   "margin": "0px",
+   "maxWidth": "770px"
+  }
+ ],
+ "ar-390-encyclopedia/-print": [
+  {
+   "fontSize": "13.3333px",
+   "lineHeight": "26px",
+   "margin": "0px 0px 24px",
+   "maxWidth": "850px"
+  },
+  {
+   "fontSize": "38px",
+   "lineHeight": "60.8px",
+   "margin": "5px 0px 12px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "13px",
+   "lineHeight": "26px",
+   "margin": "0px",
+   "maxWidth": "770px"
+  }
+ ],
+ "ar-390-governorates/": [
+  {
+   "fontSize": "15px",
+   "lineHeight": "29.25px",
+   "margin": "0px 0px 24px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "38px",
+   "lineHeight": "60.8px",
+   "margin": "5px 0px 12px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "13px",
+   "lineHeight": "26px",
+   "margin": "0px",
+   "maxWidth": "770px"
+  }
+ ],
+ "ar-390-governorates/-print": [
+  {
+   "fontSize": "13.3333px",
+   "lineHeight": "26px",
+   "margin": "0px 0px 24px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "38px",
+   "lineHeight": "60.8px",
+   "margin": "5px 0px 12px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "13px",
+   "lineHeight": "26px",
+   "margin": "0px",
+   "maxWidth": "770px"
+  }
+ ],
+ "ar-390-guides/": [
+  {
+   "fontSize": "15px",
+   "lineHeight": "29.25px",
+   "margin": "0px 0px 24px",
+   "maxWidth": "850px"
+  },
+  {
+   "fontSize": "38px",
+   "lineHeight": "60.8px",
+   "margin": "5px 0px 12px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "13px",
+   "lineHeight": "26px",
+   "margin": "0px",
+   "maxWidth": "770px"
+  },
+  {
+   "fontSize": "12px",
+   "lineHeight": "22.8px",
+   "margin": "18px 0px 0px",
+   "maxWidth": "770px"
+  }
+ ],
+ "ar-390-guides/-print": [
+  {
+   "fontSize": "13.3333px",
+   "lineHeight": "26px",
+   "margin": "0px 0px 24px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "38px",
+   "lineHeight": "60.8px",
+   "margin": "5px 0px 12px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "13px",
+   "lineHeight": "26px",
+   "margin": "0px",
+   "maxWidth": "770px"
+  },
+  {
+   "fontSize": "13px",
+   "lineHeight": "26px",
+   "margin": "0px",
+   "maxWidth": "770px"
+  }
+ ],
+ "en-390-destinations/": [
+  {
+   "fontSize": "14px",
+   "lineHeight": "26.6px",
+   "margin": "0px 0px 24px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "34px",
+   "lineHeight": "47.6px",
+   "margin": "5px 0px 12px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "13px",
+   "lineHeight": "26px",
+   "margin": "0px",
+   "maxWidth": "770px"
+  }
+ ],
+ "en-390-destinations/-print": [
+  {
+   "fontSize": "14px",
+   "lineHeight": "26.6px",
+   "margin": "0px 0px 24px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "34px",
+   "lineHeight": "47.6px",
+   "margin": "5px 0px 12px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "13px",
+   "lineHeight": "26px",
+   "margin": "0px",
+   "maxWidth": "770px"
+  }
+ ],
+ "en-390-places/giza-pyramids/": [
+  {
+   "fontSize": "14px",
+   "lineHeight": "26.6px",
+   "margin": "0px 0px 24px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "34px",
+   "lineHeight": "47.6px",
+   "margin": "5px 0px 12px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "18px",
+   "lineHeight": "36px",
+   "margin": "10px 0px 18px",
+   "maxWidth": "770px"
+  }
+ ],
+ "en-390-places/giza-pyramids/-print": [
+  {
+   "fontSize": "14px",
+   "lineHeight": "26.6px",
+   "margin": "0px 0px 24px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "34px",
+   "lineHeight": "47.6px",
+   "margin": "5px 0px 12px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "18px",
+   "lineHeight": "36px",
+   "margin": "10px 0px 18px",
+   "maxWidth": "770px"
+  }
+ ],
+ "en-390-trips/": [
+  {
+   "fontSize": "14px",
+   "lineHeight": "26.6px",
+   "margin": "0px 0px 24px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "34px",
+   "lineHeight": "47.6px",
+   "margin": "5px 0px 12px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "13px",
+   "lineHeight": "26px",
+   "margin": "0px",
+   "maxWidth": "770px"
+  }
+ ],
+ "en-390-trips/-print": [
+  {
+   "fontSize": "14px",
+   "lineHeight": "26.6px",
+   "margin": "0px 0px 24px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "34px",
+   "lineHeight": "47.6px",
+   "margin": "5px 0px 12px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "13px",
+   "lineHeight": "26px",
+   "margin": "0px",
+   "maxWidth": "770px"
+  }
+ ],
+ "en-390-trips/cairo-four-day-program/": [
+  {
+   "fontSize": "14px",
+   "lineHeight": "26.6px",
+   "margin": "0px 0px 20px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "30px",
+   "lineHeight": "48px",
+   "margin": "12px 0px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "12px",
+   "lineHeight": "22.2px",
+   "margin": "0px",
+   "maxWidth": "700px"
+  }
+ ],
+ "en-390-trips/cairo-four-day-program/-print": [
+  {
+   "fontSize": "14px",
+   "lineHeight": "26.6px",
+   "margin": "0px 0px 15px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "26px",
+   "lineHeight": "36.4px",
+   "margin": "5px 0px 12px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "11px",
+   "lineHeight": "18.15px",
+   "margin": "0px",
+   "maxWidth": "none"
+  }
+ ],
+ "en-390-saved/": [
+  {
+   "fontSize": "14px",
+   "lineHeight": "26.6px",
+   "margin": "0px 0px 24px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "34px",
+   "lineHeight": "47.6px",
+   "margin": "5px 0px 12px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "13px",
+   "lineHeight": "26px",
+   "margin": "0px",
+   "maxWidth": "770px"
+  }
+ ],
+ "en-390-saved/-print": [
+  {
+   "fontSize": "14px",
+   "lineHeight": "26.6px",
+   "margin": "0px 0px 24px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "34px",
+   "lineHeight": "47.6px",
+   "margin": "5px 0px 12px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "13px",
+   "lineHeight": "26px",
+   "margin": "0px",
+   "maxWidth": "770px"
+  }
+ ],
+ "en-390-virtual-tours/": [
+  {
+   "fontSize": "14px",
+   "lineHeight": "26.6px",
+   "margin": "0px 0px 24px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "34px",
+   "lineHeight": "47.6px",
+   "margin": "5px 0px 12px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "13px",
+   "lineHeight": "26px",
+   "margin": "0px",
+   "maxWidth": "770px"
+  }
+ ],
+ "en-390-virtual-tours/-print": [
+  {
+   "fontSize": "14px",
+   "lineHeight": "26.6px",
+   "margin": "0px 0px 24px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "34px",
+   "lineHeight": "47.6px",
+   "margin": "5px 0px 12px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "13px",
+   "lineHeight": "26px",
+   "margin": "0px",
+   "maxWidth": "770px"
+  }
+ ],
+ "en-390-encyclopedia/": [
+  {
+   "fontSize": "14px",
+   "lineHeight": "26.6px",
+   "margin": "0px 0px 24px",
+   "maxWidth": "850px"
+  },
+  {
+   "fontSize": "32px",
+   "lineHeight": "44.8px",
+   "margin": "5px 0px 12px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "13px",
+   "lineHeight": "26px",
+   "margin": "0px",
+   "maxWidth": "770px"
+  }
+ ],
+ "en-390-encyclopedia/-print": [
+  {
+   "fontSize": "14px",
+   "lineHeight": "26.6px",
+   "margin": "0px 0px 24px",
+   "maxWidth": "850px"
+  },
+  {
+   "fontSize": "32px",
+   "lineHeight": "44.8px",
+   "margin": "5px 0px 12px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "13px",
+   "lineHeight": "26px",
+   "margin": "0px",
+   "maxWidth": "770px"
+  }
+ ],
+ "en-390-governorates/": [
+  {
+   "fontSize": "14px",
+   "lineHeight": "26.6px",
+   "margin": "0px 0px 24px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "34px",
+   "lineHeight": "47.6px",
+   "margin": "5px 0px 12px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "13px",
+   "lineHeight": "26px",
+   "margin": "0px",
+   "maxWidth": "770px"
+  }
+ ],
+ "en-390-governorates/-print": [
+  {
+   "fontSize": "14px",
+   "lineHeight": "26.6px",
+   "margin": "0px 0px 24px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "34px",
+   "lineHeight": "47.6px",
+   "margin": "5px 0px 12px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "13px",
+   "lineHeight": "26px",
+   "margin": "0px",
+   "maxWidth": "770px"
+  }
+ ],
+ "en-390-guides/": [
+  {
+   "fontSize": "14px",
+   "lineHeight": "26.6px",
+   "margin": "0px 0px 24px",
+   "maxWidth": "850px"
+  },
+  {
+   "fontSize": "34px",
+   "lineHeight": "51px",
+   "margin": "5px 0px 12px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "13px",
+   "lineHeight": "26px",
+   "margin": "0px",
+   "maxWidth": "770px"
+  },
+  {
+   "fontSize": "12px",
+   "lineHeight": "22.8px",
+   "margin": "18px 0px 0px",
+   "maxWidth": "770px"
+  }
+ ],
+ "en-390-guides/-print": [
+  {
+   "fontSize": "14px",
+   "lineHeight": "26.6px",
+   "margin": "0px 0px 24px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "34px",
+   "lineHeight": "47.6px",
+   "margin": "5px 0px 12px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "13px",
+   "lineHeight": "26px",
+   "margin": "0px",
+   "maxWidth": "770px"
+  },
+  {
+   "fontSize": "13px",
+   "lineHeight": "26px",
+   "margin": "0px",
+   "maxWidth": "770px"
+  }
+ ],
+ "ar-600-destinations/": [
+  {
+   "fontSize": "15px",
+   "lineHeight": "29.25px",
+   "margin": "0px 0px 24px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "38px",
+   "lineHeight": "60.8px",
+   "margin": "5px 0px 12px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "13px",
+   "lineHeight": "26px",
+   "margin": "0px",
+   "maxWidth": "770px"
+  }
+ ],
+ "ar-600-places/giza-pyramids/": [
+  {
+   "fontSize": "15px",
+   "lineHeight": "29.25px",
+   "margin": "0px 0px 24px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "38px",
+   "lineHeight": "60.8px",
+   "margin": "5px 0px 12px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "18px",
+   "lineHeight": "36px",
+   "margin": "10px 0px 18px",
+   "maxWidth": "770px"
+  }
+ ],
+ "ar-600-trips/": [
+  {
+   "fontSize": "15px",
+   "lineHeight": "29.25px",
+   "margin": "0px 0px 24px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "38px",
+   "lineHeight": "60.8px",
+   "margin": "5px 0px 12px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "13px",
+   "lineHeight": "26px",
+   "margin": "0px",
+   "maxWidth": "770px"
+  }
+ ],
+ "ar-600-trips/cairo-four-day-program/": [
+  {
+   "fontSize": "15px",
+   "lineHeight": "29.25px",
+   "margin": "0px 0px 20px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "38px",
+   "lineHeight": "62.7px",
+   "margin": "12px 0px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "12px",
+   "lineHeight": "24px",
+   "margin": "0px",
+   "maxWidth": "700px"
+  }
+ ],
+ "ar-600-saved/": [
+  {
+   "fontSize": "15px",
+   "lineHeight": "29.25px",
+   "margin": "0px 0px 24px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "38px",
+   "lineHeight": "60.8px",
+   "margin": "5px 0px 12px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "13px",
+   "lineHeight": "26px",
+   "margin": "0px",
+   "maxWidth": "770px"
+  }
+ ],
+ "ar-600-virtual-tours/": [
+  {
+   "fontSize": "15px",
+   "lineHeight": "29.25px",
+   "margin": "0px 0px 24px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "38px",
+   "lineHeight": "60.8px",
+   "margin": "5px 0px 12px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "13px",
+   "lineHeight": "26px",
+   "margin": "0px",
+   "maxWidth": "770px"
+  }
+ ],
+ "ar-600-encyclopedia/": [
+  {
+   "fontSize": "15px",
+   "lineHeight": "29.25px",
+   "margin": "0px 0px 24px",
+   "maxWidth": "850px"
+  },
+  {
+   "fontSize": "38px",
+   "lineHeight": "60.8px",
+   "margin": "5px 0px 12px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "13px",
+   "lineHeight": "26px",
+   "margin": "0px",
+   "maxWidth": "770px"
+  }
+ ],
+ "ar-600-governorates/": [
+  {
+   "fontSize": "15px",
+   "lineHeight": "29.25px",
+   "margin": "0px 0px 24px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "38px",
+   "lineHeight": "60.8px",
+   "margin": "5px 0px 12px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "13px",
+   "lineHeight": "26px",
+   "margin": "0px",
+   "maxWidth": "770px"
+  }
+ ],
+ "ar-600-guides/": [
+  {
+   "fontSize": "15px",
+   "lineHeight": "29.25px",
+   "margin": "0px 0px 24px",
+   "maxWidth": "850px"
+  },
+  {
+   "fontSize": "38px",
+   "lineHeight": "60.8px",
+   "margin": "5px 0px 12px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "13px",
+   "lineHeight": "26px",
+   "margin": "0px",
+   "maxWidth": "770px"
+  },
+  {
+   "fontSize": "12px",
+   "lineHeight": "22.8px",
+   "margin": "18px 0px 0px",
+   "maxWidth": "770px"
+  }
+ ],
+ "en-600-destinations/": [
+  {
+   "fontSize": "14px",
+   "lineHeight": "26.6px",
+   "margin": "0px 0px 24px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "34px",
+   "lineHeight": "47.6px",
+   "margin": "5px 0px 12px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "13px",
+   "lineHeight": "26px",
+   "margin": "0px",
+   "maxWidth": "770px"
+  }
+ ],
+ "en-600-places/giza-pyramids/": [
+  {
+   "fontSize": "14px",
+   "lineHeight": "26.6px",
+   "margin": "0px 0px 24px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "34px",
+   "lineHeight": "47.6px",
+   "margin": "5px 0px 12px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "18px",
+   "lineHeight": "36px",
+   "margin": "10px 0px 18px",
+   "maxWidth": "770px"
+  }
+ ],
+ "en-600-trips/": [
+  {
+   "fontSize": "14px",
+   "lineHeight": "26.6px",
+   "margin": "0px 0px 24px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "34px",
+   "lineHeight": "47.6px",
+   "margin": "5px 0px 12px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "13px",
+   "lineHeight": "26px",
+   "margin": "0px",
+   "maxWidth": "770px"
+  }
+ ],
+ "en-600-trips/cairo-four-day-program/": [
+  {
+   "fontSize": "14px",
+   "lineHeight": "26.6px",
+   "margin": "0px 0px 20px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "30px",
+   "lineHeight": "48px",
+   "margin": "12px 0px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "12px",
+   "lineHeight": "22.2px",
+   "margin": "0px",
+   "maxWidth": "700px"
+  }
+ ],
+ "en-600-saved/": [
+  {
+   "fontSize": "14px",
+   "lineHeight": "26.6px",
+   "margin": "0px 0px 24px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "34px",
+   "lineHeight": "47.6px",
+   "margin": "5px 0px 12px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "13px",
+   "lineHeight": "26px",
+   "margin": "0px",
+   "maxWidth": "770px"
+  }
+ ],
+ "en-600-virtual-tours/": [
+  {
+   "fontSize": "14px",
+   "lineHeight": "26.6px",
+   "margin": "0px 0px 24px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "34px",
+   "lineHeight": "47.6px",
+   "margin": "5px 0px 12px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "13px",
+   "lineHeight": "26px",
+   "margin": "0px",
+   "maxWidth": "770px"
+  }
+ ],
+ "en-600-encyclopedia/": [
+  {
+   "fontSize": "14px",
+   "lineHeight": "26.6px",
+   "margin": "0px 0px 24px",
+   "maxWidth": "850px"
+  },
+  {
+   "fontSize": "32px",
+   "lineHeight": "44.8px",
+   "margin": "5px 0px 12px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "13px",
+   "lineHeight": "26px",
+   "margin": "0px",
+   "maxWidth": "770px"
+  }
+ ],
+ "en-600-governorates/": [
+  {
+   "fontSize": "14px",
+   "lineHeight": "26.6px",
+   "margin": "0px 0px 24px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "34px",
+   "lineHeight": "47.6px",
+   "margin": "5px 0px 12px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "13px",
+   "lineHeight": "26px",
+   "margin": "0px",
+   "maxWidth": "770px"
+  }
+ ],
+ "en-600-guides/": [
+  {
+   "fontSize": "14px",
+   "lineHeight": "26.6px",
+   "margin": "0px 0px 24px",
+   "maxWidth": "850px"
+  },
+  {
+   "fontSize": "34px",
+   "lineHeight": "51px",
+   "margin": "5px 0px 12px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "13px",
+   "lineHeight": "26px",
+   "margin": "0px",
+   "maxWidth": "770px"
+  },
+  {
+   "fontSize": "12px",
+   "lineHeight": "22.8px",
+   "margin": "18px 0px 0px",
+   "maxWidth": "770px"
+  }
+ ],
+ "ar-601-destinations/": [
+  {
+   "fontSize": "15px",
+   "lineHeight": "29.25px",
+   "margin": "0px 0px 30px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "38px",
+   "lineHeight": "60.8px",
+   "margin": "9px 0px 15px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "15px",
+   "lineHeight": "30px",
+   "margin": "0px",
+   "maxWidth": "770px"
+  }
+ ],
+ "ar-601-places/giza-pyramids/": [
+  {
+   "fontSize": "15px",
+   "lineHeight": "29.25px",
+   "margin": "0px 0px 30px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "38px",
+   "lineHeight": "60.8px",
+   "margin": "9px 0px 15px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "18px",
+   "lineHeight": "36px",
+   "margin": "12px 0px 18px",
+   "maxWidth": "770px"
+  }
+ ],
+ "ar-601-trips/": [
+  {
+   "fontSize": "15px",
+   "lineHeight": "29.25px",
+   "margin": "0px 0px 30px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "38px",
+   "lineHeight": "60.8px",
+   "margin": "9px 0px 15px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "15px",
+   "lineHeight": "30px",
+   "margin": "0px",
+   "maxWidth": "770px"
+  }
+ ],
+ "ar-601-trips/cairo-four-day-program/": [
+  {
+   "fontSize": "15px",
+   "lineHeight": "29.25px",
+   "margin": "0px 0px 28px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "36px",
+   "lineHeight": "55.8px",
+   "margin": "15px 0px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "15px",
+   "lineHeight": "30px",
+   "margin": "0px",
+   "maxWidth": "700px"
+  }
+ ],
+ "ar-601-saved/": [
+  {
+   "fontSize": "15px",
+   "lineHeight": "29.25px",
+   "margin": "0px 0px 30px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "38px",
+   "lineHeight": "60.8px",
+   "margin": "9px 0px 15px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "15px",
+   "lineHeight": "30px",
+   "margin": "0px",
+   "maxWidth": "770px"
+  }
+ ],
+ "ar-601-virtual-tours/": [
+  {
+   "fontSize": "15px",
+   "lineHeight": "29.25px",
+   "margin": "0px 0px 30px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "38px",
+   "lineHeight": "60.8px",
+   "margin": "9px 0px 15px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "15px",
+   "lineHeight": "30px",
+   "margin": "0px",
+   "maxWidth": "770px"
+  }
+ ],
+ "ar-601-encyclopedia/": [
+  {
+   "fontSize": "15px",
+   "lineHeight": "29.25px",
+   "margin": "0px 0px 30px",
+   "maxWidth": "850px"
+  },
+  {
+   "fontSize": "38px",
+   "lineHeight": "60.8px",
+   "margin": "9px 0px 15px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "15px",
+   "lineHeight": "30px",
+   "margin": "0px",
+   "maxWidth": "770px"
+  }
+ ],
+ "ar-601-governorates/": [
+  {
+   "fontSize": "15px",
+   "lineHeight": "29.25px",
+   "margin": "0px 0px 30px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "38px",
+   "lineHeight": "60.8px",
+   "margin": "9px 0px 15px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "15px",
+   "lineHeight": "30px",
+   "margin": "0px",
+   "maxWidth": "770px"
+  }
+ ],
+ "ar-601-guides/": [
+  {
+   "fontSize": "15px",
+   "lineHeight": "29.25px",
+   "margin": "0px 0px 30px",
+   "maxWidth": "850px"
+  },
+  {
+   "fontSize": "38px",
+   "lineHeight": "60.8px",
+   "margin": "9px 0px 15px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "15px",
+   "lineHeight": "30px",
+   "margin": "0px",
+   "maxWidth": "770px"
+  },
+  {
+   "fontSize": "12px",
+   "lineHeight": "22.8px",
+   "margin": "18px 0px 0px",
+   "maxWidth": "770px"
+  }
+ ],
+ "en-601-destinations/": [
+  {
+   "fontSize": "15px",
+   "lineHeight": "28.5px",
+   "margin": "0px 0px 30px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "48px",
+   "lineHeight": "67.2px",
+   "margin": "9px 0px 15px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "15px",
+   "lineHeight": "29.25px",
+   "margin": "0px",
+   "maxWidth": "770px"
+  }
+ ],
+ "en-601-places/giza-pyramids/": [
+  {
+   "fontSize": "15px",
+   "lineHeight": "28.5px",
+   "margin": "0px 0px 30px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "48px",
+   "lineHeight": "67.2px",
+   "margin": "9px 0px 15px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "18px",
+   "lineHeight": "36px",
+   "margin": "12px 0px 18px",
+   "maxWidth": "770px"
+  }
+ ],
+ "en-601-trips/": [
+  {
+   "fontSize": "15px",
+   "lineHeight": "28.5px",
+   "margin": "0px 0px 30px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "48px",
+   "lineHeight": "67.2px",
+   "margin": "9px 0px 15px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "15px",
+   "lineHeight": "29.25px",
+   "margin": "0px",
+   "maxWidth": "770px"
+  }
+ ],
+ "en-601-trips/cairo-four-day-program/": [
+  {
+   "fontSize": "15px",
+   "lineHeight": "28.5px",
+   "margin": "0px 0px 28px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "32px",
+   "lineHeight": "46.4px",
+   "margin": "15px 0px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "15px",
+   "lineHeight": "27.75px",
+   "margin": "0px",
+   "maxWidth": "700px"
+  }
+ ],
+ "en-601-saved/": [
+  {
+   "fontSize": "15px",
+   "lineHeight": "28.5px",
+   "margin": "0px 0px 30px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "48px",
+   "lineHeight": "67.2px",
+   "margin": "9px 0px 15px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "15px",
+   "lineHeight": "29.25px",
+   "margin": "0px",
+   "maxWidth": "770px"
+  }
+ ],
+ "en-601-virtual-tours/": [
+  {
+   "fontSize": "15px",
+   "lineHeight": "28.5px",
+   "margin": "0px 0px 30px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "48px",
+   "lineHeight": "67.2px",
+   "margin": "9px 0px 15px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "15px",
+   "lineHeight": "29.25px",
+   "margin": "0px",
+   "maxWidth": "770px"
+  }
+ ],
+ "en-601-encyclopedia/": [
+  {
+   "fontSize": "15px",
+   "lineHeight": "28.5px",
+   "margin": "0px 0px 30px",
+   "maxWidth": "850px"
+  },
+  {
+   "fontSize": "32px",
+   "lineHeight": "44.8px",
+   "margin": "9px 0px 15px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "15px",
+   "lineHeight": "29.25px",
+   "margin": "0px",
+   "maxWidth": "770px"
+  }
+ ],
+ "en-601-governorates/": [
+  {
+   "fontSize": "15px",
+   "lineHeight": "28.5px",
+   "margin": "0px 0px 30px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "48px",
+   "lineHeight": "67.2px",
+   "margin": "9px 0px 15px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "15px",
+   "lineHeight": "29.25px",
+   "margin": "0px",
+   "maxWidth": "770px"
+  }
+ ],
+ "en-601-guides/": [
+  {
+   "fontSize": "15px",
+   "lineHeight": "28.5px",
+   "margin": "0px 0px 30px",
+   "maxWidth": "850px"
+  },
+  {
+   "fontSize": "34px",
+   "lineHeight": "51px",
+   "margin": "9px 0px 15px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "15px",
+   "lineHeight": "29.25px",
+   "margin": "0px",
+   "maxWidth": "770px"
+  },
+  {
+   "fontSize": "12px",
+   "lineHeight": "22.8px",
+   "margin": "18px 0px 0px",
+   "maxWidth": "770px"
+  }
+ ],
+ "ar-1280-destinations/": [
+  {
+   "fontSize": "15px",
+   "lineHeight": "29.25px",
+   "margin": "0px 0px 30px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "60px",
+   "lineHeight": "96px",
+   "margin": "9px 0px 15px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "15px",
+   "lineHeight": "30px",
+   "margin": "0px",
+   "maxWidth": "770px"
+  }
+ ],
+ "ar-1280-destinations/-print": [
+  {
+   "fontSize": "13.3333px",
+   "lineHeight": "26px",
+   "margin": "0px 0px 30px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "60px",
+   "lineHeight": "96px",
+   "margin": "9px 0px 15px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "15px",
+   "lineHeight": "30px",
+   "margin": "0px",
+   "maxWidth": "770px"
+  }
+ ],
+ "ar-1280-places/giza-pyramids/": [
+  {
+   "fontSize": "15px",
+   "lineHeight": "29.25px",
+   "margin": "0px 0px 30px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "60px",
+   "lineHeight": "96px",
+   "margin": "9px 0px 15px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "18px",
+   "lineHeight": "36px",
+   "margin": "12px 0px 18px",
+   "maxWidth": "770px"
+  }
+ ],
+ "ar-1280-places/giza-pyramids/-print": [
+  {
+   "fontSize": "13.3333px",
+   "lineHeight": "26px",
+   "margin": "0px 0px 30px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "60px",
+   "lineHeight": "96px",
+   "margin": "9px 0px 15px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "18px",
+   "lineHeight": "36px",
+   "margin": "12px 0px 18px",
+   "maxWidth": "770px"
+  }
+ ],
+ "ar-1280-trips/": [
+  {
+   "fontSize": "15px",
+   "lineHeight": "29.25px",
+   "margin": "0px 0px 30px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "60px",
+   "lineHeight": "96px",
+   "margin": "9px 0px 15px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "15px",
+   "lineHeight": "30px",
+   "margin": "0px",
+   "maxWidth": "770px"
+  }
+ ],
+ "ar-1280-trips/-print": [
+  {
+   "fontSize": "13.3333px",
+   "lineHeight": "26px",
+   "margin": "0px 0px 30px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "60px",
+   "lineHeight": "96px",
+   "margin": "9px 0px 15px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "15px",
+   "lineHeight": "30px",
+   "margin": "0px",
+   "maxWidth": "770px"
+  }
+ ],
+ "ar-1280-trips/cairo-four-day-program/": [
+  {
+   "fontSize": "15px",
+   "lineHeight": "29.25px",
+   "margin": "0px 0px 28px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "57.6px",
+   "lineHeight": "89.28px",
+   "margin": "15px 0px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "15px",
+   "lineHeight": "30px",
+   "margin": "0px",
+   "maxWidth": "700px"
+  }
+ ],
+ "ar-1280-trips/cairo-four-day-program/-print": [
+  {
+   "fontSize": "13.3333px",
+   "lineHeight": "26px",
+   "margin": "0px 0px 15px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "57.6px",
+   "lineHeight": "89.28px",
+   "margin": "9px 0px 15px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "11px",
+   "lineHeight": "22px",
+   "margin": "0px",
+   "maxWidth": "none"
+  }
+ ],
+ "ar-1280-saved/": [
+  {
+   "fontSize": "15px",
+   "lineHeight": "29.25px",
+   "margin": "0px 0px 30px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "60px",
+   "lineHeight": "96px",
+   "margin": "9px 0px 15px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "15px",
+   "lineHeight": "30px",
+   "margin": "0px",
+   "maxWidth": "770px"
+  }
+ ],
+ "ar-1280-saved/-print": [
+  {
+   "fontSize": "13.3333px",
+   "lineHeight": "26px",
+   "margin": "0px 0px 30px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "60px",
+   "lineHeight": "96px",
+   "margin": "9px 0px 15px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "15px",
+   "lineHeight": "30px",
+   "margin": "0px",
+   "maxWidth": "770px"
+  }
+ ],
+ "ar-1280-virtual-tours/": [
+  {
+   "fontSize": "15px",
+   "lineHeight": "29.25px",
+   "margin": "0px 0px 30px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "60px",
+   "lineHeight": "96px",
+   "margin": "9px 0px 15px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "15px",
+   "lineHeight": "30px",
+   "margin": "0px",
+   "maxWidth": "770px"
+  }
+ ],
+ "ar-1280-virtual-tours/-print": [
+  {
+   "fontSize": "13.3333px",
+   "lineHeight": "26px",
+   "margin": "0px 0px 30px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "60px",
+   "lineHeight": "96px",
+   "margin": "9px 0px 15px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "15px",
+   "lineHeight": "30px",
+   "margin": "0px",
+   "maxWidth": "770px"
+  }
+ ],
+ "ar-1280-encyclopedia/": [
+  {
+   "fontSize": "15px",
+   "lineHeight": "29.25px",
+   "margin": "0px 0px 30px",
+   "maxWidth": "850px"
+  },
+  {
+   "fontSize": "60px",
+   "lineHeight": "96px",
+   "margin": "9px 0px 15px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "15px",
+   "lineHeight": "30px",
+   "margin": "0px",
+   "maxWidth": "770px"
+  }
+ ],
+ "ar-1280-encyclopedia/-print": [
+  {
+   "fontSize": "13.3333px",
+   "lineHeight": "26px",
+   "margin": "0px 0px 30px",
+   "maxWidth": "850px"
+  },
+  {
+   "fontSize": "60px",
+   "lineHeight": "96px",
+   "margin": "9px 0px 15px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "15px",
+   "lineHeight": "30px",
+   "margin": "0px",
+   "maxWidth": "770px"
+  }
+ ],
+ "ar-1280-governorates/": [
+  {
+   "fontSize": "15px",
+   "lineHeight": "29.25px",
+   "margin": "0px 0px 30px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "60px",
+   "lineHeight": "96px",
+   "margin": "9px 0px 15px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "15px",
+   "lineHeight": "30px",
+   "margin": "0px",
+   "maxWidth": "770px"
+  }
+ ],
+ "ar-1280-governorates/-print": [
+  {
+   "fontSize": "13.3333px",
+   "lineHeight": "26px",
+   "margin": "0px 0px 30px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "60px",
+   "lineHeight": "96px",
+   "margin": "9px 0px 15px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "15px",
+   "lineHeight": "30px",
+   "margin": "0px",
+   "maxWidth": "770px"
+  }
+ ],
+ "ar-1280-guides/": [
+  {
+   "fontSize": "15px",
+   "lineHeight": "29.25px",
+   "margin": "0px 0px 30px",
+   "maxWidth": "850px"
+  },
+  {
+   "fontSize": "60px",
+   "lineHeight": "96px",
+   "margin": "9px 0px 15px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "15px",
+   "lineHeight": "30px",
+   "margin": "0px",
+   "maxWidth": "770px"
+  },
+  {
+   "fontSize": "12px",
+   "lineHeight": "22.8px",
+   "margin": "18px 0px 0px",
+   "maxWidth": "770px"
+  }
+ ],
+ "ar-1280-guides/-print": [
+  {
+   "fontSize": "13.3333px",
+   "lineHeight": "26px",
+   "margin": "0px 0px 30px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "60px",
+   "lineHeight": "96px",
+   "margin": "9px 0px 15px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "15px",
+   "lineHeight": "30px",
+   "margin": "0px",
+   "maxWidth": "770px"
+  },
+  {
+   "fontSize": "15px",
+   "lineHeight": "30px",
+   "margin": "0px",
+   "maxWidth": "770px"
+  }
+ ],
+ "en-1280-destinations/": [
+  {
+   "fontSize": "15px",
+   "lineHeight": "28.5px",
+   "margin": "0px 0px 30px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "48px",
+   "lineHeight": "67.2px",
+   "margin": "9px 0px 15px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "15px",
+   "lineHeight": "29.25px",
+   "margin": "0px",
+   "maxWidth": "770px"
+  }
+ ],
+ "en-1280-destinations/-print": [
+  {
+   "fontSize": "15px",
+   "lineHeight": "28.5px",
+   "margin": "0px 0px 30px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "48px",
+   "lineHeight": "67.2px",
+   "margin": "9px 0px 15px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "15px",
+   "lineHeight": "29.25px",
+   "margin": "0px",
+   "maxWidth": "770px"
+  }
+ ],
+ "en-1280-places/giza-pyramids/": [
+  {
+   "fontSize": "15px",
+   "lineHeight": "28.5px",
+   "margin": "0px 0px 30px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "48px",
+   "lineHeight": "67.2px",
+   "margin": "9px 0px 15px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "18px",
+   "lineHeight": "36px",
+   "margin": "12px 0px 18px",
+   "maxWidth": "770px"
+  }
+ ],
+ "en-1280-places/giza-pyramids/-print": [
+  {
+   "fontSize": "15px",
+   "lineHeight": "28.5px",
+   "margin": "0px 0px 30px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "48px",
+   "lineHeight": "67.2px",
+   "margin": "9px 0px 15px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "18px",
+   "lineHeight": "36px",
+   "margin": "12px 0px 18px",
+   "maxWidth": "770px"
+  }
+ ],
+ "en-1280-trips/": [
+  {
+   "fontSize": "15px",
+   "lineHeight": "28.5px",
+   "margin": "0px 0px 30px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "48px",
+   "lineHeight": "67.2px",
+   "margin": "9px 0px 15px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "15px",
+   "lineHeight": "29.25px",
+   "margin": "0px",
+   "maxWidth": "770px"
+  }
+ ],
+ "en-1280-trips/-print": [
+  {
+   "fontSize": "15px",
+   "lineHeight": "28.5px",
+   "margin": "0px 0px 30px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "48px",
+   "lineHeight": "67.2px",
+   "margin": "9px 0px 15px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "15px",
+   "lineHeight": "29.25px",
+   "margin": "0px",
+   "maxWidth": "770px"
+  }
+ ],
+ "en-1280-trips/cairo-four-day-program/": [
+  {
+   "fontSize": "15px",
+   "lineHeight": "28.5px",
+   "margin": "0px 0px 28px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "52px",
+   "lineHeight": "75.4px",
+   "margin": "15px 0px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "15px",
+   "lineHeight": "27.75px",
+   "margin": "0px",
+   "maxWidth": "700px"
+  }
+ ],
+ "en-1280-trips/cairo-four-day-program/-print": [
+  {
+   "fontSize": "15px",
+   "lineHeight": "28.5px",
+   "margin": "0px 0px 15px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "26px",
+   "lineHeight": "36.4px",
+   "margin": "9px 0px 15px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "11px",
+   "lineHeight": "18.15px",
+   "margin": "0px",
+   "maxWidth": "none"
+  }
+ ],
+ "en-1280-saved/": [
+  {
+   "fontSize": "15px",
+   "lineHeight": "28.5px",
+   "margin": "0px 0px 30px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "48px",
+   "lineHeight": "67.2px",
+   "margin": "9px 0px 15px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "15px",
+   "lineHeight": "29.25px",
+   "margin": "0px",
+   "maxWidth": "770px"
+  }
+ ],
+ "en-1280-saved/-print": [
+  {
+   "fontSize": "15px",
+   "lineHeight": "28.5px",
+   "margin": "0px 0px 30px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "48px",
+   "lineHeight": "67.2px",
+   "margin": "9px 0px 15px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "15px",
+   "lineHeight": "29.25px",
+   "margin": "0px",
+   "maxWidth": "770px"
+  }
+ ],
+ "en-1280-virtual-tours/": [
+  {
+   "fontSize": "15px",
+   "lineHeight": "28.5px",
+   "margin": "0px 0px 30px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "48px",
+   "lineHeight": "67.2px",
+   "margin": "9px 0px 15px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "15px",
+   "lineHeight": "29.25px",
+   "margin": "0px",
+   "maxWidth": "770px"
+  }
+ ],
+ "en-1280-virtual-tours/-print": [
+  {
+   "fontSize": "15px",
+   "lineHeight": "28.5px",
+   "margin": "0px 0px 30px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "48px",
+   "lineHeight": "67.2px",
+   "margin": "9px 0px 15px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "15px",
+   "lineHeight": "29.25px",
+   "margin": "0px",
+   "maxWidth": "770px"
+  }
+ ],
+ "en-1280-encyclopedia/": [
+  {
+   "fontSize": "15px",
+   "lineHeight": "28.5px",
+   "margin": "0px 0px 30px",
+   "maxWidth": "850px"
+  },
+  {
+   "fontSize": "56px",
+   "lineHeight": "78.4px",
+   "margin": "9px 0px 15px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "15px",
+   "lineHeight": "29.25px",
+   "margin": "0px",
+   "maxWidth": "770px"
+  }
+ ],
+ "en-1280-encyclopedia/-print": [
+  {
+   "fontSize": "15px",
+   "lineHeight": "28.5px",
+   "margin": "0px 0px 30px",
+   "maxWidth": "850px"
+  },
+  {
+   "fontSize": "56px",
+   "lineHeight": "78.4px",
+   "margin": "9px 0px 15px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "15px",
+   "lineHeight": "29.25px",
+   "margin": "0px",
+   "maxWidth": "770px"
+  }
+ ],
+ "en-1280-governorates/": [
+  {
+   "fontSize": "15px",
+   "lineHeight": "28.5px",
+   "margin": "0px 0px 30px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "48px",
+   "lineHeight": "67.2px",
+   "margin": "9px 0px 15px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "15px",
+   "lineHeight": "29.25px",
+   "margin": "0px",
+   "maxWidth": "770px"
+  }
+ ],
+ "en-1280-governorates/-print": [
+  {
+   "fontSize": "15px",
+   "lineHeight": "28.5px",
+   "margin": "0px 0px 30px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "48px",
+   "lineHeight": "67.2px",
+   "margin": "9px 0px 15px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "15px",
+   "lineHeight": "29.25px",
+   "margin": "0px",
+   "maxWidth": "770px"
+  }
+ ],
+ "en-1280-guides/": [
+  {
+   "fontSize": "15px",
+   "lineHeight": "28.5px",
+   "margin": "0px 0px 30px",
+   "maxWidth": "850px"
+  },
+  {
+   "fontSize": "56px",
+   "lineHeight": "84px",
+   "margin": "9px 0px 15px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "15px",
+   "lineHeight": "29.25px",
+   "margin": "0px",
+   "maxWidth": "770px"
+  },
+  {
+   "fontSize": "12px",
+   "lineHeight": "22.8px",
+   "margin": "18px 0px 0px",
+   "maxWidth": "770px"
+  }
+ ],
+ "en-1280-guides/-print": [
+  {
+   "fontSize": "15px",
+   "lineHeight": "28.5px",
+   "margin": "0px 0px 30px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "48px",
+   "lineHeight": "67.2px",
+   "margin": "9px 0px 15px",
+   "maxWidth": "none"
+  },
+  {
+   "fontSize": "15px",
+   "lineHeight": "29.25px",
+   "margin": "0px",
+   "maxWidth": "770px"
+  },
+  {
+   "fontSize": "15px",
+   "lineHeight": "29.25px",
+   "margin": "0px",
+   "maxWidth": "770px"
+  }
+ ]
+}
