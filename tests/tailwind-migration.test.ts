@@ -16,3 +16,12 @@ test('standalone trip list styles stay in Tailwind including generated themes',(
  assert.match(readFileSync('src/components/cards.tsx','utf8'),/className=\{tripCardClasses\}/);
  assert.match(readFileSync('src/components/pages.tsx','utf8'),/className=\{tripListClasses\}/);
 });
+
+test('all live empty-state consumers use shared Tailwind presentation',()=>{
+ assert.doesNotMatch(readFileSync('src/app/globals.css','utf8'),/\.empty-state(?![\w-])/);
+ for(const file of ['src/components/pages.tsx','src/components/encyclopedia.tsx']){
+  const source=readFileSync(file,'utf8');
+  assert.match(source,/emptyStateClasses/);
+  assert.doesNotMatch(source,/className="empty-state/);
+ }
+});
