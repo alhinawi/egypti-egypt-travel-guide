@@ -65,3 +65,10 @@ test('Nile temple cutoffs do not imply roof, museum or transport access',()=>{
  assert.deepEqual(visitingHours['dendera-temple-complex'].sessions,[{opens:'07:00',lastEntry:'16:00'}]);assert.match(visitingHours['dendera-temple-complex'].note.en,/roof area/);
  assert.deepEqual(visitingHours['kom-ombo-temple'].sessions,[{opens:'07:00',lastEntry:'20:00'}]);assert.match(visitingHours['kom-ombo-temple'].note.en,/not a cruise arrival/);
 });
+
+test('Cairo and Alexandria new admission panels preserve Ramadan differences and museum conflict',()=>{
+ assert.deepEqual(visitingHours['museum-islamic-art'].sessions.map(s=>[s.opens,s.lastEntry]),[['09:00','16:00']]);assert.match(visitingHours['museum-islamic-art'].note.en,/disagree on Ramadan last entry/);assert.match(visitingHours['museum-islamic-art'].note.en,/14:00.*14:30/);
+ assert.deepEqual(visitingHours['baron-empain-palace'].sessions.map(s=>[s.opens,s.lastEntry]),[['09:00','17:00'],['09:00','15:30']]);assert.match(visitingHours['baron-empain-palace'].note.en,/roof or panorama/);
+ assert.deepEqual(visitingHours['cairo-citadel'].sessions.map(s=>[s.opens,s.lastEntry]),[['09:00','16:00'],['08:00','16:00'],['08:00','15:30']]);assert.match(visitingHours['cairo-citadel'].note.en,/no season is selected automatically/);
+ assert.deepEqual(visitingHours['catacombs-of-kom-el-shoqafa'].sessions.map(s=>[s.opens,s.lastEntry]),[['09:00','16:00'],['09:00','15:00']]);for(const id of ['museum-islamic-art','baron-empain-palace','cairo-citadel','catacombs-of-kom-el-shoqafa'])assert.ok(visitingHours[id].sessions.every(s=>!s.closes));
+});

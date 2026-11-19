@@ -1618,11 +1618,12 @@
     "visiting": {
       "details": {
         "text": {
-          "ar": "احترم الصلاة واتبع تعليمات دخول الزوار. وجود المعلم في الدليل مش ضمان لفتح كل القاعات أو المآذن أو المتاحف. مفيش جدول مواعيد كامل أو سعر حالي محدد هنا.",
-          "en": "Respect worship and follow visitor-access instructions. A monument listing does not guarantee every room, minaret or museum is open. No complete opening schedule or current price is asserted."
+          "ar": "راجع لوحة المواعيد المنشورة هنا للبداية وآخر الدخول والمصادر، وملاحظات رمضان أو اختلاف الجدول. اتبع تعليمات الزيارة، وراجع إتاحة الأجزاء الداخلية وأي تذاكر منفصلة قبل ما تتحرك. جدول الدخول مش تأكيد إن كل جزء مفتوح أو داخل في نفس التذكرة.",
+          "en": "See the published-hours panel here for starts, last entry, sources and Ramadan or schedule caveats. Follow visitor instructions and check interior access and separate tickets before setting off. Site admission hours do not confirm that every area is open or included."
         },
         "source_urls": [
-          "https://egymonuments.gov.eg/en/archaeological-sites/cairo-citadel/"
+          "https://egymonuments.gov.eg/en/archaeological-sites/cairo-citadel/",
+          "https://egymonuments.com/locations/details/SalahElDin"
         ]
       }
     }
@@ -26515,11 +26516,12 @@
     "visiting": {
       "details": {
         "text": {
-          "ar": "اتبع تعليمات دخول الزوار الحالية. وجود المعلم في الدليل مش ضمان لفتح كل القاعات أو منصات المشاهدة أو المتاحف. مفيش جدول مواعيد كامل أو سعر حالي محدد هنا. السطح ليه تذكرة منفصلة مذكورة؛ ما توعدش بدخوله بالتذكرة الأساسية.",
-          "en": "Follow current visitor-access instructions. A directory listing does not guarantee every room, viewing platform or museum is open. No complete opening schedule or current price is asserted. The roof has a separately listed ticket; do not promise roof access on a base ticket."
+          "ar": "راجع لوحة المواعيد المنشورة هنا للبداية وآخر الدخول والمصادر، وملاحظات رمضان أو اختلاف الجدول. اتبع تعليمات الزيارة، وراجع إتاحة الأجزاء الداخلية وأي تذاكر منفصلة قبل ما تتحرك. جدول الدخول مش تأكيد إن كل جزء مفتوح أو داخل في نفس التذكرة. السطح ليه تذكرة منفصلة مذكورة؛ ما تفترضش دخوله بالتذكرة الأساسية.",
+          "en": "See the published-hours panel here for starts, last entry, sources and Ramadan or schedule caveats. Follow visitor instructions and check interior access and separate tickets before setting off. Site admission hours do not confirm that every area is open or included. The roof has a separately listed ticket; do not assume access on a base ticket."
         },
         "source_urls": [
-          "https://egymonuments.gov.eg/monuments/baron-empain-palace"
+          "https://egymonuments.gov.eg/monuments/baron-empain-palace",
+          "https://egymonuments.com/details/BaronEmpainPalace"
         ]
       }
     }
@@ -26895,11 +26897,12 @@
     "visiting": {
       "details": {
         "text": {
-          "ar": "احترم الصلاة واتبع تعليمات دخول الزوار. وجود المعلم في الدليل مش ضمان لفتح كل القاعات أو المآذن أو المتاحف. مفيش جدول مواعيد كامل أو سعر حالي محدد هنا.",
-          "en": "Respect worship and follow visitor-access instructions. A monument listing does not guarantee every room, minaret or museum is open. No complete opening schedule or current price is asserted."
+          "ar": "راجع لوحة المواعيد المنشورة هنا للبداية وآخر الدخول والمصادر، وملاحظات رمضان أو اختلاف الجدول. اتبع تعليمات الزيارة، وراجع إتاحة الأجزاء الداخلية وأي تذاكر منفصلة قبل ما تتحرك. جدول الدخول مش تأكيد إن كل جزء مفتوح أو داخل في نفس التذكرة.",
+          "en": "See the published-hours panel here for starts, last entry, sources and Ramadan or schedule caveats. Follow visitor instructions and check interior access and separate tickets before setting off. Site admission hours do not confirm that every area is open or included."
         },
         "source_urls": [
-          "https://egymonuments.gov.eg/en/museums/museum-of-islamic-art/"
+          "https://egymonuments.gov.eg/en/museums/museum-of-islamic-art/",
+          "https://egymonuments.com/locations/details/IslamicMuseum"
         ]
       }
     },
