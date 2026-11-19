@@ -48,7 +48,7 @@ html{--page:#f5f7f6;--paper:#fff;--ink:#102c38;--muted:#60747d;--accent:#125366;
 /* Solid sticky navigation; card arrows live above the title area. */
 .header{background:var(--paper)!important;backdrop-filter:none;-webkit-backdrop-filter:none;z-index:100}.destination-card .destination-arrow,.mag-destinations .destination-card .destination-arrow{top:20px;bottom:auto;inset-inline-end:20px}.destination-text h3{overflow-wrap:break-word}
 
-.interior-tour-frame{display:block;width:100%;height:640px;border:0;border-radius:14px;background:#102c38}@media(max-width:600px){.interior-tour-frame{height:70svh;min-height:520px;width:calc(100% + 20px);margin-inline:-10px}}/* Every travel card has a real licensed photo; attribution stays off cards. */
+/* Every travel card has a real licensed photo; attribution stays off cards. */
 .trip-card{display:grid;grid-template-columns:minmax(0,1fr) auto auto;gap:12px 16px;padding:0 0 22px;margin-bottom:24px;border:1px solid var(--line);border-radius:16px;overflow:hidden;background:var(--paper)}
 .trip-card>.place-photo-card{grid-column:1/-1;margin:0;border-radius:0}
 .trip-card>.place-photo-card img{height:220px;width:100%;object-fit:cover;display:block}
@@ -61,7 +61,7 @@ html{--page:#f5f7f6;--paper:#fff;--ink:#102c38;--muted:#60747d;--accent:#125366;
 .sr-only{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap}.governorate-letter{height:110px;display:flex;align-items:center;justify-content:center;font-size:48px;color:var(--accent);background:var(--tint)}.governorate-profile-heading{padding-top:40px;max-width:1000px}.governorate-profile-heading>.eyebrow{display:block;margin-top:25px}.governorate-profile-heading>p{max-width:800px;color:var(--muted);margin:14px 0}.governorate-profile-heading+.encyclopedia-page{padding-top:25px}@media(max-width:800px){}@media(max-width:520px){.governorate-profile-heading{padding-top:25px}}@media(max-width:600px){}
 
 /* Recorded video has a landscape stage; interactive tours keep their taller viewport. */
-.recorded-video-frame{aspect-ratio:16/9;height:auto;min-height:0;width:100%;margin-inline:0;background:#111}
+
 
 /* Article summaries keep native keyboard controls and a clear expanded state. */
 
