@@ -1,0 +1,7 @@
+# Governorate profile layout, 19 November 2026
+
+Move the published governorate profile layout to Tailwind, removing 28 legacy selector branches. Includes title, hero, factual-context panels, history/geography/character/transport sections, food grids and detail-photo grids. The not-yet-researched profile fallback remains unchanged. No content, population values/as-of dates, source URLs, climate values/caveats, photo choice, data or dependency changes.
+
+Exact before/after computed-style, text, image URL/alt and link parity across 16 Arabic/English Cairo/South Sinai cases at 390, 600, 601 and 1280 pixels. Preserve 1050px max width, two fact columns, one section/food column through 600px and two above, 300px/450px hero caps, responsive typography and logical anchor offsets. The historical-population/not-current-count labels and South Sinai coastal-versus-highland climate distinction remain explicit.
+
+Build/typecheck, 101 unit tests and 55 selected browser tests pass. Sixteen new cases cover shared responsive layout, factual caveats, loaded hero/no captions, anchor navigation and climate disclosure. Existing article/climate layout, coastal history and rich article tests pass. Actual Arabic Cairo facts and English South Sinai section mobile pixels inspected. Isolated captures hide sticky header, skip link and bottom navigation only while taking screenshots. Live frontend checks block /api/**, with no live D1/account QA or backend changes.
