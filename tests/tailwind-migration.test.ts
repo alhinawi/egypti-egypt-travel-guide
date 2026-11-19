@@ -41,3 +41,9 @@ test('place-card shell and copy use shared Tailwind presentation',()=>{
  const source=readFileSync('src/components/cards.tsx','utf8');
  for(const name of ['placeCardClasses','cardToplineClasses','placeLinkClasses','placeTitleClasses','placeDescriptionClasses'])assert.match(source,new RegExp('className=\\{'+name+'\\}'));
 });
+
+test('breadcrumb variants use shared Tailwind presentation',()=>{
+ for(const file of ['src/app/globals.css','src/app/editorial.css'])assert.doesNotMatch(readFileSync(file,'utf8'),/\.(?:breadcrumb|crumb)(?![\w-])/);
+ for(const file of ['src/components/pages.tsx','src/components/virtual-tours.tsx'])assert.match(readFileSync(file,'utf8'),/className=\{breadcrumbClasses\}/);
+ assert.match(readFileSync('src/components/encyclopedia.tsx','utf8'),/className=\{catalogCrumbClasses\}/);
+});

@@ -1,0 +1,3 @@
+// Keep full page breadcrumbs distinct from the catalog's minimal inline trail.
+export const breadcrumbClasses='breadcrumb tw:flex tw:items-center tw:gap-[10px] tw:text-[11px] tw:text-[#7e8275] tw:mb-[32px] tw:flex-wrap tw:[&_a]:text-[#42634a]! tw:[@media(max-width:600px)]:text-[10px] tw:[@media(max-width:600px)]:mb-[25px] tw:[@media_screen]:text-[var(--muted)] tw:[@media_screen]:[&_a]:text-[var(--muted)]! tw:[@media_screen]:[.trip-detail>&]:mb-[20px] tw:[@media_screen_and_(max-width:600px)]:[.trip-detail>&]:mb-[16px] tw:print:hidden!';
+export const catalogCrumbClasses='crumb tw:[@media_screen]:text-[var(--muted)] tw:[@media_screen]:[&_a]:text-[var(--muted)]!';
