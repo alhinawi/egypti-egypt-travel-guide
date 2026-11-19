@@ -39,7 +39,7 @@
  .place-photo-card{border-radius:13px 13px 0 0}
  .mag-trip h3{line-height:1.55}
  .mag-trip-photo{height:290px}
- .mag-trip-photo .save-button{background:#0a1c2ce8;color:#f2f7fb;border:1px solid #ffffff50}.day>p,.lead,.page-heading>p{color:var(--muted)}
+ .mag-trip-photo .save-button{background:#0a1c2ce8;color:#f2f7fb;border:1px solid #ffffff50}.day>p,.lead{color:var(--muted)}
  .tag,.place-card .tag{border-radius:5px;background:var(--tint);color:var(--accent)}
  .save-button{background:var(--tint);color:var(--accent);border-color:var(--line)}
  .save-button.is-saved{background:var(--accent);color:var(--page)}

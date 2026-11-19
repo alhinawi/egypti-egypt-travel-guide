@@ -47,3 +47,10 @@ test('breadcrumb variants use shared Tailwind presentation',()=>{
  for(const file of ['src/components/pages.tsx','src/components/virtual-tours.tsx'])assert.match(readFileSync(file,'utf8'),/className=\{breadcrumbClasses\}/);
  assert.match(readFileSync('src/components/encyclopedia.tsx','utf8'),/className=\{catalogCrumbClasses\}/);
 });
+
+test('all page-heading consumers use shared Tailwind presentation',()=>{
+ for(const file of ['src/app/globals.css','src/app/editorial.css','src/app/typography.css'])assert.doesNotMatch(readFileSync(file,'utf8'),/\.page-heading(?![\w-])/);
+ for(const file of ['pages.tsx','guides.tsx','virtual-tours.tsx','encyclopedia.tsx']){
+  const source=readFileSync('src/components/'+file,'utf8');assert.match(source,/className=\{pageHeadingClasses/);assert.doesNotMatch(source,/className="page-heading/);
+ }
+});
