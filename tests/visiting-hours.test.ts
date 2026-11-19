@@ -41,3 +41,17 @@ test('major-site admission cutoffs are not closing times or interior/show admiss
  assert.match(visitingHours['karnak'].note.en,/not a sound-and-light/);
  assert.match(visitingHours['luxor-temple'].note.en,/not Luxor Museum or Karnak/);
 });
+
+
+test('West Bank seasonal cutoffs stay explicit without automatic season or all-tomb promises',()=>{
+ for(const id of ['valley-kings','hatshepsut']){
+  const h=visitingHours[id];assert.equal(h.sessions.length,2);
+  assert.deepEqual(h.sessions.map(s=>[s.opens,s.lastEntry,s.closes]),[['06:00','17:00',undefined],['06:00','16:00',undefined]]);
+  assert.match(h.sessions[1].label!.en,/Winter and Ramadan/);assert.match(h.note.en,/no season is selected automatically/);
+ }
+ assert.match(visitingHours['valley-kings'].note.en,/every tomb/);
+});
+test('Aswan site cutoffs do not claim transport, event or show arrangements',()=>{
+ for(const [id,opens,lastEntry] of [['philae','07:00','15:00'],['unfinished-obelisk','07:00','15:00'],['abu-simbel','06:00','16:00']])assert.deepEqual(visitingHours[id].sessions,[{opens,lastEntry}]);
+ assert.match(visitingHours.philae.note.en,/not boat departure/);assert.match(visitingHours['abu-simbel'].note.en,/sun-alignment/);
+});
