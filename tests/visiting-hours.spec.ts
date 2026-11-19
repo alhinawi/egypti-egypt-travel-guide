@@ -7,6 +7,7 @@ for(const lang of ['ar','en'] as const)test(`published museum hours preserve cut
   await expect(card.locator('time')).toHaveText(hours.checkedAt);
   await expect(card.locator('.hours-session')).toHaveCount(hours.sessions.length);
   await expect(card.locator('.hours-note')).toHaveText(hours.note[lang]);
+  for(const session of hours.sessions)if(session.label)await expect(card).toContainText(session.label[lang]);
   for(const source of hours.sources)await expect(card.locator(`a[href="${source.url}"]`)).toHaveAttribute('target','_blank');
   for(const [i,session] of hours.sessions.entries()){await expect(card.locator('.hours-session').nth(i)).toContainText(session.opens);await expect(card.locator('.hours-session').nth(i)).toContainText(session.lastEntry)}
   expect(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth)).toBe(false);
