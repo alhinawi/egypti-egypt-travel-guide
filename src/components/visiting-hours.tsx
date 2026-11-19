@@ -9,6 +9,7 @@ export function VisitingHours({placeId}:{placeId:string}){
   <h3 className="tw:flex tw:items-center tw:gap-[9px] tw:text-[18px]!"><Clock size={19}/>{t(lang,'المواعيد المنشورة','Published visiting hours')}</h3>
   <p className="tw:my-[8px]! tw:text-[13px]">{t(lang,'بالتوقيت المحلي في مصر · اتراجعت: ','Local Egypt time · Checked: ')}<time dir="ltr" dateTime={hours.checkedAt}>{hours.checkedAt}</time></p>
   <div className="tw:grid tw:gap-[10px]">{hours.sessions.map((session,i)=><dl key={i} className="hours-session tw:m-0 tw:grid tw:grid-cols-2 tw:gap-x-[12px] tw:gap-y-[6px] tw:rounded-[10px] tw:border tw:border-solid tw:border-[var(--line)] tw:p-[14px] tw:text-[14px]">
+   {session.label&&<div className="hours-session-label tw:col-span-2 tw:mb-[4px] tw:font-semibold">{session.label[lang]}</div>}
    <dt>{t(lang,'بداية الفترة','Session starts')}</dt><dd className="tw:m-0 tw:font-semibold"><span dir="ltr">{session.opens}</span></dd>
    <dt>{t(lang,'آخر دخول','Last entry')}</dt><dd className="tw:m-0 tw:font-semibold"><span dir="ltr">{session.lastEntry}</span></dd>
    {session.closes&&<><dt>{t(lang,'نهاية الفترة','Session ends')}</dt><dd className="tw:m-0 tw:font-semibold"><span dir="ltr">{session.closes}</span></dd></>}

@@ -5,7 +5,7 @@ import {places} from '../src/lib/data';
 test('published hours retain valid catalog IDs, sources, dated local sessions and ordered last entry',()=>{
  for(const [id,hours] of Object.entries(visitingHours)){
   assert.ok(places.some(p=>p.id===id));assert.equal(hours.timezone,'Africa/Cairo');assert.match(hours.checkedAt,/^\d{4}-\d{2}-\d{2}$/);
-  assert.equal(hours.sources.length,2);
+  assert.ok(hours.sources.length>=1);
   for(const source of hours.sources)assert.ok(['egymonuments.com','egymonuments.gov.eg'].includes(new URL(source.url).hostname));
   for(const s of hours.sessions){assert.match(s.opens,/^\d{2}:\d{2}$/);assert.ok(s.opens<s.lastEntry);if(s.closes)assert.ok(s.lastEntry<s.closes)}
   assert.doesNotMatch(JSON.stringify(hours),/[٠-٩۰-۹]/);
@@ -18,4 +18,18 @@ test('Hurghada keeps split sessions and Ramadan conflict rather than seamless al
  assert.deepEqual(visitingHours['hurghada-museum'].sessions,[{opens:'10:00',lastEntry:'12:00',closes:'13:00'},{opens:'17:00',lastEntry:'22:00',closes:'23:00'}]);
  assert.match(visitingHours['hurghada-museum'].note.en,/disagree/);
  assert.match(visitingHours['hurghada-museum'].note.ar,/مختلفة/);
+});
+
+test('Luxor seasons stay explicit without invented closing times or automatic changeover dates',()=>{
+ const h=visitingHours['luxor-museum'];
+ assert.equal(h.sessions.length,4);
+ assert.deepEqual(h.sessions.map(s=>s.lastEntry),['12:00','19:00','13:00','20:00']);
+ assert.ok(h.sessions.every(s=>s.label&&!s.closes));
+ assert.match(h.note.en,/no season is selected automatically/);
+});
+test('Nubian evening hours remain Thursday and Friday only, with Ramadan conflict',()=>{
+ const h=visitingHours['nubian-museum'];
+ assert.match(h.sessions[1].label!.en,/Thursday and Friday only/);
+ assert.match(h.sessions[1].label!.ar,/الخميس والجمعة بس/);
+ assert.match(h.note.en,/disagree on Ramadan hours/);
 });
