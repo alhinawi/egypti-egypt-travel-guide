@@ -54,3 +54,9 @@ test('all page-heading consumers use shared Tailwind presentation',()=>{
   const source=readFileSync('src/components/'+file,'utf8');assert.match(source,/className=\{pageHeadingClasses/);assert.doesNotMatch(source,/className="page-heading/);
  }
 });
+
+test('magazine and destination section headings use shared Tailwind presentation',()=>{
+ for(const file of ['src/app/globals.css','src/app/editorial.css'])assert.doesNotMatch(readFileSync(file,'utf8'),/\.(?:section-heading|mag-section-head)(?![\w-])/);
+ assert.match(readFileSync('src/components/pages.tsx','utf8'),/className=\{sectionHeadingClasses\}/);
+ assert.equal((readFileSync('src/components/magazine-home.tsx','utf8').match(/className=\{magazineSectionHeadingClasses\}/g)||[]).length,4);
+});
