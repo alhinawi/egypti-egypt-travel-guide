@@ -1,0 +1,8 @@
+import{test,expect}from'@playwright/test';
+for(const lang of ['ar','en'])for(const width of [390,600,601,1280])test(`Tailwind programme sources preserve disclosure and print ${lang} ${width}`,async({page})=>{
+ await page.setViewportSize({width,height:1100});await page.goto(`/${lang}/trips/cairo-four-day-program/`);const panel=page.locator('.program-sources'),details=panel.locator('details');
+ await expect(panel).toContainText(lang==='ar'?'مش برنامج صادر من الجهات دي':'not a programme issued by these organisations');await expect(panel).toHaveCSS('padding',width<=600?'20px':'28px');
+ await expect(details).not.toHaveAttribute('open','');await panel.locator('summary').click();await expect(details).toHaveAttribute('open','');const links=panel.locator('a');expect(await links.count()).toBeGreaterThan(1);
+ for(const link of await links.all()){await expect(link).toHaveAttribute('href',/^https:\/\//);await expect(link).toHaveAttribute('target','_blank');await expect(link).toHaveAttribute('rel','noreferrer');await expect(link).toHaveCSS('direction','ltr');await expect(link).toHaveCSS('overflow-wrap','anywhere')}
+ await page.emulateMedia({media:'print'});await expect(panel).toHaveCSS('break-before','page');await expect(panel).toHaveCSS('background-color','rgb(255, 255, 255)');await expect(panel).toHaveCSS('color','rgb(0, 0, 0)');await expect(panel.locator('h2')).toHaveCSS('font-size',lang==='ar'?'22.6667px':'22px');await page.emulateMedia({media:'screen'});await panel.locator('summary').click();await expect(details).not.toHaveAttribute('open','');expect(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth)).toBe(false);
+});

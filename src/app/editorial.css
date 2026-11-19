@@ -121,7 +121,7 @@
  .trip-hero>.place-photo-hero img{max-height:none}
  .breadcrumb,.breadcrumb a,.crumb,.crumb a{color:var(--muted)}
  html[data-theme=midnight] .prose>p,html[data-theme=midnight] .prose li,html[data-theme=midnight] .fact-row p,html[data-theme=midnight] .drawer-account small,html[data-theme=midnight] .profile-identity span{color:var(--muted)}
- html[data-theme=midnight] .day-overnight,html[data-theme=midnight] .program-sources p,html[data-theme=midnight] .program-prep small{color:var(--muted)}
+ html[data-theme=midnight] .day-overnight,html[data-theme=midnight] .program-prep small{color:var(--muted)}
 }
 @media screen{
  .guides-heading{max-width:850px;padding-block:28px 8px}
