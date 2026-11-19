@@ -33,3 +33,11 @@ test('Nubian evening hours remain Thursday and Friday only, with Ramadan conflic
  assert.match(h.sessions[1].label!.ar,/الخميس والجمعة بس/);
  assert.match(h.note.en,/disagree on Ramadan hours/);
 });
+
+test('major-site admission cutoffs are not closing times or interior/show admission',()=>{
+ for(const [id,opens,lastEntry] of [['giza-pyramids','07:00','16:00'],['saqqara','08:00','16:00'],['karnak','06:00','16:00'],['luxor-temple','06:00','19:00']])assert.deepEqual(visitingHours[id].sessions,[{opens,lastEntry}]);
+ assert.match(visitingHours['giza-pyramids'].note.en,/pyramid interior/);
+ assert.match(visitingHours['saqqara'].note.en,/add-on tickets/);
+ assert.match(visitingHours['karnak'].note.en,/not a sound-and-light/);
+ assert.match(visitingHours['luxor-temple'].note.en,/not Luxor Museum or Karnak/);
+});
