@@ -66,3 +66,9 @@ test('destination cards use shared Tailwind presentation',()=>{
  const source=readFileSync('src/components/cards.tsx','utf8');
  for(const name of ['destinationCardClasses','destinationImageClasses','destinationTextClasses','destinationArrowClasses'])assert.match(source,new RegExp('className=\\{'+name+'\\}'));
 });
+
+test('homepage mood cards use shared Tailwind presentation',()=>{
+ for(const file of ['src/app/globals.css','src/app/editorial.css'])assert.doesNotMatch(readFileSync(file,'utf8'),/\.mag-mood(?:-grid|-shade)?(?![\w-])/);
+ const source=readFileSync('src/components/magazine-home.tsx','utf8');
+ for(const name of ['moodGridClasses','moodCardClasses','moodShadeClasses'])assert.match(source,new RegExp('className=\\{'+name+'\\}'));
+});
