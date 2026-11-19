@@ -31,3 +31,13 @@ test('place and trip detail shells use shared Tailwind presentation',()=>{
  assert.match(readFileSync('src/components/pages.tsx','utf8'),/className=\{titleSaveClasses\}/);
  assert.match(readFileSync('src/components/visiting-hours.tsx','utf8'),/className=\{hoursFallbackClasses\}/);
 });
+
+test('place-card shell and copy use shared Tailwind presentation',()=>{
+ for(const file of ['src/app/globals.css','src/app/editorial.css','src/app/typography.css']){
+  assert.doesNotMatch(readFileSync(file,'utf8'),/\.place-card\s*\{/);
+  assert.doesNotMatch(readFileSync(file,'utf8'),/\.card-topline(?![\w-])/);
+  assert.doesNotMatch(readFileSync(file,'utf8'),/\.place-link(?![\w-])/);
+ }
+ const source=readFileSync('src/components/cards.tsx','utf8');
+ for(const name of ['placeCardClasses','cardToplineClasses','placeLinkClasses','placeTitleClasses','placeDescriptionClasses'])assert.match(source,new RegExp('className=\\{'+name+'\\}'));
+});
