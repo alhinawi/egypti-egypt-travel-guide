@@ -55,3 +55,13 @@ test('Aswan site cutoffs do not claim transport, event or show arrangements',()=
  for(const [id,opens,lastEntry] of [['philae','07:00','15:00'],['unfinished-obelisk','07:00','15:00'],['abu-simbel','06:00','16:00']])assert.deepEqual(visitingHours[id].sessions,[{opens,lastEntry}]);
  assert.match(visitingHours.philae.note.en,/not boat departure/);assert.match(visitingHours['abu-simbel'].note.en,/sun-alignment/);
 });
+
+test('Alexandria seasons and Abydos Ramadan remain explicit, not automatic',()=>{
+ const q=visitingHours.qaitbay;assert.deepEqual(q.sessions.map(s=>[s.opens,s.lastEntry]),[['09:00','19:00'],['09:00','17:00'],['09:00','15:00']]);assert.match(q.note.en,/no season is selected automatically/);
+ const a=visitingHours['abydos-egypt'];assert.deepEqual(a.sessions.map(s=>[s.opens,s.lastEntry]),[['07:00','16:00'],['09:00','15:00']]);assert.match(a.note.en,/not confirmation that every temple/);
+ for(const h of [q,a])assert.ok(h.sessions.every(s=>s.label&&!s.closes));
+});
+test('Nile temple cutoffs do not imply roof, museum or transport access',()=>{
+ assert.deepEqual(visitingHours['dendera-temple-complex'].sessions,[{opens:'07:00',lastEntry:'16:00'}]);assert.match(visitingHours['dendera-temple-complex'].note.en,/roof area/);
+ assert.deepEqual(visitingHours['kom-ombo-temple'].sessions,[{opens:'07:00',lastEntry:'20:00'}]);assert.match(visitingHours['kom-ombo-temple'].note.en,/not a cruise arrival/);
+});
