@@ -2392,5 +2392,35 @@
     },
     "url": "https://www.youtube.com/watch?v=UKiEpQ2ARnM",
     "source": "https://www.youtube.com/watch?v=UKiEpQ2ARnM"
+  },
+  {
+    "placeId": "port-said-lighthouse",
+    "provider": "Al Nahar TV · YouTube",
+    "kind": "video",
+    "title": {
+      "ar": "فنار بورسعيد من برّه مع باب الخلق",
+      "en": "Port Said Lighthouse exterior with Bab El Khalq"
+    },
+    "scope": {
+      "ar": "فقرة بالعربي من برنامج باب الخلق نشرتها قناة النهار في يوليو 2018، فيها مقدم البرنامج ولقطات خارجية للبرج وتفاصيل واجهته والمكان اللي حواليه. مش صعود للفنار أو جولة داخلية، ومش تأكيد إن الدخول متاح دلوقتي. معلومات تاريخية في كلام المقدم محتاجة تتراجع من مصادرها لو هتستخدمها لوحدها.",
+      "en": "An Arabic-language Bab El Khalq feature published by Al Nahar in July 2018, with the presenter and exterior views of the tower, facade details and surroundings. Not a lighthouse climb or interior tour, and not confirmation of current admission. Historical statements in the commentary need their own source checks if used separately."
+    },
+    "url": "https://www.youtube.com/watch?v=dYYwT0EsEec",
+    "source": "https://www.youtube.com/watch?v=dYYwT0EsEec"
+  },
+  {
+    "placeId": "suez-port",
+    "provider": "Hamada Ali حماده علي · YouTube",
+    "kind": "video",
+    "title": {
+      "ar": "لمحة من ميناء بورتوفيق في السويس",
+      "en": "A brief glimpse of Port Tawfiq in Suez"
+    },
+    "scope": {
+      "ar": "مقطع قصير حوالي 45 ثانية نشره حماده علي في أبريل 2022 بعنوان من داخل ميناء بور توفيق السويس. بيظهر فيه مقدمان بيتكلموا جنب المياه، ووراهم سفن وأوناش ومنشآت الميناء. دي لمحة للمشاهدة، مش تمشية في الأرصفة أو جولة لكل الميناء، ووجود التصوير مش تصريح دخول للزوار ولا توصية بمكتب التخليص المذكور في المصدر.",
+      "en": "A roughly 45-second clip published by Hamada Ali in April 2022 as a view from inside Port Tawfiq, Suez. Two presenters speak by the water, with vessels, cranes and port facilities behind them. A viewing glimpse, not a quay walk or a tour of the whole port. Filming does not establish visitor access or endorse the customs broker mentioned by the source."
+    },
+    "url": "https://www.youtube.com/watch?v=shlHh9RuPgA",
+    "source": "https://www.youtube.com/watch?v=shlHh9RuPgA"
   }
 ]
