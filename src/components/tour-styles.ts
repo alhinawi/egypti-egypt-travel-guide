@@ -1,0 +1,4 @@
+// Remaining source and inline-player presentation. Provider URLs and lazy loading stay in VirtualTour.
+export const tourSourceClasses='tour-source-note tw:text-[.78rem] tw:leading-[1.8] tw:opacity-[.85] tw:mt-[1rem] tw:[&_.inline-link]:[font-size:inherit]! tw:[&_.inline-link]:inline-flex tw:[&_.inline-link]:gap-[.3rem]! tw:[&_time]:[unicode-bidi:isolate] tw:[&_time]:[direction:ltr] tw:[&_time]:inline-block';
+export const interiorFrameClasses='interior-tour-frame tw:block tw:w-full tw:h-[640px] tw:border-0 tw:border-none tw:rounded-[14px] tw:bg-[#102c38] tw:[@media(max-width:600px)]:h-[70svh] tw:[@media(max-width:600px)]:min-h-[520px] tw:[@media(max-width:600px)]:w-[calc(100%+20px)] tw:[@media(max-width:600px)]:mx-[-10px]';
+export const recordedFrameClasses='recorded-video-frame tw:aspect-video tw:h-auto! tw:min-h-0! tw:w-full! tw:mx-0! tw:bg-[#111]!';
