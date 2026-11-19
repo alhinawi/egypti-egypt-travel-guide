@@ -66,9 +66,6 @@
  .day{background:var(--paper);border:1px solid var(--line);border-radius:14px;padding:30px;margin-block:32px}
  .day-number{background:var(--tint);color:var(--accent);border-radius:5px;letter-spacing:1px}
  .day h2{line-height:1.6}
- .day-parts{border-color:var(--line);background:var(--page);border-radius:12px}
- .day-parts h3,.day-parts>div>span{color:var(--accent)}
- .day-parts p,.day-overnight{color:var(--muted)}
  .trip-detail .day .place-card{box-shadow:none;background:var(--page)}
  .footer{border-color:var(--line)}
  a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible{outline-color:var(--accent)}
@@ -108,7 +105,6 @@
   .trip-hero p{font-size:12px;line-height:1.85}
   .trip-detail>.notice{padding:16px;font-size:11px;gap:10px}
   .day{padding:20px 16px}.day h2{font-size:23px}
-  .day-parts .place-photo-card img{height:215px}
  }
  @media(prefers-reduced-motion:reduce){*{scroll-behavior:auto!important}}
 }
@@ -117,7 +113,6 @@
  .trip-hero>.place-photo-hero img{max-height:none}
  .breadcrumb,.breadcrumb a,.crumb,.crumb a{color:var(--muted)}
  html[data-theme=midnight] .prose>p,html[data-theme=midnight] .prose li,html[data-theme=midnight] .fact-row p,html[data-theme=midnight] .drawer-account small,html[data-theme=midnight] .profile-identity span{color:var(--muted)}
- html[data-theme=midnight] .day-overnight{color:var(--muted)}
 }
 @media screen{
  .guides-heading{max-width:850px;padding-block:28px 8px}
