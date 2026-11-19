@@ -44,7 +44,6 @@
  .tag,.place-card .tag{border-radius:5px;background:var(--tint);color:var(--accent)}
  .save-button{background:var(--tint);color:var(--accent);border-color:var(--line)}
  .save-button.is-saved{background:var(--accent);color:var(--page)}
- .place-vibes.compact span{color:var(--muted);background:transparent;border-color:var(--line)}
  .mag-editorial{border-radius:14px;border:1px solid var(--line)}
  .mag-editorial-stamp{border-radius:12px;transform:none;background:#080f18e8;color:#b6f1df;border:1px solid #b6f1df60}
  .mag-button{border-radius:8px;background:#b6f1df;color:#09251f}
