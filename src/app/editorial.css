@@ -35,12 +35,12 @@
  .destination-text h3{color:#fff}
  .mag-destinations .destination-text>span{color:#e9f2f5}
  .photo-tint{background:linear-gradient(0deg,#041421eb,transparent 85%)}
- .mag-trip,.trip-card,.place-card{border-radius:14px;border:1px solid var(--line);background:var(--paper);box-shadow:0 15px 35px #0001}
+ .mag-trip,.place-card{border-radius:14px;border:1px solid var(--line);background:var(--paper);box-shadow:0 15px 35px #0001}
  .place-photo-card{border-radius:13px 13px 0 0}
  .mag-trip h3{line-height:1.55}
  .mag-trip-photo{height:290px}
  .mag-trip-photo .save-button{background:#0a1c2ce8;color:#f2f7fb;border:1px solid #ffffff50}
- .place-link p,html[lang=ar] .place-link p,.trip-link p,.day>p,.lead,.page-heading>p{color:var(--muted)}
+ .place-link p,html[lang=ar] .place-link p,.day>p,.lead,.page-heading>p{color:var(--muted)}
  .tag,.place-card .tag{border-radius:5px;background:var(--tint);color:var(--accent)}
  .save-button{background:var(--tint);color:var(--accent);border-color:var(--line)}
  .save-button.is-saved{background:var(--accent);color:var(--page)}
