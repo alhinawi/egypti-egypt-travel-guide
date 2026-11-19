@@ -25,3 +25,9 @@ test('all live empty-state consumers use shared Tailwind presentation',()=>{
   assert.doesNotMatch(source,/className="empty-state/);
  }
 });
+
+test('place and trip detail shells use shared Tailwind presentation',()=>{
+ for(const file of ['src/app/globals.css','src/app/editorial.css'])assert.doesNotMatch(readFileSync(file,'utf8'),/\.(?:title-save|detail-section|fact-row)(?![\w-])/);
+ assert.match(readFileSync('src/components/pages.tsx','utf8'),/className=\{titleSaveClasses\}/);
+ assert.match(readFileSync('src/components/visiting-hours.tsx','utf8'),/className=\{hoursFallbackClasses\}/);
+});
