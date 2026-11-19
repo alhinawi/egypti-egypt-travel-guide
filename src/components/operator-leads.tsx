@@ -2,9 +2,9 @@
 import {ExternalLink,Compass,ShieldCheck} from 'lucide-react';
 import {useGuide,t} from './guide-provider';
 import {PlacePhoto} from './place-photo';
-import {operatorLeads,operatorsForPlace} from '@/lib/operators';
-export function OperatorLeads({placeId}:{placeId?:string}){
- const {lang}=useGuide();const leads=placeId?operatorsForPlace(placeId):operatorLeads;
+import {operatorLeads,operatorsForPlace,operatorsForDestination} from '@/lib/operators';
+export function OperatorLeads({placeId,destinationId}:{placeId?:string;destinationId?:string}){
+ const {lang}=useGuide();const leads=placeId?operatorsForPlace(placeId):destinationId?operatorsForDestination(destinationId):operatorLeads;
  if(!leads.length)return null;
  return <section className="operator-leads tw:my-[36px]" aria-labelledby="operator-leads-title">
   <div className="tw:mb-[18px]"><span className="eyebrow">{t(lang,'مصادر لخطوتك الجاية','SOURCES FOR YOUR NEXT STEP')}</span><h2 id="operator-leads-title" className="tw:flex tw:items-center tw:gap-[10px]"><Compass size={23}/>{t(lang,'مراكز غطس حقيقية تسألها','Real dive centres to ask')}</h2>
