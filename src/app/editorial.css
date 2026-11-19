@@ -31,11 +31,7 @@
  .mag-section{margin-top:88px}
  .mag-kicker{color:var(--accent);letter-spacing:1.5px}
  .photo-tint{background:linear-gradient(0deg,#041421eb,transparent 85%)}
- .mag-trip{border-radius:14px;border:1px solid var(--line);background:var(--paper);box-shadow:0 15px 35px #0001}
- .place-photo-card{border-radius:13px 13px 0 0}
- .mag-trip h3{line-height:1.55}
- .mag-trip-photo{height:290px}
- .mag-trip-photo .save-button{background:#0a1c2ce8;color:#f2f7fb;border:1px solid #ffffff50}.day>p,.lead{color:var(--muted)}
+ .place-photo-card{border-radius:13px 13px 0 0}.day>p,.lead{color:var(--muted)}
  .tag,.place-card .tag{border-radius:5px;background:var(--tint);color:var(--accent)}
  .save-button{background:var(--tint);color:var(--accent);border-color:var(--line)}
  .save-button.is-saved{background:var(--accent);color:var(--page)}
@@ -82,7 +78,6 @@
   .mag-search-tags{gap:8px;font-size:9px}
   .mag-content{padding-inline:22px}
   .mag-section{margin-top:52px}
-  .mag-trip{border-radius:12px;width:300px}.mag-trip-photo{height:260px}
   .mag-place-grid .place-photo-card img{height:270px}.place-photo-card{border-radius:11px 11px 0 0}
   .trip-detail{padding-inline:18px;padding-top:20px}
   .trip-hero{min-height:510px;padding:25px 20px;border-radius:12px;margin-bottom:20px}
