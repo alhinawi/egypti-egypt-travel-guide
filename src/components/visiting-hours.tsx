@@ -1,10 +1,11 @@
 'use client';
+import{hoursFallbackClasses}from'./detail-shell-styles';
 import {Clock,ExternalLink} from 'lucide-react';
 import {useGuide,t} from './guide-provider';
 import {visitingHours} from '@/lib/visiting-hours';
 export function VisitingHours({placeId}:{placeId:string}){
  const {lang}=useGuide();const hours=visitingHours[placeId];
- if(!hours)return <div className="fact-row"><Clock size={19}/><div><b>{t(lang,'المواعيد وإتاحة الدخول','Hours & access')}</b><p>{t(lang,'مش مؤكدة لحظيًا هنا. اتأكد من المصدر الرسمي قبل ما تتحرك، خصوصًا العطلات والفعاليات.','Not confirmed live here. Check the official source before setting off, especially around holidays and events.')}</p></div></div>;
+ if(!hours)return <div className={hoursFallbackClasses}><Clock size={19}/><div><b>{t(lang,'المواعيد وإتاحة الدخول','Hours & access')}</b><p>{t(lang,'مش مؤكدة لحظيًا هنا. اتأكد من المصدر الرسمي قبل ما تتحرك، خصوصًا العطلات والفعاليات.','Not confirmed live here. Check the official source before setting off, especially around holidays and events.')}</p></div></div>;
  return <section className="published-hours tw:my-[20px] tw:rounded-[14px] tw:border tw:border-solid tw:border-[var(--line)] tw:bg-[var(--paper)] tw:p-[20px]" aria-label={t(lang,'المواعيد المنشورة','Published visiting hours')}>
   <h3 className="tw:flex tw:items-center tw:gap-[9px] tw:text-[18px]!"><Clock size={19}/>{t(lang,'المواعيد المنشورة','Published visiting hours')}</h3>
   <p className="tw:my-[8px]! tw:text-[13px]">{t(lang,'بالتوقيت المحلي في مصر · اتراجعت: ','Local Egypt time · Checked: ')}<time dir="ltr" dateTime={hours.checkedAt}>{hours.checkedAt}</time></p>

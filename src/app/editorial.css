@@ -57,7 +57,6 @@
  .trip-hero-copy{width:100%;max-width:850px}
  .trip-hero .eyebrow{color:#b6f1df;letter-spacing:1px;font-size:12px}
  .trip-hero h1,html[lang=ar] .trip-hero h1{font-size:clamp(32px,4.5vw,52px);line-height:1.45;margin:15px 0;color:#fff}
- .trip-hero .title-save{align-items:flex-start;gap:14px}
  .trip-hero .save-button{background:#0e2635b8;color:#d3fff1;border-color:#ffffff70;margin-top:20px}
  .trip-hero p{color:#edf4fa;font-size:15px;line-height:1.85;max-width:700px}
  .trip-detail>.notice{background:var(--paper);color:var(--muted);border:1px solid var(--line);border-radius:12px;padding:20px;font-size:13px}
@@ -112,7 +111,7 @@
 @media screen{
  .trip-hero>.place-photo-hero img{max-height:none}
  .breadcrumb,.breadcrumb a,.crumb,.crumb a{color:var(--muted)}
- html[data-theme=midnight] .prose>p,html[data-theme=midnight] .prose li,html[data-theme=midnight] .fact-row p,html[data-theme=midnight] .drawer-account small,html[data-theme=midnight] .profile-identity span{color:var(--muted)}
+ html[data-theme=midnight] .prose>p,html[data-theme=midnight] .prose li,html[data-theme=midnight] .drawer-account small,html[data-theme=midnight] .profile-identity span{color:var(--muted)}
 }
 
 @media screen{.mag-editorial-stamp{min-width:72px;min-height:72px;z-index:2;cursor:pointer;transition:background-color .15s}.mag-editorial-stamp:hover{background:var(--paper)}.mag-editorial-stamp:focus-visible{outline:3px solid var(--accent);outline-offset:4px}}
