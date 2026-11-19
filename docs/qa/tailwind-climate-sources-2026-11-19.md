@@ -1,0 +1,7 @@
+# Monthly climate table and source links, 19 November 2026
+
+Move the shared monthly climate table and article source links to Tailwind, removing 15 legacy selector branches. Both place and governorate pages use the same components. No climate values, station/period labels, review dates, source URLs or forecast links changed.
+
+Exact before/after computed-style, content, link and accessibility-label parity in 16 Arabic/English cases on Khan El Khalili and Cairo governorate pages at 390, 600, 601 and 1280 pixels. The inclusive 600px table uses 11px text and 9px/7px cell padding; larger sizes keep 12px and 10px. Twelve monthly row headers, tabular numbers, border-free final row, wrapped underlined source links and keyboard-scrollable region remain unchanged. The climate-normal versus current-forecast distinction remains visible.
+
+Build/typecheck, 101 unit tests and 26 selected browser tests pass, including 16 new shared-component language/breakpoint cases. Existing article fragment navigation, deep-link reload/history, rich article photos/sources, English digits and external-publisher semantics pass. The expensive all-place weather sweep is not part of this selected run. Actual Arabic place and English governorate mobile pixels inspected. Isolated captures hide fixed bottom navigation only while taking screenshots. Frontend live checks block /api/**; no live D1/account QA or backend changes.
