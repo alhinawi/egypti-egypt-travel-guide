@@ -12,3 +12,8 @@ Source photos and catalog content are unchanged. Contextual,unsuitable and North
 - Every category/governorate scope has exact counts,pick IDs and empty-photo behavior checked. Six viewport widths,AR/EN,source asset decoding,original article links,scoped-results recovery,clear-header anchor,touch and print tested.
 -864AR/EN18theme6width4category checks pass,min measured text contrast6.0718:1,no horizontal overflow,44pxpicker/jump controls.
 - All eight category opening captures inspected at AR390/EN1280 for readable names,photographic layout and clipping.
+
+## Final landing correction
+Live post-merge checks exposed an actual sea-category mobile issue: recovering a governorate can shorten the photo grid after the browser first follows the hash. The results could then sit under the fixed header. URL recovery now waits for font readiness and two layout frames,then restores and focuses the results anchor without animation. This happens only on page/history recovery with the results hash,not when choosing a photo governorate.
+
+Added12cold direct sea-URL cases,AR/EN at all six widths,checking settled header clearance and focus after45frames.48browser tests now pass including the16category cases,12cold landing cases,6browse regressions and14history collection cases. Initial PR195's local-main and immutable single-pass checks each exposed one immediate geometry failure;these were investigated,not called green.
