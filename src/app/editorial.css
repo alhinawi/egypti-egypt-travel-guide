@@ -19,7 +19,7 @@
 
 
  .photo-tint{background:linear-gradient(0deg,#041421eb,transparent 85%)}
- .place-photo-card{border-radius:13px 13px 0 0}.lead{color:var(--muted)}
+ .lead{color:var(--muted)}
  .tag,.place-card .tag{border-radius:5px;background:var(--tint);color:var(--accent)}
 
 
@@ -48,7 +48,7 @@
 
 
 
-  .place-photo-card{border-radius:11px 11px 0 0}
+  
 
 
 
