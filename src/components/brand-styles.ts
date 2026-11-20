@@ -1,0 +1,4 @@
+// Wordmark contexts share the nowrap treatment, while preserving their own typography.
+export const brandClasses='brand tw:text-[24px] tw:font-extrabold tw:tracking-[-1px] tw:whitespace-nowrap tw:leading-[1.3] tw:[html[lang=ar]_&]:[font-family:Arial,sans-serif] tw:[@media(max-width:600px)]:text-[21px] tw:[@media(max-width:360px)]:text-[18px]';
+export const headerBrandClasses=brandClasses+' tw:[font:800_32px_Arial,sans-serif]! tw:tracking-[-1.8px]! tw:[html[lang=ar]_&]:[font-family:Arial,sans-serif]! tw:[@media(max-width:600px)]:text-[30px]! tw:[@media_screen]:text-[var(--ink)] tw:[@media_screen]:[&_span]:[font:700_31px/1_Arial,sans-serif] tw:[@media_screen]:[&_span]:tracking-[-1.8px] tw:[&_span]:text-[var(--ink)]';
+export const drawerBrandClasses=brandClasses+' tw:[font:800_32px_Arial,sans-serif]! tw:tracking-[-1.8px]! tw:[html[lang=ar]_&]:[font-family:Arial,sans-serif]! tw:text-[var(--accent)] tw:[@media_screen]:text-[var(--ink)]';
