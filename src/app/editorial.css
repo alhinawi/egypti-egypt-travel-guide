@@ -28,11 +28,6 @@
 
  .primary-button{background:var(--accent);color:var(--page);border-radius:8px;font-weight:600}
  .trip-detail{max-width:1160px}
- .trip-hero{position:relative;isolation:isolate;min-height:540px;display:flex;align-items:flex-end;padding:46px;overflow:hidden;border-radius:18px;background:#07121e;color:#fff;margin-bottom:28px}
- .trip-hero>.place-photo-hero{position:absolute;inset:0;margin:0;z-index:-2}
- .trip-hero>.place-photo-hero img{width:100%;height:100%;object-fit:cover}
- .trip-hero:after{content:'';position:absolute;inset:0;background:linear-gradient(0deg,#04111ef7,#04111e90 48%,#04111e00);z-index:-1}
- .trip-hero-copy{width:100%;max-width:850px}
  .trip-hero .eyebrow{color:#b6f1df;letter-spacing:1px;font-size:12px}
  .trip-hero h1,html[lang=ar] .trip-hero h1{font-size:clamp(32px,4.5vw,52px);line-height:1.45;margin:15px 0;color:#fff}
  .trip-hero .save-button{background:#0e2635b8;color:#d3fff1;border-color:#ffffff70;margin-top:20px}
@@ -55,8 +50,6 @@
 
   .place-photo-card{border-radius:11px 11px 0 0}
   .trip-detail{padding-inline:18px;padding-top:20px}
-  .trip-hero{min-height:510px;padding:25px 20px;border-radius:12px;margin-bottom:20px}
-  .trip-hero>.place-photo-hero img{object-position:50% 40%}
   .trip-hero .eyebrow{font-size:10px}
   .trip-hero h1,html[lang=ar] .trip-hero h1{font-size:30px;line-height:1.6;margin:12px 0}
   .trip-hero .save-button{width:38px;min-width:38px;height:38px;min-height:38px;margin-top:15px}
@@ -65,9 +58,8 @@
  }
  @media(prefers-reduced-motion:reduce){*{scroll-behavior:auto!important}}
 }
-@media print{.trip-hero>.place-photo-hero{display:none}.trip-hero{padding:0;background:white;color:black}.trip-hero p{font-size:11px;line-height:1.65}.trip-hero .eyebrow{color:#333}}
+@media print{.trip-hero p{font-size:11px;line-height:1.65}.trip-hero .eyebrow{color:#333}}
 @media screen{
- .trip-hero>.place-photo-hero img{max-height:none}
  html[data-theme=midnight] .prose>p,html[data-theme=midnight] .prose li,html[data-theme=midnight] .drawer-account small,html[data-theme=midnight] .profile-identity span{color:var(--muted)}
 }
 
