@@ -109,3 +109,10 @@ test('homepage hero shell and positioning use Tailwind',()=>{
  const source=readFileSync('src/components/magazine-home.tsx','utf8');
  for(const name of ['magazineHeroClasses','magazineHeroShadeClasses','magazineHeroContentClasses','magazineHeroCaptionClasses'])assert.match(source,new RegExp('className=\\{'+name+'\\}'));
 });
+
+
+test('homepage hero copy and CTA use Tailwind',()=>{
+ for(const file of ['src/app/globals.css','src/app/editorial.css','src/app/typography.css'])assert.doesNotMatch(readFileSync(file,'utf8'),/\.mag-overline|\.mag-hero h1|\.mag-hero-content p|\.mag-hero-cta/);
+ const source=readFileSync('src/components/magazine-home.tsx','utf8');
+ for(const name of ['magazineOverlineClasses','magazineHeroHeadingClasses','magazineHeroParagraphClasses','magazineHeroCtaClasses'])assert.match(source,new RegExp('className=\\{'+name+'\\}'));
+});
