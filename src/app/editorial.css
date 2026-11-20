@@ -2,7 +2,7 @@
 @media screen{
  body{font-family:'Plex Arabic',Arial,sans-serif;letter-spacing:0}
  h1,h2,h3{font-family:Readex,'Plex Arabic',sans-serif;font-weight:600}
- .header{height:78px;border-bottom:1px solid var(--line);box-shadow:0 4px 30px #00000012}
+
  .header .brand,.header .brand span{color:var(--ink);font:700 31px/1 Arial,sans-serif;letter-spacing:-1.8px}
 
 
@@ -41,7 +41,7 @@
 
  .drawer-head .brand{color:var(--ink)}
  @media(max-width:600px){
-  .header{height:70px}
+
 
 
 
