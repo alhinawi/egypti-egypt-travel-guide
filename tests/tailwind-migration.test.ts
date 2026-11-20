@@ -116,3 +116,10 @@ test('homepage hero copy and CTA use Tailwind',()=>{
  const source=readFileSync('src/components/magazine-home.tsx','utf8');
  for(const name of ['magazineOverlineClasses','magazineHeroHeadingClasses','magazineHeroParagraphClasses','magazineHeroCtaClasses'])assert.match(source,new RegExp('className=\\{'+name+'\\}'));
 });
+
+
+test('destination-detail hero uses Tailwind',()=>{
+ assert.doesNotMatch(readFileSync('src/app/globals.css','utf8'),/\.destination-hero/);
+ const source=readFileSync('src/components/pages.tsx','utf8');
+ for(const name of ['destinationHeroClasses','destinationHeroCopyClasses'])assert.match(source,new RegExp('className=\\{'+name+'\\}'));
+});
