@@ -1,0 +1,7 @@
+// Drawer content only. Dialog surface, account controls and theme/language widgets remain separate.
+export const drawerInnerClasses='drawer-inner tw:p-[28px]';
+export const drawerHeadClasses='drawer-head tw:flex tw:items-center tw:justify-between';
+export const drawerTaglineClasses='drawer-tagline tw:text-[13px] tw:text-[var(--muted)] tw:mt-[13px]! tw:mx-0! tw:mb-[25px]! tw:[@media(max-width:600px)]:text-[12px]';
+export const drawerNavClasses='drawer-nav tw:grid tw:gap-[5px] tw:[&_a]:flex tw:[&_a]:items-center tw:[&_a]:gap-[14px] tw:[&_a]:px-[15px] tw:[&_a]:py-[12px] tw:[&_a]:min-h-[51px] tw:[&_a]:rounded-[14px] tw:[&_a]:text-[15px] tw:[&_a[aria-current=page]]:bg-[var(--tint)] tw:[&_a[aria-current=page]]:text-[var(--accent)]! tw:[&_a[aria-current=page]]:font-semibold tw:[&_a:hover]:bg-[var(--tint)] tw:[&_small]:ms-auto tw:[&_small]:[font:11px_Arial] tw:[&_small]:opacity-[.45] tw:[@media_screen]:[&_small]:text-[var(--muted)] tw:[@media(max-width:600px)]:[&_a]:min-h-[48px] tw:[@media(max-width:600px)]:[&_a]:px-[13px] tw:[@media(max-width:600px)]:[&_a]:py-[10px]';
+export const drawerSectionClasses='drawer-section tw:[border-top:1px_solid_var(--line)] tw:border-[var(--line)] tw:mt-[23px] tw:pt-[20px] tw:[&>span]:text-[11px] tw:[&>span]:text-[var(--muted)]';
+export const drawerPrivacyClasses='drawer-privacy tw:text-[10px] tw:inline-block tw:mt-[20px] tw:text-[var(--muted)]! tw:underline!';
