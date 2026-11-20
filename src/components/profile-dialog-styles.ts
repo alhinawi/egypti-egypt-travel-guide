@@ -1,0 +1,6 @@
+// Presentation only. Profile state and authentication remain owned by the shared shell.
+export const profileDialogClasses='profile-dialog tw:[border:1px_solid_#e0e6d8] tw:rounded-[24px] tw:w-[min(360px,calc(100vw_-_36px))] tw:p-[22px] tw:bg-[var(--paper)]! tw:text-[var(--ink)] tw:backdrop:bg-[#172b215e] tw:backdrop:[backdrop-filter:blur(5px)] tw:print:hidden!';
+export const profileTopClasses='profile-top tw:flex tw:justify-between tw:items-center tw:[&_h2]:text-[20px]! tw:[@media_print]:[html[lang=ar]_&]:[&_h2]:text-[17pt]!';
+export const profileIdentityClasses='profile-identity tw:flex tw:flex-col tw:items-center tw:py-[22px] tw:px-0 tw:gap-[8px] tw:[border-bottom:1px_solid_var(--line)] tw:[&_img]:rounded-[50%] tw:[&_b]:text-[17px] tw:[&_span]:text-[12px] tw:[&_span]:text-[var(--muted)] tw:[&_span]:[overflow-wrap:anywhere]';
+export const profileLinkClasses='profile-link tw:w-full tw:flex tw:items-center tw:gap-[11px] tw:py-[15px] tw:px-[3px] tw:min-h-[51px] tw:text-[13px] tw:[background:none] tw:text-inherit! tw:[&_svg:last-child]:ms-auto';
+export const profileSignoutClasses='profile-signout tw:w-full tw:flex tw:items-center tw:gap-[11px] tw:py-[15px] tw:px-[3px] tw:min-h-[51px] tw:text-[13px]! tw:[background:none] tw:text-[#975945]!';

@@ -29,7 +29,7 @@
 
  .footer{border-color:var(--line)}
  a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible{outline-color:var(--accent)}
- .site-drawer,.profile-dialog{background:var(--paper);color:var(--ink)}
+ .site-drawer{background:var(--paper);color:var(--ink)}
 
 
  @media(max-width:600px){
@@ -52,5 +52,5 @@
 }
 
 @media screen{
- html[data-theme=midnight] .prose>p,html[data-theme=midnight] .prose li,html[data-theme=midnight] .profile-identity span{color:var(--muted)}
+ html[data-theme=midnight] .prose>p,html[data-theme=midnight] .prose li{color:var(--muted)}
 }
