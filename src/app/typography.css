@@ -10,8 +10,6 @@ html[lang=ar] .mag-section-heading h2{font-size:clamp(32px,4vw,44px)}html[lang=a
 html[lang=ar] .article-accordion summary,html[lang=ar] .article-story h2{font-family:'Noto Naskh Guide',Georgia,serif;font-size:25px;font-weight:700;line-height:1.7;letter-spacing:0}
 html[lang=ar] .article-story p,html[lang=ar] .article-accordion p{font-size:15px;line-height:2.15}
 html[lang=ar] .guide-profile h3{font-size:28px}
-
-html[lang=ar] .bottom-nav a{font-size:10px;line-height:1.6}
 html[lang=ar] .drawer-nav a{font-size:15px;line-height:1.8}
 @media(max-width:600px){
  html[lang=ar] .encyclopedia-heading h1{font-size:38px}

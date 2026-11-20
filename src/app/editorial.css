@@ -7,14 +7,6 @@
 
 
 
- .bottom-nav{background:var(--paper);border-top:1px solid var(--line);padding-bottom:env(safe-area-inset-bottom)}
- .bottom-nav a{color:var(--muted)}
- .bottom-nav a.selected{color:var(--accent)}
-
-
-
-
-
 
 
 
