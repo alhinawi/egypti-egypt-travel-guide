@@ -35,9 +35,9 @@
  .tag,.place-card .tag{border-radius:5px;background:var(--tint);color:var(--accent)}
  .save-button{background:var(--tint);color:var(--accent);border-color:var(--line)}
  .save-button.is-saved{background:var(--accent);color:var(--page)}
- .mag-editorial{border-radius:14px;border:1px solid var(--line)}
- .mag-editorial-stamp{border-radius:12px;transform:none;background:#080f18e8;color:#b6f1df;border:1px solid #b6f1df60}
- .mag-button{border-radius:8px;background:#b6f1df;color:#09251f}
+
+
+
  .primary-button{background:var(--accent);color:var(--page);border-radius:8px;font-weight:600}
  .trip-detail{max-width:1160px}
  .trip-hero{position:relative;isolation:isolate;min-height:540px;display:flex;align-items:flex-end;padding:46px;overflow:hidden;border-radius:18px;background:#07121e;color:#fff;margin-bottom:28px}
@@ -97,4 +97,4 @@
  html[data-theme=midnight] .prose>p,html[data-theme=midnight] .prose li,html[data-theme=midnight] .drawer-account small,html[data-theme=midnight] .profile-identity span{color:var(--muted)}
 }
 
-@media screen{.mag-editorial-stamp{min-width:72px;min-height:72px;z-index:2;cursor:pointer;transition:background-color .15s}.mag-editorial-stamp:hover{background:var(--paper)}.mag-editorial-stamp:focus-visible{outline:3px solid var(--accent);outline-offset:4px}}
+@media screen{}
