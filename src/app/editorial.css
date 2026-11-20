@@ -3,7 +3,7 @@
  body{font-family:'Plex Arabic',Arial,sans-serif;letter-spacing:0}
  h1,h2,h3{font-family:Readex,'Plex Arabic',sans-serif;font-weight:600}
 
- .header .brand,.header .brand span{color:var(--ink);font:700 31px/1 Arial,sans-serif;letter-spacing:-1.8px}
+
 
 
 
@@ -39,7 +39,7 @@
  a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible{outline-color:var(--accent)}
  .site-drawer,.profile-dialog{background:var(--paper);color:var(--ink)}
 
- .drawer-head .brand{color:var(--ink)}
+
  @media(max-width:600px){
 
 
