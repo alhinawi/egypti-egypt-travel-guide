@@ -1,0 +1,2 @@
+// Shared bookmark control. Parent card/hero utilities keep specialized sizing and placement.
+export const saveButtonClasses='save-button tw:min-w-[42px] tw:size-[42px] tw:min-h-[42px] tw:shrink-0 tw:inline-grid tw:place-items-center tw:text-[var(--accent)] tw:bg-[var(--tint)] tw:border! tw:border-solid! tw:border-transparent! tw:rounded-[50%] tw:[&.is-saved]:text-[var(--paper)] tw:[&.is-saved]:bg-[var(--accent)] tw:[@media_screen]:border-[var(--line)]! tw:[@media_screen]:[&.is-saved]:text-[var(--page)] tw:print:hidden!';
