@@ -6,7 +6,7 @@
  .header .brand,.header .brand span{color:var(--ink);font:700 31px/1 Arial,sans-serif;letter-spacing:-1.8px}
  .language-button{border-radius:100px;color:var(--ink);border-color:var(--line);min-height:42px}
  .icon-button{color:var(--ink)}
- .desktop-nav{font-size:13px;color:var(--muted)}
+
  .bottom-nav{background:var(--paper);border-top:1px solid var(--line);padding-bottom:env(safe-area-inset-bottom)}
  .bottom-nav a{color:var(--muted)}
  .bottom-nav a.selected{color:var(--accent)}
@@ -41,14 +41,14 @@
  .drawer-tagline,.drawer-section>span,.drawer-nav small{color:var(--muted)}
  .drawer-head .brand{color:var(--ink)}
  @media(max-width:600px){
-  .header{height:70px}.header-inner{padding-inline:20px}
+  .header{height:70px}
 
 
 
 
 
 
-  
+
 
 
 
