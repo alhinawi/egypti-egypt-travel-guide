@@ -52,5 +52,5 @@
 }
 
 @media screen{
- html[data-theme=midnight] .prose>p,html[data-theme=midnight] .prose li,html[data-theme=midnight] .drawer-account small,html[data-theme=midnight] .profile-identity span{color:var(--muted)}
+ html[data-theme=midnight] .prose>p,html[data-theme=midnight] .prose li,html[data-theme=midnight] .profile-identity span{color:var(--muted)}
 }
