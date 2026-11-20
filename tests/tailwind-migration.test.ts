@@ -102,3 +102,10 @@ test('homepage structural layout and grids use Tailwind',()=>{
  const source=readFileSync('src/components/magazine-home.tsx','utf8');
  for(const name of ['magazineContentClasses','magazineSectionClasses','magazineDestinationsClasses','magazinePlaceGridClasses'])assert.match(source,new RegExp('className=\\{'+name+'\\}'));
 });
+
+
+test('homepage hero shell and positioning use Tailwind',()=>{
+ for(const file of ['src/app/globals.css','src/app/editorial.css'])assert.doesNotMatch(readFileSync(file,'utf8'),/\.mag-hero(?:-shade|-content|-caption)?\s*\{/);
+ const source=readFileSync('src/components/magazine-home.tsx','utf8');
+ for(const name of ['magazineHeroClasses','magazineHeroShadeClasses','magazineHeroContentClasses','magazineHeroCaptionClasses'])assert.match(source,new RegExp('className=\\{'+name+'\\}'));
+});
