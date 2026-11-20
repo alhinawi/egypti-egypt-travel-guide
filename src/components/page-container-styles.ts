@@ -1,0 +1,4 @@
+// Shared page geometry. Specialized route utilities keep their existing overrides.
+export const contentWidthClasses='content-width tw:max-w-[1340px] tw:mx-auto tw:my-0 tw:[@media(min-width:901px)]:px-[32px] tw:[@media(min-width:601px)_and_(max-width:900px)]:px-[24px] tw:[@media(min-width:361px)_and_(max-width:600px)]:px-[22px] tw:[@media(max-width:360px)]:px-[18px]';
+export const pageContentClasses='page-content tw:pt-[36px] tw:min-h-[55vh] tw:[@media(min-width:601px)]:pb-[30px] tw:[@media(max-width:600px)]:pb-[15px] tw:print:p-0!';
+export const leadClasses='lead tw:max-w-[820px] tw:leading-[2]! tw:mx-0! tw:mb-[18px]! tw:text-[#58634f] tw:[@media(min-width:601px)]:mt-[12px]! tw:[@media(min-width:601px)]:text-[19px] tw:[@media(max-width:600px)]:mt-[10px]! tw:[@media(max-width:600px)]:text-[16px]';
