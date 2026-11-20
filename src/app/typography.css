@@ -5,7 +5,7 @@ html[lang=ar] body{font-family:'Noto Sans Guide',Tahoma,sans-serif;font-size:15p
 html[lang=ar] h1,html[lang=ar] h2,html[lang=ar] h3,html[lang=ar] h4{font-family:'Noto Naskh Guide',Georgia,serif;font-weight:600;letter-spacing:0;line-height:1.65;text-wrap:pretty}
 html[lang=ar] h1{font-weight:700}
 html[lang=ar] p{line-height:2}
-html[lang=ar] .eyebrow,html[lang=ar] .mag-overline,html[lang=ar] .mag-kicker,html[lang=ar] .mag-search label>span{letter-spacing:0}
+html[lang=ar] .eyebrow,html[lang=ar] .mag-overline,html[lang=ar] .mag-search label>span{letter-spacing:0}
 html[lang=ar] .mag-hero h1{font-family:'Noto Naskh Guide',Georgia,serif!important;font-weight:700!important;font-size:clamp(66px,7vw,104px)!important;line-height:1.4!important;letter-spacing:0!important}
 html[lang=ar] .mag-hero-content p{font-size:17px;line-height:2;max-width:45ch}
 html[lang=ar] .mag-section-heading h2{font-size:clamp(32px,4vw,44px)}html[lang=ar] .encyclopedia-heading h1{font-size:clamp(38px,5vw,60px);line-height:1.6}

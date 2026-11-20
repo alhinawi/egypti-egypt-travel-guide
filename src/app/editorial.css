@@ -29,7 +29,7 @@
  .mag-search-icon{border-radius:12px}
  .mag-content{max-width:1280px;padding-inline:40px}
  .mag-section{margin-top:88px}
- .mag-kicker{color:var(--accent);letter-spacing:1.5px}
+
  .photo-tint{background:linear-gradient(0deg,#041421eb,transparent 85%)}
  .place-photo-card{border-radius:13px 13px 0 0}.day>p,.lead{color:var(--muted)}
  .tag,.place-card .tag{border-radius:5px;background:var(--tint);color:var(--accent)}
