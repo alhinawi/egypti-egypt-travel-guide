@@ -38,7 +38,7 @@
  .footer{border-color:var(--line)}
  a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible{outline-color:var(--accent)}
  .site-drawer,.theme-picker,.profile-dialog{background:var(--paper);color:var(--ink)}
- .drawer-tagline,.drawer-section>span,.drawer-nav small{color:var(--muted)}
+
  .drawer-head .brand{color:var(--ink)}
  @media(max-width:600px){
   .header{height:70px}
