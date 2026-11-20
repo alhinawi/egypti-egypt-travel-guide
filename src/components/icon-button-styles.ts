@@ -1,0 +1,3 @@
+// Shared shell icon controls. The menu trigger adds its own responsive border and size.
+export const iconButtonClasses='icon-button tw:size-[42px] tw:inline-flex tw:items-center tw:justify-center tw:rounded-[6px] tw:bg-transparent tw:text-inherit tw:[@media_screen]:text-[var(--ink)]';
+export const menuToggleClasses=iconButtonClasses+' menu-toggle tw:w-[44px] tw:border! tw:border-solid! tw:border-[var(--line)]! tw:rounded-[50%] tw:[@media(max-width:600px)]:size-[36px] tw:[@media(max-width:600px)]:min-w-[36px] tw:[@media(max-width:600px)]:border-0! tw:[@media(max-width:600px)]:border-none! tw:[@media(max-width:600px)]:border-current!';

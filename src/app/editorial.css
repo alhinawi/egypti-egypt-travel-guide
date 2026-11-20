@@ -5,7 +5,7 @@
  .header{height:78px;border-bottom:1px solid var(--line);box-shadow:0 4px 30px #00000012}
  .header .brand,.header .brand span{color:var(--ink);font:700 31px/1 Arial,sans-serif;letter-spacing:-1.8px}
  .language-button{border-radius:100px;color:var(--ink);border-color:var(--line);min-height:42px}
- .icon-button{color:var(--ink)}
+
 
  .bottom-nav{background:var(--paper);border-top:1px solid var(--line);padding-bottom:env(safe-area-inset-bottom)}
  .bottom-nav a{color:var(--muted)}
