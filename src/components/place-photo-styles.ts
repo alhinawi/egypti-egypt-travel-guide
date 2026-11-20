@@ -1,0 +1,3 @@
+// Shared photographic shell. Context-specific card/hero utilities override these defaults.
+export const placePhotoCardClasses='place-photo-card tw:relative tw:m-[-23px_-23px_18px] tw:overflow-hidden tw:rounded-t-[20px] tw:rounded-b-none tw:[@media(max-width:600px)]:m-[-21px_-21px_15px] tw:[@media_screen]:rounded-t-[13px] tw:[@media_screen_and_(max-width:600px)]:rounded-t-[11px] tw:[&_img]:w-full tw:[&_img]:h-[240px] tw:[&_img]:object-cover';
+export const placePhotoHeroClasses='place-photo-hero tw:relative tw:m-[0_0_28px] tw:[@media(max-width:600px)]:mx-[-6px] tw:[&_img]:w-full tw:[&_img]:h-auto tw:[&_img]:max-h-[490px] tw:[&_img]:object-contain tw:[&_img]:rounded-[16px] tw:[&_img]:bg-[var(--tint)] tw:[@media(max-width:600px)]:[&_img]:rounded-[12px]';
