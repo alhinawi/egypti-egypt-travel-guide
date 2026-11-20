@@ -28,10 +28,10 @@
 
  .primary-button{background:var(--accent);color:var(--page);border-radius:8px;font-weight:600}
  .trip-detail{max-width:1160px}
- .trip-hero .eyebrow{color:#b6f1df;letter-spacing:1px;font-size:12px}
- .trip-hero h1,html[lang=ar] .trip-hero h1{font-size:clamp(32px,4.5vw,52px);line-height:1.45;margin:15px 0;color:#fff}
- .trip-hero .save-button{background:#0e2635b8;color:#d3fff1;border-color:#ffffff70;margin-top:20px}
- .trip-hero p{color:#edf4fa;font-size:15px;line-height:1.85;max-width:700px}
+
+
+
+
  .trip-detail>.notice{background:var(--paper);color:var(--muted);border:1px solid var(--line);border-radius:12px;padding:20px;font-size:13px}
  .trip-detail>.notice svg{color:var(--accent)}
  .print-plan{border:1px solid var(--line);border-radius:8px;padding:8px 16px;text-decoration:none;background:var(--paper);color:var(--accent)}
@@ -50,15 +50,15 @@
 
   .place-photo-card{border-radius:11px 11px 0 0}
   .trip-detail{padding-inline:18px;padding-top:20px}
-  .trip-hero .eyebrow{font-size:10px}
-  .trip-hero h1,html[lang=ar] .trip-hero h1{font-size:30px;line-height:1.6;margin:12px 0}
-  .trip-hero .save-button{width:38px;min-width:38px;height:38px;min-height:38px;margin-top:15px}
-  .trip-hero p{font-size:12px;line-height:1.85}
+
+
+
+
   .trip-detail>.notice{padding:16px;font-size:11px;gap:10px}
  }
  @media(prefers-reduced-motion:reduce){*{scroll-behavior:auto!important}}
 }
-@media print{.trip-hero p{font-size:11px;line-height:1.65}.trip-hero .eyebrow{color:#333}}
+@media print{}
 @media screen{
  html[data-theme=midnight] .prose>p,html[data-theme=midnight] .prose li,html[data-theme=midnight] .drawer-account small,html[data-theme=midnight] .profile-identity span{color:var(--muted)}
 }
