@@ -22,11 +22,11 @@
  .mag-hero-cta{border-radius:9px;background:#b6f1df;color:#09251f;padding:10px 12px 10px 23px;box-shadow:0 12px 30px #0003}
  .mag-hero-cta>span{background:#0d342b;color:#b6f1df;border-radius:6px}
  .mag-hero-caption{bottom:43px;color:#e7f5f5}
- .mag-search-wrap{max-width:1140px;border-radius:16px;margin-top:26px;box-shadow:0 20px 50px #0001;padding:24px 28px}
- .mag-search label>span{letter-spacing:1.4px;color:var(--accent)}
- .mag-search input{font-size:16px;padding:8px 0}
- .mag-search>button{border-radius:12px;background:var(--accent);color:var(--page)}
- .mag-search-icon{border-radius:12px}
+
+
+
+
+
  .mag-content{max-width:1280px;padding-inline:40px}
  .mag-section{margin-top:88px}
 
@@ -72,10 +72,10 @@
   .mag-hero-content p{font-size:13px;max-width:335px;line-height:1.9}
   .mag-hero-cta{margin-top:20px;font-size:12px}
   .mag-hero-caption{bottom:26px;inset-inline:23px;font-size:10px}
-  .mag-search-wrap{margin:18px 18px 0;padding:18px;border-radius:12px}
-  .mag-search label>span{font-size:9px;letter-spacing:.4px}
-  .mag-search input{font-size:12px}
-  .mag-search-tags{gap:8px;font-size:9px}
+
+
+
+
   .mag-content{padding-inline:22px}
   .mag-section{margin-top:52px}
   .mag-place-grid .place-photo-card img{height:270px}.place-photo-card{border-radius:11px 11px 0 0}

@@ -90,3 +90,9 @@ test('homepage kicker links and promise strip use Tailwind',()=>{
  const source=readFileSync('src/components/magazine-home.tsx','utf8');
  for(const name of ['magazineKickerClasses','magazineTextLinkClasses','magazinePromiseClasses'])assert.match(source,new RegExp('className=\\{'+name+'\\}'));
 });
+
+test('homepage search form and filters use Tailwind',()=>{
+ for(const file of ['src/app/globals.css','src/app/editorial.css','src/app/typography.css'])assert.doesNotMatch(readFileSync(file,'utf8'),/\.mag-search(?:-wrap|-icon|-tags)?(?![\w-])/);
+ const source=readFileSync('src/components/magazine-home.tsx','utf8');
+ for(const name of ['magazineSearchWrapClasses','magazineSearchClasses','magazineSearchIconClasses','magazineSearchTagsClasses'])assert.match(source,new RegExp('className=\\{'+name+'\\}'));
+});
