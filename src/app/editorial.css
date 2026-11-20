@@ -27,8 +27,8 @@
 
 
 
- .mag-content{max-width:1280px;padding-inline:40px}
- .mag-section{margin-top:88px}
+
+
 
  .photo-tint{background:linear-gradient(0deg,#041421eb,transparent 85%)}
  .place-photo-card{border-radius:13px 13px 0 0}.day>p,.lead{color:var(--muted)}
@@ -76,9 +76,9 @@
 
 
 
-  .mag-content{padding-inline:22px}
-  .mag-section{margin-top:52px}
-  .mag-place-grid .place-photo-card img{height:270px}.place-photo-card{border-radius:11px 11px 0 0}
+
+
+  .place-photo-card{border-radius:11px 11px 0 0}
   .trip-detail{padding-inline:18px;padding-top:20px}
   .trip-hero{min-height:510px;padding:25px 20px;border-radius:12px;margin-bottom:20px}
   .trip-hero>.place-photo-hero img{object-position:50% 40%}
