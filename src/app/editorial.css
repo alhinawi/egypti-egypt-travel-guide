@@ -27,14 +27,14 @@
 
 
  .primary-button{background:var(--accent);color:var(--page);border-radius:8px;font-weight:600}
- .trip-detail{max-width:1160px}
 
 
 
 
- .trip-detail>.notice{background:var(--paper);color:var(--muted);border:1px solid var(--line);border-radius:12px;padding:20px;font-size:13px}
- .trip-detail>.notice svg{color:var(--accent)}
- .print-plan{border:1px solid var(--line);border-radius:8px;padding:8px 16px;text-decoration:none;background:var(--paper);color:var(--accent)}
+
+
+
+
  .footer{border-color:var(--line)}
  a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible{outline-color:var(--accent)}
  .site-drawer,.theme-picker,.profile-dialog{background:var(--paper);color:var(--ink)}
@@ -49,12 +49,12 @@
 
 
   .place-photo-card{border-radius:11px 11px 0 0}
-  .trip-detail{padding-inline:18px;padding-top:20px}
 
 
 
 
-  .trip-detail>.notice{padding:16px;font-size:11px;gap:10px}
+
+
  }
  @media(prefers-reduced-motion:reduce){*{scroll-behavior:auto!important}}
 }
