@@ -37,7 +37,7 @@
 
  .footer{border-color:var(--line)}
  a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible{outline-color:var(--accent)}
- .site-drawer,.theme-picker,.profile-dialog{background:var(--paper);color:var(--ink)}
+ .site-drawer,.profile-dialog{background:var(--paper);color:var(--ink)}
 
  .drawer-head .brand{color:var(--ink)}
  @media(max-width:600px){
@@ -58,9 +58,7 @@
  }
  @media(prefers-reduced-motion:reduce){*{scroll-behavior:auto!important}}
 }
-@media print{}
+
 @media screen{
  html[data-theme=midnight] .prose>p,html[data-theme=midnight] .prose li,html[data-theme=midnight] .drawer-account small,html[data-theme=midnight] .profile-identity span{color:var(--muted)}
 }
-
-@media screen{}
