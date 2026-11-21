@@ -9,7 +9,7 @@ Controls measure actual fully visible card bounds instead of assuming scrollLeft
 ## Verification
 
 - Build/typecheck and207unit tests pass; original onward selection helper/tests unchanged.
--24new browser cases pass: AR/EN at360/390/600/601/900/1000/1001/1280, repeated next/previous through every edge, exact article links/counts, loaded image sources, keyboard focus/navigation, motion, resize, touch controls, no-JS links, one-card rail and no overflow. URL/query/hash and saved storage retained, no API writes.
+-26new browser cases pass: AR/EN at360/390/600/601/900/1000/1001/1280, repeated next/previous through every edge, exact article links/counts, loaded image sources, keyboard focus/navigation, motion, resize, touch controls and real CDP native swipes, language switching, no-JS links, one-card rail and no overflow. URL/query/hash and saved storage retained, no API writes.
 -32unchanged onward/history-continuity browser regressions pass, covering direct touch links, every geographic choice, reference-only exclusion and print hiding.
 -216theme/language/viewport checks pass, minimum text contrast5.459955953071658 and44pxtargets. Actual local AR390initial/next and EN1280pixels inspected.
 - Initial new repeated-click test read enabled state before the preceding scroll event settled and waited on the now-disabled button. The test now waits for each range update before continuing. No product change was made to mask it.
