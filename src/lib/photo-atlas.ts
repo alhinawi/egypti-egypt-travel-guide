@@ -16,3 +16,5 @@ export function readAtlasFilters(search:string):AtlasFilters{const p=new URLSear
 export function atlasFilterQuery(filters:AtlasFilters){const p=new URLSearchParams();if(filters.q)p.set('q',filters.q.slice(0,120));if(filters.area)p.set('governorate',filters.area);if(filters.category)p.set('category',filters.category);if(filters.region)p.set('region',filters.region);if(filters.era&&Object.hasOwn(eraNames,filters.era))p.set('era',filters.era);return p.size?'?'+p.toString():''}
 
 export const atlasEras=Object.entries(eraNames).flatMap(([id,name])=>{const entries=filterAtlas({era:id});return entries.length?[{id,name,count:entries.length,cover:entries[0]}]:[]});
+
+export const atlasCategories=Object.entries(categoryNames).flatMap(([id,name])=>{const entries=filterAtlas({category:id});return entries.length?[{id,name,count:entries.length,cover:entries[0]}]:[]});
