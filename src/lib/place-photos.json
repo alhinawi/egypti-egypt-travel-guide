@@ -1751,17 +1751,17 @@
     "heroSuitable": false
   },
   "tuna-el-gebel": {
-    "file": "flickr-3426724519",
+    "file": "commons-tomb-of-petosiris",
     "alt": {
-      "en": "A waterwheel at Tuna el Gebel, photographed in 2009.",
-      "ar": "ساقية في تونة الجبل، صورة سنة 2009."
+      "en": "The columned facade of the Tomb of Petosiris at Tuna el-Gebel, photographed in 2006.",
+      "ar": "واجهة مقبرة بيتوزيريس بالأعمدة في تونة الجبل، صورة سنة 2006."
     },
-    "source": "https://www.flickr.com/photos/arancidamoeba/3426724519",
-    "author": "a rancid amoeba",
-    "license": "CC BY-SA 2.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/deed.en",
-    "changes": "Resized and converted to WebP; layout crop",
-    "heroSuitable": false
+    "source": "https://commons.wikimedia.org/wiki/File:Tomb_of_Petosiris.JPG",
+    "author": "Einsamer Schütze",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "changes": "Resized and converted to WebP; layout crop. Adapted images under CC BY-SA 3.0.",
+    "heroSuitable": true
   },
   "talkha": {
     "file": "flickr-491882156",
