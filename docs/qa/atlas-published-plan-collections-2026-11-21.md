@@ -13,3 +13,6 @@ Photographs keep atlas order, not visit order. This is not a map, new itinerary,
 - Inspected AR390 and EN1280 selected-day photographs and EN1280 expanded nine-plan photo collection. Initial placement separated the selected day from its photos with the old filter panel; moved collections beside the result controls and visually checked the revision.
 
 Exact head/main, production deployment, immutable/canonical checks and photo-byte identity are recorded in the shipment report.
+
+## Live-navigation correction
+One immutable run found a pending atlas URL timer attaching atlas query parameters to the just-opened trip URL. The follow-up binds the timer to its captured atlas pathname, refuses all non-atlas paths and rechecks the pathname before writing. Two regression cases change the URL while a filter update is pending and assert the destination stays untouched. Original plan/day navigation assertions remain strict. Final verification uses the corrected exact main.
