@@ -1,2 +1,4 @@
+import{Suspense}from'react';
 import{PhotoAtlas}from'@/components/photo-atlas';
-export default function Page(){return <PhotoAtlas/>}
+import{contentWidthClasses,pageContentClasses}from'@/components/page-container-styles';
+export default async function Page({params}:{params:Promise<{lang:string}>}){const{lang}=await params,ar=lang==='ar';return <Suspense fallback={<div className={contentWidthClasses+' '+pageContentClasses}><h1>{ar?'أطلس مصر بالصور':'Egypt, a photographic atlas'}</h1><p role="status" className="tw:my-[20px] tw:text-[var(--muted)]">{ar?'بنجهّز الصور واختياراتك…':'Loading photographs and your selections…'}</p><noscript><p>{ar?'فلاتر الصور محتاجة JavaScript. تقدر تتصفح كل الأماكن في الموسوعة.':'Photo filters need JavaScript. Browse all places in the encyclopedia instead.'}</p><a className="tw:my-[20px] tw:inline-flex tw:min-h-[44px] tw:items-center tw:text-[var(--ink)] tw:underline" href={'/'+lang+'/encyclopedia/'}>{ar?'افتح الموسوعة':'Open the encyclopedia'}</a></noscript></div>}><PhotoAtlas/></Suspense>}
