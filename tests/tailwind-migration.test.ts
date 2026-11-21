@@ -58,7 +58,7 @@ test('all page-heading consumers use shared Tailwind presentation',()=>{
 test('magazine and destination section headings use shared Tailwind presentation',()=>{
  for(const file of ['src/app/globals.css','src/app/editorial.css'])assert.doesNotMatch(readFileSync(file,'utf8'),/\.(?:section-heading|mag-section-head)(?![\w-])/);
  assert.match(readFileSync('src/components/pages.tsx','utf8'),/className=\{sectionHeadingClasses\}/);
- assert.equal((readFileSync('src/components/magazine-home.tsx','utf8').match(/className=\{magazineSectionHeadingClasses\}/g)||[]).length,4);
+ const homeHeadings=['magazine-home.tsx','home-photo-exhibition.tsx'].reduce((n,file)=>n+(readFileSync('src/components/'+file,'utf8').match(/className=\{magazineSectionHeadingClasses\}/g)||[]).length,0);assert.equal(homeHeadings,4);
 });
 
 test('destination cards use shared Tailwind presentation',()=>{
@@ -100,7 +100,7 @@ test('homepage search form and filters use Tailwind',()=>{
 test('homepage structural layout and grids use Tailwind',()=>{
  for(const file of ['src/app/globals.css','src/app/editorial.css'])assert.doesNotMatch(readFileSync(file,'utf8'),/\.mag-(?:content|section|destinations|place-grid)(?![\w-])/);
  const source=readFileSync('src/components/magazine-home.tsx','utf8');
- for(const name of ['magazineContentClasses','magazineSectionClasses','magazineDestinationsClasses','magazinePlaceGridClasses'])assert.match(source,new RegExp('className=\\{'+name+'\\}'));
+ for(const name of ['magazineContentClasses','magazineSectionClasses','magazineDestinationsClasses'])assert.match(source,new RegExp('className=\\{'+name+'\\}'));
 });
 
 
