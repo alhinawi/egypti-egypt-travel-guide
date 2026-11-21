@@ -15,3 +15,6 @@ The chapter participates in the existing keyboard/touch/direct-hash navigator, w
 - Actual AR390x844 and EN1280x1000 pixels inspected at the section and expanded-card areas. Source photographs, headings, counts, summaries and separate day/article/full-plan links fit and remain readable. Mobile uses one column; desktop two.
 
 Exact-main CI/deployment, immutable/canonical tests and canonical screenshots are recorded in the shipment report.
+
+## Post-merge alignment correction
+An independent geometry check found that the new chapter's185px scroll margin combined with the page's85px scroll padding, producing a270px landing point. Corrected the new chapter margin to100px, matching existing sections and the185px final clearance. Added strict chapter geometry checks in both languages at all six widths plus delayed-font coverage. No assertion threshold was widened. One original English390 chapter-position case was intermittent in the first post-merge run; the isolated case passed12/12 repeats and the unchanged full focused suite passed on rerun. Final corrected-main/live evidence is in the shipment report.
