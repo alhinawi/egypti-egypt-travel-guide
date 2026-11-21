@@ -1725,17 +1725,17 @@
     "heroSuitable": true
   },
   "lake-manzala": {
-    "file": "flickr-4565554783",
+    "file": "commons-manzala-fishermen",
     "alt": {
-      "en": "Satellite view of the Suez Canal region, with Lake Manzala at the upper left. NASA image via Flickr.",
-      "ar": "صورة قمر صناعي لمنطقة قناة السويس، وبحيرة المنزلة في أعلى الشمال. صورة ناسا عبر فليكر."
+      "ar": "صيادين بشباكهم في بحيرة المنزلة، صورة سنة 2007.",
+      "en": "Fishermen with nets in Lake Manzala, photographed in 2007."
     },
-    "source": "https://www.flickr.com/photos/48722974@N07/4565554783",
-    "author": "eutrophication&hypoxia",
-    "license": "CC BY 2.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/deed.en",
-    "changes": "Resized and converted to WebP; layout crop",
-    "heroSuitable": false
+    "source": "https://commons.wikimedia.org/wiki/File:Fishermen_in_Egypt.jpg",
+    "author": "Eman Shokry Hesham",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "changes": "Resized and converted to WebP; layout crop. Derivatives licensed CC BY-SA 4.0.",
+    "heroSuitable": true
   },
   "meir-egypt": {
     "file": "flickr-2237866751",
