@@ -1,0 +1,2 @@
+import{itineraries,places}from'./data';
+export function savedPlanCoverage(saved:string[]){const selected=places.filter(p=>saved.includes('place:'+p.id)),plans=itineraries.flatMap(trip=>{const matches=selected.flatMap(place=>{const days=trip.days.flatMap((day,index)=>day.places.includes(place.id)?[index+1]:[]);return days.length?[{place,days}]:[]});return matches.length?[{trip,matches}]:[]}),covered=new Set(plans.flatMap(p=>p.matches.map(m=>m.place.id)));return{selected,plans,unlisted:selected.filter(p=>!covered.has(p.id))}}
