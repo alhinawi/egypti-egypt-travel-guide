@@ -11,3 +11,6 @@ Existing catalog/photos only. Reading suggestions,not nearest-place recommendati
 - Existing governorate chapter and gallery regressions included.
 -648AR/EN18theme6width3governorate checks pass,min text contrast5.4599:1,no overflow,44pxlinks.
 - Actual Cairo/RedSea AR390/EN1280collection pixels inspected. Existing chapter offset lands around185px below both headers;the new test checks the existing160..210range instead of assuming a100pxsingle-header offset.
+
+## Post-merge correction
+A cold-font mobile chapter jump intermittently shifted after the original scroll,including a small sticky-nav overlap. Reproduced in focused reruns. Follow-up waits for fonts and two layout frames before focus/scroll,and recovers direct-hash/history jumps the same way. Request sequencing prevents an older pending jump from overriding a later one. Added AR/EN delayed-font regression tests;kept existing geometry assertions.
