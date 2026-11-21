@@ -10,3 +10,6 @@ export function tripPhotoPreview(trip:Itinerary) {
     })
   }));
 }
+
+/** Only this published day’s suitable photographed places, first occurrence order. */
+export function tripDayPhotographs(day:ReturnType<typeof tripPhotoPreview>[number]){const seen=new Set<string>();return day.stops.flatMap(stop=>{if(!stop.place||!stop.photo||seen.has(stop.id))return[];seen.add(stop.id);return[stop.place]})}
