@@ -14,3 +14,5 @@ Existing catalog/photos only. Reading suggestions,not nearest-place recommendati
 
 ## Post-merge correction
 A cold-font mobile chapter jump intermittently shifted after the original scroll,including a small sticky-nav overlap. Reproduced in focused reruns. Follow-up waits for fonts and two layout frames before focus/scroll,and recovers direct-hash/history jumps the same way. Request sequencing prevents an older pending jump from overriding a later one. Added AR/EN delayed-font regression tests;kept existing geometry assertions.
+
+The same investigation caught vertical movement from the chapter rail's focus handler,which could move a link under the pointer during a click. The rail now recovers focus horizontally only. Added AR/EN no-vertical-movement tests.24repeat checks passed after both corrections. Settled-position assertions poll the unchanged geometry bounds rather than sampling the native pre-hydration anchor before recovery finishes. The all27page sweep has a60second test budget for its54page-language visits across the two tests;no checks removed.
