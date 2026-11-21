@@ -2608,5 +2608,18 @@
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
     "changes": "Resized from 960px Wikimedia preview, converted to WebP; layout crop; no upscaling."
+  },
+  "lake-manzala-satellite-context": {
+    "file": "flickr-4565554783",
+    "alt": {
+      "en": "Satellite view of the Suez Canal region, with Lake Manzala at the upper left. NASA image via Flickr.",
+      "ar": "صورة قمر صناعي لمنطقة قناة السويس، وبحيرة المنزلة في أعلى الشمال. صورة ناسا عبر فليكر."
+    },
+    "source": "https://www.flickr.com/photos/48722974@N07/4565554783",
+    "author": "eutrophication&hypoxia",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/deed.en",
+    "changes": "Resized and converted to WebP; layout crop",
+    "heroSuitable": false
   }
 }
