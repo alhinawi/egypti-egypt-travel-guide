@@ -4,7 +4,7 @@ for(const lang of ['ar','en'])test(`gallery preserves page position and restores
  const cover=page.locator('.gallery-cover');await cover.scrollIntoViewIfNeeded();await cover.click();
  const dialog=page.locator('.photo-lightbox');await expect(dialog).toBeVisible();const y=await page.evaluate(()=>window.scrollY);
  await page.mouse.move(180,430);await page.mouse.wheel(0,650);await page.waitForTimeout(250);expect(await page.evaluate(()=>window.scrollY)).toBe(y);
- await page.keyboard.press('End');await expect(dialog.getByRole('status')).toContainText('3 / 3');await page.screenshot({path:`/downloads/egypti-b22-gallery-${lang}-390.png`});
+ await page.keyboard.press('End');await expect(dialog.locator('.lightbox-bar [role=status]')).toContainText('3 / 3');await page.screenshot({path:`/downloads/egypti-b22-gallery-${lang}-390.png`});
  await page.keyboard.press('Escape');await expect(dialog).not.toBeVisible();await expect(cover).toBeFocused();expect(await page.evaluate(()=>window.scrollY)).toBe(y);
  await page.mouse.move(180,430);await page.mouse.wheel(0,450);await expect.poll(()=>page.evaluate(()=>window.scrollY)).toBeGreaterThan(y+50);
  await cover.click();await expect(dialog).toBeVisible();await dialog.locator('.lightbox-bar button').click();await expect(dialog).not.toBeVisible();await expect(cover).toBeFocused();
