@@ -1,0 +1,14 @@
+import{test}from'node:test';
+import assert from'node:assert/strict';
+import{readFileSync}from'node:fs';
+import{places,destinations}from'../src/lib/data';
+import{placePhotos}from'../src/lib/photos';
+import{placeIndex}from'../src/lib/encyclopedia';
+import{destinationPlaceResults,destinationCategoryChoices}from'../src/lib/destination-place-finder';
+import{destinationPhotoPlaces}from'../src/lib/destination-photo-viewer';
+test('destination viewer is a strict ordered subset of supplied results',()=>{for(const destination of destinations)for(const category of['',...destinationCategoryChoices(destination.id).map(x=>x.category)]){const results=destinationPlaceResults(destination.id,category),photos=destinationPhotoPlaces(results);assert.deepEqual(photos,results.filter(p=>{const photo=placePhotos[p.id];return placeIndex[p.id]?.governorate!=='north-sinai'&&photo&&photo.heroSuitable!==false&&!photo.contextual}));for(const photo of photos)assert(results.includes(photo))}});
+test('destination viewer never adds or reorders places for a query',()=>{for(const destination of destinations)for(const place of destinationPlaceResults(destination.id)){const matches=destinationPlaceResults(destination.id,'',place.name.en),photos=destinationPhotoPlaces(matches);assert(photos.every(p=>matches.includes(p)));assert.deepEqual(photos.map(p=>matches.indexOf(p)),photos.map(p=>matches.indexOf(p)).sort((a,b)=>a-b))}});
+test('destination viewer excludes detail contextual and reference photographs',()=>{for(const p of places){const photo=placePhotos[p.id];if(!photo||photo.contextual||photo.heroSuitable===false||placeIndex[p.id]?.governorate==='north-sinai')assert.deepEqual(destinationPhotoPlaces([p]),[])}});
+test('destination viewer handles one and no suitable photograph without borrowing',()=>{assert.deepEqual(destinationPhotoPlaces([]),[]);const p=places.find(p=>destinationPhotoPlaces([p]).length)!;assert.deepEqual(destinationPhotoPlaces([p]),[p]);const bad=places.filter(p=>!destinationPhotoPlaces([p]).length);assert(bad.length>0);assert.deepEqual(destinationPhotoPlaces(bad),[])});
+test('destination viewer does not mutate input results or the catalogue',()=>{const before=JSON.stringify(places);for(const d of destinations){const matches=destinationPlaceResults(d.id),copy=matches.slice();destinationPhotoPlaces(matches);assert.deepEqual(matches,copy)}assert.equal(JSON.stringify(places),before)});
+test('destination viewer leaves state ownership and shared viewer unchanged',()=>{const source=readFileSync('src/components/destination-photo-grid.tsx','utf8');assert.match(source,/AtlasViewer/);assert.match(source,/destination-photo-enlarge/);assert.match(source,/disabled=\{!ready\}/);assert.doesNotMatch(source,/localStorage|fetch\(|replaceState|pushState|setQuery|setCategory/);assert.match(source,/className=\{'destination-photo-tile/)});
