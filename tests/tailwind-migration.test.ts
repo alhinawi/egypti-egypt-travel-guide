@@ -5,7 +5,9 @@ test('Tailwind migration uses utilities without introducing a global reset',()=>
  const css=readFileSync('src/app/tailwind.css','utf8');
  assert.match(css,/tailwindcss\/utilities\.css/);
  assert.doesNotMatch(css,/preflight/);
- assert.match(readFileSync('src/components/virtual-tours.tsx','utf8'),/tw:grid-cols-3/);
+ assert.match(readFileSync('src/components/virtual-tours.tsx','utf8'),/VirtualVisitBrowser/);
+ assert.match(readFileSync('src/components/virtual-visit-browser.tsx','utf8'),/tw:grid-cols-4/);
+ assert.match(readFileSync('src/components/virtual-visit-browser.tsx','utf8'),/max-width:700px\)\]:grid-cols-2/);
  assert.doesNotMatch(readFileSync('src/app/globals.css','utf8'),/\.virtual-stats[^{}]*\{/);
 });
 
