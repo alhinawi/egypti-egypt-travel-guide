@@ -545,28 +545,32 @@
     "changes": "resized, converted to WebP; layout crop"
   },
   "al-muizz-street": {
-    "file": "al-muizz-street",
+    "file": "cairo-muizz-night-2016",
     "alt": {
-      "en": "Al-Muizz street scene with Barquq complex and neighboring architecture",
-      "ar": "منظر من شارع المعز فيه مجموعة برقوق وعمارة مجاورة"
+      "ar": "شارع المعز بالليل، صورة من سنة 2016",
+      "en": "Al-Muizz Street at night, photographed in 2016"
     },
-    "source": "https://commons.wikimedia.org/wiki/File:Al-Moez_interface.jpg",
-    "author": "Yasser.mahmoud",
+    "source": "https://commons.wikimedia.org/wiki/File:Muizz_Street_-_Egypt.jpg",
+    "author": "Mohammed Moussa",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "changes": "No additional changes made. Source photograph may have its own processing.; resized and converted to WebP; layout crop"
+    "changes": "Resized from Wikimedia's 1920px JPEG thumbnail, converted to WebP; layout crop. No added retouching. Adapted images under CC BY-SA 4.0.",
+    "captured": "2016-09-24",
+    "heroSuitable": true
   },
   "qalawun-complex": {
-    "file": "qalawun-complex",
+    "file": "cairo-qalawun-mausoleum-2015",
     "alt": {
-      "en": "Qalawun complex and adjoining monuments along Al-Muizz",
-      "ar": "مجموعة قلاوون ومعالم مجاورة على شارع المعز"
+      "ar": "من جوه ضريح قلاوون، صورة من سنة 2015",
+      "en": "Interior of Qalawun's mausoleum, photographed in 2015"
     },
-    "source": "https://commons.wikimedia.org/wiki/File:Qalawun_Complex_morning.jpg",
-    "author": "Mohamed abdelzaher",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "changes": "No additional changes made. Source photograph may have its own processing.; resized and converted to WebP; layout crop"
+    "source": "https://commons.wikimedia.org/wiki/File:Cairo,_madrasa_del_sultano_qalaun,_mausoleo,_interno_02.JPG",
+    "author": "Sailko",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "changes": "Resized from Wikimedia's 1920px JPEG thumbnail, converted to WebP; layout crop. No added retouching. Adapted images under CC BY 3.0.",
+    "captured": "2015-11-21",
+    "heroSuitable": true
   },
   "sultan-barquq-complex": {
     "file": "sultan-barquq-complex",
