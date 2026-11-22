@@ -60,7 +60,7 @@ test('all page-heading consumers use shared Tailwind presentation',()=>{
 test('magazine and destination section headings use shared Tailwind presentation',()=>{
  for(const file of ['src/app/globals.css','src/app/editorial.css'])assert.doesNotMatch(readFileSync(file,'utf8'),/\.(?:section-heading|mag-section-head)(?![\w-])/);
  assert.match(readFileSync('src/components/pages.tsx','utf8'),/className=\{sectionHeadingClasses\}/);
- const homeHeadings=['magazine-home.tsx','home-photo-exhibition.tsx'].reduce((n,file)=>n+(readFileSync('src/components/'+file,'utf8').match(/className=\{magazineSectionHeadingClasses\}/g)||[]).length,0);assert.equal(homeHeadings,4);
+ const homeHeadings=['magazine-home.tsx','home-photo-exhibition.tsx','home-plan-days.tsx'].reduce((n,file)=>n+(readFileSync('src/components/'+file,'utf8').match(/className=\{magazineSectionHeadingClasses\}/g)||[]).length,0);assert.equal(homeHeadings,4);
 });
 
 test('destination cards use shared Tailwind presentation',()=>{
@@ -75,10 +75,12 @@ test('homepage mood cards use shared Tailwind presentation',()=>{
  for(const name of ['moodGridClasses','moodCardClasses','moodShadeClasses'])assert.match(source,new RegExp('className=\\{'+name+'\\}'));
 });
 
-test('homepage magazine trip cards use shared Tailwind presentation',()=>{
- for(const file of ['src/app/globals.css','src/app/editorial.css'])assert.doesNotMatch(readFileSync(file,'utf8'),/\.mag-trip(?:-row|-photo|-days|-copy)?(?![\w-])/);
- const source=readFileSync('src/components/magazine-home.tsx','utf8');
- for(const name of ['magazineTripRowClasses','magazineTripClasses','magazineTripPhotoClasses','magazineTripDayClasses','magazineTripCopyClasses'])assert.match(source,new RegExp('className=\\{'+name+'\\}'));
+test('homepage plan day cards use Tailwind and preserve the shared section heading',()=>{
+ for(const file of ['src/app/globals.css','src/app/editorial.css']){assert.doesNotMatch(readFileSync(file,'utf8'),/\.home-plan-(?:days|card|stops)(?![\w-])/);assert.doesNotMatch(readFileSync(file,'utf8'),/\.mag-trip(?:-row|-photo|-days|-copy)?(?![\w-])/);}
+ assert.match(readFileSync('src/components/magazine-home.tsx','utf8'),/<HomePlanDays\/>/);
+ const source=readFileSync('src/components/home-plan-days.tsx','utf8');
+ assert.match(source,/className=\{magazineSectionHeadingClasses\}/);
+ for(const name of ['home-plan-grid','home-plan-card','home-plan-stops'])assert.match(source,new RegExp(name+' tw:'));
 });
 
 test('homepage editorial promo uses shared Tailwind presentation',()=>{
