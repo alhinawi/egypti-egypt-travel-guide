@@ -1,0 +1,17 @@
+'use client';
+import Link from'next/link';
+import{Camera,ArrowUpRight}from'lucide-react';
+import{useGuide,t}from'./guide-provider';
+import type{Itinerary}from'@/lib/data';
+import{tripComparisonPhotographs}from'@/lib/trip-comparison-photos';
+import{photoPath}from'@/lib/photos';
+import{tripComparisonFacts}from'@/lib/trip-comparison';
+const focus=' tw:focus-visible:outline-[3px]! tw:focus-visible:outline-solid! tw:focus-visible:outline-[var(--ink)]! tw:focus-visible:outline-offset-[3px]!';
+export function TripComparisonPhotos({trip}:{trip:Itinerary}){
+ const{lang}=useGuide(),photos=tripComparisonPhotographs(trip),picks=photos.slice(0,3),total=tripComparisonFacts(trip).placeIds.length;
+ return <div className="trip-compare-photographs tw:border-0 tw:border-b tw:border-solid tw:border-[var(--line)] tw:mb-[18px] tw:pb-[16px] tw:text-[var(--ink)]">
+  <p className="trip-compare-photo-coverage tw:mb-[12px] tw:flex tw:items-center tw:gap-[7px] tw:text-[11px] tw:leading-[1.9] tw:text-[var(--muted)]"><Camera size={16} className="tw:shrink-0" aria-hidden="true"/><span><bdi dir="ltr">{photos.length} / {total}</bdi> {t(lang,'من الأماكن المختلفة المذكورة ليها صورة مناسبة','distinct listed places have suitable photographs')}</span></p>
+  {picks.length?<div className="trip-compare-photo-mosaic tw:grid tw:grid-cols-2 tw:gap-[10px]">{picks.map(({place,photo,day},i)=><Link key={place.id} data-place={place.id} data-day={day} className={'trip-compare-photo-stop tw:flex tw:min-w-0 tw:flex-col tw:overflow-hidden tw:rounded-[10px] tw:border tw:border-solid tw:border-[var(--line)] tw:bg-[var(--paper)] tw:text-[var(--ink)] '+(i===0?'tw:col-span-2 ':'')+focus} href={'/'+lang+'/trips/'+trip.id+'/#trip-day-'+day}><img src={photoPath(photo,780)} srcSet={[420,780].map(w=>photoPath(photo,w)+' '+w+'w').join(', ')} sizes={i===0?'(max-width:700px) 90vw,45vw':'(max-width:700px) 45vw,23vw'} alt={photo.alt[lang]} width="780" height="520" loading="lazy" className={'tw:block tw:w-full tw:shrink-0 tw:object-cover '+(i===0?'tw:h-[225px] tw:[@media(max-width:600px)]:h-[195px]':'tw:h-[145px] tw:[@media(max-width:600px)]:h-[120px]')}/><div className="tw:flex tw:flex-1 tw:flex-col tw:p-[12px]"><p className="trip-compare-photo-name tw:m-0! tw:mb-[8px]! tw:text-[17px]! tw:font-semibold tw:leading-[1.7]! tw:[@media(max-width:600px)]:text-[15px]!">{place.name[lang]}</p><span className="trip-compare-photo-day tw:mt-auto tw:flex tw:min-h-[44px] tw:items-center tw:justify-between tw:gap-[7px] tw:text-[11px] tw:leading-[1.8]"><span>{t(lang,'أول ذكر: اليوم ','First listed: day ')}<bdi dir="ltr">{day}</bdi></span><ArrowUpRight size={15} className="tw:shrink-0" aria-hidden="true"/></span></div></Link>)}</div>:<p className="trip-compare-photo-empty tw:rounded-[10px] tw:bg-[var(--tint)] tw:p-[17px] tw:text-[12px] tw:leading-[1.9]">{t(lang,'لسه مفيش صور مناسبة للأماكن المذكورة. تفاصيل الأيام موجودة تحت.','No suitable photographs of the listed places yet. The published days are below.')}</p>}
+  <p className="trip-compare-photo-scope tw:mt-[12px] tw:text-[11px] tw:leading-[1.9] tw:text-[var(--muted)]">{t(lang,'أمثلة بالصور من نفس الخطة، بترتيب أول ذكر. اضغط لفتح أول يوم بيذكر المكان، مش مقال المكان. الصور مش كل الأماكن، ولا ترتيب انتقالات أو تأكيد للإتاحة.','Examples from this plan in first-listed order. Select a place to open the first day listing it, not its article. Photographs are not the full place list, a transfer order or confirmation of access.')}</p>
+ </div>
+}
