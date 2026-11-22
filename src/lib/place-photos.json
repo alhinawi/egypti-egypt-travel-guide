@@ -685,16 +685,18 @@
     "changes": "Resized and converted to WebP; layout crop"
   },
   "ras-el-barr": {
-    "file": "atlas-ras-el-barr",
+    "file": "ras-el-bar-lisan-2016",
     "alt": {
-      "en": "Ras El Bar lighthouse at night",
-      "ar": "فنار رأس البر بالليل"
+      "en": "Lighthouse and pier at Ras El Bar, photographed in 2016",
+      "ar": "الفنار واللسان في رأس البر، صورة من سنة 2016"
     },
-    "source": "https://commons.wikimedia.org/wiki/File:%D9%81%D9%86%D8%A7%D8%B1_%D8%B1%D8%A7%D8%B3_%D8%A7%D9%84%D8%A8%D8%B1_%D8%A8%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A9_%D8%AF%D9%85%D9%8A%D8%A7%D8%B7.jpg",
-    "author": "Mohamedwardany",
+    "source": "https://commons.wikimedia.org/wiki/File:%D9%81%D9%86%D8%A7%D8%B1_%D8%A7%D9%84%D9%84%D8%B3%D8%A7%D9%86_%D8%A8%D8%B1%D8%A3%D8%B3_%D8%A7%D9%84%D8%A8%D8%B1.jpg",
+    "author": "Mohamed kamal 1984",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "changes": "Resized and converted to WebP; layout crop"
+    "changes": "Resized from Wikimedia's 1920px JPEG thumbnail, converted to WebP; layout crop. No added retouching. Adapted images under CC BY-SA 4.0. Source copyright notice: MOHAMED KAMAL (C).",
+    "captured": "2016-02-19",
+    "heroSuitable": true
   },
   "amr-ibn-al-as-mosque-damietta": {
     "file": "atlas-amr-ibn-al-as-mosque-damietta",
@@ -853,16 +855,18 @@
     "changes": "Resized and converted to WebP; layout crop"
   },
   "lake-burullus": {
-    "file": "atlas-lake-burullus",
+    "file": "burullus-sail-2022",
     "alt": {
-      "en": "A rainbow over Lake Burullus",
-      "ar": "قوس قزح فوق بحيرة البرلس"
+      "en": "Sailing boat on Lake Burullus, photographed in 2022",
+      "ar": "مركب شراعي في بحيرة البرلس، صورة من سنة 2022"
     },
-    "source": "https://commons.wikimedia.org/wiki/File:Burullus_Lake-Nature001.jpg",
-    "author": "Ibrahimmaz",
+    "source": "https://commons.wikimedia.org/wiki/File:Burullus_Lake_(3).jpg",
+    "author": "Hanan Elmahmoudy",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "changes": "Resized and converted to WebP; layout crop"
+    "changes": "Resized from Wikimedia's 1920px JPEG thumbnail, converted to WebP; layout crop. No added retouching. Adapted images under CC BY-SA 4.0.",
+    "captured": "2022-03-25",
+    "heroSuitable": true
   },
   "fuwwah": {
     "file": "atlas-fuwwah",
