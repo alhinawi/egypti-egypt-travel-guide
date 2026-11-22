@@ -27,7 +27,7 @@ Additional photographer-series options inspected: backlit waterfront, parasol se
 
 ## Encoding and attribution
 
-Six new real RIFF/WEBP files, resized without upscaling, filters or pre-cropping. Dahab: 420 × 280, 780 × 520, 1400 × 933. Ras Muhammad: 420 × 236, 780 × 438, 1400 × 787. The existing component supplies layout crops. The original old-pool and old-gate sources remain in the governorate photography records and retain their own credits. Source counts derive from deduplicated records rather than a frozen number.
+Six new real RIFF/WEBP files, resized without upscaling, filters or pre-cropping. Dahab: 420 × 280, 780 × 520, 1400 × 933. Ras Muhammad: 420 × 236, 780 × 438, 1400 × 787. The existing component supplies layout crops. The old gate source remains an active governorate gallery source and keeps its central credit. The old Dahab pool source is no longer used by a published guide photograph, so it no longer has an active central credit card. Its retained asset attribution is archived below. Both sources remain in the earlier governorate research metadata. There are now 327 deduplicated central credit sources, with 315 reverse associations across 286 mapped sources; 29 sources have two guide contexts, none more than two. Counts are derived from source records rather than frozen in tests.
 
 ## Local results completed before PR
 
@@ -47,3 +47,25 @@ The documented synthetic rapid-input shared-viewer caveat remains; physical-devi
 ## Release verification
 
 After a normal green PR merge, repeat exact-main build/typecheck/unit/new-browser/retained-browser/theme checks. Verify clean Cloudflare production names that exact main commit. Recheck canonical and immutable origins, inspect canonical pixels, and byte-compare linked built assets and all six new derivatives. Isolate any independent Next build-ID difference explicitly. Record actual IDs/results in the shipment report; this paragraph is a checklist, not a claim of completion.
+
+## Attribution archive for retained prior derivatives
+
+These are prior attribution records, preserved with the retained local files. They do not identify the new opening photographs. The former pool image is no longer selected for any published guide photo.
+
+### Previous dahab variants
+
+- Filename stem: dahab
+- Source: https://commons.wikimedia.org/wiki/File:Dahab_-_Egypte_07-2012_(7614814042).jpg
+- Recorded creator: Grand Parc - Bordeaux, France from France
+- License: CC BY-SA 2.0
+- License URL: https://creativecommons.org/licenses/by-sa/2.0
+- Recorded changes: resized, converted to WebP; layout crop
+
+### Previous ras-muhammad-national-park variants
+
+- Filename stem: ras-muhammad-national-park
+- Source: https://commons.wikimedia.org/wiki/File:%D8%A8%D9%88%D8%A7%D8%A8%D8%A7%D8%AA_%D9%85%D8%AD%D9%85%D9%8A%D9%87_%D8%B1%D8%A7%D8%B3_%D9%85%D8%AD%D9%85%D8%AF.png
+- Recorded creator: Mahmoud E. Abd El Aziz
+- License: CC BY-SA 4.0
+- License URL: https://creativecommons.org/licenses/by-sa/4.0
+- Recorded changes: resized, converted to WebP; layout crop
