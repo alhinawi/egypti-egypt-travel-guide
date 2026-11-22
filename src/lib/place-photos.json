@@ -497,28 +497,32 @@
     "changes": "resized, converted to WebP; layout crop"
   },
   "ras-muhammad-national-park": {
-    "file": "ras-muhammad-national-park",
+    "file": "ras-muhammad-bay-2011",
     "alt": {
-      "en": "A protected coastal and marine landscape at the southern end of Sinai.",
-      "ar": "محمية بحرية وساحلية عند الطرف الجنوبي من سينا."
+      "en": "Bay at Ras Muhammad, photographed in 2011",
+      "ar": "خليج عند رأس محمد، صورة من سنة 2011"
     },
-    "source": "https://commons.wikimedia.org/wiki/File:%D8%A8%D9%88%D8%A7%D8%A8%D8%A7%D8%AA_%D9%85%D8%AD%D9%85%D9%8A%D9%87_%D8%B1%D8%A7%D8%B3_%D9%85%D8%AD%D9%85%D8%AF.png",
-    "author": "Mahmoud E. Abd El Aziz",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "changes": "resized, converted to WebP; layout crop"
+    "source": "https://commons.wikimedia.org/wiki/File:Ras_Mohammed_-_panoramio_(2).jpg",
+    "author": "patano",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "changes": "Resized from Wikimedia's 1920px JPEG thumbnail, converted to WebP; layout crop. No added retouching. Adapted images under CC BY-SA 3.0.",
+    "captured": "2011-12-04",
+    "heroSuitable": true
   },
   "dahab": {
-    "file": "dahab",
+    "file": "dahab-seafront-2020",
     "alt": {
-      "en": "A Gulf of Aqaba coastal town associated with diving, windsurfing and a slower pace.",
-      "ar": "مدينة على خليج العقبة معروفة بالغطس والويند سيرف وأجوائها الهادية."
+      "en": "Dahab seafront, photographed in 2020",
+      "ar": "ساحل دهب، صورة من سنة 2020"
     },
-    "source": "https://commons.wikimedia.org/wiki/File:Dahab_-_Egypte_07-2012_(7614814042).jpg",
-    "author": "Grand Parc - Bordeaux, France from France",
-    "license": "CC BY-SA 2.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-    "changes": "resized, converted to WebP; layout crop"
+    "source": "https://commons.wikimedia.org/wiki/File:Dahab_2020-03-08.jpg",
+    "author": "Alexey Komarov",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Resized from Wikimedia's 1920px JPEG thumbnail, converted to WebP; layout crop. No added retouching. Adapted images under CC BY-SA 4.0.",
+    "captured": "2020-03-08",
+    "heroSuitable": true
   },
   "saint-catherine-s-monastery": {
     "file": "saint-catherine-s-monastery",
