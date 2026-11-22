@@ -1,0 +1,16 @@
+'use client';
+import{useGuide,t}from'./guide-provider';
+import{climateRange,type ClimateMonth}from'@/lib/climate-range';
+export function ClimateRangeGraphic({months,names}:{months:ClimateMonth[];names:string[]}){
+ const{lang}=useGuide(),data=climateRange(months);if(!data)return null;
+ return <section className="climate-range tw:min-w-0 tw:rounded-[12px] tw:border tw:border-solid tw:border-[var(--line)] tw:bg-[var(--paper)] tw:p-[16px] tw:text-[var(--ink)] tw:[@media(max-width:600px)]:p-[12px]" aria-label={t(lang,'مقارنة متوسطات الحرارة الشهرية','Compare monthly average temperatures')}>
+ <h4 className="tw:m-0! tw:text-[20px]! tw:leading-[1.7]!">{t(lang,'متوسطات الحرارة، شهر بشهر','Average temperatures, month by month')}</h4>
+ <p className="tw:mt-[8px] tw:mb-[16px] tw:text-[12px] tw:leading-[1.9] tw:text-[var(--muted)]">{t(lang,'من متوسط الصغرى لمتوسط العظمى، بنفس مقياس °م لكل الشهور. دي متوسطات، مش أقل وأعلى حرارة ممكن تحصل.','Average low to average high, on the same °C scale for every month. These are averages, not the lowest and highest temperatures that can occur.')}</p>
+ <div dir="ltr" className="tw:grid tw:grid-cols-[68px_38px_minmax(40px,1fr)_38px] tw:items-center tw:gap-x-[6px] tw:text-[12px] tw:leading-[1.8] tw:tabular-nums">
+ <span/><span className="tw:text-center">{t(lang,'صغرى','Low')}</span><span className="climate-range-scale tw:flex tw:justify-between tw:px-[5%] tw:text-[11px] tw:text-[var(--muted)]"><span>{data.min}°</span><span>{(data.min+data.max)/2}°</span><span>{data.max}°</span></span><span className="tw:text-center">{t(lang,'عظمى','High')}</span>
+ {data.rows.map(row=><div key={row.month} data-month={row.month} className="climate-range-row tw:col-span-4 tw:grid tw:grid-cols-subgrid tw:items-center tw:border-x-0 tw:border-b-0 tw:border-t tw:border-solid tw:border-[var(--line)] tw:py-[6px]">
+ <span dir={lang==='ar'?'rtl':'ltr'} className="climate-range-month tw:font-semibold">{names[row.month-1]}</span><span className="climate-range-low tw:text-center"><span className="sr-only">{t(lang,'متوسط الصغرى °م: ','Average low °C: ')}</span>{row.low.toFixed(1)}</span>
+ <svg viewBox="0 0 100 16" preserveAspectRatio="none" height="16" className="tw:block tw:h-[16px] tw:w-full tw:overflow-visible tw:text-[var(--ink)]" aria-hidden="true" focusable="false"><line x1="5" x2="95" y1="8" y2="8" stroke="currentColor" strokeWidth="1" strokeDasharray="1 5" vectorEffect="non-scaling-stroke"/><line className="climate-range-line" x1={row.start} x2={row.end} y1="8" y2="8" stroke="currentColor" strokeWidth="3" vectorEffect="non-scaling-stroke"/><line x1={row.start} x2={row.start+0.00001} y1="8" y2="8" stroke="currentColor" strokeWidth="8" strokeLinecap="round" vectorEffect="non-scaling-stroke"/><line className="tw:stroke-[var(--paper)]" x1={row.start} x2={row.start+0.00001} y1="8" y2="8" strokeWidth="4.5" strokeLinecap="round" vectorEffect="non-scaling-stroke"/><line x1={row.end} x2={row.end+0.00001} y1="8" y2="8" stroke="currentColor" strokeWidth="7" strokeLinecap="round" vectorEffect="non-scaling-stroke"/></svg>
+ <span className="climate-range-high tw:text-center tw:font-semibold"><span className="sr-only">{t(lang,'متوسط العظمى °م: ','Average high °C: ')}</span>{row.high.toFixed(1)}</span></div>)}
+ </div></section>
+}
