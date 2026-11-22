@@ -7,7 +7,7 @@ All 325 deduplicated source records retain their existing order, exact metadata 
 
 ## Checks
 - Build, both typechecks, 209 unit tests.
-- 22 new browser cases: AR/EN at 360,390,600,601,768,900,1000,1280; all 325 exact metadata/order records compared against independent aggregation; all images decoded; keyboard/source actions; storage unchanged; print; no JavaScript.
+- 22 new browser cases: AR/EN at 360,390,600,601,900,1000,1001,1280; all 325 exact metadata/order records compared against independent aggregation; all images decoded; keyboard/source actions; storage unchanged; print; no JavaScript.
 - All 14 existing credits layout/license/search cases. Layout assertions updated for intentional card design, behavior assertions preserved.
 - 216 theme/language/width combinations: no horizontal overflow, at least 44px controls, minimum measured text contrast 6.0718:1.
 - Inspected AR390, EN1280 and filtered AR390 screenshots. Photographs, creator/license wrapping, actions and external-media flow are readable.
