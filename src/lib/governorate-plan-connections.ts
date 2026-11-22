@@ -11,6 +11,7 @@ export function governoratePlanConnections(id:string){
   const placeIds=[...new Set(days.flatMap(day=>day.placeIds))],matchedPlaces=placeIds.map(placeId=>places.find(p=>p.id===placeId)!);
   const covers=matchedPlaces.filter(p=>{const photo=placePhotos[p.id];return photo&&photo.heroSuitable!==false&&!photo.contextual});
   const cover=covers.find(p=>!usedCovers.has(p.id))||covers[0];if(cover)usedCovers.add(cover.id);
-  return[{trip,days,placeIds,places:matchedPlaces,cover}];
+  const photographs=cover?[cover,...covers.filter(p=>p.id!==cover.id)].slice(0,3):[];
+  return[{trip,days,placeIds,places:matchedPlaces,cover,photographs}];
  });
 }
