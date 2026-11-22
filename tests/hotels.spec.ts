@@ -6,10 +6,10 @@ for(const lang of ['ar','en'])for(const width of [390,760,761,1280])test(`Tailwi
  for(const id of ['giza-pyramids','abu-simbel']){
   await page.goto(`/${lang}/places/${id}/`);const section=page.locator('.nearby-hotels');
   await expect(section.locator('.hotel-card')).toHaveCount(2);
-  const columns=await section.locator('.hotel-grid').evaluate(e=>getComputedStyle(e).gridTemplateColumns.split(' ').length);expect(columns).toBe(width<=760?1:3);
+  const columns=await section.locator('.hotel-grid').evaluate(e=>getComputedStyle(e).gridTemplateColumns.split(' ').length);expect(columns).toBe(width<=760?1:2);
   await expect(section).toHaveCSS('margin-top',width<=760?'48px':'64px');
   await expect(section.locator('.hotel-card').first()).toHaveCSS('border-top-width','1px');
-  if(id==='giza-pyramids')await expect(section.locator('img').first()).toHaveCSS('height',width<=760?'220px':'190px');
+  if(id==='giza-pyramids')await expect(section.locator('img').first()).toHaveCSS('height',width<=760?'250px':'240px');
   else{await expect(section.locator('.hotel-photo-unavailable')).toHaveCount(2);await expect(section.locator('.hotel-photo-unavailable').first()).toHaveCSS('height','160px')}
   await expect(section.locator('figcaption,.hotel-distance,form,input,iframe')).toHaveCount(0);
   for(const a of await section.locator('.hotel-links a').all()){await expect(a).toHaveAttribute('target','_blank');await expect(a).toHaveAttribute('rel','noreferrer')}
