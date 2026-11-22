@@ -1,5 +1,6 @@
 'use client';
 import Link from 'next/link';
+import{TripPlacePhotoChoices}from'./trip-place-photo-choices';
 import {MapPin,ArrowUpRight} from 'lucide-react';
 import {useGuide,t} from './guide-provider';
 import {tripPlaceChoices,tripPlaceDays} from '@/lib/trip-place-finder';
@@ -10,6 +11,7 @@ export function TripPlaceFilter({placeId,ready,onChange}:{placeId:string;ready:b
  return <div className="trip-place-filter tw:mt-[22px] tw:border-0 tw:border-t tw:border-solid tw:border-[var(--line)] tw:pt-[20px] tw:text-[var(--ink)]">
   <label className="tw:grid tw:gap-[10px] tw:text-[12px]"><span className="tw:flex tw:items-center tw:gap-[8px]"><MapPin size={17} aria-hidden="true"/>{t(lang,'عايز خطة فيها مكان معيّن؟','Looking for a plan with a particular place?')}</span><select value={placeId} disabled={!ready} onChange={event=>onChange(event.target.value)} className="trip-place-select tw:min-h-[46px] tw:w-full tw:min-w-0 tw:rounded-[10px] tw:border tw:border-solid tw:border-[var(--line)] tw:bg-[var(--paper)] tw:px-[12px] tw:py-[9px] tw:text-[var(--ink)] tw:focus-visible:outline-[3px]! tw:focus-visible:outline-solid! tw:focus-visible:outline-[var(--ink)]! tw:focus-visible:outline-offset-[3px]!"><option value="">{t(lang,'أي مكان مذكور في الخطط','Any place listed in the plans')}</option>{tripPlaceChoices.map(p=><option key={p.id} value={p.id}>{p.name[lang]}</option>)}</select></label>
   <p className="tw:mt-[10px]! tw:mb-0! tw:text-[11px] tw:leading-[1.9] tw:text-[var(--muted)]">{t(lang,'الاختيار حسب الأماكن المكتوبة في الأيام المنشورة، مع المدة وبداية الخطة. مش بحث عن أقرب مكان أو تأكيد للزيارة.','Matches the places written in published days, together with plan length and starting point. Not a nearest-place search or confirmation of access.')}</p>
+  <TripPlacePhotoChoices placeId={placeId} ready={ready} onChange={onChange}/>
   {place&&<div className="trip-place-selected tw:mt-[16px] tw:flex tw:items-center tw:gap-[16px] tw:overflow-hidden tw:rounded-[12px] tw:border tw:border-solid tw:border-[var(--line)] tw:bg-[var(--paper)]">{photo&&<img src={photoPath(photo,420)} alt={photo.alt[lang]} width="420" height="280" className="tw:block tw:h-[130px] tw:w-[180px]! tw:max-w-[38%]! tw:shrink-0 tw:object-cover"/>}<div className="tw:min-w-0 tw:p-[13px]"><p className="tw:m-0! tw:mb-[6px]! tw:text-[10px] tw:text-[var(--muted)]">{t(lang,'المكان المطلوب في الخطة','Place to include in the plan')}</p><h3 className="tw:m-0! tw:text-[20px]! tw:leading-[1.7]!">{place.name[lang]}</h3><Link className="tw:mt-[6px] tw:inline-flex tw:min-h-[44px] tw:items-center tw:gap-[7px] tw:text-[12px] tw:text-[var(--ink)] tw:underline tw:underline-offset-4 tw:focus-visible:outline-[3px]! tw:focus-visible:outline-solid! tw:focus-visible:outline-[var(--ink)]! tw:focus-visible:outline-offset-[3px]!" href={'/'+lang+'/places/'+place.id+'/'}>{t(lang,'اقرأ حكاية المكان','Read the place story')}<ArrowUpRight size={15} aria-hidden="true"/></Link></div></div>}
  </div>;
 }
