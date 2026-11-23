@@ -1,0 +1,7 @@
+# Home vibe photograph sets
+
+Actual magazine home vibe rail can browse all suitable tagged photographs using existing vibePhotographSet. First picks preserved,46px previous/next controls, range/total separate from published-entry count. Vibe change resets to opening picks. Exact displayed-pick photo viewer preserved. Original article/vibe links, home plans and exhibition unchanged. No helper/catalogue/media/globalCSS/shared-viewer/API/storage edits, Tailwind only.
+
+Build/type296unit18new60unchanged retained checks pass. AR/EN six widths: every default set, exact cards/photo/count/article, keyboard/close/opener and pagination focus, boundary no-op, vibe reset, URL/saves/no writes, print. All13vibes full sequence with no duplicate/omitted suitable entries, exact range/count/order, backwards and last-boundary verified. NoJS pagination disabled with article fallback; touch next-set image/article exit checked. Initial test incorrectly expected six garden photos and clicked aria-disabled boundaries, corrected to actual helper result and keyboard no-op without product workaround.
+
+288 new-pagination matrix checks across18themes8widths2languages: contrast11.50,minheight48.59,focus3,no overflow. Four actual local AR390/EN1280 later-set/card/viewer captures inspected after selected-set images decoded. Existing rapid-input viewer caveat unchanged, no physical-device claim. Release requires actualgreenCI normalmerge exactmainbuild/browser/matrix cleanproduction both-originreplay/parity canonicalpixels.
