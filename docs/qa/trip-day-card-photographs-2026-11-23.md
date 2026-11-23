@@ -1,0 +1,7 @@
+# Trip-day card photograph inspection
+
+Actual trip-day place cards now have separate46px image controls and a day-scoped photograph entry. Existing suitable-photo eligibility and AtlasViewer reused. Each collection follows only that day's published stops, in plan order, not other days or confirmation of access/completed visits. Print wrappers use display:contents, original card/figure print rules preserved. No shared card/viewer, global CSS, media, catalogue, API or storage edits. Tailwind only.
+
+Build/type/296unit20new126unchanged retained checks pass. AR/EN six-width every day/card exact photo/alt/count/article, overlay/save separation, keyboard/zoom/Escape/focus, URL/saves/no writes, retry, touch article exit, print and noJS disabled-controls/article fallback checked. Two-day outline and four-day programme exact day isolation verified. Retained shared PlaceCard saves/account, trip checklist/day photo browser/day navigator tests unchanged.
+
+288 new-control checks span18themes8widths2languages, minimum contrast11.50,target46,focus3,no overflow. Scope is new day entries, notes and direct image controls. Four actual local AR390/EN1280 trip-day/viewer captures inspected after images decoded. Existing rapid-input viewer caveat unchanged, no new physical-device swipe claim. Release checks include actual green CI, normal merge, exact-main build/browser/matrix, clean exact-main production, both-origin replays/parity and canonical pixels.
