@@ -1,0 +1,7 @@
+# Destination card photograph inspection
+
+Destination description/save cards now have separate46px image-inspection controls and a matching destination-card collection entry. Existing destination-photo eligibility and AtlasViewer are reused. Exact currently matching card order, no catalogue expansion or route/proximity claims. Switching to the existing photo sheet removes this cards-only wrapper. No shared card/viewer, global CSS, media, catalogue, API or storage edits. Tailwind only.
+
+Build/type/296unit26new114unchanged retained checks pass. AR/EN six-width first/last exact photo/alt/count/article, overlay/save separation, keyboard/zoom/Escape/focus, URL/saves/no writes, failure/retry, touch article exit, print and noJS disabled-controls/article fallback checked. Query/no-result/reset, photo-sheet roundtrip and history membership/focus fallback verified. Cairo/Aswan/Alexandria/Red Sea exact context collections checked. Original save/account, destination filters/photo sheet/comparison/share tests retained unchanged.
+
+288 new-control checks span18themes8widths2languages: minimum contrast11.50,target46,focus3,no horizontal overflow. Scope is new entry, note and direct image controls. Four actual local AR390/EN1280 destination/viewer captures inspected after image decoding. Existing rapid-input viewer caveat unchanged, no new physical-device swipe claim. Release checks cover actual green CI, normal merge, exact-main build/browser/matrix, clean exact-main production, both-origin replays/parity and canonical pixels.
