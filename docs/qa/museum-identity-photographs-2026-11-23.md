@@ -1,0 +1,9 @@
+# Museum identity comparison photograph inspection
+
+Travel essentials' three-museum identity comparison now has an accurately scoped three-photograph collection and exact entry on each card's own photograph. Existing museum names, area, collection focus, visit-guide links, official sources and ticket-identity warnings remain unchanged. No new admission claims or ticket changes. Exact opener restored on close. No viewing URL/save/account writes, catalogue/media/API/storage/global CSS/shared-viewer changes. Tailwind only.
+
+Build/type/296unit,20new browser tests,24unchanged identity/navigation tests and864matrix pass. Exhaustive three-photo AR/EN exact image/name/alt/article/count/order and each exact-card entry/opener/photo bounds; six-width keyboard/Home/End/zoom/strip/focus/print/page fit; retry/no writes/saved state; separate mobile swipe/fresh-open article; no-JS identity links and photos retained with viewer controls disabled. Contrast5.46,target46,focus3,no overflow. Four actual AR390/EN1280 preview/viewer screenshots inspected: named museum photographs, readable identity content, distinct scope, fitting viewer and strip.
+
+An initially selected unrelated legacy museum-visits suite hardcodes port8787 and failed navigation before reading this feature; it is not part of the retained proof. All24 relevant unchanged identity/navigation tests pass. A screenshot-script selector substitution typo was corrected and four images recaptured. Existing immediate synthetic swipe-to-article-tap caveat remains unpassed on baseline/plainHTML, physical effect unknown. Passing mobile checks separate swipe and fresh-open exit. No shared-viewer guesses or production delay.
+
+Release gates: actual green PR checks, normal merge, exact-main full build/type/unit/new/retained/matrix, clean exact-main successful production, full both-origin proof/parity, actual canonical pixels and temporary credential/server cleanup.
