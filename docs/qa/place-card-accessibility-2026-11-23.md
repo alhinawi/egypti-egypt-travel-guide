@@ -1,0 +1,7 @@
+# Shared place-card usability
+
+PlaceCard now has46px save targets, readable ink/paper saved and unsaved states, readable category/area/article-action text, and explicit3px save/article keyboard focus. Scoped under the existing place-card shell. Non-PlaceCard bookmarks, photographs, text, links, filtering, saving/account behavior and layout remain unchanged. No global CSS, media, catalogue, API or storage edits. Tailwind only.
+
+Build/type/296unit52new92unchanged retained checks pass. Catalogue, destination, saved and trip-stop contexts checked in both languages at six widths: exact save dimensions, keyboard Space/Enter, local state and saved-card removal, labels, article href/focus, overflow and print hiding. Mocked signed-in account verifies exact original PUT payload; noJS retains articles with saves disabled. Retained companion, saved-area, destination-finder and trip-checklist suites pass.
+
+Representative whole-card matrix covers four contexts18themes8widths2languages2states,2304 checks: minimum contrast5.45,target46,focus3,no overflow, including bookmark icon contrast. Four actual destination/saved/trip-stop AR390/EN1280 normal/sand captures inspected. Existing synthetic swipe-to-article caveat unchanged, no viewer changes. Release checks include actual green CI, normal merge, exact-main build/browser/matrix, clean exact-main production, both-origin replay/parity and canonical pixels.
