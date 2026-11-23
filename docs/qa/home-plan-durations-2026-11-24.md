@@ -1,0 +1,7 @@
+# Home plan duration discovery
+
+Home day previews filter by actual published plan day counts: all9, one-day1, 2–3-day5, 4+-day3. Guide order retained inside each choice; every choice resets card pagination to the first set. Original default and all9plans preserved. Existing exact day photographs, perday/article/full-plan links and saves reused. No transfer-time, access, feasibility or booking claim. No data/media/shared viewer/globalCSS/API/storage changes. Tailwind only.
+
+Build/type296unit18new62unchanged retained checks pass. AR/EN six widths all duration results exact order, pagination/reset/boundary no-op, control keyboard focus, first photographed day and exact viewer, URL/saves/no writes, print. Preview-day isolation, noJS default/disabled controls, touch one-day exit. Original home day/photo/sets/tripfinder suites unchanged.
+
+1152duration matrix cases across18themes8widths2languages4duration choices: contrast10.43,minheight48.59,focus3,no overflow. Four actual local AR390/EN1280 duration/card/viewer captures inspected after displayed stop photos decoded. Existing rapid-input viewer caveat unchanged, no physical-device claim. Initial new test used Playwright actionability click on aria-disabled next; replaced solely with DOM dispatch for boundary no-op. No product workaround. Release requires actualCI normalmerge exactmainbuild/browser/matrix cleanproduction both-originreplay/parity/canonicalpixels.
