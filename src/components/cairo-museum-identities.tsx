@@ -1,6 +1,8 @@
 'use client';
 import Link from 'next/link';
-import {ArrowUpRight, BookOpen, ExternalLink, Landmark, MapPin} from 'lucide-react';
+import {useEffect,useRef,useState} from 'react';
+import {AtlasViewer} from './atlas-photo-viewer';
+import {ArrowUpRight, BookOpen, ExternalLink, Landmark, MapPin, Expand} from 'lucide-react';
 import {useGuide, t} from './guide-provider';
 import {cairoMuseumIdentities, cairoMuseumIdentity, cairoMuseumComparisonPath} from '@/lib/cairo-museum-identities';
 import {photoPath} from '@/lib/photos';
@@ -8,15 +10,19 @@ import {photoPath} from '@/lib/photos';
 const focus = ' tw:focus-visible:outline-[3px]! tw:focus-visible:outline-solid! tw:focus-visible:outline-[var(--ink)]! tw:focus-visible:outline-offset-[3px]!';
 const sourceLink = 'tw:inline-flex tw:min-h-[46px] tw:items-center tw:gap-[6px] tw:text-[12px] tw:leading-[1.8] tw:text-[var(--ink)]! tw:underline! tw:underline-offset-4' + focus;
 export function CairoMuseumComparison() {
-  const {lang} = useGuide();
+  const {lang} = useGuide(), [ready,setReady]=useState(false), [active,setActive]=useState<string|null>(null), opener=useRef<HTMLButtonElement|null>(null);
+  useEffect(()=>setReady(true),[]);
+  const photos=cairoMuseumIdentities.map(m=>m.place), index=photos.findIndex(p=>p.id===active), current=photos[index], open=(id:string,button:HTMLButtonElement)=>{opener.current=button;setActive(id)}, close=()=>{setActive(null);requestAnimationFrame(()=>{if(opener.current?.isConnected)opener.current.focus({preventScroll:true})})};
   return <section id="cairo-museums" tabIndex={-1} className={'cairo-museum-comparison tw:my-[30px] tw:min-w-0 tw:scroll-mt-[105px] tw:text-[var(--ink)]' + focus} aria-labelledby="cairo-museums-title">
     <div className="tw:mb-[20px]">
       <h2 id="cairo-museums-title" className="tw:m-0! tw:mb-[12px]! tw:flex tw:items-start tw:gap-[9px] tw:text-[25px]! tw:leading-[1.7]!"><Landmark size={23} className="tw:mt-[9px] tw:shrink-0" aria-hidden="true"/>{t(lang, '3 متاحف مختلفة، اختار المكان الصح', 'Three museums. Three different places.')}</h2>
       <p className="tw:m-0! tw:text-[14px]! tw:leading-[2]! tw:text-[var(--muted)]">{t(lang, 'الاسم ممكن يتشابه، لكن دي أماكن منفصلة. قارن الاسم والمنطقة وطبيعة المجموعة قبل ما تفتح موقع التذاكر، واتأكد إن الاسم والعنوان على التذكرة هما اللي تقصدهم.', 'The names can sound similar, but these are separate places. Compare the name, area and collection focus before opening a ticket site. Check that the ticket names the museum and address you intend to visit.')}</p>
     </div>
+    <button type="button" disabled={!ready} aria-haspopup="dialog" onClick={e=>open(photos[0].id,e.currentTarget)} className={'museum-photos-open tw:mb-[18px] tw:inline-flex tw:min-h-[46px] tw:items-center tw:gap-[9px] tw:rounded-[9px] tw:border! tw:border-solid! tw:border-[var(--line)]! tw:bg-[var(--paper)] tw:px-[15px] tw:py-[10px] tw:text-[13px] tw:text-[var(--ink)] tw:print:hidden'+focus}><Expand size={17} className="tw:shrink-0" aria-hidden="true"/>{t(lang,'شوف صور المتاحف الـ3','Inspect the three museum photographs')}</button>
     <div className="cairo-museum-grid tw:grid tw:grid-cols-3 tw:items-stretch tw:gap-[16px] tw:[@media(max-width:800px)]:grid-cols-1">
       {cairoMuseumIdentities.map(museum => <article data-museum={museum.id} key={museum.id} className="cairo-museum-card tw:flex tw:min-w-0 tw:flex-col tw:overflow-hidden tw:rounded-[15px] tw:border tw:border-solid tw:border-[var(--line)] tw:bg-[var(--paper)]">
-        <img src={photoPath(museum.photo, 780)} srcSet={[420, 780].map(width => photoPath(museum.photo, width) + ' ' + width + 'w').join(', ')} sizes="(max-width:800px) 90vw, 31vw" alt={museum.photo.alt[lang]} width="780" height="520" loading="lazy" className="tw:block tw:h-[190px] tw:w-full tw:object-cover tw:[@media(max-width:800px)]:h-[230px] tw:[@media(max-width:450px)]:h-[210px]"/>
+        <div className="tw:relative"><img src={photoPath(museum.photo, 780)} srcSet={[420, 780].map(width => photoPath(museum.photo, width) + ' ' + width + 'w').join(', ')} sizes="(max-width:800px) 90vw, 31vw" alt={museum.photo.alt[lang]} width="780" height="520" loading="lazy" className="tw:block tw:h-[190px] tw:w-full tw:object-cover tw:[@media(max-width:800px)]:h-[230px] tw:[@media(max-width:450px)]:h-[210px]"/>
+        <button type="button" disabled={!ready} aria-haspopup="dialog" aria-label={t(lang,'كبّر صورة ','Enlarge photograph: ')+museum.place.name[lang]} onClick={e=>open(museum.id,e.currentTarget)} className={'museum-photo-enlarge tw:absolute tw:top-[10px] tw:end-[10px] tw:grid tw:h-[46px] tw:w-[46px] tw:place-items-center tw:rounded-full tw:border! tw:border-solid! tw:border-[var(--line)]! tw:bg-[var(--paper)] tw:text-[var(--ink)] tw:print:hidden'+focus}><Expand size={17} aria-hidden="true"/></button></div>
         <div className="tw:flex tw:flex-1 tw:flex-col tw:p-[17px]">
           <h3 className="tw:m-0! tw:mb-[13px]! tw:text-[21px]! tw:leading-[1.65]!">{museum.place.name[lang]}</h3>
           <dl className="tw:m-0 tw:mb-[19px] tw:text-[13px] tw:leading-[2]">
@@ -33,6 +39,7 @@ export function CairoMuseumComparison() {
       </article>)}
     </div>
     <p className="tw:mt-[17px]! tw:mb-0! tw:text-[12px]! tw:leading-[2]! tw:text-[var(--muted)]">{t(lang, 'دي مقارنة تعريفية، مش خط سير أو تذكرة مجمعة أو ضمان إتاحة. راجع المواعيد وفئة التذكرة والمكان مباشرة قبل الحجز.', 'This identifies the museums. It is not a route, combined ticket or availability guarantee. Check hours, ticket eligibility and the venue directly before booking.')}</p>
+    {current&&<AtlasViewer place={current} places={photos} index={index} count={photos.length} select={setActive} close={close} move={delta=>setActive(photos[(index+delta+photos.length)%photos.length].id)} collectionLabel={t(lang,'صور المتاحف الـ3 في المقارنة دي بس، مش تذكرة مجمعة أو مسار زيارة.','Only the three museums in this comparison, not a combined ticket or a visit route.')}/>}
   </section>;
 }
 
