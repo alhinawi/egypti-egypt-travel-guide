@@ -1,0 +1,9 @@
+# Governorate profile place photograph inspection
+
+The existing place-photograph collection now offers a separate full own-governorate collection and exact enlargement of each paged pick. Original image/article links, card sets, counts, atlas/all-entry exits and controls retained. Explicit place-article photographs, not profile covers, nearby-place suggestions, a visit route or access confirmation. Local viewer state, exact opener restoration, existing atlas order/viewer. No inspection URL/save writes, catalogue/media/API/storage/global CSS/shared-viewer changes. Tailwind only.
+
+Build/type/296unit,72new and76unchanged retained tests pass. All27 governorates AR/EN: correct collection absence where no suitable photos, every eligible photo/name/alt/article/count/order and every exact paged pick, image-button bounds, unchanged sets/URL; six-width keyboard/zoom/Home/End/focus/print/page fit; image retry preserves second set/URL/saves/no writes; separate mobile swipe/fresh-open article; noJS own photographs/article exit retained and inspection disabled. Retained complete original governorate photograph-set and photo-collection suites unchanged.864matrix across18themes8widths2languages3states: contrast5.46,target44,focus3,nooverflow. Four actual local AR390/EN1280 preview/viewer screenshots inspected: readable named collection and counts, correct own photographs, exact cover buttons, fitting viewer/strip.
+
+Existing immediate synthetic swipe-to-article-tap caveat remains unpassed on baseline/plainHTML, physical effect unknown. Passing checks separate swipe and fresh-open article exit. No production delay or guessed viewer fix.
+
+Release gates: actual green PR checks, normal merge, exact-main build/type/unit/new/retained/matrix, clean exact-main successful production, both-origin full replay/parity, actual canonical pixels and temporary credential/server cleanup.
