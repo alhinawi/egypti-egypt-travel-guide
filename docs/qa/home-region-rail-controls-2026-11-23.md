@@ -1,0 +1,7 @@
+# Home region rail controls
+
+Actual governorate discovery rail now offers explicit46px previous/next controls and a fully-visible-card range. Existing scroll/snap, nine region choices, all27profile links/photos, continuation and noJS profile fallback preserved. Region changes read the new rail. ResizeObserver handles width changes. Controls retain keyboard focus, boundaries are no-op with aria-disabled. No geography/access claim or data/media/API/storage/shared viewer/globalCSS change. Tailwind only.
+
+Build/type296unit18new76unchanged retained checks pass. AR/EN six widths traverse all8Delta cards with exact visible range, backwards/boundary/reset, keyboard pagination focus, no URL/save/writes, print. Nine regions exact profile links/count/reset; noJS disabled navigation/profile fallback; touch next/profile exit. Initial test used wrong region key corrected to greater-cairo. Initial retained status-role ambiguity fixed by keeping existing region status unique and using aria-live on the new range, all76 unchanged tests passed.
+
+288new-navigation matrix across18themes8widths2languages: contrast10.43,minheight48.59,focus3,no overflow. Actual local AR390/EN1280 later-card captures inspected after all regional rail images decoded. Existing rapid-input viewer caveat unchanged, no physical-device claim. Release requires actualCI normalmerge exactmainbuild/browser/matrix cleanproduction both-originreplay/parity/pixels.
