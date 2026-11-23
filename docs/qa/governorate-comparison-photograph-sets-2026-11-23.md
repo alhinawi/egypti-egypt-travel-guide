@@ -1,0 +1,11 @@
+# Governorate comparison photograph sets, 2026-11-23
+
+Each governorate comparison panel now exposes all its existing eligible atlas entries through independently bounded sets of three. Original opening examples, source-photo derivatives, direct article and full-screen enlarge targets stay intact. Whole-governorate browse still starts at its first photo and includes the complete eligible collection, not only the visible set. No pair/share URL/save/API writes from set navigation. Changing governorate or reload resets the transient set. North Sinai remains omitted because it has no eligible atlas photos.
+
+No catalogue/media/API/account/storage/global CSS/shared viewer change. Tailwind AR/EN only. Reuses existing governoratePhotographSet helper and eligibility. Failed own-image preview keeps article name/link and enlarge available, neutral camera placeholder. Controls disabled before hydration; terminal aria-disabled controls remain focusable and ignore activation, no wrap. New controls hide in print while existing article cards remain visible.
+
+Build/type296unit pass. 60 new browser cases exhaust all27governorates AR/EN with exact ordered photo/name/alt/article pairs, coverage ranges, boundaries/keyboard, independent panels, changed-governorate/reload reset, own new-set enlarge (fifth article stays5/35), full browse from first, failed previews, noJS original links, touch and partial final set. 50 retained comparison/viewer tests unchanged/pass. Initial new print assertion caught controls visible in print; fixed with Tailwind print:hidden and reran full new suite.
+
+864 theme-width-state checks cover18themes,8widths360/390/600/601/800/801/900/1280,AR/EN,first/next/last. Mincontrast6.07:1, enabledtarget46px,focus3px,nooverflow. Four actual first/nextEN1280AR390pixels inspected, photo/name pairs and long names fit. No claim of best-of ranking, proximity, access or route. Existing rapid synthetic shared-viewer caveat unchanged.
+
+Production acceptance: exactmerge build/type/unit/new/retained/matrix, actualgreenCI, successfulcleanexactmainCF, canonical+immutable new/retained/matrix, observed linked byte parity and actual canonical pixels. No incomplete or stale run counted as pass.
