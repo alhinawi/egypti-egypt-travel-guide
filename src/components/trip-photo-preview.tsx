@@ -1,6 +1,7 @@
 'use client';
 import {useState,useEffect,useRef} from 'react';
 import {AtlasViewer} from './atlas-photo-viewer';
+import {TripDayPhotoChoices} from './trip-day-photo-choices';
 import Link from 'next/link';
 import {Camera,ArrowUpRight,Expand} from 'lucide-react';
 import {useGuide,t} from './guide-provider';
@@ -24,7 +25,7 @@ export function TripPhotoPreview({trip,ready}:{trip:Itinerary;ready:boolean}) {
     </summary>
     <div className="trip-photo-content tw:border-0 tw:border-t tw:border-solid tw:border-[var(--line)] tw:p-[17px]">
       <p className="tw:mb-[12px] tw:text-[11px] tw:leading-[1.9] tw:text-[var(--muted)]">{t(lang,'الأماكن المذكورة في كل يوم من الخطة المنشورة. دي أفكار للتخطيط، مش حجز أو تأكيد إن المكان متاح.','Places listed in each day of the published plan. Planning ideas, not bookings or confirmation of access.')}</p>
-      <div role="group" aria-label={t(lang,'اختار يوم من ','Choose a day from ')+trip.title[lang]} className="trip-photo-day-choices tw:mb-[17px] tw:flex tw:flex-wrap tw:gap-[8px]">{days.map((item,index)=><button key={item.number} disabled={!ready} type="button" aria-pressed={active===index} aria-controls={panelId} onClick={()=>setActive(index)} className={'tw:min-h-[44px] tw:rounded-full tw:border! tw:border-solid! tw:border-[var(--line)]! tw:bg-[var(--paper)] tw:px-[14px] tw:py-[9px] tw:text-[12px] tw:text-[var(--ink)] tw:[&[aria-pressed=true]]:border-[var(--ink)]! tw:[&[aria-pressed=true]]:bg-[var(--ink)] tw:[&[aria-pressed=true]]:text-[var(--paper)]'+focus}>{t(lang,'اليوم ','Day ')}<bdi dir="ltr">{item.number}</bdi></button>)}</div>
+      <div className="trip-photo-day-choices tw:mb-[17px]"><TripDayPhotoChoices days={days} active={active} ready={ready} panelId={panelId} onSelect={setActive}/></div>
       <div id={panelId} className="trip-photo-day-panel">
         <h3 aria-live="polite" aria-atomic="true" className="tw:m-0! tw:mb-[12px]! tw:text-[21px] tw:leading-[1.7]">{t(lang,'اليوم ','Day ')}{current.number}: {current.day.title[lang]}</h3>
         {photos.length>0&&<div className="trip-preview-photo-entry tw:mb-[16px]"><button type="button" disabled={!ready} aria-haspopup="dialog" className={'trip-preview-photos-open tw:inline-flex tw:min-h-[46px] tw:items-center tw:gap-[8px] tw:rounded-[9px] tw:border! tw:border-solid! tw:border-[var(--line)]! tw:bg-[var(--paper)] tw:px-[13px] tw:py-[10px] tw:text-[12px] tw:leading-[1.8] tw:text-[var(--ink)]'+focus} onClick={e=>open(photos[0].id,e.currentTarget)}><Expand size={17} aria-hidden="true"/>{t(lang,'كبّر صور اليوم ده','Browse this day’s photographs')} (<bdi dir="ltr">{photos.length}</bdi>)</button><p className="tw:mt-[8px] tw:text-[11px] tw:leading-[1.9] tw:text-[var(--muted)]">{t(lang,'صور الأماكن المذكورة في اليوم ده بس، مش غلاف الخطة أو مسار انتقال. المقالات وتفاصيل اليوم لسه موجودة تحت.','Only places named in this day, not the plan cover or a transfer route. Articles and day details remain below.')}</p></div>}
