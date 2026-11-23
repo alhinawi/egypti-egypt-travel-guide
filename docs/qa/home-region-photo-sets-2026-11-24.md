@@ -1,0 +1,7 @@
+# Regional continuation photograph example sets
+
+Home regional continuation can browse three-card sets of all suitable existing atlas photographs in the selected region, original atlas order and opening three preserved. Previous/next46px and range, focus retained and boundary no-op. Changing region resets example set, including when returning to a prior region. Whole-region viewer stays whole-region, exact displayed photograph opens at its own index. Existing directory/atlas handoffs preserved. No new coverage/route/access claim. No data/media/shared viewer/globalCSS/API/storage changes. Tailwind only.
+
+Build/type296unit18new78unchanged retained pass. AR/EN six widths, all nine regions at390/1280 and delta/sinai at other widths: every example set exact order/photos/alt/articlelinks, first/last and backward/boundary, per-photo exact viewer index/focus, whole-region entry starts first photograph, region return reset, noJS/touch/print/URL/saves/no writes. Existing regional viewer/continuation/rail suites unchanged.
+
+288pagination matrix cases:18themes8widths2languages, contrast11.51,minheight46.59,focus3,nooverflow. Four actual local AR390/EN1280 later-set/card/viewer captures inspected after displayed photos decoded. Existing rapid-input viewer caveat unchanged, no physical-device claim. Release requires actualCI normalmerge exactmain build/browser/matrix and cleanproduction both-originreplay/parity/canonicalpixels.
