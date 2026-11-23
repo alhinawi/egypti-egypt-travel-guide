@@ -1,0 +1,9 @@
+# Search starter matching-place photograph inspection
+
+The four search starting points now have separate matching-place photograph collections and exact cover-photo entry. They do not run a search. Original search actions, result counts and pictured names remain. Collection scope uses existing matching place articles only, not all search results, governorate profiles or plans. Viewer has local query/photo state and restores the exact opener; running a search unmounts it. No URL/input/save writes during inspection. No data/media/API/account/storage/global CSS/shared-viewer changes. Tailwind only.
+
+Build/type/296 unit tests, 20 new browser tests, 44 retained tests and 864 matrix cases pass. Exhaustive four-query AR/EN exact image/name/alt/article/count/order/opener and photo-button bounds; six-width keyboard/Home/zoom/focus/print/page fit; image retry/no writes/saved state; separate mobile swipe/fresh-open article; no-JS viewer controls disabled. Original starter suite selectors narrowed to original search buttons after adding sibling controls, preserving assertions. Matrix contrast 5.46, target 46, focus 3, no page overflow. Four actual AR390/EN1280 preview/viewer screenshots inspected. Shortened collection label and grouped count avoid fragmented flex text. API failures are intentional isolated-test conditions, not user-account state.
+
+Existing immediate synthetic swipe-to-article tap remains unpassed, reproduced on baseline and plain HTML; physical impact unknown. Passing mobile tests separate swipe from fresh-open article exit. No shared-viewer guess or production delay.
+
+Release gates: actual green PR checks, normal merge, exact-main build/type/unit/new/retained/matrix, clean exact-main successful production, full both-origin replay/parity, actual canonical pixels and temporary credential/server cleanup.
