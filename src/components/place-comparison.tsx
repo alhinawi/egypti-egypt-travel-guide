@@ -1,6 +1,7 @@
 'use client';
 import{useEffect,useRef,useState}from'react';
 import Link from'next/link';
+import{PlaceComparisonPhotographs}from'./place-comparison-photographs';
 import{ArrowUpRight,Camera,Check,Columns2,Copy,Printer,Search,X}from'lucide-react';
 import{useGuide,t}from'./guide-provider';
 import{places,categoryNames,type Place}from'@/lib/data';
@@ -45,7 +46,7 @@ export function PlaceComparison(){
    {matches.length>limit&&<button type="button" className={control+' place-compare-more tw:mt-[18px]'} onClick={()=>{nextChoice.current=limit;setLimit(current=>current+12)}}>{t(lang,'اعرض مقالات أكتر','Show more articles')}</button>}
    {ids.length===2&&<button type="button" className={control+' place-compare-return tw:ms-[10px] tw:mt-[18px]'} onClick={()=>{setEditing(false);nextFocus.current='results'}}>{t(lang,'ارجع للمقارنة','Return to comparison')}</button>}
   </section>}
-  {selected.length>0&&<section ref={results} tabIndex={-1} className={'place-compare-results tw:scroll-mt-[100px] tw:rounded-[3px]'+focus} aria-labelledby="place-compare-results-title"><h2 id="place-compare-results-title" className="tw:mb-[17px] tw:text-[28px] tw:leading-[1.7]">{selected.length===2?t(lang,'المكانين جنب بعض','Your places, side by side'):t(lang,'مكانك الأول. اختار التاني عشان تقارن.','Your first place. Choose another to compare.')}</h2><nav aria-label={t(lang,'انتقل لمكان في المقارنة','Jump to a compared place')} className="place-compare-jumps tw:mb-[18px] tw:flex tw:flex-wrap tw:gap-[9px] tw:print:hidden">{selected.map(place=><a key={place.id} className={control} href={'#compare-place-'+place.id}>{place.name[lang]}</a>)}</nav><div className="place-compare-result-grid tw:grid tw:grid-cols-2 tw:items-start tw:gap-x-[22px] tw:gap-y-0 tw:[@media(max-width:700px)]:gap-y-[22px] tw:[@media(max-width:700px)]:grid-cols-1">{selected.map(place=><ComparisonPlaceCard key={place.id} place={place}/>)}</div></section>}
+  {selected.length>0&&<section ref={results} tabIndex={-1} className={'place-compare-results tw:scroll-mt-[100px] tw:rounded-[3px]'+focus} aria-labelledby="place-compare-results-title"><h2 id="place-compare-results-title" className="tw:mb-[17px] tw:text-[28px] tw:leading-[1.7]">{selected.length===2?t(lang,'المكانين جنب بعض','Your places, side by side'):t(lang,'مكانك الأول. اختار التاني عشان تقارن.','Your first place. Choose another to compare.')}</h2><nav aria-label={t(lang,'انتقل لمكان في المقارنة','Jump to a compared place')} className="place-compare-jumps tw:mb-[18px] tw:flex tw:flex-wrap tw:gap-[9px] tw:print:hidden">{selected.map(place=><a key={place.id} className={control} href={'#compare-place-'+place.id}>{place.name[lang]}</a>)}</nav><PlaceComparisonPhotographs selected={selected}/><div className="place-compare-result-grid tw:grid tw:grid-cols-2 tw:items-start tw:gap-x-[22px] tw:gap-y-0 tw:[@media(max-width:700px)]:gap-y-[22px] tw:[@media(max-width:700px)]:grid-cols-1">{selected.map(place=><ComparisonPlaceCard key={place.id} place={place}/>)}</div></section>}
  </div>
 }
 function ComparisonPlaceCard({place}:{place:Place}){
