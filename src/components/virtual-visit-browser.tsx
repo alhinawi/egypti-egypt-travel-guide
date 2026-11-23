@@ -1,4 +1,5 @@
 'use client';
+import{VirtualVisitPhotographs}from'./virtual-visit-photographs';
 import {useEffect, useRef, useState, type ReactNode} from 'react';
 import {Archive, Box, Check, Copy, MapPin, Play, RotateCcw, Scan, Search} from 'lucide-react';
 import {useGuide, t} from './guide-provider';
@@ -66,6 +67,7 @@ export function VirtualVisitBrowser({renderVisit, notice}: {renderVisit: (entry:
     <noscript><p className="tw:my-[18px]! tw:text-[13px]! tw:leading-[1.9]! tw:text-[var(--muted)]">{t(lang, 'كل روابط المكتبة موجودة تحت. الفلاتر محتاجة JavaScript.', 'The full library is listed below. Filters need JavaScript.')}</p></noscript>
     {notice}
     <p className="virtual-visit-count tw:my-[20px]! tw:text-[13px]! tw:leading-[1.9]! tw:text-[var(--muted)]" role="status" aria-live="polite" aria-atomic="true">{t(lang, 'روابط الزيارة المعروضة: ', 'Published visit links shown: ')}<bdi dir="ltr">{matches.length} / {virtualVisitEntries.length}</bdi></p>
+    <VirtualVisitPhotographs key={matches.map(entry=>entry.place.id).join('|')} ids={matches.map(entry=>entry.place.id)} ready={ready}/>
     <div id="virtual-browser-results" className="virtual-grid tw:grid tw:grid-cols-2 tw:gap-[20px] tw:[@media(max-width:600px)]:grid-cols-1">
       {matches.map(renderVisit)}
       {!matches.length && <div className="virtual-visit-empty tw:col-span-full tw:rounded-[16px] tw:border tw:border-solid tw:border-[var(--line)] tw:bg-[var(--paper)] tw:p-[26px] tw:text-[var(--ink)]"><h2 className="tw:m-0! tw:mb-[12px]! tw:text-[24px]! tw:leading-[1.7]!">{t(lang, 'مفيش روابط مطابقة للاختيارات دي', 'No published links match these choices')}</h2><p className="tw:m-0! tw:mb-[17px]! tw:text-[13px]! tw:leading-[1.9]! tw:text-[var(--muted)]">{t(lang, 'جرّب اسم أو محافظة أو نوع تاني، أو ارجع لكل المكتبة.', 'Try another name, governorate or type, or return to the full library.')}</p><button type="button" onClick={reset} className={button + ' virtual-visit-empty-reset'}>{t(lang, 'اعرض كل الجولات', 'Show all visits')}</button></div>}
