@@ -104,7 +104,8 @@ test('homepage search form and filters use Tailwind',()=>{
 test('homepage structural layout and grids use Tailwind',()=>{
  for(const file of ['src/app/globals.css','src/app/editorial.css'])assert.doesNotMatch(readFileSync(file,'utf8'),/\.mag-(?:content|section|destinations|place-grid)(?![\w-])/);
  const source=readFileSync('src/components/magazine-home.tsx','utf8');
- for(const name of ['magazineContentClasses','magazineSectionClasses','magazineDestinationsClasses'])assert.match(source,new RegExp('className=\\{'+name+'\\}'));
+ assert.match(source,/<HomeDestinationPhotographs\/>/);assert.match(readFileSync('src/components/home-destination-photographs.tsx','utf8'),/className=\{magazineDestinationsClasses\+/);
+ for(const name of ['magazineContentClasses','magazineSectionClasses'])assert.match(source,new RegExp('className=\\{'+name+'\\}'));
 });
 
 
