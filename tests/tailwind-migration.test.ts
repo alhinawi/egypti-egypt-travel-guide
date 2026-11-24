@@ -72,7 +72,7 @@ test('destination cards use shared Tailwind presentation',()=>{
 test('homepage mood cards use shared Tailwind presentation',()=>{
  for(const file of ['src/app/globals.css','src/app/editorial.css'])assert.doesNotMatch(readFileSync(file,'utf8'),/\.mag-mood(?:-grid|-shade)?(?![\w-])/);
  const source=readFileSync('src/components/magazine-home.tsx','utf8');
- for(const name of ['moodGridClasses','moodCardClasses','moodShadeClasses'])assert.match(source,new RegExp('className=\\{'+name+'\\}'));
+ assert.match(source,/<HomeMoodPhotographs\/>/);const rail=readFileSync('src/components/home-mood-photographs.tsx','utf8');assert.match(rail,/className=\{moodGridClasses\+/);for(const name of ['moodCardClasses','moodShadeClasses'])assert.match(rail,new RegExp('className=\\{'+name+'\\}'));
 });
 
 test('homepage plan day cards use Tailwind and preserve the shared section heading',()=>{
