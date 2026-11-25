@@ -31397,10 +31397,55 @@
   },
   "lake-manzala": {
     "see": {
-      "ar": "المنزلة بحيرة ساحلية شروب في شمال شرق الدلتا، ومشهدها مختلف عن الشاطئ البحري المفتوح. لفهمها بص للمياه الضحلة ومناطق الصيد وصلتها ببورسعيد ومسار قناة السويس. امتدادها أوسع من محافظة واحدة، ومقال الدقهلية هنا مجرد مدخل جغرافي ليها.",
-      "en": "Manzala is a brackish coastal lagoon in the northeastern Delta, a different landscape from an open-sea beach. Its shallow water, fishing areas and relationship with Port Said and the Suez Canal explain its setting. The lake crosses governorate boundaries; its Dakahlia listing is a geographic entry point, not a claim that it lies entirely within one governorate.",
+      "ar": "بص للمنزلة كبحيرة شغّالة ونظام بيئي، مش كشاطئ واحد ليه بوابة. المياه ومناطق الصيد والطيور ليهم سياق مختلف عن مصيف البحر.",
+      "en": "Read Manzala as a working lake and a wetland ecosystem, not as one beach with an entrance gate. Its water, fishing areas and birds have a different context from a seaside resort.",
       "sources": [
-        "https://en.wikipedia.org/wiki/Lake_Manzala"
+        "https://www.eeaa.gov.eg/Uploads/Topics/Files/20221213131238146.pdf",
+        "https://www.natureegypt.org/what-we-do/monitoring/winter-waterbird-count-2"
+      ],
+      "items": [
+        {
+          "name": {
+            "ar": "المياه الضحلة ومناطق الصيد",
+            "en": "Shallow water and fishing livelihoods"
+          },
+          "text": {
+            "ar": "خطة إدارة أشتوم الجميل بتوصف موائل مختلفة من مياه وجزر وسبخات ومناطق نباتات، وبتربط معيشة مجتمعات في المنطقة بالصيد. الصورة الرئيسية للصيادين اتصورت يوم 31 أغسطس 2007؛ مش توثيق لحالة المياه النهارده ولا إعلان عن رحلة مركب متاحة للحجز.",
+            "en": "The Ashtum El Gamil management plan describes a mix of water, islands, saltmarsh and vegetation, with local livelihoods linked to fishing. The cover photograph of fishermen was taken on 31 August 2007. It is not evidence of current water conditions or an offer of a bookable boat trip."
+          },
+          "source_urls": [
+            "https://www.eeaa.gov.eg/Uploads/Topics/Files/20221213131238146.pdf",
+            "https://commons.wikimedia.org/wiki/File:Fishermen_in_Egypt.jpg"
+          ]
+        },
+        {
+          "name": {
+            "ar": "الطيور: موئل مهم، مش مشاهدة مضمونة",
+            "en": "Waterbirds: important habitat, not guaranteed sightings"
+          },
+          "text": {
+            "ar": "جمعية حماية الطبيعة في مصر بتضم بحيرة المنزلة ضمن مواقع برنامج رصد الطيور المائية بالتعاون مع جهاز شئون البيئة. وفي سبتمبر 2026 أكد الجهاز أهمية أشتوم الجميل للطيور المهاجرة. ده بيوضح قيمة المكان للحماية والرصد، لكنه مش توقع لعدد الطيور أو أنواعها في يوم زيارتك.",
+            "en": "Nature Conservation Egypt includes Lake Manzala in its waterbird monitoring programme with the Egyptian Environmental Affairs Agency. In September 2026 the agency also emphasized Ashtum El Gamil’s importance for migratory birds. This establishes conservation and monitoring value, not a prediction of the species or numbers you will see on a particular visit."
+          },
+          "source_urls": [
+            "https://www.natureegypt.org/what-we-do/monitoring/winter-waterbird-count-2",
+            "https://www.eeaa.gov.eg/News/24061/Details"
+          ]
+        },
+        {
+          "name": {
+            "ar": "فرّق بين البحيرة ومحمية أشتوم الجميل",
+            "en": "Distinguish the lake from Ashtum El Gamil Protected Area"
+          },
+          "text": {
+            "ar": "دليل جهاز شئون البيئة بيصنّف محمية أشتوم الجميل وجزيرة تنيس ضمن محافظة بورسعيد، وخطة الإدارة بتحطها في الجزء الشمالي الشرقي من بحيرة المنزلة. إدراج البحيرة هنا في الدقهلية مجرد مدخل للمنطقة الأوسع، مش معناه إن كل البحيرة محمية واحدة أو إن مداخلها كلها في الدقهلية.",
+            "en": "EEAA lists Ashtum El Gamil and Tinnis Island Protected Area under Port Said Governorate; its management plan places it in the northeastern part of Lake Manzala. This Dakahlia listing introduces the wider lake. It does not mean the entire lake is one protected area or that every access point lies in Dakahlia."
+          },
+          "source_urls": [
+            "https://www.eeaa.gov.eg/Topics/85/36/65/Details",
+            "https://www.eeaa.gov.eg/Uploads/Topics/Files/20221213131238146.pdf"
+          ]
+        }
       ]
     },
     "nearby": {
@@ -31438,7 +31483,7 @@
         ]
       }
     ],
-    "reviewedAt": "2026-11-16",
+    "reviewedAt": "2026-11-26",
     "history": {
       "ar": "بحيرة المنزلة ليها حكاية مرتبطة بالصيد وتحولات الساحل وشق قناة السويس. بورسعيد اتأسست جنبها في القرن التاسع عشر لخدمة أعمال القناة والملاحة، واتحفر مجرى للسفن في البحيرة الضحلة. عمليات التجفيف والتلوث غيّرت مساحة البحيرة وبيئتها على مدار الزمن.",
       "en": "Lake Manzala’s history links fishing, coastal change and the construction of the Suez Canal. Port Said developed beside it in the nineteenth century to support canal works and navigation, and a shipping channel was dug through the shallow lake. Drainage and pollution have changed the lagoon’s extent and ecology over time.",
@@ -31481,6 +31526,45 @@
     "eat_note": {
       "ar": "أفكار أكل على مستوى المحافظة، مش منيو في المكان ده ولا ضمان توفره عنده. بعض الأكلات مصرية عامة ومش حصرية للمحافظة.",
       "en": "Governorate-level food ideas, not an on-site menu or a guarantee of availability. Some dishes are national staples, not unique to this governorate."
+    },
+    "visiting": {
+      "entry": {
+        "text": {
+          "ar": "حدد أنت رايح أنهي جزء من البحيرة قبل ما ترتب المشوار. المصادر اللي اتراجعت هنا ما بتثبتش بوابة سياحية واحدة للبحيرة كلها، ولا ساعات دخول أو تذكرة موحدة أو رحلات مراكب منتظمة. ما تعتمدش على نقطة باسم البحيرة في الخريطة كأنها مدخل جاهز.",
+          "en": "Choose which part of the lake you intend to visit before arranging transport. The sources reviewed here do not establish a single tourist entrance for the whole lake, shared opening hours, a standard admission ticket or scheduled boat trips. Do not treat a general lake map pin as a verified visitor entrance."
+        },
+        "source_urls": [
+          "https://www.eeaa.gov.eg/Uploads/Topics/Files/20221213131238146.pdf",
+          "https://www.eeaa.gov.eg/Topics/85/36/65/Details"
+        ]
+      },
+      "protected-area": {
+        "text": {
+          "ar": "لو هدفك محمية أشتوم الجميل، صفحة اتصالات وزارة البيئة بتدرج رقمها 0663510641. اتأكد معاهم من نقطة الوصول وإتاحة الزيارة وأي تصريح أو رسوم وقواعد التصوير قبل ما تتحرك. الدليل ما اتصلش بالمحمية، فوجود الرقم الرسمي مش تأكيد إن الزيارة متاحة في يوم بعينه.",
+          "en": "If you want to visit Ashtum El Gamil Protected Area, the Environment Ministry contact directory lists 0663510641. Confirm the access point, whether visits are available, any permission or fees, and photography rules before travelling. This guide has not called the protected area; an official listed number does not confirm admission on any particular day."
+        },
+        "source_urls": [
+          "https://www.eeaa.gov.eg/ContactUs/6/index"
+        ]
+      },
+      "boundaries": {
+        "text": {
+          "ar": "الصيد نشاط معيشة ليه قواعد، ومش كل مركب صيد خدمة سياحية. اسأل أصحاب المكان قبل تصويرهم، وما تتعاملش مع الجزر أو القصب أو مناطق الشغل كأنها مسارات عامة. رصد الطيور مهم هنا؛ خليك بعيد عن تجمعاتها وما تحاولش تجبرها تطير عشان صورة.",
+          "en": "Fishing is regulated work, and a fishing boat is not automatically a tourist service. Ask people before photographing them, and do not assume islands, reedbeds or working areas are public trails. Bird monitoring matters here. Keep your distance from groups of birds and do not flush them for a photograph."
+        },
+        "source_urls": [
+          "https://www.eeaa.gov.eg/Uploads/Topics/Files/20221213131238146.pdf",
+          "https://www.eeaa.gov.eg/News/24061/Details",
+          "https://www.natureegypt.org/what-we-do/monitoring/winter-waterbird-count-2"
+        ]
+      }
+    },
+    "sourceLabels": {
+      "https://www.eeaa.gov.eg/Topics/85/36/65/Details": "EEAA · protected-area directory",
+      "https://www.eeaa.gov.eg/Uploads/Topics/Files/20221213131238146.pdf": "EEAA · Ashtum El Gamil management plan",
+      "https://www.natureegypt.org/what-we-do/monitoring/winter-waterbird-count-2": "Nature Conservation Egypt · waterbird monitoring",
+      "https://www.eeaa.gov.eg/News/24061/Details": "EEAA · migratory birds, September 2026",
+      "https://www.eeaa.gov.eg/ContactUs/6/index": "Environment Ministry · protected-area contacts"
     }
   },
   "meir-egypt": {
