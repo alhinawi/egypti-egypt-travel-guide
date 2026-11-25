@@ -2621,5 +2621,41 @@
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0/deed.en",
     "changes": "Resized and converted to WebP; layout crop",
     "heroSuitable": false
+  },
+  "mansoura-dar-entrance": {
+    "file": "mansoura-dar-ibn-luqman-entrance",
+    "alt": {
+      "ar": "مدخل دار ابن لقمان في المنصورة، صورة أرشيفية من 2008",
+      "en": "Entrance of Dar Ibn Luqman in Mansoura, archival photograph from 2008"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:MansuraLuqmanEntrance.jpg",
+    "author": "Roland Unger",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "changes": "Downsized where applicable and converted to WebP; layout crop; photograph taken 7 August 2008"
+  },
+  "mansoura-dar-court": {
+    "file": "mansoura-dar-ibn-luqman-court",
+    "alt": {
+      "ar": "فناء دار ابن لقمان في المنصورة، صورة أرشيفية من 2008",
+      "en": "Courtyard of Dar Ibn Luqman in Mansoura, archival photograph from 2008"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:MansuraLuqmanCourt.jpg",
+    "author": "Roland Unger",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "changes": "Downsized where applicable and converted to WebP; layout crop; photograph taken 7 August 2008"
+  },
+  "mansoura-dar-hall": {
+    "file": "mansoura-dar-ibn-luqman-hall",
+    "alt": {
+      "ar": "قاعة عرض في دار ابن لقمان، صورة أرشيفية من 2008",
+      "en": "Exhibition hall at Dar Ibn Luqman, archival photograph from 2008"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:MansuraLuqmanHall.jpg",
+    "author": "Roland Unger",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "changes": "Downsized where applicable and converted to WebP; layout crop; photograph taken 7 August 2008"
   }
 }
