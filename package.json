@@ -9,7 +9,8 @@
     "test": "node --import tsx --test tests/*.test.ts",
     "api:dev": "wrangler dev --config api/wrangler.jsonc",
     "api:deploy": "wrangler deploy --config api/wrangler.jsonc",
-    "test:e2e": "playwright test"
+    "test:e2e": "playwright test",
+    "verify:export": "node scripts/check-export-documents.mjs"
   },
   "dependencies": {
     "hono": "4.13.18",
