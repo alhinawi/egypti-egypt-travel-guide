@@ -209,5 +209,10 @@
   ],
   "lake-manzala": [
     "lake-manzala-satellite-context"
+  ],
+  "mansoura-egypt": [
+    "mansoura-dar-entrance",
+    "mansoura-dar-court",
+    "mansoura-dar-hall"
   ]
 }

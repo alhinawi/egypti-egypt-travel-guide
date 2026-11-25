@@ -14773,18 +14773,67 @@
   },
   "mansoura-egypt": {
     "history": {
-      "en": "Mansoura was established in the Ayyubid period in 1219. It is closely associated with the Seventh Crusade and the captivity of Louis IX in 1250, remembered through Dar Ibn Luqman. Its medieval history is a different layer from the modern riverside city.",
-      "ar": "المنصورة اتأسست في العصر الأيوبي سنة 1219. وهي مرتبطة بالحملة الصليبية السابعة وأسر لويس التاسع سنة 1250، اللي بتفتكره دار ابن لقمان. التاريخ الوسيط ده طبقة مختلفة عن المدينة الحديثة على النيل.",
+      "ar": "المنصورة اتأسست في العصر الأيوبي سنة 1219، وحكاية المدينة مرتبطة بالحملة الصليبية السابعة وأسر لويس التاسع سنة 1250. دار ابن لقمان بتحفظ الذاكرة دي، لكن المدينة مش متحف كبير بس: هي عاصمة الدقهلية على الضفة الشرقية لفرع دمياط، وطلخا قصادها على الضفة التانية.\n\nمتحف المنصورة القومي اتفتح يوم 7 مايو 1960، بحسب قطاع الفنون التشكيلية. فرّق بين الدار التاريخية وبين قاعات العرض والأعمال الفنية اللي اتعملت بعد كده عشان تحكي المعركة؛ مش كل اللي في المتحف قطعة من القرن الـ13.",
+      "en": "Mansoura was established in the Ayyubid period in 1219. Its story is closely tied to the Seventh Crusade and the captivity of Louis IX in 1250. Dar Ibn Luqman preserves that memory, but the city is more than a museum setting: it is Dakahlia’s capital on the east bank of the Damietta branch, with Talkha on the opposite bank.\n\nThe Fine Arts Sector dates the opening of Mansoura National Museum to 7 May 1960. Distinguish the historic house from the later exhibition halls and artworks made to tell the story of the battle. Not everything displayed is a surviving 13th-century object.",
       "sources": [
-        "http://www.mans.edu.eg/en/about/history-and-facts/history/101-info/768-about-mansoura-city"
+        "http://www.mans.edu.eg/en/about/history-and-facts/history/101-info/768-about-mansoura-city",
+        "https://www.fineart.gov.eg/arb/musem/Musem.asp?IDS=9"
       ]
     },
     "see": {
-      "en": "Dakahlia's capital beside the Damietta branch of the Nile.",
-      "ar": "عاصمة الدقهلية على فرع دمياط من النيل.",
+      "ar": "ابدأ بفهم المدينة على النيل، وبعدها اقرا حكاية دار ابن لقمان ومتحف المنصورة القومي.",
+      "en": "Start with the riverside city, then explore the story of Dar Ibn Luqman and Mansoura National Museum.",
       "sources": [
-        "https://en.wikipedia.org/wiki/Mansoura,_Egypt",
+        "http://www.mans.edu.eg/en/about/history-and-facts/history/101-info/768-about-mansoura-city",
+        "https://www.fineart.gov.eg/arb/musem/Musem.asp?IDS=9",
         "https://www.sis.gov.eg/Story/68563/Dakahlia-Governorate"
+      ],
+      "items": [
+        {
+          "name": {
+            "ar": "دار ابن لقمان: البيت والحكاية",
+            "en": "Dar Ibn Luqman: the house and its story"
+          },
+          "text": {
+            "ar": "الدار جنب جامع الموافي في وسط المنصورة، ومرتبطة باحتجاز لويس التاسع. صورة المدخل وصورة الفناء في المعرض اتصورت يوم 7 أغسطس 2008: بتديك فكرة عن شكل المبنى، مش إثبات لحالة المدخل أو إتاحته النهارده.",
+            "en": "The house stands beside Al-Mowafi Mosque in central Mansoura and is associated with the imprisonment of Louis IX. The entrance and courtyard photographs in the gallery were taken on 7 August 2008. They show the building, not the present condition or availability of its entrance."
+          },
+          "photo_id": "mansoura-dar-entrance",
+          "source_urls": [
+            "https://www.sis.gov.eg/Story/68563/Dakahlia-Governorate",
+            "https://www.fineart.gov.eg/arb/musem/Musem.asp?IDS=9",
+            "https://commons.wikimedia.org/wiki/File:MansuraLuqmanEntrance.jpg",
+            "https://commons.wikimedia.org/wiki/File:MansuraLuqmanCourt.jpg"
+          ]
+        },
+        {
+          "name": {
+            "ar": "قاعات المتحف: اقرا الصورة قبل ما تعتبرها أثر",
+            "en": "Museum displays: read the image as well as the history"
+          },
+          "text": {
+            "ar": "الوصف الرسمي بيفرّق بين الدار التاريخية وصالة للتماثيل واللوحات، ومعرض للفنون والأنشطة الثقافية. اللوحات والتماثيل بتحكي أحداث الحملة وأسر الملك. صورة القاعة هنا من 2008 برضه، فترتيب المعروضات والقطع الموجودة دلوقتي محتاج تأكيد من المتحف.",
+            "en": "The official description separates the historic house from a hall of paintings and sculptures and an art gallery used for cultural activity. These artworks tell the story of the campaign and the captive king. The hall photograph is also from 2008, so today’s display layout and objects need confirmation with the museum."
+          },
+          "photo_id": "mansoura-dar-hall",
+          "source_urls": [
+            "https://www.fineart.gov.eg/arb/musem/Musem.asp?IDS=9",
+            "https://commons.wikimedia.org/wiki/File:MansuraLuqmanHall.jpg"
+          ]
+        },
+        {
+          "name": {
+            "ar": "المنصورة وطلخا: مدينتين على ضفتين",
+            "en": "Mansoura and Talkha: two cities, two banks"
+          },
+          "text": {
+            "ar": "جامعة المنصورة بتحدد موقع المدينة شرق فرع دمياط، وطلخا على الضفة المقابلة. استخدم ده لفهم المكان على الخريطة، مش كوعد بممشى متصل أو معبر مشاة مناسب. اختار نقطة وصولك والطريق الفعلي قبل ما تتحرك.",
+            "en": "Mansoura University places the city on the east bank of the Damietta branch, opposite Talkha. Use that to understand the map, not as a promise of a continuous promenade or a suitable pedestrian crossing. Choose an arrival point and check the actual route before setting off."
+          },
+          "source_urls": [
+            "http://www.mans.edu.eg/en/about/history-and-facts/history/101-info/768-about-mansoura-city"
+          ]
+        }
       ]
     },
     "wear": [
@@ -14821,7 +14870,7 @@
         "https://en.wikipedia.org/wiki/Mansoura,_Egypt"
       ]
     },
-    "reviewedAt": "2026-11-16",
+    "reviewedAt": "2026-11-25",
     "eat": [
       {
         "name": {
@@ -14857,6 +14906,72 @@
     "eat_note": {
       "ar": "أفكار أكل على مستوى المحافظة، مش منيو في المكان ده ولا ضمان توفره عنده. بعض الأكلات مصرية عامة ومش حصرية للمحافظة.",
       "en": "Governorate-level food ideas, not an on-site menu or a guarantee of availability. Some dishes are national staples, not unique to this governorate."
+    },
+    "visiting": {
+      "location": {
+        "text": {
+          "ar": "الموقع المسجل عند قطاع الفنون التشكيلية: شارع بورسعيد، دار ابن لقمان، ميدان الموافي في المنصورة. استخدم اسم المتحف والعنوان مع بعض عند مراجعة طريق الوصول، وما تعتبرش صفحة المدينة عنوان بوابة بعينها.",
+          "en": "The Fine Arts Sector lists the museum at Dar Ibn Luqman, Port Said Street, Al-Mowafi Square, Mansoura. Use the museum name and address together when checking your route. A city-level location is not a verified entrance pin."
+        },
+        "source_urls": [
+          "https://www.fineart.gov.eg/arb/musem/Vist.asp?IDs=9",
+          "https://www.sis.gov.eg/Story/68563/Dakahlia-Governorate"
+        ]
+      },
+      "access": {
+        "text": {
+          "ar": "فيه صفحة رسمية قديمة لمواعيد ورسوم الزيارة، لكن مفيش تاريخ تحديث واضح يثبت إنها سارية دلوقتي. عشان كده الدليل مش بينقل أرقامها كأنها سعر أو مواعيد مؤكدة. راجع قطاع الفنون التشكيلية أو المتحف قبل ما تخصص المشوار، واسأل عن فتح الدار وقاعات العرض وأي إغلاق مؤقت.",
+          "en": "An official visitor page lists hours and admission charges but has no clear update date establishing that they are current. This guide therefore does not present those figures as confirmed prices or opening times. Check with the Fine Arts Sector or museum before making a dedicated trip, including access to the house, exhibition halls and any temporary closure."
+        },
+        "source_urls": [
+          "https://www.fineart.gov.eg/arb/musem/Vist.asp?IDs=9",
+          "https://www.fineart.gov.eg/arb/musem/Musem.asp?IDS=9"
+        ]
+      },
+      "photography": {
+        "text": {
+          "ar": "صور دار ابن لقمان هنا أرشيفية من 7 أغسطس 2008، مش تصوير لحالة المكان النهارده. المصادر اللي اتراجعت ما حسمتش قواعد التصوير الحالية أو الوصول من غير سلالم؛ اسأل المتحف عن الاتنين لو مهمين لزيارتك.",
+          "en": "The Dar Ibn Luqman photographs here date to 7 August 2008, not to current conditions. The reviewed sources do not establish today’s photography rules or step-free access. Ask the museum about both if they matter to your visit."
+        },
+        "source_urls": [
+          "https://commons.wikimedia.org/wiki/File:MansuraLuqmanEntrance.jpg",
+          "https://commons.wikimedia.org/wiki/File:MansuraLuqmanCourt.jpg",
+          "https://commons.wikimedia.org/wiki/File:MansuraLuqmanHall.jpg",
+          "https://www.fineart.gov.eg/arb/musem/Vist.asp?IDs=9"
+        ]
+      }
+    },
+    "sourceLabels": {
+      "https://www.fineart.gov.eg/arb/musem/Musem.asp?IDS=9": "Fine Arts Sector · museum history",
+      "https://www.fineart.gov.eg/arb/musem/Vist.asp?IDs=9": "Fine Arts Sector · visitor page",
+      "https://www.sis.gov.eg/Story/68563/Dakahlia-Governorate": "SIS · Dakahlia",
+      "http://www.mans.edu.eg/en/about/history-and-facts/history/101-info/768-about-mansoura-city": "Mansoura University · city guide"
+    },
+    "photos": {
+      "mansoura-dar-entrance": {
+        "file": "mansoura-dar-ibn-luqman-entrance",
+        "alt": {
+          "ar": "مدخل دار ابن لقمان في المنصورة، صورة أرشيفية من 2008",
+          "en": "Entrance of Dar Ibn Luqman in Mansoura, archival photograph from 2008"
+        },
+        "source": "https://commons.wikimedia.org/wiki/File:MansuraLuqmanEntrance.jpg",
+        "author": "Roland Unger",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "changes": "Downsized where applicable and converted to WebP; layout crop; photograph taken 7 August 2008"
+      },
+      "mansoura-dar-hall": {
+        "file": "mansoura-dar-ibn-luqman-hall",
+        "alt": {
+          "ar": "قاعة عرض في دار ابن لقمان، صورة أرشيفية من 2008",
+          "en": "Exhibition hall at Dar Ibn Luqman, archival photograph from 2008"
+        },
+        "source": "https://commons.wikimedia.org/wiki/File:MansuraLuqmanHall.jpg",
+        "author": "Roland Unger",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "changes": "Downsized where applicable and converted to WebP; layout crop; photograph taken 7 August 2008"
+      }
     }
   },
   "zagazig": {
