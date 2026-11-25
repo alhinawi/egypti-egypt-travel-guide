@@ -1,0 +1,2 @@
+import{DocumentLayout}from'@/components/document-layout';export{metadata,viewport}from'@/components/document-layout';
+import Link from'next/link';export default function NotFound(){return <DocumentLayout><main className='content-width page-content'><h1>المكان ده مش هنا</h1><p>This page could not be found.</p><Link className='primary-button' href='/ar/'>ارجع للرئيسية / Home</Link></main></DocumentLayout>}
