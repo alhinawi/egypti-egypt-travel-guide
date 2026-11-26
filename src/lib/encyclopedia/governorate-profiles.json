@@ -4250,16 +4250,18 @@
           "ar": "فسيخ نبروه"
         },
         "description": {
-          "en": "Salted-mullet production is a documented part of Nabaroh's food-trade identity. This is cultural context, not a safety endorsement or recommendation of a seller. Reporting also documents enforcement against unsafe and untraceable products.",
-          "ar": "تمليح السمك البوري جزء موثق من هوية تجارة الأكل في نبروه. ده تعريف بتراث غذائي، مش ضمان سلامة أو ترشيح بائع. وفيه تقارير كمان عن ضبط منتجات غير مستوفية للاشتراطات أو مجهولة المصدر.",
+          "en": "Salted-mullet production is a documented part of Nabaroh's food-trade identity. Press coverage in 2023 and 2026 describes a traditional process inherited in the city, in the interviewed traders' words: fresh mullet cleaned and cured with coarse salt in wooden barrels, without added flavourings or colourings. This is cultural context, not a safety endorsement or recommendation of a seller. Reporting also documents enforcement against unsafe and untraceable products.",
+          "ar": "تمليح السمك البوري جزء موثق من هوية تجارة الأكل في نبروه. تغطيات صحفية في 2023 و2026 بتوصف طريقة تقليدية متوارثة في المدينة على لسان تجار اتحاوروا فيها: بوري طازج بيتنضف ويتملح بملح خشن في براميل خشبية، من غير مكسبات طعم أو لون. ده تعريف بتراث غذائي، مش ضمان سلامة أو ترشيح بائع. وفيه تقارير كمان عن ضبط منتجات غير مستوفية للاشتراطات أو مجهولة المصدر.",
           "sources": [
             "https://gate.ahram.org.eg/News/4246999.aspx",
-            "https://gate.ahram.org.eg/News/5149652.aspx"
+            "https://gate.ahram.org.eg/News/5149652.aspx",
+            "https://www.almasryalyoum.com/news/details/4241070"
           ]
         },
         "sources": [
           "https://gate.ahram.org.eg/News/4246999.aspx",
-          "https://gate.ahram.org.eg/News/5149652.aspx"
+          "https://gate.ahram.org.eg/News/5149652.aspx",
+          "https://www.almasryalyoum.com/news/details/4241070"
         ],
         "evidence_type": "documented_local_crop_or_food_production_not_live_menu",
         "scope_note": "No current seller, stock or menu verified. Salted fish is documented as heritage only, not endorsed as safe."
@@ -4272,19 +4274,32 @@
           "ar": "سلال وسدد الغاب في القباب الصغرى"
         },
         "description": {
-          "en": "A 2025 local feature documents households in al-Qibab al-Sughra, in Dekernes district, making baskets and screens from natural reed.",
-          "ar": "تقرير محلي سنة 2025 بيوثق صناعة السلال والسدد من الغاب الطبيعي عند أسر في القباب الصغرى بمركز دكرنس.",
+          "en": "Press features between 2020 and 2025 document households in al-Qibab al-Sughra, in Dekernes district, weaving baskets and screens from natural reed by hand. The coverage does not agree on the craft's trajectory: a 2025 feature describes a village kept busy by basket-making, while a 2020 feature records makers warning that shrinking demand has brought the craft close to dying out.",
+          "ar": "تقارير صحفية بين 2020 و2025 بتوثق صناعة السلال والسدد من الغاب الطبيعي يدويًا عند أسر في القباب الصغرى بمركز دكرنس. التغطيات مش متفقة على مستقبل الصنعة: تقرير سنة 2025 بيوصف قرية شغالة بصناعة السلال، بينما تقرير سنة 2020 بينقل عن صنّاع تحذيرهم إن قلة الطلب قربت تخلي الصنعة تنقرض.",
           "sources": [
-            "https://www.elwatannews.com/news/details/8133831"
+            "https://www.elwatannews.com/news/details/8133831",
+            "https://ahlmasrnews.com/1002768/%D8%A7%D9%86%D9%82%D8%B1%D8%A7%D8%B6-%D8%B5%D9%86%D8%A7%D8%B9%D8%A9-%D8%A7%D9%84%D8%B3%D8%A8%D8%AA"
           ]
         },
         "sources": [
-          "https://www.elwatannews.com/news/details/8133831"
+          "https://www.elwatannews.com/news/details/8133831",
+          "https://ahlmasrnews.com/1002768/%D8%A7%D9%86%D9%82%D8%B1%D8%A7%D8%B6-%D8%B5%D9%86%D8%A7%D8%B9%D8%A9-%D8%A7%D9%84%D8%B3%D8%A8%D8%AA"
         ],
         "availability_note": "Documented craft production or display only; no exact maker, opening hours, current stock or visitor arrangements verified."
       }
     ],
-    "festivals": [],
+    "festivals": [
+      {
+        "name": {
+          "en": "Sham el-Nessim salted-fish season in Nabaroh",
+          "ar": "موسم شم النسيم والأسماك المملحة في نبروه"
+        },
+        "sources": [
+          "https://www.almasryalyoum.com/news/details/4241070",
+          "https://www.elwatannews.com/news/details/6526440"
+        ]
+      }
+    ],
     "commemorations": [
       {
         "month_day": "05-07",
