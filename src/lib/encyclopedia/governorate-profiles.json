@@ -4041,6 +4041,35 @@
         },
         {
           "name": {
+            "ar": "مدينة جامعية",
+            "en": "A university city"
+          },
+          "text": {
+            "ar": "كلية الطب اتأسست في المنصورة سنة 1962 كفرع لجامعة القاهرة، وفي سنة 1972 صدر قرار جمهوري بإنشاء «جامعة شرق الدلتا»، واتغير اسمها لجامعة المنصورة في 1973، لتكون سادس جامعة تتأسس في مصر، حسب صفحة التاريخ الرسمية على موقع الجامعة. الحرم الجامعي بيمتد على مساحة حوالي 300 فدان في جنوب غرب المدينة. الأرقام دي من تاريخ الجامعة المنشور على موقعها، مش إحصاء حالي لعدد الطلاب أو الكليات.",
+            "en": "Mansoura's medical faculty was founded in 1962 as a branch of Cairo University. A 1972 presidential decree established East Delta University, renamed Mansoura University in 1973, the sixth university founded in Egypt, according to the official history page on the university's website. Its campus covers about 300 acres on the city's southwest side. These figures come from the university's published history, not a current count of students or faculties.",
+            "sources": [
+              "http://www.mans.edu.eg/index.php/en/about/history-and-facts/history",
+              "https://esa.mans.edu.eg/en/news/2981-2022-03-23-11-52-8"
+            ]
+          }
+        },
+        {
+          "name": {
+            "ar": "معركة 14 أكتوبر 1973 الجوية",
+            "en": "The 14 October 1973 air battle"
+          },
+          "text": {
+            "ar": "في 14 أكتوبر 1973 دارت واحدة من أكبر المعارك الجوية في حرب أكتوبر في سماء المنصورة والدلتا، واستمرت حوالي 53 دقيقة. الرواية الرسمية المصرية، زي ما بيعرضها بوابة محافظة القاهرة وملف هيئة الاستعلامات عن الحرب، بتحكي عن حوالي 62 مقاتلة مصرية تصدت لحوالي 120 طائرة إسرائيلية، وبتذكر إسقاط 17 طائرة إسرائيلية مقابل خسارة 5 طائرات مصرية. الروايات الإسرائيلية ومؤرخون لاحقون بيختلفوا بشدة مع الأرقام دي؛ صفحة ويكيبيديا عن المعركة بتجمع الادعاءات المتعارضة، ومنها تقدير المؤرخ لون نوردين بخسارة إسرائيلية بطائرتين فقط. الدليل بيعرض الاختلاف ومش بيرجّح أي رقم.",
+            "en": "On 14 October 1973 one of the largest air battles of the October War was fought over Mansoura and the Delta, lasting about 53 minutes. The official Egyptian account, as presented on the Cairo governorate portal and the State Information Service's war file, describes roughly 62 Egyptian fighters intercepting about 120 Israeli aircraft and reports 17 Israeli aircraft downed for the loss of 5 Egyptian ones. Israeli accounts and later historians differ sharply over these figures; Wikipedia's entry on the battle collects the conflicting claims, including historian Lon Nordeen's estimate of only two Israeli losses. The guide presents the disagreement without endorsing any figure.",
+            "sources": [
+              "https://cairo.gov.eg/ar/more/events/october/mansoura-air-battle-between-egyptian-and-israeli-forces/",
+              "https://en.wikipedia.org/wiki/Air_battle_of_Mansoura",
+              "https://sis.gov.eg/ar/%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85%D9%8A/%D8%A7%D9%84%D9%85%D9%84%D9%81%D8%A7%D8%AA/%D8%A3%D9%83%D8%AA%D9%88%D8%A8%D8%B1-1973-%D9%85%D8%B9%D8%AC%D8%B2%D8%A9-%D8%A7%D9%84%D8%AA%D8%AE%D8%B7%D9%8A%D8%B7-%D9%88%D8%B1%D9%88%D8%B9%D8%A9-%D8%A7%D9%84%D8%AA%D9%86%D9%81%D9%8A%D8%B0/"
+            ]
+          }
+        },
+        {
+          "name": {
             "ar": "اقرأ عن الموقع قبل ما تحوّله لمشوار",
             "en": "Research context before a visit plan"
           },
