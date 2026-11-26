@@ -3995,6 +3995,65 @@
       "sources": [
         "https://www.sis.gov.eg/Story/68563/Dakahlia-Governorate",
         "https://en.wikipedia.org/wiki/Dakahlia_Governorate"
+      ],
+      "items": [
+        {
+          "name": {
+            "ar": "منديس: حكاية مدينة تحت التل",
+            "en": "Mendes: a city beneath the mound"
+          },
+          "text": {
+            "ar": "تل الربع هو موقع منديس القديمة، أو جدت. سجل أكسفورد الأثري بيوثق معابد من عصور مختلفة ومقابر ومقبرة حيوانات، وكتاب حفائر منديس المنشور عند بريل بيعرض امتداد الاستيطان من عصور ما قبل التاريخ للعصر الروماني، ودور المدينة في تجارة المتوسط. قيمة المكان في طبقات مدينة كاملة، مش مبنى سليم واحد.",
+            "en": "Tell el-Rub’a is the site of ancient Mendes, also known as Djedet. Oxford’s excavation record documents temples from several periods, tombs and an animal necropolis. The Brill excavation publication describes occupation from prehistoric times into the Roman period and the city’s role in Mediterranean trade. Its importance lies in the layers of a whole city, not a single intact building.",
+            "sources": [
+              "https://egyptartefacts.griffith.ox.ac.uk/node/1140/index.html",
+              "https://brill.com/display/title/39336"
+            ]
+          }
+        },
+        {
+          "name": {
+            "ar": "الناووس الباقي وحكاية الحفاظ عليه",
+            "en": "The surviving naos and its conservation"
+          },
+          "text": {
+            "ar": "مراجعة أكاديمية لتاريخ منديس بتحدد ناووس أحمس الثاني كأثر رئيسي باقٍ في الموقع؛ والناووس هنا مقصورة حجرية كانت بيوضع فيها تمثال معبود. في 6 سبتمبر 2021 نقلت الأهرام إعلان المجلس الأعلى للآثار بدء أعمال حماية للناووس ودراسة حالته الإنشائية. الخبر بيوثق مشروع وقتها، مش شهادة بحالة الأثر النهارده ولا تأكيد إن أعماله خلصت أو إن الاقتراب منه متاح.",
+            "en": "An academic review identifies the Amasis naos as a major surviving monument at Mendes. A naos is a stone shrine that could house a deity’s statue. On 6 September 2021, Al-Ahram reported the Supreme Council of Antiquities’ announcement of protective work and structural assessment. That report documents a project at that time. It does not establish the monument’s condition today, completion of the work or permission to approach it.",
+            "sources": [
+              "https://bmcr.brynmawr.edu/2011/2011.04.08/",
+              "https://gate.ahram.org.eg/News/2947219.aspx"
+            ]
+          }
+        },
+        {
+          "name": {
+            "ar": "تل تمّي مش هو تل الربع",
+            "en": "Tell Timai is not Tell el-Rub’a"
+          },
+          "text": {
+            "ar": "تل تمّي هو ثمويس القديمة، موقع مجاور ليه مشروع بحث وحفاظ مستقل. مشروع تل تمّي بيشرح أهمية بقايا المدينة اليونانية الرومانية، وبيطرح تطوير المنطقة مع منديس كهدف مستقبلي للسياحة. ده مش إعلان افتتاح منطقة أثرية مشتركة ولا دليل إن الموقعين ينفع يتزاروا في مشوار واحد دلوقتي.",
+            "en": "Tell Timai is ancient Thmuis, a neighbouring site with its own research and conservation project. The Tell Timai project explains the importance of the Graeco-Roman city remains and describes developing the area with Mendes for tourism as a future goal. This is not an announcement that a combined archaeological zone is open, or proof that both sites can currently be visited on one trip.",
+            "sources": [
+              "https://telltimai.org/html/about-us.html",
+              "https://bmcr.brynmawr.edu/2011/2011.04.08/"
+            ]
+          }
+        },
+        {
+          "name": {
+            "ar": "اقرأ عن الموقع قبل ما تحوّله لمشوار",
+            "en": "Research context before a visit plan"
+          },
+          "text": {
+            "ar": "المصادر دي بتشرح تاريخ المواقع والحفاظ عليها، لكنها ما بتثبتش ساعات زيارة أو تذاكر أو تصاريح أو بوابة دخول حالية. ما تعتبرش صور الحفائر أو نشاط البعثة تصريح زيارة، وما تدخلش حفائر أو أراضي حواليها من غير إذن المسؤولين. الصفحة بتقدّم سياق للقراءة، مش حجز أو مسار زيارة جاهز.",
+            "en": "These sources explain the sites’ history and conservation, but do not verify current visitor hours, tickets, permissions or an entrance gate. Excavation photographs and expedition activity are not permission to visit. Do not enter excavations or surrounding land without the responsible authorities’ permission. This page offers reading context, not a booking or a ready-to-follow itinerary.",
+            "sources": [
+              "https://telltimai.org/html/about-us.html",
+              "https://gate.ahram.org.eg/News/2947219.aspx",
+              "https://brill.com/display/title/39336"
+            ]
+          }
+        }
       ]
     },
     "geography": {
